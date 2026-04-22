@@ -168,7 +168,7 @@
     .featured { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 32px; }
     .featured-card {
         background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 14px;
-        padding: 20px; position: relative; overflow: hidden; transition: all 0.3s;
+        padding: 20px; padding-top: 24px; position: relative; overflow: hidden; transition: all 0.3s;
     }
     .featured-card:hover { transform: translateY(-3px); box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,255,255,0.1); }
     .featured-card::before { content: ''; position: absolute; top: 0; left: 0; width: 3px; height: 100%; }
@@ -214,6 +214,17 @@
     .card:hover { background: var(--bg-card-hover); transform: translateY(-2px); border-color: rgba(255,255,255,0.14); box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
     .card-title { font-size: 13px; font-weight: 600; line-height: 1.5; margin-bottom: 7px; }
     .card-desc { font-size: 12px; color: var(--text-secondary); line-height: 1.7; }
+    .card { position: relative; }
+    .card-bookmark {
+        position: absolute; top: 12px; right: 12px;
+        background: none; border: none; cursor: pointer;
+        color: var(--text-muted); font-size: 16px; line-height: 1;
+        padding: 4px; border-radius: 4px; transition: all 0.15s;
+        display: flex; align-items: center; justify-content: center;
+    }
+    .card-bookmark:hover { color: var(--accent-amber); background: rgba(245,158,11,0.1); }
+    .card-bookmark.active { color: var(--accent-amber); }
+    .card-bookmark svg { width: 15px; height: 15px; fill: currentColor; }
     .card-link { display: inline-flex; align-items: center; gap: 4px; margin-top: 8px; font-size: 11px; color: var(--accent-cyan); }
     .card-link:hover { text-decoration: underline; }
     .card-link svg { width: 11px; height: 11px; }
@@ -232,6 +243,17 @@
     .trend-desc { font-size: 12px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 8px; }
     .trend-tags { display: flex; gap: 5px; flex-wrap: wrap; }
     .trend-tag { font-size: 9px; padding: 2px 7px; border-radius: 10px; background: rgba(255,255,255,0.06); color: var(--text-muted); }
+    .trend-card { position: relative; }
+    .trend-bookmark {
+        position: absolute; top: 14px; right: 14px;
+        background: none; border: none; cursor: pointer;
+        color: var(--text-muted); font-size: 16px; line-height: 1;
+        padding: 4px; border-radius: 4px; transition: all 0.15s;
+        display: flex; align-items: center; justify-content: center;
+    }
+    .trend-bookmark:hover { color: var(--accent-amber); background: rgba(245,158,11,0.1); }
+    .trend-bookmark.active { color: var(--accent-amber); }
+    .trend-bookmark svg { width: 15px; height: 15px; fill: currentColor; }
     .trend-link { display: inline-flex; align-items: center; gap: 4px; margin-top: 8px; font-size: 11px; color: var(--accent-cyan); }
     .trend-link:hover { text-decoration: underline; }
     .trend-link svg { width: 11px; height: 11px; }
@@ -301,7 +323,7 @@
     </div>
 
     <nav class="sidebar-nav">
-        <a href="#all" class="nav-item active" id="nav-today" onclick="showAll(event)">
+        <button class="card-bookmark" onclick="toggleFav(this,event)" data-id="CARDID"><svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></button><a href="#all" class="nav-item active" id="nav-today" onclick="showAll(event)">
             <span class="nav-item-icon"><i data-lucide="layout-list"></i></span>
             <span class="nav-item-label">今日资讯</span>
             <span class="nav-item-count" id="nav-count-today">26</span>
@@ -391,7 +413,7 @@
         <!-- 头条 -->
         <div class="featured" id="featured-section">
             <article class="featured-card orange">
-                <span class="featured-label"><i data-lucide="image" style="width:12px;height:12px;"></i> 图片生成</span>
+                <button class="card-bookmark" onclick="toggleFav(this,event)" data-id="FEATID" style="position:absolute;top:14px;right:14px;"><svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></button><span class="featured-label"><i data-lucide="image" style="width:12px;height:12px;"></i> 图片生成</span>
                 <h3 class="featured-title">OpenAI Images 2.0发布：AI绘图进入"会思考"时代</h3>
                 <p class="featured-desc">gpt-image-2模型引入"思考模式"，可联网搜索、多图生成、自检纠错。Arena全品类登顶超越Google Gemini Banana Pro 2.0，中文/日文/韩文文本渲染能力大幅提升，支持4K写实画质。</p>
                 <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765" target="_blank" class="featured-link">阅读原文 <i data-lucide="arrow-right" style="width:12px;height:12px;"></i></a>
@@ -426,8 +448,8 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="trend-card">
-                    <div class="trend-top">
+                <div class="trend-card" id="trend-1">
+                    <button class="trend-bookmark" onclick="toggleFav(this,event)" data-id="TRENDID"><svg viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></button><div class="trend-top">
                         <div class="trend-icon-wrap agent"><i data-lucide="bot"></i></div>
                         <div>
                             <div class="trend-name">OpenClaw</div>
@@ -443,7 +465,7 @@
                     </div>
                     <a href="https://github.com/openclaw" target="_blank" class="trend-link">GitHub <i data-lucide="external-link" style="width:11px;height:11px;"></i></a>
                 </div>
-                <div class="trend-card">
+                <div class="trend-card" id="trend-2">
                     <div class="trend-top">
                         <div class="trend-icon-wrap ai"><i data-lucide="cpu"></i></div>
                         <div>
@@ -460,7 +482,7 @@
                     </div>
                     <a href="https://github.com/topics/ai-agent" target="_blank" class="trend-link">GitHub <i data-lucide="external-link" style="width:11px;height:11px;"></i></a>
                 </div>
-                <div class="trend-card">
+                <div class="trend-card" id="trend-3">
                     <div class="trend-top">
                         <div class="trend-icon-wrap skill"><i data-lucide="package"></i></div>
                         <div>
@@ -477,7 +499,7 @@
                     </div>
                     <a href="https://github.com/modelcontextprotocol/servers" target="_blank" class="trend-link">GitHub <i data-lucide="external-link" style="width:11px;height:11px;"></i></a>
                 </div>
-                <div class="trend-card">
+                <div class="trend-card" id="trend-4">
                     <div class="trend-top">
                         <div class="trend-icon-wrap agent"><i data-lucide="layers"></i></div>
                         <div>
@@ -505,10 +527,10 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">Claude Opus 4.7：编程能力从53.4%→64.3%，超越GPT-5.4</h3><p class="card-desc">Anthropic 4月16日发布，可靠性大幅增强，可自我规划、验证、检查输出。编程测试得分单代提升近11个百分点。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_21969e2ffa448952" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">GPT-6预训练完成：200万Token上下文，预计6月开放API</h3><p class="card-desc">上下文窗口相当于两部中篇小说或10小时音频，彻底解决内容截断痛点。稀疏混合架构，训练能耗降低40%但性能提升120%。</p><a href="https://blog.csdn.net/lyy_kao/article/details/160027453" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">智谷AI GLM-5.1开源：一周刷新105项SOTA，支持8小时连续工程作业</h3><p class="card-desc">MIT许可开源商用，SWE-bench Pro全球领跑，性能超越Claude Opus 4.6，国产大模型正式跻身第一梯队。</p><a href="https://blog.csdn.net/ld326/article/details/159999713" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">中美模型差距仅2.7%：斯坦福2026 AI指数报告发布</h3><p class="card-desc">Claude Opus 4.6得1503分，国产dola-seed-2.0-preview得1464分，双方已交替领先，差距基本消除。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_99569df8ee289665" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-1"><h3 class="card-title">Claude Opus 4.7：编程能力从53.4%→64.3%，超越GPT-5.4</h3><p class="card-desc">Anthropic 4月16日发布，可靠性大幅增强，可自我规划、验证、检查输出。编程测试得分单代提升近11个百分点。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_21969e2ffa448952" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-2"><h3 class="card-title">GPT-6预训练完成：200万Token上下文，预计6月开放API</h3><p class="card-desc">上下文窗口相当于两部中篇小说或10小时音频，彻底解决内容截断痛点。稀疏混合架构，训练能耗降低40%但性能提升120%。</p><a href="https://blog.csdn.net/lyy_kao/article/details/160027453" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-3"><h3 class="card-title">智谷AI GLM-5.1开源：一周刷新105项SOTA，支持8小时连续工程作业</h3><p class="card-desc">MIT许可开源商用，SWE-bench Pro全球领跑，性能超越Claude Opus 4.6，国产大模型正式跻身第一梯队。</p><a href="https://blog.csdn.net/ld326/article/details/159999713" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-4"><h3 class="card-title">中美模型差距仅2.7%：斯坦福2026 AI指数报告发布</h3><p class="card-desc">Claude Opus 4.6得1503分，国产dola-seed-2.0-preview得1464分，双方已交替领先，差距基本消除。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_99569df8ee289665" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -520,9 +542,9 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">OpenClaw：24.7万星，开源个人AI助手，周增7184</h3><p class="card-desc">基于MCP协议，"微核+插件+网关"架构，解决传统AI助手功能单一、无法本地化/隐私保护/可定制的痛点。</p><a href="https://blog.csdn.net/mzh10588/article/details/159783816" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">Superpowers：45.1k星，AI编码代理技能框架</h3><p class="card-desc">需求拆解→方案设计→子代理执行→TDD流程自动化，支持Claude Code，让AI代理可自主完成数小时无偏差开发。</p><a href="https://blog.csdn.net/ld326/article/details/157776541" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">字节Trae：AI原生IDE，完全免费，中文适配最佳</h3><p class="card-desc">集成DeepSeek/豆包模型，Builder模式10分钟出项目，上传Figma设计稿90秒生成HTML/CSS，解决国外工具中文理解差的痛点。</p><a href="https://blog.csdn.net/AUTUMNA/article/details/159541387" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-5"><h3 class="card-title">OpenClaw：24.7万星，开源个人AI助手，周增7184</h3><p class="card-desc">基于MCP协议，"微核+插件+网关"架构，解决传统AI助手功能单一、无法本地化/隐私保护/可定制的痛点。</p><a href="https://blog.csdn.net/mzh10588/article/details/159783816" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-6"><h3 class="card-title">Superpowers：45.1k星，AI编码代理技能框架</h3><p class="card-desc">需求拆解→方案设计→子代理执行→TDD流程自动化，支持Claude Code，让AI代理可自主完成数小时无偏差开发。</p><a href="https://blog.csdn.net/ld326/article/details/157776541" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-7"><h3 class="card-title">字节Trae：AI原生IDE，完全免费，中文适配最佳</h3><p class="card-desc">集成DeepSeek/豆包模型，Builder模式10分钟出项目，上传Figma设计稿90秒生成HTML/CSS，解决国外工具中文理解差的痛点。</p><a href="https://blog.csdn.net/AUTUMNA/article/details/159541387" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -534,9 +556,9 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">OpenClaw v2026.4.5：Dreaming记忆系统，7×24无人值守</h3><p class="card-desc">视频/音乐/图像三大生成能力内置为系统原生工具。首次引入"Dreaming"记忆系统，模拟人类睡眠记忆机制（Light/Deep/REM三阶段）。</p><a href="https://www.chinaz.com/tags/1039977.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">Claude Code Agent Teams：多代理协作，持久化跨会话</h3><p class="card-desc">支持独立上下文、自主通信、任务并行。Tasks系统取代Todos，支持任务依赖、跨代理共享、实时广播。</p><a href="https://www.toutiao.com/article/7627551318797713962/" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">字节Trae Builder模式：上传Figma设计稿，90秒生成代码</h3><p class="card-desc">AI自动解析布局结构和色彩体系，输出像素级还原的响应式HTML/CSS。实测编码效率平均提升30%以上。</p><a href="https://blog.csdn.net/AUTUMNA/article/details/159953335" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-8"><h3 class="card-title">OpenClaw v2026.4.5：Dreaming记忆系统，7×24无人值守</h3><p class="card-desc">视频/音乐/图像三大生成能力内置为系统原生工具。首次引入"Dreaming"记忆系统，模拟人类睡眠记忆机制（Light/Deep/REM三阶段）。</p><a href="https://www.chinaz.com/tags/1039977.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-9"><h3 class="card-title">Claude Code Agent Teams：多代理协作，持久化跨会话</h3><p class="card-desc">支持独立上下文、自主通信、任务并行。Tasks系统取代Todos，支持任务依赖、跨代理共享、实时广播。</p><a href="https://www.toutiao.com/article/7627551318797713962/" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-10"><h3 class="card-title">字节Trae Builder模式：上传Figma设计稿，90秒生成代码</h3><p class="card-desc">AI自动解析布局结构和色彩体系，输出像素级还原的响应式HTML/CSS。实测编码效率平均提升30%以上。</p><a href="https://blog.csdn.net/AUTUMNA/article/details/159953335" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -548,8 +570,8 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">Claude Design：Anthropic推出AI设计助手</h3><p class="card-desc">一句话生成商业级设计原型，支持PRD→设计稿→可运行代码全链路。设计师门槛大幅降低，非设计师也能做视觉创作。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_48569e5a7b855052" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">Adobe Photoshop 2026：AI语义级创作升级</h3><p class="card-desc">创成式填充升级为语义级创作，场景识别更精准。图像扩展支持任意尺寸边界延伸，输入指令即可延伸画面内容。</p><a href="http://www.ddooo.com/softdown/115292.htm" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-11"><h3 class="card-title">Claude Design：Anthropic推出AI设计助手</h3><p class="card-desc">一句话生成商业级设计原型，支持PRD→设计稿→可运行代码全链路。设计师门槛大幅降低，非设计师也能做视觉创作。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_48569e5a7b855052" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-12"><h3 class="card-title">Adobe Photoshop 2026：AI语义级创作升级</h3><p class="card-desc">创成式填充升级为语义级创作，场景识别更精准。图像扩展支持任意尺寸边界延伸，输入指令即可延伸画面内容。</p><a href="http://www.ddooo.com/softdown/115292.htm" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -561,9 +583,9 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">腾讯混元3D世界模型2.0：已开源，可导出游戏级资产</h3><p class="card-desc">支持文本/图片/视频生成3D世界，导出Mesh/3DGS/点云，可无缝导入Unity、UE游戏引擎。</p><a href="https://www.sohu.com/a/1011748328_121885030" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">阿里HappyOyster：世界模拟器，4月27日开放API</h3><p class="card-desc">漫游模式支持1分钟连续实时位移，已登顶Artificial Analysis视频榜，超越字节Seedance 2.0。</p><a href="https://www.tmtpost.com/7959349.html" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">群核科技港交所上市：全球空间智能第一股，首日涨144%</h3><p class="card-desc">2025年营收8.2亿元，毛利率82.2%，市值超300亿港元。香港公开发售获1591倍超额认购。</p><a href="http://www.ebrun.com/20260421/656689.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-13"><h3 class="card-title">腾讯混元3D世界模型2.0：已开源，可导出游戏级资产</h3><p class="card-desc">支持文本/图片/视频生成3D世界，导出Mesh/3DGS/点云，可无缝导入Unity、UE游戏引擎。</p><a href="https://www.sohu.com/a/1011748328_121885030" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-14"><h3 class="card-title">阿里HappyOyster：世界模拟器，4月27日开放API</h3><p class="card-desc">漫游模式支持1分钟连续实时位移，已登顶Artificial Analysis视频榜，超越字节Seedance 2.0。</p><a href="https://www.tmtpost.com/7959349.html" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-15"><h3 class="card-title">群核科技港交所上市：全球空间智能第一股，首日涨144%</h3><p class="card-desc">2025年营收8.2亿元，毛利率82.2%，市值超300亿港元。香港公开发售获1591倍超额认购。</p><a href="http://www.ebrun.com/20260421/656689.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -575,9 +597,9 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">OpenAI Images 2.0（gpt-image-2）：AI绘图新王</h3><p class="card-desc">Thinking模式可联网推理、多图自检，擅长杂志排版/信息图/漫画分镜。4K写实画质，多语言（中/日/韩）渲染大幅提升。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">阿里HappyHorse：登顶视频榜，4月27日开放API</h3><p class="card-desc">15B参数统一Transformer，已超越字节Seedance 2.0、可灵AI 3.0等多款主流模型。</p><a href="http://news.pconline.com.cn/2133/21335331.html" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">字节Seedance 2.0：2K清晰度，API定价约1元/秒</h3><p class="card-desc">2月7日发布，导演级镜头语言，工业级AI视频标准。视频生成从"炫技"走向明确商业化定价。</p><a href="https://blog.csdn.net/u010690311/article/details/158688529" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-16"><h3 class="card-title">OpenAI Images 2.0（gpt-image-2）：AI绘图新王</h3><p class="card-desc">Thinking模式可联网推理、多图自检，擅长杂志排版/信息图/漫画分镜。4K写实画质，多语言（中/日/韩）渲染大幅提升。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-17"><h3 class="card-title">阿里HappyHorse：登顶视频榜，4月27日开放API</h3><p class="card-desc">15B参数统一Transformer，已超越字节Seedance 2.0、可灵AI 3.0等多款主流模型。</p><a href="http://news.pconline.com.cn/2133/21335331.html" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-18"><h3 class="card-title">字节Seedance 2.0：2K清晰度，API定价约1元/秒</h3><p class="card-desc">2月7日发布，导演级镜头语言，工业级AI视频标准。视频生成从"炫技"走向明确商业化定价。</p><a href="https://blog.csdn.net/u010690311/article/details/158688529" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -589,9 +611,9 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">Agentic RAG：让大模型自主规划检索、多步推理、自我修正</h3><p class="card-desc">传统RAG只能"查了再答"，Agentic RAG让大模型拥有自主规划检索、工具调用和自我修正能力。</p><a href="https://blog.csdn.net/qq_52327553/article/details/159922247" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">阿里VRAG开源：多模态RAG框架，视觉+文字+视频统一检索</h3><p class="card-desc">阿里通义实验室开源，强化学习+视觉感知+多模态记忆图结合，基准提升20%-30%。</p><a href="https://www.toutiao.com/w/1862450892085388/" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">AMD 3D V-Cache：RAG AI测试性能提升88%</h3><p class="card-desc">Ryzen 7 9850X3D在RAG基准测试中比非X3D芯片快88%，大容量缓存显著优化HNSW图检索效率。</p><a href="https://finance.sina.com.cn/tech/digi/2026-04-21/doc-inhvfivq7059712.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-19"><h3 class="card-title">Agentic RAG：让大模型自主规划检索、多步推理、自我修正</h3><p class="card-desc">传统RAG只能"查了再答"，Agentic RAG让大模型拥有自主规划检索、工具调用和自我修正能力。</p><a href="https://blog.csdn.net/qq_52327553/article/details/159922247" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-20"><h3 class="card-title">阿里VRAG开源：多模态RAG框架，视觉+文字+视频统一检索</h3><p class="card-desc">阿里通义实验室开源，强化学习+视觉感知+多模态记忆图结合，基准提升20%-30%。</p><a href="https://www.toutiao.com/w/1862450892085388/" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-21"><h3 class="card-title">AMD 3D V-Cache：RAG AI测试性能提升88%</h3><p class="card-desc">Ryzen 7 9850X3D在RAG基准测试中比非X3D芯片快88%，大容量缓存显著优化HNSW图检索效率。</p><a href="https://finance.sina.com.cn/tech/digi/2026-04-21/doc-inhvfivq7059712.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -603,10 +625,10 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">启明创投邝子平：AI处于超长技术周期早段</h3><p class="card-desc">人工智能是改天换地的技术革命，并非短期潮流。具身智能泛化能力是下一个投资方向。</p><a href="https://k.sina.com.cn/article_7857201856_1d45362c001904lgt0.html" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">量子AI赛道Q1融资突破32亿元，超越2025年全年</h3><p class="card-desc">玻色量子完成10亿元B轮融资，"量子+AI"融合成为激活产业价值核心抓手。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_58369e756df46452" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">国务院AI+行动计划：支持采购大模型/智能体</h3><p class="card-desc">2030年服务业破100万亿，明确支持采购大模型和智能体，建设国家AI应用中试基地。</p><a href="https://caifuhao.eastmoney.com/news/20260421194505996899190" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">Factory平台融资1.5亿美元，Droids智能体已服务英伟达Adobe</h3><p class="card-desc">AI原生软件开发正加速落地，Droids智能体实现全流程自动化软件开发。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_43969e85a4450752" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-22"><h3 class="card-title">启明创投邝子平：AI处于超长技术周期早段</h3><p class="card-desc">人工智能是改天换地的技术革命，并非短期潮流。具身智能泛化能力是下一个投资方向。</p><a href="https://k.sina.com.cn/article_7857201856_1d45362c001904lgt0.html" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-23"><h3 class="card-title">量子AI赛道Q1融资突破32亿元，超越2025年全年</h3><p class="card-desc">玻色量子完成10亿元B轮融资，"量子+AI"融合成为激活产业价值核心抓手。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_58369e756df46452" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-24"><h3 class="card-title">国务院AI+行动计划：支持采购大模型/智能体</h3><p class="card-desc">2030年服务业破100万亿，明确支持采购大模型和智能体，建设国家AI应用中试基地。</p><a href="https://caifuhao.eastmoney.com/news/20260421194505996899190" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-25"><h3 class="card-title">Factory平台融资1.5亿美元，Droids智能体已服务英伟达Adobe</h3><p class="card-desc">AI原生软件开发正加速落地，Droids智能体实现全流程自动化软件开发。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_43969e85a4450752" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -618,9 +640,9 @@
                 <div class="cat-rule"></div>
             </div>
             <div class="cards-grid">
-                <div class="card"><h3 class="card-title">育碧招聘要求精通生成式AI，基于虚幻5开发3A游戏</h3><p class="card-desc">技术美术总监岗位明确要求熟练使用ChatGPT/Claude，《红色沙漠》等作品已发现早期阶段AI生成素材。</p><a href="https://www.sohu.com/a/1012352317_121885030" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">《堡垒之夜》UEFN推出AI NPC实时对话</h3><p class="card-desc">基于Google Gemini + ElevenLabs，NPC可脱离固定对话树，无脚本交互、记忆游戏进程、上下文语音回应。</p><a href="http://news.17173.com/content/04192026/184053966.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
-                <div class="card"><h3 class="card-title">2026腾讯游戏创作大赛启幕，拥抱AI游戏新舞台</h3><p class="card-desc">连接全球开发者，共拓AI游戏新舞台，探索AI在游戏创作中的更多可能性。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_25769e5fe2027252" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-26"><h3 class="card-title">育碧招聘要求精通生成式AI，基于虚幻5开发3A游戏</h3><p class="card-desc">技术美术总监岗位明确要求熟练使用ChatGPT/Claude，《红色沙漠》等作品已发现早期阶段AI生成素材。</p><a href="https://www.sohu.com/a/1012352317_121885030" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-27"><h3 class="card-title">《堡垒之夜》UEFN推出AI NPC实时对话</h3><p class="card-desc">基于Google Gemini + ElevenLabs，NPC可脱离固定对话树，无脚本交互、记忆游戏进程、上下文语音回应。</p><a href="http://news.17173.com/content/04192026/184053966.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card" id="card-28"><h3 class="card-title">2026腾讯游戏创作大赛启幕，拥抱AI游戏新舞台</h3><p class="card-desc">连接全球开发者，共拓AI游戏新舞台，探索AI在游戏创作中的更多可能性。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_25769e5fe2027252" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
@@ -808,11 +830,105 @@ loadDateContent(todayStr);
 // 延迟初始化 Lucide 图标（等待 CDN 加载）
 if (typeof lucide !== 'undefined') {
     lucide.createIcons();
-} else {
-    document.querySelectorAll('[data-lucide]').forEach(function(el) {
-        // Fallback: 如果 Lucide 未加载，用文本替代
+}
+
+// ═══════════════════ 收藏功能 ═══════════════════
+function getFavs() {
+    try { return JSON.parse(localStorage.getItem('ai-daily-favs') || '[]'); }
+    catch(e) { return []; }
+}
+function saveFavs(arr) {
+    localStorage.setItem('ai-daily-favs', JSON.stringify(arr));
+}
+
+function toggleFav(btn, e) {
+    e.stopPropagation();
+    e.preventDefault();
+    var id = btn.dataset.id || btn.closest('[id]')?.id || '';
+    var favs = getFavs();
+    var idx = favs.indexOf(id);
+    if (idx === -1) {
+        favs.push(id);
+        btn.classList.add('active');
+    } else {
+        favs.splice(idx, 1);
+        btn.classList.remove('active');
+    }
+    saveFavs(favs);
+    updateFavCount();
+}
+
+function updateFavCount() {
+    var count = getFavs().length;
+    var el = document.querySelector('.nav-item[onclick*="showFav"] .nav-item-count');
+    if (el) el.textContent = count;
+}
+
+function applyFavState() {
+    var favs = getFavs();
+    document.querySelectorAll('.card-bookmark, .trend-bookmark').forEach(function(btn) {
+        var id = btn.dataset.id || btn.closest('[id]')?.id || '';
+        if (favs.indexOf(id) !== -1) btn.classList.add('active');
     });
 }
+
+function showFav(e) {
+    if (e) e.preventDefault();
+    var favs = getFavs();
+    var empty = document.getElementById('empty-state');
+
+    if (favs.length === 0) {
+        document.getElementById('featured-section').style.display = 'none';
+        document.querySelectorAll('#contentBody > .cat-section').forEach(function(s){ s.style.display = 'none'; });
+        empty.style.display = 'block';
+        document.getElementById('empty-title').textContent = '我的收藏';
+        document.getElementById('empty-desc').textContent = '点击卡片右上角的 ☆ 按钮收藏感兴趣的资讯。';
+        return;
+    }
+
+    // 显示已收藏的卡片
+    document.getElementById('featured-section').style.display = 'none';
+    empty.style.display = 'none';
+    document.querySelectorAll('#contentBody > .cat-section').forEach(function(s){
+        s.style.display = 'none';
+    });
+
+    // 动态生成收藏列表
+    var existing = document.getElementById('fav-results');
+    if (existing) existing.remove();
+
+    var favSection = document.createElement('div');
+    favSection.id = 'fav-results';
+    favSection.style.cssText = 'padding:0 38px 60px;';
+
+    var favHtml = '<div style="display:flex;align-items:center;gap:10px;margin-bottom:20px;">' +
+        '<div style="width:34px;height:34px;background:linear-gradient(135deg,#f59e0b,#d97706);border-radius:9px;display:flex;align-items:center;justify-content:center;">' +
+        '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="color:#fff"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></div>' +
+        '<h2 style="font-size:15px;font-weight:700;">我的收藏 <span style="font-size:12px;color:var(--text-muted);font-weight:400;">' + favs.length + ' 条</span></h2></div>';
+
+    favHtml += '<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:12px;">';
+    favs.forEach(function(id) {
+        var card = document.getElementById(id);
+        if (card) {
+            var clone = card.cloneNode(true);
+            // 移除 bookmark 按钮避免嵌套
+            var bm = clone.querySelector('.card-bookmark, .trend-bookmark');
+            if (bm) bm.remove();
+            favHtml += clone.outerHTML;
+        }
+    });
+    favHtml += '</div>';
+    favSection.innerHTML = favHtml;
+    document.getElementById('contentBody').appendChild(favSection);
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// 初始化时恢复收藏状态
+document.addEventListener('DOMContentLoaded', function() {
+    applyFavState();
+    updateFavCount();
+});
 </script>
 </body>
 </html>
