@@ -118,8 +118,10 @@
     /* 分类列表 */
     .sidebar-categories { padding: 10px 8px; flex: 1; }
     .cat-title-label { font-size: 9px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; padding: 0 4px; }
-    .cat-link { display: flex; align-items: center; gap: 8px; padding: 6px 10px; border-radius: 8px; color: var(--text-secondary); font-size: 12px; transition: all 0.15s; cursor: pointer; }
+    .cat-link { display: flex; align-items: center; gap: 8px  padding: 6px 10px; border-radius: 8px; color: var(--text-secondary); font-size: 12px; transition: all 0.15s; cursor: pointer; }
+    .cat-link.hot { background: var(--accent-orange); }
     .cat-link:hover { background: var(--bg-card); color: var(--text-primary); }
+    .cat-link.hot { background: rgba(255,255,255,0.15); }
     .cat-link.active { background: var(--bg-card-hover); color: var(--text-primary); font-weight: 500; }
     .cat-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
     .cat-name { flex: 1; }
@@ -307,7 +309,7 @@
         <a href="#all" class="nav-item active" id="nav-today" onclick="showAll(event)">
             <span class="nav-item-icon"><i data-lucide="layout-list"></i></span>
             <span class="nav-item-label">今日资讯</span>
-            <span class="nav-item-count" id="nav-count-today">26</span>
+            <span class="nav-item-count" id="nav-count-today">36</span>
         </a>
         <a href="#sec-llm" class="nav-item" onclick="jumpToCat('llm', event)">
             <span class="nav-item-icon"><i data-lucide="star"></i></span>
@@ -318,8 +320,8 @@
 
     <div class="sidebar-stats">
         <div class="stats-grid">
-            <div class="stat-box"><div class="stat-number" id="stat-total">26</div><div class="stat-text">资讯</div></div>
-            <div class="stat-box"><div class="stat-number">10</div><div class="stat-text">分类</div></div>
+            <div class="stat-box"><div class="stat-number" id="stat-total">36</div><div class="stat-text">资讯</div></div>
+            <div class="stat-box"><div class="stat-number">11</div><div class="stat-text">分类</div></div>
             <div class="stat-box"><div class="stat-number">1</div><div class="stat-text">天</div></div>
         </div>
     </div>
@@ -358,6 +360,9 @@
         </a>
         <a href="#sec-game" class="cat-link" data-cat="game" onclick="filterCat('game', event)">
             <span class="cat-dot" style="background:#f97316;"></span><span class="cat-name">AI游戏设计</span><span class="cat-count">3</span>
+        </a>
+        <a href="#sec-hotSearch" class="cat-link" data-cat="hotSearch" onclick="filterCat('hotSearch', event)">
+            <span class="cat-dot" style="background:#ff3d71;"></span><span class="cat-name">热搜榜</span><span class="cat-count">10</span>
         </a>
     </div>
 
