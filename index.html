@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI科技日报 | 2026年4月22日</title>
+    <title>AI科技日报 | 2026年4月</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
@@ -11,6 +11,7 @@
         :root {
             --bg-primary: #0a0a0f;
             --bg-secondary: #12121a;
+            --bg-sidebar: #0f0f14;
             --bg-card: #16161f;
             --bg-card-hover: #1c1c28;
             --accent-primary: #00d4ff;
@@ -20,6 +21,7 @@
             --text-secondary: #a0a0b0;
             --text-muted: #6b6b7b;
             --border-color: rgba(255,255,255,0.08);
+            --sidebar-width: 280px;
         }
         
         * {
@@ -38,71 +40,48 @@
             color: var(--text-primary);
             line-height: 1.6;
             min-height: 100vh;
+            display: flex;
         }
         
-        /* Background */
-        .bg-effects {
+        /* Sidebar */
+        .sidebar {
+            width: var(--sidebar-width);
+            background: var(--bg-sidebar);
+            border-right: 1px solid var(--border-color);
+            height: 100vh;
             position: fixed;
-            top: 0;
             left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: 0;
+            top: 0;
+            overflow-y: auto;
+            z-index: 100;
         }
         
-        .bg-effects::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: 
-                radial-gradient(ellipse at 20% 20%, rgba(0,212,255,0.15) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 80%, rgba(124,58,237,0.15) 0%, transparent 50%);
-        }
-        
-        .grid-pattern {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background-image: 
-                linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
-            background-size: 60px 60px;
-            mask-image: radial-gradient(ellipse at center, black 0%, transparent 70%);
-        }
-        
-        /* Header */
-        header {
-            position: relative;
-            z-index: 10;
-            padding: 60px 20px 40px;
-            text-align: center;
+        .sidebar-header {
+            padding: 24px;
+            border-bottom: 1px solid var(--border-color);
         }
         
         .logo {
-            display: inline-flex;
+            display: flex;
             align-items: center;
             gap: 12px;
-            margin-bottom: 16px;
+            margin-bottom: 8px;
         }
         
         .logo-icon {
-            width: 48px;
-            height: 48px;
+            width: 36px;
+            height: 36px;
             background: var(--accent-gradient);
-            border-radius: 12px;
+            border-radius: 10px;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 24px;
+            font-size: 18px;
             font-weight: 700;
         }
         
         .logo-text {
-            font-size: 28px;
+            font-size: 18px;
             font-weight: 700;
             background: var(--accent-gradient);
             -webkit-background-clip: text;
@@ -110,67 +89,171 @@
             background-clip: text;
         }
         
-        .date-badge {
+        .logo-sub {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+        
+        /* Tabs */
+        .tabs {
+            display: flex;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .tab {
+            flex: 1;
+            padding: 14px;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--text-muted);
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+        }
+        
+        .tab:hover {
+            color: var(--text-secondary);
+        }
+        
+        .tab.active {
+            color: var(--accent-primary);
+            border-bottom-color: var(--accent-primary);
+        }
+        
+        /* Archive List */
+        .archive-section {
+            padding: 16px;
+        }
+        
+        .archive-title {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+            padding: 0 8px;
+        }
+        
+        .archive-list {
+            list-style: none;
+        }
+        
+        .archive-item {
+            padding: 10px 12px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            margin-bottom: 4px;
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+        
+        .archive-item:hover {
+            background: var(--bg-card);
+            color: var(--text-primary);
+        }
+        
+        .archive-item.active {
+            background: rgba(0,212,255,0.1);
+            color: var(--accent-primary);
+        }
+        
+        .archive-item .date {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+        
+        .archive-item .count {
+            float: right;
+            font-size: 11px;
+            background: var(--bg-card);
+            padding: 2px 8px;
+            border-radius: 10px;
+            color: var(--text-muted);
+        }
+        
+        /* Main Content */
+        .main-content {
+            margin-left: var(--sidebar-width);
+            flex: 1;
+            min-height: 100vh;
+        }
+        
+        .main-header {
+            padding: 40px 40px 20px;
+            border-bottom: 1px solid var(--border-color);
+            background: var(--bg-secondary);
+        }
+        
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+        
+        .current-date {
+            font-size: 28px;
+            font-weight: 700;
+        }
+        
+        .header-badge {
             display: inline-flex;
             align-items: center;
-            gap: 8px;
-            padding: 8px 20px;
+            gap: 6px;
+            padding: 6px 14px;
             background: var(--bg-card);
             border: 1px solid var(--border-color);
             border-radius: 100px;
-            font-size: 14px;
+            font-size: 13px;
             color: var(--text-secondary);
-            margin-top: 16px;
         }
         
-        .date-badge::before {
+        .header-badge::before {
             content: '';
-            width: 8px;
-            height: 8px;
+            width: 6px;
+            height: 6px;
             background: #22c55e;
             border-radius: 50%;
-            animation: pulse 2s infinite;
         }
         
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
+        .header-desc {
+            color: var(--text-muted);
+            font-size: 14px;
         }
         
-        /* Main */
+        /* Categories */
         main {
-            position: relative;
-            z-index: 10;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
+            padding: 30px 40px;
         }
         
         .category {
-            margin-bottom: 50px;
+            margin-bottom: 40px;
         }
         
         .category-header {
             display: flex;
             align-items: center;
-            gap: 16px;
-            margin-bottom: 24px;
+            gap: 14px;
+            margin-bottom: 20px;
         }
         
         .category-icon {
-            width: 44px;
-            height: 44px;
+            width: 38px;
+            height: 38px;
             background: var(--bg-card);
             border: 1px solid var(--border-color);
-            border-radius: 12px;
+            border-radius: 10px;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 20px;
+            font-size: 18px;
         }
         
         .category-title {
-            font-size: 20px;
+            font-size: 18px;
             font-weight: 600;
         }
         
@@ -182,43 +265,58 @@
         
         .cards-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 16px;
         }
         
         .card {
             background: var(--bg-card);
             border: 1px solid var(--border-color);
-            border-radius: 16px;
-            padding: 24px;
+            border-radius: 14px;
+            padding: 20px;
             transition: all 0.3s ease;
         }
         
         .card:hover {
             background: var(--bg-card-hover);
-            transform: translateY(-4px);
+            transform: translateY(-2px);
             border-color: rgba(0,212,255,0.2);
         }
         
         .card-title {
-            font-size: 16px;
+            font-size: 15px;
             font-weight: 600;
-            margin-bottom: 12px;
+            margin-bottom: 10px;
             line-height: 1.4;
         }
         
         .card-desc {
-            font-size: 14px;
+            font-size: 13px;
             color: var(--text-secondary);
             line-height: 1.6;
         }
         
+        /* Weekly Hot */
+        .hot-card {
+            background: linear-gradient(135deg, rgba(124,58,237,0.15) 0%, rgba(0,212,255,0.15) 100%);
+            border: 1px solid rgba(124,58,237,0.3);
+        }
+        
+        .hot-badge {
+            display: inline-block;
+            font-size: 10px;
+            font-weight: 600;
+            color: #fbbf24;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+        
         /* Footer */
         footer {
-            position: relative;
-            z-index: 10;
+            padding: 30px 40px;
+            border-top: 1px solid var(--border-color);
             text-align: center;
-            padding: 40px 20px;
             color: var(--text-muted);
             font-size: 13px;
         }
@@ -228,172 +326,352 @@
             text-decoration: none;
         }
         
-        @media (max-width: 768px) {
-            header { padding: 40px 16px 30px; }
-            .logo-text { font-size: 22px; }
-            .cards-grid { grid-template-columns: 1fr; }
+        /* Responsive */
+        @media (max-width: 900px) {
+            .sidebar {
+                width: 100%;
+                height: auto;
+                position: relative;
+                border-right: none;
+                border-bottom: 1px solid var(--border-color);
+            }
+            
+            .main-content {
+                margin-left: 0;
+            }
+            
+            main, .main-header {
+                padding: 20px;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="bg-effects">
-        <div class="grid-pattern"></div>
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <div class="logo">
+                <div class="logo-icon">⚡</div>
+                <span class="logo-text">AI 日报</span>
+            </div>
+            <div class="logo-sub">2026年4月</div>
+        </div>
+        
+        <div class="tabs">
+            <div class="tab active" data-view="daily">每日</div>
+            <div class="tab" data-view="weekly">每周精选</div>
+        </div>
+        
+        <div class="archive-section" id="daily-archives">
+            <div class="archive-title">📅 每日资讯</div>
+            <ul class="archive-list">
+                <li class="archive-item active" data-date="2026-04-22">
+                    <span class="date">4月22日</span>
+                    <span class="count">18条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-21">
+                    <span class="date">4月21日</span>
+                    <span class="count">15条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-20">
+                    <span class="date">4月20日</span>
+                    <span class="count">12条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-19">
+                    <span class="date">4月19日</span>
+                    <span class="count">10条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-18">
+                    <span class="date">4月18日</span>
+                    <span class="count">8条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-17">
+                    <span class="date">4月17日</span>
+                    <span class="count">6条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-16">
+                    <span class="date">4月16日</span>
+                    <span class="count">5条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-15">
+                    <span class="date">4月15日</span>
+                    <span class="count">7条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-14">
+                    <span class="date">4月14日</span>
+                    <span class="count">9条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-13">
+                    <span class="date">4月13日</span>
+                    <span class="count">11条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-12">
+                    <span class="date">4月12日</span>
+                    <span class="count">8条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-11">
+                    <span class="date">4月11日</span>
+                    <span class="count">6条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-10">
+                    <span class="date">4月10日</span>
+                    <span class="count">10条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-09">
+                    <span class="date">4月9日</span>
+                    <span class="count">7条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-08">
+                    <span class="date">4月8日</span>
+                    <span class="count">5条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-07">
+                    <span class="date">4月7日</span>
+                    <span class="count">9条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-06">
+                    <span class="date">4月6日</span>
+                    <span class="count">6条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-05">
+                    <span class="date">4月5日</span>
+                    <span class="count">4条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-04">
+                    <span class="date">4月4日</span>
+                    <span class="count">3条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-03">
+                    <span class="date">4月3日</span>
+                    <span class="count">5条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-02">
+                    <span class="date">4月2日</span>
+                    <span class="count">6条</span>
+                </li>
+                <li class="archive-item" data-date="2026-04-01">
+                    <span class="date">4月1日</span>
+                    <span class="count">8条</span>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="archive-section" id="weekly-archives" style="display:none;">
+            <div class="archive-title">🔥 每周热度</div>
+            <ul class="archive-list">
+                <li class="archive-item active" data-week="16">
+                    <span class="date">第16周 (4.14-4.20)</span>
+                </li>
+                <li class="archive-item" data-week="15">
+                    <span class="date">第15周 (4.7-4.13)</span>
+                </li>
+                <li class="archive-item" data-week="14">
+                    <span class="date">第14周 (3.31-4.6)</span>
+                </li>
+                <li class="archive-item" data-week="13">
+                    <span class="date">第13周 (3.24-3.30)</span>
+                </li>
+            </ul>
+        </div>
+    </aside>
+    
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="main-header">
+            <div class="header-top">
+                <h1 class="current-date" id="currentDateTitle">2026年4月22日</h1>
+                <div class="header-badge">实时更新</div>
+            </div>
+            <p class="header-desc" id="headerDesc">共收录 <strong>156</strong> 条AI资讯，覆盖大模型、视频生成、开发工具等6大领域</p>
+        </div>
+        
+        <main id="content">
+            <!-- 大模型动态 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon">🧠</div>
+                    <h2 class="category-title">大模型动态</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">2026年AI大模型全景解析:性能迭代与场景落地双突破</h3>
+                        <p class="card-desc">步入2026年,AI大模型行业已从野蛮生长迈入精细化竞争新阶段。海内外科技巨头与创业公司持续发力,多款重磅新模型密集发布。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">2026开年关键词:Self-Distillation,大模型真正走向「持续学习」</h3>
+                        <p class="card-desc">2026年刚拉开序幕,大模型领域的研究者们达成共识,基础模型取得了显著成功。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">最新!2026年3月全球大模型全景:国产登顶、百万上下文</h3>
+                        <p class="card-desc">全球大模型领域迎来史诗级爆发,国产大模型实现全球调用量反超、旗舰模型登顶国际盲测。</p>
+                    </article>
+                </div>
+            </section>
+
+            <!-- GitHub热门 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon">⭐</div>
+                    <h2 class="category-title">GitHub 热门</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">2026最新AI量化交易工具盘点:7个GitHub开源项目</h3>
+                        <p class="card-desc">TradingAgents Star:46k+,基于多智能体协作的AI量化交易框架。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">AI产品推荐榜(2026.2)</h3>
+                        <p class="card-desc">涵盖AI Chatbot、API模型、桌面Agent、Coding Agent等领域。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">大四学生AI项目登GitHub榜首,获陈天桥3000万投资</h3>
+                        <p class="card-desc">群体智能引擎"MiroFish"登顶GitHub全球趋势榜,获3000万元投资。</p>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 视频生成 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon">🎬</div>
+                    <h2 class="category-title">视频生成</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">Runway发布Gen-4.5文本生成视频模型</h3>
+                        <p class="card-desc">Gen-4.5在综合表现上超越OpenAI的Sora 2和Google的Veo 3。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">百人初创公司Runway发布AI视频模型</h3>
+                        <p class="card-desc">Gen-4.5在独立基准测试中表现优于谷歌和OpenAI同类产品。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">AI视频生成赛道2026年最新格局:Sora、Kling、Pika三国杀</h3>
+                        <p class="card-desc">从OpenAI的Sora到快手Kling,视频生成争夺战进入白热化。</p>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 开发工具 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon">🛠️</div>
+                    <h2 class="category-title">开发工具</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">AI编程工具推荐,程序员必备神器(2026最新)</h3>
+                        <p class="card-desc">Cursor集成了强大的AI辅助功能:智能代码补全、代码解释、Bug修复。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">2026年最新热门AI编程软件推荐</h3>
+                        <p class="card-desc">Trae(字节跳动):全流程自主AI开发引擎,打破传统编程工具边界。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">8款编程神器必看</h3>
+                        <p class="card-desc">Trae凭借突出优势稳居榜首,全方位适配各类开发场景。</p>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 知识库 RAG -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon">📚</div>
+                    <h2 class="category-title">知识库 RAG</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">RAG性能优化杀器:上下文检索</h3>
+                        <p class="card-desc">利用上下文嵌入和上下文BM25两个子技术显著提升RAG检索效果。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">2025年RAG已死?2026年上下文工程将引领新风口</h3>
+                        <p class="card-desc">RAG本质是"上下文工程",2026年将向Context Platform方向演进。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">长上下文窗口、Agent崛起,RAG已死?</h3>
+                        <p class="card-desc">RAG作为一种"外挂"知识库的解决方案,迅速成为行业标准。</p>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 其他资讯 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon">💡</div>
+                    <h2 class="category-title">其他资讯</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">2026年AI技术突破与产业落地全景</h3>
+                        <p class="card-desc">从GPT-5推理能力质变到多模态大模型实时交互,AI正以前所未有的速度推进。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">2026年初AI行业全景:技术突破与争议并存</h3>
+                        <p class="card-desc">国产化与全球化双向发力,AI行业迎来加速发展期。</p>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">2026 AI元年:从技术狂欢到价值共生</h3>
+                        <p class="card-desc">2026年正式开启人工智能的"应用元年"与"价值兑现年"。</p>
+                    </article>
+                </div>
+            </section>
+        </main>
+        
+        <footer>
+            <p>Powered by <a href="#">OpenClaw</a> · 每日 9:00 自动更新</p>
+        </footer>
     </div>
     
-    <header>
-        <div class="logo">
-            <div class="logo-icon">⚡</div>
-            <span class="logo-text">AI 科技日报</span>
-        </div>
-        <div class="date-badge">
-            <span>2026年4月22日</span>
-            <span>·</span>
-            <span>每日 AI 资讯精选</span>
-        </div>
-    </header>
-    
-    <main>
-        <!-- 大模型动态 -->
-        <section class="category">
-            <div class="category-header">
-                <div class="category-icon">🧠</div>
-                <h2 class="category-title">大模型动态</h2>
-                <div class="category-line"></div>
-            </div>
-            <div class="cards-grid">
-                <article class="card">
-                    <h3 class="card-title">2026年AI大模型全景解析:性能迭代与场景落地双突破</h3>
-                    <p class="card-desc">步入2026年,AI大模型行业已从野蛮生长迈入精细化竞争新阶段。海内外科技巨头与创业公司持续发力,多款重磅新模型密集发布,在推理能力、多模态交互、场景适配性等核心维度实现突破性升级。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">2026开年关键词:Self-Distillation,大模型真正走向「持续学习」</h3>
-                    <p class="card-desc">2026年刚拉开序幕,大模型(LLM)领域的研究者们似乎达成了一种默契。近年来,基础模型取得了显著的成功,为语言、视觉、机器人等领域的AI应用提供了强大的支持。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">最新!2026年3月全球大模型全景:国产登顶、百万上下文、智能体爆发</h3>
-                    <p class="card-desc">2026年3月,全球大模型领域迎来史诗级爆发,OpenAI、谷歌等海外巨头持续突破技术边界,国产大模型实现全球调用量反超、旗舰模型登顶国际盲测的双重突破。</p>
-                </article>
-            </div>
-        </section>
-
-        <!-- GitHub热门 -->
-        <section class="category">
-            <div class="category-header">
-                <div class="category-icon">⭐</div>
-                <h2 class="category-title">GitHub 热门</h2>
-                <div class="category-line"></div>
-            </div>
-            <div class="cards-grid">
-                <article class="card">
-                    <h3 class="card-title">2026最新AI量化交易工具盘点:7个GitHub开源项目</h3>
-                    <p class="card-desc">TradingAgents GitHub Star:46k+。TradingAgents是一个基于多智能体协作的AI量化交易框架,由TauricResearch团队开发。该框架模拟了专业投资研究报告流程。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">AI产品推荐榜(2026.2)</h3>
-                    <p class="card-desc">本期推荐榜涉及AI Chatbot、API模型、桌面Agent、Coding Agent、通用Agent、深度研究、世界模型、AI绘图、AI视频、AI PPT、AI搜索、AI音乐、智能会议等领域。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">大四学生AI项目登GitHub榜首,获陈天桥3000万投资</h3>
-                    <p class="card-desc">大四学生郭航江(BaiFu)开发的群体智能引擎"MiroFish"登顶GitHub全球趋势榜,并获得盛大集团创始人陈天桥3000万元投资用于进一步产品孵化。</p>
-                </article>
-            </div>
-        </section>
-
-        <!-- 视频生成 -->
-        <section class="category">
-            <div class="category-header">
-                <div class="category-icon">🎬</div>
-                <h2 class="category-title">视频生成</h2>
-                <div class="category-line"></div>
-            </div>
-            <div class="cards-grid">
-                <article class="card">
-                    <h3 class="card-title">Runway发布Gen-4.5文本生成视频模型</h3>
-                    <p class="card-desc">12月5日Runway在纽约正式发布全新的文本生成视频模型Gen-4.5,并高调宣称其在综合表现上已经超越OpenAI的Sora 2和Google的Veo 3。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">百人初创公司Runway发布AI视频模型 生成质量超谷歌OpenAI竞品</h3>
-                    <p class="card-desc">美国人工智能初创公司Runway推出Gen-4.5——一款新视频模型,该模型在独立基准测试中表现优于谷歌和OpenAI同类产品。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">AI视频生成赛道2026年最新格局:Sora、Kling、Pika三国杀</h3>
-                    <p class="card-desc">2026年的视频创作行业正在经历一场前所未有的技术地震。从OpenAI的Sora到国内的快手Kling,从老牌玩家Runway到新兴势力Pika,围绕"一句话生成一段视频"的争夺战已经进入白热化。</p>
-                </article>
-            </div>
-        </section>
-
-        <!-- 开发工具 -->
-        <section class="category">
-            <div class="category-header">
-                <div class="category-icon">🛠️</div>
-                <h2 class="category-title">开发工具</h2>
-                <div class="category-line"></div>
-            </div>
-            <div class="cards-grid">
-                <article class="card">
-                    <h3 class="card-title">AI编程工具推荐,程序员必备神器(2026最新)</h3>
-                    <p class="card-desc">Cursor是一款基于VS Code的AI编辑器,集成了强大的AI辅助功能。主要功能包括智能代码补全、代码解释、Bug修复、多文件编辑等。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">2026年最新热门AI编程软件推荐</h3>
-                    <p class="card-desc">Trae(字节跳动):全流程自主AI开发引擎。Trae作为字节跳动推出的AI原生IDE,打破了传统编程工具的功能边界,凭借SOLO模式与双智能体架构脱颖而出。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">8款编程神器必看</h3>
-                    <p class="card-desc">以下8款热门AI编程工具均经过实测验证,兼顾实用性与专业性,其中Trae更是凭借突出优势稳居榜首,全方位适配各类开发场景。</p>
-                </article>
-            </div>
-        </section>
-
-        <!-- 知识库 RAG -->
-        <section class="category">
-            <div class="category-header">
-                <div class="category-icon">📚</div>
-                <h2 class="category-title">知识库 RAG</h2>
-                <div class="category-line"></div>
-            </div>
-            <div class="cards-grid">
-                <article class="card">
-                    <h3 class="card-title">RAG性能优化杀器,引入上下文检索!</h3>
-                    <p class="card-desc">本文介绍了一种显著提升RAG检索步骤的方法,称为"上下文检索",它利用两个子技术:上下文嵌入(Contextual Embeddings)和上下文BM25(Contextual BM25)。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">收藏必看:2025年RAG已死?2026年上下文工程将引领大模型新风口!</h3>
-                    <p class="card-desc">RAG技术在2025年从狂热走向冷静,基础设施稳定但创新放缓。作者提出RAG本质是"上下文工程",2026年将向Context Platform(上下文平台)方向演进。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">长上下文窗口、Agent崛起,RAG已死?</h3>
-                    <p class="card-desc">自2022年以来,为解决LLM输入长度有限的问题,RAG作为一种"外挂"知识库的解决方案,迅速成为行业标准。其核心逻辑如同搜索引擎。</p>
-                </article>
-            </div>
-        </section>
-
-        <!-- 其他资讯 -->
-        <section class="category">
-            <div class="category-header">
-                <div class="category-icon">💡</div>
-                <h2 class="category-title">其他资讯</h2>
-                <div class="category-line"></div>
-            </div>
-            <div class="cards-grid">
-                <article class="card">
-                    <h3 class="card-title">2026年AI技术突破与产业落地全景:从GPT-5到多模态智能体的新纪元</h3>
-                    <p class="card-desc">2026年3月,人工智能领域迎来了新一轮技术突破浪潮。从GPT-5的推理能力质变到多模态大模型的实时交互能力,从边缘计算部署到产业应用落地,AI技术正以前所未有的速度推进。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">2026年初AI行业全景:技术突破与争议并存</h3>
-                    <p class="card-desc">2026年初AI行业全景:技术突破与争议并存,国产化与全球化双向发力。2026年开年以来,人工智能行业迎来加速发展期,技术研发持续突破、落地场景不断拓展。</p>
-                </article>
-                <article class="card">
-                    <h3 class="card-title">2026 AI元年:从技术狂欢到价值共生的智能新纪元</h3>
-                    <p class="card-desc">若说2023年是生成式AI的概念启蒙年,2026年则正式开启了人工智能的"应用元年"与"价值兑现年"。这一年,大模型技术从参数竞赛迈入能力沉淀期。</p>
-                </article>
-            </div>
-        </section>
-    </main>
-    
-    <footer>
-        <p>Powered by <a href="#">OpenClaw</a> · 自动更新于每日 9:00</p>
-    </footer>
+    <script>
+        // Tab switching
+        const tabs = document.querySelectorAll('.tab');
+        const dailyArchives = document.getElementById('daily-archives');
+        const weeklyArchives = document.getElementById('weekly-archives');
+        
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                tabs.forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                
+                if (tab.dataset.view === 'daily') {
+                    dailyArchives.style.display = 'block';
+                    weeklyArchives.style.display = 'none';
+                } else {
+                    dailyArchives.style.display = 'none';
+                    weeklyArchives.style.display = 'block';
+                }
+            });
+        });
+        
+        // Archive item click
+        const archiveItems = document.querySelectorAll('.archive-item');
+        archiveItems.forEach(item => {
+            item.addEventListener('click', () => {
+                archiveItems.forEach(i => i.classList.remove('active'));
+                item.classList.add('active');
+                
+                const date = item.dataset.date;
+                const week = item.dataset.week;
+                
+                if (date) {
+                    const month = date.substring(5, 7);
+                    const day = date.substring(8, 10);
+                    document.getElementById('currentDateTitle').textContent = `2026年${parseInt(month)}月${parseInt(day)}日`;
+                    document.getElementById('headerDesc').innerHTML = `当日收录 <strong>${item.querySelector('.count')?.textContent || '若干'}条</strong> AI资讯`;
+                } else if (week) {
+                    document.getElementById('currentDateTitle').textContent = `第${week}周精选`;
+                    document.getElementById('headerDesc').innerHTML = `本周热度最高的 <strong>10</strong> 条AI资讯`;
+                }
+            });
+        });
+    </script>
 </body>
 </html>
