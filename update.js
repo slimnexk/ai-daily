@@ -1,18 +1,29 @@
 #!/usr/bin/env node
 /**
  * AI科技日报自动更新脚本
- * 定时执行搜索并更新 data.json
+ * 定时执行搜索并更新 data.json，然后推送到 GitHub
  */
 
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 const PROXY_PORT = process.env.AUTH_GATEWAY_PORT || '19000';
 const PROXY_HOST = '127.0.0.1';
 const API_PATH = '/proxy/prosearch/search';
 
 const DATA_FILE = path.join(__dirname, 'data.json');
+const DEPLOY_SCRIPT = path.join(__dirname, 'deploy.ps1');
+
+// GitHub 配置 - 从环境变量读取
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_OWNER = process.env.GITHUB_OWNER || 'slimnexk';
+const GITHUB_REPO = process.env.GITHUB_REPO || 'ai-daily';
+
+if (!GITHUB_TOKEN) {
+    console.log('⚠️ GITHUB_TOKEN 环境变量未设置，跳过部署');
+}
 
 // 搜索函数
 function search(keyword) {
@@ -70,6 +81,59 @@ function parseResults(searchResult, category) {
     }));
 }
 
+// 上传到 GitHub
+function deployToGitHub() {
+    console.log('📤 开始部署到 GitHub...');
+    
+    const files = ['index.html', 'data.json'];
+    
+    for (const file of files) {
+        const filePath = path.join(__dirname, file);
+        const content = fs.readFileSync(filePath, 'utf8');
+        const base64 = Buffer.from(content).toString('base64');
+        
+        const body = JSON.stringify({
+            message: `Update ${file}`,
+            content: base64,
+            branch: 'main'
+        });
+        
+        const options = {
+            hostname: 'api.github.com',
+            path: `/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${file}`,
+            method: 'PUT',
+            headers: {
+                'Authorization': `token ${GITHUB_TOKEN}`,
+                'Accept': 'application/vnd.github.v3+json',
+                'Content-Type': 'application/json',
+                'Content-Length': Buffer.byteLength(body)
+            }
+        };
+        
+        return new Promise((resolve, reject) => {
+            const req = http.request(options, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                    if (res.statusCode >= 200 && res.statusCode < 300) {
+                        console.log(`✓ Deployed: ${file}`);
+                        resolve();
+                    } else {
+                        console.log(`✗ Failed: ${file} - ${res.statusCode}`);
+                        resolve(); // Continue even if failed
+                    }
+                });
+            });
+            req.on('error', e => {
+                console.log(`✗ Deploy error: ${e.message}`);
+                resolve(); // Continue
+            });
+            req.write(body);
+            req.end();
+        });
+    }
+}
+
 // 主更新流程
 async function update() {
     console.log('🔍 开始搜索AI资讯...');
@@ -108,6 +172,9 @@ async function update() {
     // 保存数据
     fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2), 'utf8');
     console.log('✅ 数据已更新:', DATA_FILE);
+    
+    // 部署到 GitHub
+    await deployToGitHub();
     
     return data;
 }
