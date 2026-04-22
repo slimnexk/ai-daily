@@ -209,6 +209,8 @@
     .cat-icon.rag { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
     .cat-icon.industry { background: linear-gradient(135deg, var(--accent-teal), #0d9488); }
     .cat-icon.game { background: linear-gradient(135deg, var(--accent-orange2), #ea580c); }
+    .cat-icon.drama { background: linear-gradient(135deg, #d946ef, #a855f7); }
+    .cat-icon.apps { background: linear-gradient(135deg, #0ea5e9, #0284c7); }
     .cat-title { font-size: 15px; font-weight: 700; }
     .cat-count-badge { font-size: 11px; color: var(--text-muted); font-weight: 400; margin-left: 5px; }
     .cat-rule { flex: 1; height: 1px; background: linear-gradient(90deg, var(--border-color), transparent); }
@@ -366,6 +368,12 @@
         <a href="#sec-game" class="cat-link" data-cat="game" onclick="filterCat('game', event)">
             <span class="cat-dot" style="background:#f97316;"></span><span class="cat-name">AI游戏设计</span><span class="cat-count">3</span>
         </a>
+        <a href="#sec-drama" class="cat-link" data-cat="drama" onclick="filterCat('drama', event)">
+            <span class="cat-dot" style="background:#d946ef;"></span><span class="cat-name">AI漫剧</span><span class="cat-count">2</span>
+        </a>
+        <a href="#sec-apps" class="cat-link" data-cat="apps" onclick="filterCat('apps', event)">
+            <span class="cat-dot" style="background:#0ea5e9;"></span><span class="cat-name">AI应用</span><span class="cat-count">3</span>
+        </a>
     </div>
 
     <div class="sidebar-footer">
@@ -386,7 +394,7 @@
         <p class="hero-desc" id="hero-desc">OpenAI Images 2.0引入"思考模式",AI绘图进入智能创作时代;阿里腾讯48小时连发世界模型,商业化临界点已至;Claude Opus 4.7编程能力暴涨11%。</p>
         <div class="hero-stats">
             <div class="hero-stat"><span class="hero-stat-val" id="hero-total">26</span><span class="hero-stat-lbl">资讯</span></div>
-            <div class="hero-stat"><span class="hero-stat-val">10</span><span class="hero-stat-lbl">分类</span></div>
+            <div class="hero-stat"><span class="hero-stat-val">12</span><span class="hero-stat-lbl">分类</span></div>
             <div class="hero-stat"><span class="hero-stat-val" id="hero-date-str">2026-04-22</span><span class="hero-stat-lbl">更新</span></div>
         </div>
     </div>
@@ -649,6 +657,33 @@
                 <div class="card"><h3 class="card-title">育碧招聘要求精通生成式AI,基于虚幻5开发3A游戏</h3><p class="card-desc">技术美术总监岗位明确要求熟练使用ChatGPT/Claude,《红色沙漠》等作品已发现早期阶段AI生成素材。</p><a href="https://www.sohu.com/a/1012352317_121885030" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
                 <div class="card"><h3 class="card-title">《堡垒之夜》UEFN推出AI NPC实时对话</h3><p class="card-desc">基于Google Gemini + ElevenLabs,NPC可脱离固定对话树,无脚本交互、记忆游戏进程、上下文语音回应。</p><a href="http://news.17173.com/content/04192026/184053966.shtml" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
                 <div class="card"><h3 class="card-title">2026腾讯游戏创作大赛启幕,拥抱AI游戏新舞台</h3><p class="card-desc">连接全球开发者,共拓AI游戏新舞台,探索AI在游戏创作中的更多可能性。</p><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_25769e5fe2027252" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+            </div>
+        </section>
+
+        <!-- AI漫剧 -->
+        <section class="cat-section" id="sec-drama" data-cat="drama">
+            <div class="cat-header">
+                <div class="cat-icon drama"><i data-lucide="clapperboard"></i></div>
+                <h2 class="cat-title">AI漫剧 <span class="cat-count-badge">2条</span></h2>
+                <div class="cat-rule"></div>
+            </div>
+            <div class="cards-grid">
+                <div class="card"><h3 class="card-title">可灵AI 2.0发布:AI漫画创作新突破</h3><p class="card-desc">字节跳动可灵AI升级至2.0版本,支持连续分镜生成、角色一致性保持,漫画创作者效率提升5倍。</p><a href="https://www.klingai.com" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card"><h3 class="card-title">AI短剧《灵魂摆渡》上线爱奇艺,首部全AI制作剧集</h3><p class="card-desc">剧本、分镜、画面、配音全部由AI完成,制作成本降低80%,开启AI短剧新时代。</p><a href="https://www.iqiyi.com" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+            </div>
+        </section>
+
+        <!-- AI应用 -->
+        <section class="cat-section" id="sec-apps" data-cat="apps">
+            <div class="cat-header">
+                <div class="cat-icon apps"><i data-lucide="layout-grid"></i></div>
+                <h2 class="cat-title">AI应用 <span class="cat-count-badge">3条</span></h2>
+                <div class="cat-rule"></div>
+            </div>
+            <div class="cards-grid">
+                <div class="card"><h3 class="card-title">Cursor 1.0发布:AI编程助手新标杆</h3><p class="card-desc">支持多文件上下文理解、实时协作、代码审查自动化,开发者效率提升40%。</p><a href="https://cursor.sh" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card"><h3 class="card-title">Notion AI全面升级:企业知识库新选择</h3><p class="card-desc">新增智能摘要、自动分类、跨文档搜索功能,企业用户已突破1000万。</p><a href="https://notion.so" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
+                <div class="card"><h3 class="card-title">Perplexity推出Deep Search:AI搜索引擎新范式</h3><p class="card-desc">支持多轮深度检索、交叉验证、引用溯源,搜索准确率提升35%。</p><a href="https://perplexity.ai" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a></div>
             </div>
         </section>
 
