@@ -238,6 +238,47 @@
     footer { padding: 20px 38px; border-top: 1px solid var(--border-color); text-align: center; color: var(--text-muted); font-size: 11px; }
     footer a { color: var(--accent-cyan); }
 
+    /* ═══════════════════ 模式切换栏 ═══════════════════ */
+    .view-mode-bar {
+        display: flex; gap: 14px;
+        padding: 18px 38px;
+        background: var(--bg-secondary);
+        border-bottom: 1px solid var(--border-color);
+    }
+    .view-mode-tab {
+        flex: 1;
+        padding: 16px 24px;
+        border-radius: 14px;
+        font-size: 16px; font-weight: 700;
+        cursor: pointer;
+        transition: all 0.25s;
+        display: flex; align-items: center; justify-content: center; gap: 10px;
+        border: 2px solid transparent;
+        background: var(--bg-card);
+        color: var(--text-secondary);
+    }
+    .view-mode-tab:hover { background: var(--bg-card-hover); color: var(--text-primary); }
+    .view-mode-tab.ai.active {
+        background: linear-gradient(135deg, rgba(0,229,255,0.12), rgba(99,102,241,0.08));
+        border-color: var(--accent-cyan);
+        color: var(--accent-cyan);
+        box-shadow: 0 0 28px rgba(0,229,255,0.08);
+    }
+    .view-mode-tab.hot.active {
+        background: linear-gradient(135deg, rgba(255,61,113,0.12), rgba(236,72,153,0.08));
+        border-color: var(--accent-pink);
+        color: var(--accent-pink);
+        box-shadow: 0 0 28px rgba(255,61,113,0.08);
+    }
+    .view-mode-tab svg { width: 20px; height: 20px; }
+    .view-mode-tab .tab-count {
+        font-size: 12px; font-weight: 500; opacity: 0.65;
+        background: rgba(255,255,255,0.08);
+        padding: 2px 8px;
+        border-radius: 10px;
+        margin-left: 4px;
+    }
+
     @media (max-width: 900px) {
         .sidebar { width: 100%; height: auto; position: relative; }
         .main { margin-left: 0; }
@@ -329,6 +370,16 @@
         </div>
     </div>
 
+    <!-- 模式切换栏 -->
+    <div class="view-mode-bar">
+        <button class="view-mode-tab ai active" onclick="switchViewMode('ai')">
+            <i data-lucide="cpu"></i> AI行业资讯 <span class="tab-count" id="tab-count-ai">--</span>
+        </button>
+        <button class="view-mode-tab hot" onclick="switchViewMode('hot')">
+            <i data-lucide="flame"></i> 社会热点 <span class="tab-count" id="tab-count-hot">--</span>
+        </button>
+    </div>
+
     <div class="content" id="contentBody">
         <div class="loading-state" id="loading-state">
             <div class="loading-spinner"></div>
@@ -366,6 +417,9 @@ var allData = null;
 var dataDates = [];
 var selectedDate = '';
 var activeCat = 'all';
+var viewMode = 'ai';  // 'ai' | 'hot'
+var aiCategories = ['trend','llm','github','devtools','design','world','video','rag','industry','game','drama','apps'];
+var hotCategories = ['hotSearch'];
 var viewYear, viewMonth;
 
 // ═══════════════════ 初始化 ═══════════════════
@@ -469,16 +523,26 @@ function loadDateContent(dateStr) {
     var dateLabel = formatDateCN(dateStr);
     if (dayData) {
         document.getElementById('hero-date').textContent = dateLabel;
-        document.getElementById('hero-title').textContent = dayData.title || '暂无资讯';
-        document.getElementById('hero-desc').textContent = dayData.desc || '';
+        if (viewMode === 'hot') {
+            document.getElementById('hero-title').textContent = '今日热搜 · 社会热点';
+            document.getElementById('hero-desc').textContent = '抖音/微博实时热搜，了解当下最火话题';
+        } else {
+            document.getElementById('hero-title').textContent = dayData.title || '暂无资讯';
+            document.getElementById('hero-desc').textContent = dayData.desc || '';
+        }
         var total = countAll(dayData);
+        var aiTotal = countCategories(dayData, aiCategories) + (dayData.featured ? dayData.featured.length : 0);
+        var hotTotal = dayData.hotSearch ? dayData.hotSearch.length : 0;
         document.getElementById('hero-total').textContent = total;
         document.getElementById('hero-date-str').textContent = dateStr;
         document.getElementById('stat-total').textContent = total;
         document.getElementById('stat-days').textContent = dataDates.length;
         document.getElementById('nav-count-today').textContent = total;
         document.getElementById('nav-count-featured').textContent = dayData.featured ? dayData.featured.length : 0;
-        document.getElementById('nav-count-hotSearch').textContent = dayData.hotSearch ? dayData.hotSearch.length : 0;
+        document.getElementById('nav-count-hotSearch').textContent = hotTotal;
+        // 更新tab计数
+        document.getElementById('tab-count-ai').textContent = aiTotal + '条';
+        document.getElementById('tab-count-hot').textContent = hotTotal + '条';
     } else {
         document.getElementById('hero-date').textContent = dateLabel;
         document.getElementById('hero-title').textContent = '暂无资讯';
@@ -487,12 +551,21 @@ function loadDateContent(dateStr) {
         document.getElementById('hero-date-str').textContent = dateStr;
         document.getElementById('stat-total').textContent = '0';
         document.getElementById('stat-days').textContent = dataDates.length;
+        document.getElementById('tab-count-ai').textContent = '0条';
+        document.getElementById('tab-count-hot').textContent = '0条';
     }
 
     // 渲染内容
     dyn.innerHTML = dayData ? renderDay(dayData) : renderEmpty(dateStr);
     if (typeof lucide !== 'undefined') lucide.createIcons();
-    filterCat(activeCat, null);
+    applyViewMode();
+    updateSidebarForMode();
+}
+
+function countCategories(dayData, cats) {
+    var n = 0;
+    cats.forEach(function(cat) { if (dayData[cat]) n += dayData[cat].length; });
+    return n;
 }
 
 function formatDateCN(ds) {
@@ -598,6 +671,80 @@ function renderEmpty(dateStr) {
 function esc(s) { if (!s) return ''; return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
 // ═══════════════════ 分类筛选 ═══════════════════
+// ═══════════════════ 模式切换 ═══════════════════
+function switchViewMode(mode) {
+    viewMode = mode;
+    activeCat = 'all';
+    
+    // 更新按钮状态
+    document.querySelectorAll('.view-mode-tab').forEach(function(btn) {
+        btn.classList.remove('active');
+    });
+    document.querySelector('.view-mode-tab.' + mode).classList.add('active');
+    
+    // 应用过滤
+    applyViewMode();
+    updateSidebarForMode();
+    
+    // 更新hero标题
+    var dayData = allData && allData.dates[selectedDate] ? allData.dates[selectedDate] : null;
+    if (dayData) {
+        if (mode === 'hot') {
+            document.getElementById('hero-title').textContent = '今日热搜 · 社会热点';
+            document.getElementById('hero-desc').textContent = '抖音/微博实时热搜，了解当下最火话题';
+        } else {
+            document.getElementById('hero-title').textContent = dayData.title || 'AI行业资讯';
+            document.getElementById('hero-desc').textContent = dayData.desc || '';
+        }
+    }
+}
+
+function applyViewMode() {
+    var featured = document.getElementById('featured-section');
+    var sections = document.querySelectorAll('#dynamic-content > .cat-section');
+    
+    if (viewMode === 'ai') {
+        // AI模式：显示featured + AI分类，隐藏hotSearch
+        if (featured) featured.style.display = '';
+        sections.forEach(function(s) {
+            var cat = s.dataset.cat;
+            var isAI = aiCategories.indexOf(cat) !== -1;
+            s.classList.toggle('hidden', !isAI);
+            s.style.display = isAI ? '' : 'none';
+        });
+    } else if (viewMode === 'hot') {
+        // 热点模式：只显示hotSearch，隐藏其他
+        if (featured) featured.style.display = 'none';
+        sections.forEach(function(s) {
+            var isHot = s.dataset.cat === 'hotSearch';
+            s.classList.toggle('hidden', !isHot);
+            s.style.display = isHot ? '' : 'none';
+        });
+    }
+}
+
+function updateSidebarForMode() {
+    var dayData = allData && allData.dates[selectedDate] ? allData.dates[selectedDate] : null;
+    var visibleCats = viewMode === 'hot' ? hotCategories : aiCategories;
+    
+    // 更新分类计数显示
+    document.querySelectorAll('.cat-link').forEach(function(el) {
+        var cat = el.dataset.cat;
+        if (cat === 'all') {
+            el.style.display = '';
+            return;
+        }
+        var visible = visibleCats.indexOf(cat) !== -1 || (viewMode === 'ai' && cat === 'featured');
+        el.style.display = visible ? '' : 'none';
+    });
+    
+    // 更新导航区
+    var navHotSearch = document.querySelector('[data-nav="hotSearch"]');
+    var navFeatured = document.querySelector('[data-nav="featured"]');
+    if (navHotSearch) navHotSearch.style.display = viewMode === 'hot' ? '' : 'none';
+    if (navFeatured) navFeatured.style.display = viewMode === 'ai' ? '' : 'none';
+}
+
 function filterCat(cat, e) {
     if (e) e.preventDefault();
     activeCat = cat;
@@ -610,8 +757,7 @@ function filterCat(cat, e) {
     var featured = document.getElementById('featured-section');
     var sections = document.querySelectorAll('#dynamic-content > .cat-section');
     if (cat === 'all') {
-        if (featured) featured.style.display = '';
-        sections.forEach(function(s){ s.style.display = ''; s.classList.remove('hidden'); });
+        applyViewMode();
         document.getElementById('nav-today').classList.add('active');
     } else if (cat === 'featured') {
         if (featured) featured.style.display = '';
