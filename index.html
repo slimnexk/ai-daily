@@ -19,6 +19,9 @@
             --accent-yellow: #ffaa00;
             --accent-green: #00d68f;
             --accent-orange: #ff7b00;
+            --accent-blue: #3b82f6;
+            --accent-red: #ef4444;
+            --accent-teal: #14b8a6;
             --text-primary: #ffffff;
             --text-secondary: #9ca3af;
             --text-muted: #6b7280;
@@ -154,6 +157,9 @@
         .badge-hot { background: linear-gradient(135deg, var(--accent-pink), #ff6b9d); color: white; }
         .badge-new { background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple)); color: white; }
         .badge-design { background: linear-gradient(135deg, var(--accent-orange), #ff9500); color: white; }
+        .badge-game { background: linear-gradient(135deg, var(--accent-purple), #a855f7); color: white; }
+        .badge-industry { background: linear-gradient(135deg, var(--accent-blue), #3b82f6); color: white; }
+        .badge-world { background: linear-gradient(135deg, var(--accent-teal), #14b8a6); color: white; }
         
         .hero-title {
             font-size: 32px; font-weight: 900; line-height: 1.2;
@@ -200,6 +206,9 @@
         .featured-card.purple::before { background: var(--accent-purple); }
         .featured-card.pink::before { background: var(--accent-pink); }
         .featured-card.orange::before { background: var(--accent-orange); }
+        .featured-card.blue::before { background: var(--accent-blue); }
+        .featured-card.teal::before { background: var(--accent-teal); }
+        .featured-card.green::before { background: var(--accent-green); }
         
         .featured-label {
             font-size: 10px; font-weight: 600;
@@ -211,6 +220,9 @@
         .featured-card.purple .featured-label { color: var(--accent-purple); }
         .featured-card.pink .featured-label { color: var(--accent-pink); }
         .featured-card.orange .featured-label { color: var(--accent-orange); }
+        .featured-card.blue .featured-label { color: var(--accent-blue); }
+        .featured-card.teal .featured-label { color: var(--accent-teal); }
+        .featured-card.green .featured-label { color: var(--accent-green); }
         
         .featured-title { font-size: 18px; font-weight: 700; line-height: 1.4; margin-bottom: 10px; }
         .featured-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.6; }
@@ -241,6 +253,9 @@
         .category-icon.video { background: linear-gradient(135deg, #ef4444, #dc2626); }
         .category-icon.devtools { background: linear-gradient(135deg, #10b981, #059669); }
         .category-icon.rag { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+        .category-icon.world { background: linear-gradient(135deg, #14b8a6, #0d9488); }
+        .category-icon.game { background: linear-gradient(135deg, #a855f7, #9333ea); }
+        .category-icon.industry { background: linear-gradient(135deg, #3b82f6, #2563eb); }
         
         .category-title { font-size: 16px; font-weight: 700; }
         
@@ -307,7 +322,7 @@
         <div class="archive-section" id="daily-archives">
             <div class="archive-title">四月资讯</div>
             <ul class="archive-list">
-                <li class="archive-item active" data-date="2026-04-22"><span class="day">22日</span><span class="count">24</span></li>
+                <li class="archive-item active" data-date="2026-04-22"><span class="day">22日</span><span class="count">12</span></li>
                 <li class="archive-item" data-date="2026-04-21"><span class="day">21日</span><span class="count">18</span></li>
                 <li class="archive-item" data-date="2026-04-20"><span class="day">20日</span><span class="count">22</span></li>
                 <li class="archive-item" data-date="2026-04-19"><span class="day">19日</span><span class="count">15</span></li>
@@ -315,20 +330,6 @@
                 <li class="archive-item" data-date="2026-04-17"><span class="day">17日</span><span class="count">10</span></li>
                 <li class="archive-item" data-date="2026-04-16"><span class="day">16日</span><span class="count">8</span></li>
                 <li class="archive-item" data-date="2026-04-15"><span class="day">15日</span><span class="count">14</span></li>
-                <li class="archive-item" data-date="2026-04-14"><span class="day">14日</span><span class="count">16</span></li>
-                <li class="archive-item" data-date="2026-04-13"><span class="day">13日</span><span class="count">11</span></li>
-                <li class="archive-item" data-date="2026-04-12"><span class="day">12日</span><span class="count">13</span></li>
-                <li class="archive-item" data-date="2026-04-11"><span class="day">11日</span><span class="count">9</span></li>
-                <li class="archive-item" data-date="2026-04-10"><span class="day">10日</span><span class="count">15</span></li>
-                <li class="archive-item" data-date="2026-04-09"><span class="day">9日</span><span class="count">11</span></li>
-                <li class="archive-item" data-date="2026-04-08"><span class="day">8日</span><span class="count">8</span></li>
-                <li class="archive-item" data-date="2026-04-07"><span class="day">7日</span><span class="count">12</span></li>
-                <li class="archive-item" data-date="2026-04-06"><span class="day">6日</span><span class="count">7</span></li>
-                <li class="archive-item" data-date="2026-04-05"><span class="day">5日</span><span class="count">5</span></li>
-                <li class="archive-item" data-date="2026-04-04"><span class="day">4日</span><span class="count">6</span></li>
-                <li class="archive-item" data-date="2026-04-03"><span class="day">3日</span><span class="count">8</span></li>
-                <li class="archive-item" data-date="2026-04-02"><span class="day">2日</span><span class="count">9</span></li>
-                <li class="archive-item" data-date="2026-04-01"><span class="day">1日</span><span class="count">11</span></li>
             </ul>
         </div>
         
@@ -350,233 +351,280 @@
             <div class="hero-top">
                 <div class="hero-date">2026年4月22日 星期三</div>
                 <div style="display:flex;gap:8px;">
-                    <span class="hero-badge badge-design">🎨 设计</span>
+                    <span class="hero-badge badge-new">🆕 新增</span>
                     <span class="hero-badge badge-hot">🔥 热门</span>
                 </div>
             </div>
-            <h1 class="hero-title">Claude Design 发布 · Sora 正式关停</h1>
-            <p class="hero-desc">Anthropic 发布 Claude Design 可一句话生成商业级设计原型；OpenAI 于3月24日正式关停 Sora；Runway Gen-4 获 3.08 亿美元融资，估值超 30 亿美元。</p>
+            <h1 class="hero-title">Claude Opus 4.7 发布 · Google Stitch 设计工具</h1>
+            <p class="hero-desc">Anthropic 发布 Claude Opus 4.7 专注可靠性；Google 推出 Stitch 草图转 UI 工具；Stanford AI Index 2026 发布，企业 AI 采用率达 88%。</p>
             
             <div class="stats">
-                <div class="stat"><span class="stat-value">276</span><span class="stat-label">本月资讯总数</span></div>
-                <div class="stat"><span class="stat-value">6</span><span class="stat-label">覆盖领域</span></div>
-                <div class="stat"><span class="stat-value">22</span><span class="stat-label">更新天数</span></div>
+                <div class="stat"><span class="stat-value">12</span><span class="stat-label">覆盖领域</span></div>
+                <div class="stat"><span class="stat-value">9</span><span class="stat-label">今日资讯</span></div>
+                <div class="stat"><span class="stat-value">每日</span><span class="stat-label">9:00更新</span></div>
             </div>
         </div>
         
         <main>
             <!-- Featured -->
             <div class="featured">
+                <article class="featured-card cyan">
+                    <span class="featured-label">🤖 大模型</span>
+                    <h3 class="featured-title">Claude Opus 4.7 发布：可靠性优先的旗舰模型</h3>
+                    <p class="featured-desc">模型可规划、验证、检查自身输出后再响应。支持 Agentic 工作流和 CAD 自动化设计，编码、视觉理解全面增强。</p>
+                    <span class="featured-link">解决痛点：AI 输出不可靠、需人工反复验证</span>
+                </article>
                 <article class="featured-card orange">
                     <span class="featured-label">🎨 AI设计</span>
-                    <h3 class="featured-title">Claude Design 发布：输入大白话，一秒生成可交互原型</h3>
-                    <p class="featured-desc">Figma 股价闪崩，Anthropic 发布 Claude Design，可直接生成商业级设计原型并转化为可运行代码。</p>
-                    <a href="https://www.36kr.com/p/3774555927950089" target="_blank" class="featured-link">阅读原文 →</a>
+                    <h3 class="featured-title">Google Stitch：草图/语音直接生成 UI</h3>
+                    <p class="featured-desc">AI 设计工具革命，支持语音交互修改、自动生成页面和流程。基础设计工作门槛大幅降低。</p>
+                    <span class="featured-link">解决痛点：设计工作流效率瓶颈</span>
                 </article>
-                <article class="featured-card pink">
-                    <span class="featured-label">🎬 视频生成</span>
-                    <h3 class="featured-title">Sora 正式关停：上线仅六个月</h3>
-                    <p class="featured-desc">OpenAI 于3月24日宣布关停 Sora，涵盖独立 App、API 接口及 ChatGPT 内嵌视频功能。</p>
-                    <a href="https://www.toutiao.com/article/7623645029105435178/" target="_blank" class="featured-link">阅读原文 →</a>
+                <article class="featured-card blue">
+                    <span class="featured-label">🏭 AI行业</span>
+                    <h3 class="featured-title">Stanford AI Index 2026：企业 AI 采用率达 88%</h3>
+                    <p class="featured-desc">生成式 AI 3 年内普及率 53%，超越 PC 和互联网速度。AI 计算能力每年增长 3.3 倍。</p>
+                    <span class="featured-link">关键数据：客服和软件开发生产力提升 14-26%</span>
                 </article>
-                <article class="featured-card cyan">
-                    <span class="featured-label">🧠 大模型</span>
-                    <h3 class="featured-title">GPT-6 预训练完成：200万Token上下文</h3>
-                    <p class="featured-desc">预计6月开放 API，革命性突破，上下文窗口相当于两部中篇小说。</p>
-                    <a href="https://blog.csdn.net/lyy_kao/article/details/160027453" target="_blank" class="featured-link">阅读原文 →</a>
-                </article>
-                <article class="featured-card purple">
-                    <span class="featured-label">💰 融资</span>
-                    <h3 class="featured-title">Runway 融资 3.08 亿美元，估值超 30 亿</h3>
-                    <p class="featured-desc">视频生成公司 Runway 完成最新一轮融资，由 General Atlantic 领投。</p>
-                    <a href="https://geekape.net/tools/DH152" target="_blank" class="featured-link">阅读原文 →</a>
+                <article class="featured-card teal">
+                    <span class="featured-label">🌍 世界模型</span>
+                    <h3 class="featured-title">AI 世界模拟器：从代码到想象</h3>
+                    <p class="featured-desc">World Model 成为 AI 的"内部实验室"，智能体在模拟环境中学习、推理和规划，CVPR'25 举办专项 Benchmark。</p>
+                    <span class="featured-link">意义：让 AI 具备物理世界模拟与推理能力</span>
                 </article>
             </div>
             
-            <!-- AI 设计工具 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon design">🎨</div>
-                    <h2 class="category-title">AI 设计工具</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">Claude Design vs Figma：AI 设计工具正面交锋</h3>
-                        <p class="card-desc">Claude Design 可一句话生成商业级原型并转代码，Figma 股价闪崩。用户不用懂图层，输入大白话即可生成可交互设计。</p>
-                        <a href="https://www.36kr.com/p/3774555927950089" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">2026年UI/UX设计师AI工具横评</h3>
-                        <p class="card-desc">UXbot 是目前国内唯一支持从需求描述到完整多页面可交互App界面和可交付前端代码的AI工具。</p>
-                        <a href="https://www.sohu.com/a/1012523639_122725705" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">设计师专属AI工具箱：5个工具让设计效率提升300%</h3>
-                        <p class="card-desc">Midjourney V6 细节之王、Figma AI 设计系统智能伙伴、Adobe Firefly 深度整合 Photoshop 2026。</p>
-                        <a href="https://www.toutiao.com/article/7628054966998532651/" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">2026年UI设计师工具推荐</h3>
-                        <p class="card-desc">从界面设计到AI原生代码生成全覆盖，涵盖 Figma、Adobe 全家桶、UXbot、即时设计等主流工具。</p>
-                        <a href="https://blog.csdn.net/weixin_41291988/article/details/159798287" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">5款主流AI原型工具实测分享</h3>
-                        <p class="card-desc">UXbot AI、Uizard AI、Framer AI、Axure AI、Figma Make 实测对比，覆盖原型生成到代码交付全流程。</p>
-                        <a href="https://blog.csdn.net/weixin_41291988/article/details/158384873" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Figma 2026 设计师状态报告</h3>
-                        <p class="card-desc">72%的设计师已使用生成式AI工具，98%增加AI使用频率，89%认为AI让工作更快。</p>
-                        <a href="https://www.sohu.com/a/1009683188_121956425" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- AI 绘图 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon design">🖼️</div>
-                    <h2 class="category-title">AI 绘图 / 图像生成</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">2026年主流AI绘画软件最新排名</h3>
-                        <p class="card-desc">Midjourney V7 画质出色、Stable Diffusion 可玩性最高、海艺AI 80万+模型生态、文心一格国风专精。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_27169cb806f32252" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Midjourney V6 实测：细节之王</h3>
-                        <p class="card-desc">支持 2048×2048 原生输出、文字渲染高精度、手指修复大幅改进、可训练专属风格 LoRA。</p>
-                        <a href="https://www.toutiao.com/article/7628054966998532651/" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Adobe Illustrator 2026 新功能</h3>
-                        <p class="card-desc">AI 驱动的图像描摹、Firefly 生成式重新着色、转盘功能可将2D矢量转为可交互3D。</p>
-                        <a href="http://www.ddooo.com/softdown/212461.htm" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">南开大学破解AI绘画速度难题</h3>
-                        <p class="card-desc">用"方向感"让机器一步画出完美图像，发表在计算机视觉顶级期刊。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_43369c1121679052" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- AI 视频生成 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon video">🎬</div>
-                    <h2 class="category-title">AI 视频生成</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">AI视频生成三足鼎立新格局</h3>
-                        <p class="card-desc">Runway Gen-4、Sora Pro 与国产工具的2026新格局，分辨率突破8K、支持电影级RAW格式导出。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_92169db088556452" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Runway Gen-4 解决跨场景角色一致性</h3>
-                        <p class="card-desc">这是之前大多数AI视频生成器无法做到的，可生成720p分辨率的5-10秒视频片段。</p>
-                        <a href="https://ai.zhiding.cn/2025/0401/3164896.shtml" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">2026年AI视频生成工具实测对比</h3>
-                        <p class="card-desc">10款主流工具深度对比：海艺AI、可灵AI、即梦AI、Runway、Google Veo、Sora等。</p>
-                        <a href="https://blog.csdn.net/johnyjohny/article/details/160194053" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">快手 Kling：国产视频生成领跑</h3>
-                        <p class="card-desc">国内视频生成领跑者，支持中文提示词，本土化优势明显。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_05269ddf1ee38652" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
             <!-- 大模型动态 -->
             <section class="category">
                 <div class="category-header">
                     <div class="category-icon llm">🧠</div>
-                    <h2 class="category-title">大模型动态</h2>
+                    <h2 class="category-title">大模型进展</h2>
                     <div class="category-line"></div>
                 </div>
                 <div class="cards-grid">
                     <article class="card">
-                        <h3 class="card-title">GPT-6 预训练完成：200万Token上下文</h3>
-                        <p class="card-desc">预计6月开放API，上下文窗口相当于两部中篇小说或10小时音频，彻底解决内容截断痛点。</p>
-                        <a href="https://blog.csdn.net/lyy_kao/article/details/160027453" target="_blank" class="card-link">阅读原文 →</a>
+                        <h3 class="card-title">Anthropic Claude Opus 4.7</h3>
+                        <p class="card-desc">可靠性大幅提升，模型可规划、验证、检查自身输出。支持 Agentic 工作流，可自动化 CAD 设计（描述→模型构建）。</p>
+                        <span class="card-link">解决：AI 输出不可靠痛点</span>
                     </article>
                     <article class="card">
-                        <h3 class="card-title">2026年AI大模型战局</h3>
-                        <p class="card-desc">Claude 4 和 GPT-5 在代码方面领先，Gemini 3 擅长长文档处理，国内模型中文能力已不逊海外。</p>
-                        <a href="https://blog.csdn.net/weixin_55154866/article/details/159729398" target="_blank" class="card-link">阅读原文 →</a>
+                        <h3 class="card-title">Google Gemma 4 开源</h3>
+                        <p class="card-desc">开源模型视觉能力领先，Benchmark 测试表现优异，开源模型能力逼近闭源前沿。</p>
+                        <span class="card-link">解决：开源社区高性能视觉模型需求</span>
                     </article>
                     <article class="card">
-                        <h3 class="card-title">大模型API价格一览</h3>
-                        <p class="card-desc">GPT-5 $5/$15 per 1M tokens，Claude Opus 4.6 $15/$75，DeepSeek V3 仅 ¥2/¥8。</p>
-                        <a href="https://blog.csdn.net/ofoxcoding/article/details/159350722" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">SuperCLUE中文大模型基准</h3>
-                        <p class="card-desc">Claude-Opus-4.6、Gemini-3.1-Pro、GPT-5.4 分列前三。</p>
-                        <a href="https://blog.csdn.net/which_which/article/details/160055571" target="_blank" class="card-link">阅读原文 →</a>
+                        <h3 class="card-title">Gemini 3.1 Pro 领先</h3>
+                        <p class="card-desc">2026 年 16 项主要 AI Benchmark 中 13 项领先，Google 2026 年旗舰模型。</p>
+                        <span class="card-link">优势：多任务综合性能行业领先</span>
                     </article>
                 </div>
             </section>
 
-            <!-- AI 开发工具 -->
+            <!-- 世界模型技术 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon world">🌍</div>
+                    <h2 class="category-title">世界模型技术进展</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">World Model Bench @ CVPR'25</h3>
+                        <p class="card-desc">首届世界模型基准测试研讨会，评估视频生成模型作为世界模拟器的能力，推动世界模型标准化评估。</p>
+                        <span class="card-link">突破：建立世界模型评估标准</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">Yann LeCun 世界模型愿景</h3>
+                        <p class="card-desc">世界模型正演变为 AI 的"内部实验室"，智能体在其中学习、模拟和推理，成为实现 AGI 的关键路径。</p>
+                        <span class="card-link">意义：从预测到理解的范式转变</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">AI 世界模拟器应用</h3>
+                        <p class="card-desc">世界模型帮助模拟空间关系和推理环境，在机器人、自动驾驶、科学研究等领域展现潜力。</p>
+                        <span class="card-link">应用：机器人任务成功率从 12% 跃升至 66%</span>
+                    </article>
+                </div>
+            </section>
+
+            <!-- AI游戏设计 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon game">🎮</div>
+                    <h2 class="category-title">AI 游戏设计行业</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">程序化生成技术成熟</h3>
+                        <p class="card-desc">AI 驱动的程序化内容生成（PCG）成为游戏开发标配，可自动生成地图、关卡、任务和剧情分支。</p>
+                        <span class="card-link">解决：游戏内容生产成本高、周期长</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">AI NPC 智能升级</h3>
+                        <p class="card-desc">新一代 AI NPC 具备长期记忆、情感推理和动态对话能力，为玩家提供沉浸式交互体验。</p>
+                        <span class="card-link">突破：NPC 从脚本驱动到智能体驱动</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">AI 游戏测试自动化</h3>
+                        <p class="card-desc">AI 代理可自动执行游戏测试，发现 Bug、平衡性问题和性能瓶颈，大幅降低 QA 成本。</p>
+                        <span class="card-link">效率：测试覆盖率提升 300%</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">AI 辅助游戏开发工具</h3>
+                        <p class="card-desc">Unity Muse、Unreal Engine AI 工具集等，支持自然语言生成代码、材质和动画，降低开发门槛。</p>
+                        <span class="card-link">趋势："Vibe Coding" 进入游戏开发</span>
+                    </article>
+                </div>
+            </section>
+
+            <!-- AI行业领域 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon industry">🏭</div>
+                    <h2 class="category-title">AI 行业领域动态</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">Stanford AI Index 2026 核心发现</h3>
+                        <p class="card-desc">企业 AI 采用率 88%；生成式 AI 3 年普及率 53%（超 PC 和互联网）；AI 计算能力年增 3.3 倍；生产力提升 14-26%。</p>
+                        <span class="card-link">关键数据：AI 消费者价值 $1720 亿/年（美国）</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">OpenAI 年收入超 $250 亿</h3>
+                        <p class="card-desc">OpenAI  reportedly 正考虑 2026 年底 IPO；Anthropic 年收入接近 $190 亿，AI 商业化进入成熟期。</p>
+                        <span class="card-link">信号：AI 企业 adoption 已过实验阶段</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">中美 AI 差距仅 2.7%</h3>
+                        <p class="card-desc">Stanford 报告显示，中美前沿模型差距缩小至历史最低，中国模型在研究和专利数量上领先。</p>
+                        <span class="card-link">格局：全球 AI 竞争进入双强时代</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">AI 透明度下降趋势</h3>
+                        <p class="card-desc">最强实验室越来越不透明，训练代码、参数量、数据集日益保密，引发可审计性和安全性担忧。</p>
+                        <span class="card-link">风险：90%+ 前沿模型来自产业界，非学术界</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">Agentic AI 基础设施成熟</h3>
+                        <p class="card-desc">MCP 安装量突破 9700 万，成为 Agentic AI 基础架构标准。Linux Foundation 成立 Agentic AI Foundation。</p>
+                        <span class="card-link">趋势：Agentic 工作流从实验走向生产</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">AI 劳动力市场影响显现</h3>
+                        <p class="card-desc">客服和软件开发生产力提升 14-26%，但入门级就业开始下降。AI 对劳动力市场双刃剑效应显现。</p>
+                        <span class="card-link">挑战：技能重塑和就业转型迫在眉睫</span>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 开发工具 -->
             <section class="category">
                 <div class="category-header">
                     <div class="category-icon devtools">🛠️</div>
-                    <h2 class="category-title">AI 开发工具</h2>
+                    <h2 class="category-title">开发工具 & GitHub 热点</h2>
                     <div class="category-line"></div>
                 </div>
                 <div class="cards-grid">
                     <article class="card">
-                        <h3 class="card-title">2026年主流AI工具分类全解析</h3>
-                        <p class="card-desc">智能体工具（OpenClaw、MaxClaw等）、通用AI工具（ChatGPT、DeepSeek）、垂直场景工具。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_92969d5e0b403152" target="_blank" class="card-link">阅读原文 →</a>
+                        <h3 class="card-title">AgenticSwarmBench 发布</h3>
+                        <p class="card-desc">真实 Agentic 编码性能基准，解决传统 Benchmark 仅测 2K tokens 问题，模拟 40-400K tokens 真实场景。</p>
+                        <span class="card-link">解决：AI 编码工具 Benchmark 与实际使用脱节</span>
                     </article>
                     <article class="card">
-                        <h3 class="card-title">Claude Code + Figma AI 画原型教程</h3>
-                        <p class="card-desc">从 PRD 到设计稿只要 5 分钟，支持 MCP 自动推送。</p>
-                        <a href="https://blog.csdn.net/qq_42801126/article/details/158822756" target="_blank" class="card-link">阅读原文 →</a>
+                        <h3 class="card-title">OpenAI Codex CLI 开源</h3>
+                        <p class="card-desc">开源 AI 编程代理，在本地终端自主执行编程任务，基于 o4-mini，对标 Claude Code。</p>
+                        <span class="card-link">亮点：开源免费，开发者友好</span>
                     </article>
                     <article class="card">
-                        <h3 class="card-title">7款 AI Web UI 生成工具深度评测</h3>
-                        <p class="card-desc">Framer AI、Webflow AI、Reluma AI、Wegic、Google Stitch、Uizard、UXbot 全面对比。</p>
-                        <a href="https://segmentfault.com/a/1190000047688729" target="_blank" class="card-link">阅读原文 →</a>
+                        <h3 class="card-title">Google Gemini Code Assist</h3>
+                        <p class="card-desc">新增 AI 代理执行多步骤复杂任务，可从 Google Docs 规格创建应用、跨语言代码转换，已集成 Android Studio。</p>
+                        <span class="card-link">能力：端到端自动化复杂编程任务</span>
                     </article>
                 </div>
             </section>
 
-            <!-- 即时设计 -->
+            <!-- AI 设计工具 -->
             <section class="category">
                 <div class="category-header">
-                    <div class="category-icon design">⚡</div>
-                    <h2 class="category-title">即时设计 / 国产工具</h2>
+                    <div class="category-icon design">🎨</div>
+                    <h2 class="category-title">AI 设计 & 创作工具</h2>
                     <div class="category-line"></div>
                 </div>
                 <div class="cards-grid">
                     <article class="card">
-                        <h3 class="card-title">2026值得尝试的5个AI网站设计工具</h3>
-                        <p class="card-desc">即时设计偏向专业UI/UX设计与原型制作，完全免费的在线工具，AI辅助设计能力加持。</p>
-                        <a href="https://js.design/special/article/ai-website-creation.html" target="_blank" class="card-link">阅读原文 →</a>
+                        <h3 class="card-title">Google Stitch 设计工具</h3>
+                        <p class="card-desc">草图或文字描述直接生成 UI，支持语音交互修改、自动生成页面和流程，理解整体设计上下文。</p>
+                        <span class="card-link">影响：基础设计工作门槛大幅降低</span>
                     </article>
                     <article class="card">
-                        <h3 class="card-title">海艺AI：80万+模型生态</h3>
-                        <p class="card-desc">限时免费，网页/APP/小程序三端，ControlNet+LoRA专业功能。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_27169cb806f32252" target="_blank" class="card-link">阅读原文 →</a>
+                        <h3 class="card-title">OpenAI gpt-image-1 API</h3>
+                        <p class="card-desc">ChatGPT 图像生成能力通过 API 开放，支持多风格、文本渲染、批量生成，可调节质量与速度。</p>
+                        <span class="card-link">价值：开发者集成高质量图像生成</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">Adobe Firefly 全面升级</h3>
+                        <p class="card-desc">Image Model 4 和 Video Model 发布，redesigned web 应用集成 Gemini 和 ChatGPT，新增矢量图生成。</p>
+                        <span class="card-link">定位：专业创作者一站式 AI 创作</span>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 视频/图片模型 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon video">🎬</div>
+                    <h2 class="category-title">视频 / 图片生成模型</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">Google Veo 2 集成 Gemini</h3>
+                        <p class="card-desc">8 秒 720p 视频生成，16:9 比例，自然语言提示，仅 Gemini Advanced 订阅用户可用。</p>
+                        <span class="card-link">优势：聊天机器人内置视频生成</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">Amazon Nova Reel 1.1</h3>
+                        <p class="card-desc">单次生成可达 2 分钟视频，通过 Amazon Bedrock 提供，质量和延迟优化。</p>
+                        <span class="card-link">突破：长视频生成的连贯性和一致性</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">Character.AI AvatarFX</h3>
+                        <p class="card-desc">图像转 2D/3D 动画视频，原生 TTS 支持真实语音，付费订阅专享。</p>
+                        <span class="card-link">特色：虚拟角色动画与语音同步</span>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 知识库 -->
+            <section class="category">
+                <div class="category-header">
+                    <div class="category-icon rag">🧠</div>
+                    <h2 class="category-title">知识库 & 上下文技术</h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">Google A2A 协议</h3>
+                        <p class="card-desc">Agent2Agent 开放协议，让不同框架/厂商的 AI 智能体使用共同语言协作，打破智能体孤岛。</p>
+                        <span class="card-link">意义：AI 智能体跨平台互操作性</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">上下文窗口持续扩大</h3>
+                        <p class="card-desc">Gemini 2.5 Pro 支持 100 万 tokens，GPT-4.1 系列窗口扩大，长上下文+RAG 混合策略成主流。</p>
+                        <span class="card-link">解决：大模型长文本处理能力瓶颈</span>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">上下文工程新范式</h3>
+                        <p class="card-desc">2026 年核心认知升级：RAG 本质是上下文工程。Agentic RAG、多模态 RAG、GraphRAG 动态化成为趋势。</p>
+                        <span class="card-link">演进：从检索增强到上下文工程</span>
                     </article>
                 </div>
             </section>
         </main>
         
         <footer>
-            <p>Powered by <a href="#">OpenClaw</a> · 每日 9:00 自动更新 · 数据来源：真实搜索</p>
+            <p>每日 9:00 自动更新 · 数据来源：Stanford AI Index、官方博客、GitHub、权威技术媒体</p>
         </footer>
     </div>
     
