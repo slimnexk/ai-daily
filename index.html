@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI 科技日报 | 2026年4月22日</title>
+    <title>AI 科技日报</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -25,10 +25,8 @@
             --border-color: rgba(255,255,255,0.08);
             --sidebar-width: 260px;
         }
-        
         * { margin: 0; padding: 0; box-sizing: border-box; }
         html { scroll-behavior: smooth; }
-        
         body {
             font-family: 'Noto Sans SC', sans-serif;
             background: var(--bg-primary);
@@ -36,37 +34,29 @@
             line-height: 1.6;
             min-height: 100vh;
         }
-        
-        /* ===== SIDEBAR ===== */
         .sidebar {
             width: var(--sidebar-width);
             background: var(--bg-secondary);
             border-right: 1px solid var(--border-color);
             height: 100vh;
             position: fixed;
-            left: 0;
-            top: 0;
+            left: 0; top: 0;
             overflow-y: auto;
             z-index: 100;
             display: flex;
             flex-direction: column;
         }
-        
-        /* Header */
         .sidebar-header {
             padding: 24px 20px;
             border-bottom: 1px solid var(--border-color);
         }
-        
         .logo {
             display: flex;
             align-items: center;
             gap: 12px;
         }
-        
         .logo-icon {
-            width: 36px;
-            height: 36px;
+            width: 36px; height: 36px;
             background: linear-gradient(135deg, var(--accent-cyan) 0%, var(--accent-purple) 100%);
             border-radius: 10px;
             display: flex;
@@ -74,20 +64,16 @@
             justify-content: center;
             font-size: 18px;
         }
-        
         .logo-text {
             font-size: 15px;
             font-weight: 600;
             color: var(--text-primary);
             letter-spacing: 0.5px;
         }
-        
-        /* Navigation */
         .sidebar-nav {
             padding: 16px 12px;
             border-bottom: 1px solid var(--border-color);
         }
-        
         .nav-item {
             display: flex;
             align-items: center;
@@ -99,23 +85,15 @@
             color: var(--text-secondary);
             font-size: 13px;
         }
-        
         .nav-item:hover {
             background: var(--bg-card);
             color: var(--text-primary);
         }
-        
         .nav-item.active {
             background: rgba(0, 229, 255, 0.08);
             color: var(--accent-cyan);
         }
-        
-        .nav-item-icon {
-            font-size: 16px;
-            width: 20px;
-            text-align: center;
-        }
-        
+        .nav-item-icon { font-size: 16px; width: 20px; text-align: center; }
         .nav-item-count {
             margin-left: auto;
             font-size: 11px;
@@ -124,142 +102,35 @@
             padding: 2px 8px;
             border-radius: 10px;
         }
-        
-        .nav-item.active .nav-item-count {
-            background: var(--accent-cyan);
-            color: var(--bg-primary);
-        }
-        
-        /* Date Section */
-        .date-section {
-            padding: 20px 16px;
-            border-bottom: 1px solid var(--border-color);
-        }
-        
-        .date-section-title {
-            font-size: 10px;
-            font-weight: 600;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 1.2px;
-            margin-bottom: 12px;
-            padding: 0 4px;
-        }
-        
-        .date-list {
-            display: flex;
-            flex-direction: column;
-            gap: 2px;
-        }
-        
-        .date-item {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            padding: 10px 12px;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: all 0.15s ease;
-        }
-        
-        .date-item:hover {
-            background: var(--bg-card);
-        }
-        
-        .date-item.active {
-            background: var(--bg-card);
-        }
-        
-        .date-item-day {
-            width: 32px;
-            height: 32px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 8px;
-            font-size: 14px;
-            font-weight: 600;
-            color: var(--text-muted);
-            background: var(--bg-primary);
-            transition: all 0.15s ease;
-        }
-        
-        .date-item:hover .date-item-day {
-            color: var(--text-secondary);
-        }
-        
-        .date-item.active .date-item-day {
-            background: var(--accent-cyan);
-            color: var(--bg-primary);
-        }
-        
-        .date-item.active.today .date-item-day {
-            background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple));
-            color: white;
-            box-shadow: 0 2px 8px rgba(0, 229, 255, 0.3);
-        }
-        
-        .date-item-info {
-            flex: 1;
-            min-width: 0;
-        }
-        
-        .date-item-weekday {
-            font-size: 12px;
-            color: var(--text-secondary);
-        }
-        
-        .date-item.active .date-item-weekday {
-            color: var(--text-primary);
-        }
-        
-        .date-item-meta {
-            font-size: 11px;
-            color: var(--text-muted);
-            margin-top: 2px;
-        }
-        
-        .date-item.active .date-item-meta {
-            color: var(--accent-cyan);
-        }
-        
-        /* Stats */
         .sidebar-stats {
             padding: 20px 16px;
             border-bottom: 1px solid var(--border-color);
         }
-        
         .stats-grid {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 8px;
         }
-        
         .stat-box {
             background: var(--bg-card);
             border-radius: 8px;
             padding: 12px 8px;
             text-align: center;
         }
-        
         .stat-number {
             font-size: 18px;
             font-weight: 700;
             color: var(--accent-cyan);
         }
-        
         .stat-text {
             font-size: 10px;
             color: var(--text-muted);
             margin-top: 4px;
         }
-        
-        /* Categories */
         .sidebar-categories {
             padding: 16px 12px;
             flex: 1;
         }
-        
         .category-title {
             font-size: 10px;
             font-weight: 600;
@@ -269,7 +140,6 @@
             margin-bottom: 12px;
             padding: 0 4px;
         }
-        
         .category-item {
             display: flex;
             align-items: center;
@@ -281,216 +151,80 @@
             color: var(--text-secondary);
             font-size: 12px;
         }
-        
         .category-item:hover {
             background: var(--bg-card);
             color: var(--text-primary);
         }
-        
         .category-dot {
-            width: 8px;
-            height: 8px;
+            width: 8px; height: 8px;
             border-radius: 50%;
         }
-        
-        .category-item-name {
-            flex: 1;
-        }
-        
-        .category-item-count {
-            font-size: 11px;
-            color: var(--text-muted);
-        }
-        
-        /* Footer */
+        .category-item-name { flex: 1; }
+        .category-item-count { font-size: 11px; color: var(--text-muted); }
         .sidebar-footer {
             padding: 16px 20px;
             border-top: 1px solid var(--border-color);
             margin-top: auto;
         }
-        
         .footer-text {
             font-size: 11px;
             color: var(--text-muted);
             text-align: center;
         }
-        
-        /* ===== MAIN ===== */
         .main-content { 
             margin-left: var(--sidebar-width); 
             background: var(--bg-primary); 
             min-height: 100vh;
         }
-        
-        /* Hero Section */
         .hero {
             padding: 32px 40px;
             background: linear-gradient(180deg, var(--bg-secondary) 0%, var(--bg-primary) 100%);
             border-bottom: 1px solid var(--border-color);
         }
-        
-        .hero-top {
-            display: flex; justify-content: space-between;
-            align-items: flex-start; margin-bottom: 20px;
-        }
-        
         .hero-date {
             font-size: 13px; color: var(--text-muted);
             display: flex; align-items: center; gap: 8px;
         }
-        
         .hero-date::before {
             content: ''; width: 6px; height: 6px;
             background: var(--accent-green); border-radius: 50%;
             animation: pulse 2s infinite;
         }
-        
         @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
-        
-        .hero-badge {
-            font-size: 11px; font-weight: 600;
-            padding: 4px 10px; border-radius: 20px;
-            text-transform: uppercase; letter-spacing: 1px;
-        }
-        
-        .badge-hot { background: linear-gradient(135deg, var(--accent-pink), #ff6b9d); color: white; }
-        .badge-new { background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple)); color: white; }
-        .badge-design { background: linear-gradient(135deg, var(--accent-orange), #ff9500); color: white; }
-        
         .hero-title {
             font-size: 32px; font-weight: 900; line-height: 1.2;
-            margin-bottom: 12px;
+            margin: 16px 0 12px;
             background: linear-gradient(135deg, #fff 0%, #a0a0b0 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
-        
         .hero-desc { font-size: 15px; color: var(--text-secondary); max-width: 700px; }
-        
-        .stats {
-            display: flex; gap: 32px;
-            margin-top: 24px; padding-top: 20px;
-            border-top: 1px solid var(--border-color);
-        }
-        
-        .stat { display: flex; flex-direction: column; }
-        .stat-value-main { font-size: 24px; font-weight: 700; color: var(--accent-cyan); }
-        .stat-label { font-size: 12px; color: var(--text-muted); }
-        
-        /* Content */
         main { padding: 32px 40px 60px; }
-        
-        /* Featured Cards */
-        .featured { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px; }
-        
-        .featured-card {
-            background: var(--bg-card); border: 1px solid var(--border-color);
-            border-radius: 16px; padding: 24px;
-            cursor: pointer; transition: all 0.3s ease;
-            position: relative; overflow: hidden;
+        .empty-state {
+            text-align: center;
+            padding: 80px 40px;
+            color: var(--text-muted);
         }
-        
-        .featured-card:hover { transform: translateY(-4px); border-color: rgba(0,229,255,0.3); }
-        
-        .featured-card::before {
-            content: ''; position: absolute;
-            top: 0; left: 0; width: 4px; height: 100%;
-        }
-        
-        .featured-card.cyan::before { background: var(--accent-cyan); }
-        .featured-card.purple::before { background: var(--accent-purple); }
-        .featured-card.pink::before { background: var(--accent-pink); }
-        .featured-card.orange::before { background: var(--accent-orange); }
-        
-        .featured-label {
-            font-size: 10px; font-weight: 600;
-            text-transform: uppercase; letter-spacing: 1px;
-            margin-bottom: 12px; display: inline-block;
-        }
-        
-        .featured-card.cyan .featured-label { color: var(--accent-cyan); }
-        .featured-card.purple .featured-label { color: var(--accent-purple); }
-        .featured-card.pink .featured-label { color: var(--accent-pink); }
-        .featured-card.orange .featured-label { color: var(--accent-orange); }
-        
-        .featured-title { font-size: 18px; font-weight: 700; line-height: 1.4; margin-bottom: 10px; }
-        .featured-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.6; }
-        
-        .featured-link {
-            display: inline-block; margin-top: 12px;
-            font-size: 12px; color: var(--accent-cyan);
-            text-decoration: none;
-        }
-        .featured-link:hover { text-decoration: underline; }
-        
-        /* Category Section */
-        .category { margin-bottom: 36px; }
-        
-        .category-header {
-            display: flex; align-items: center; gap: 12px; margin-bottom: 20px;
-        }
-        
-        .category-icon {
-            width: 36px; height: 36px; border-radius: 10px;
-            display: flex; align-items: center; justify-content: center;
-            font-size: 16px;
-        }
-        
-        .category-icon.design { background: linear-gradient(135deg, #f59e0b, #d97706); }
-        .category-icon.llm { background: linear-gradient(135deg, #3b82f6, #1d4ed8); }
-        .category-icon.github { background: linear-gradient(135deg, #6366f1, #4f46e5); }
-        .category-icon.video { background: linear-gradient(135deg, #ef4444, #dc2626); }
-        .category-icon.devtools { background: linear-gradient(135deg, #10b981, #059669); }
-        .category-icon.rag { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
-        
-        .category-title { font-size: 16px; font-weight: 700; }
-        
-        .category-line {
-            flex: 1; height: 1px;
-            background: linear-gradient(90deg, var(--border-color), transparent);
-        }
-        
-        /* Cards Grid */
-        .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
-        
-        .card {
-            background: var(--bg-card); border: 1px solid var(--border-color);
-            border-radius: 12px; padding: 18px;
-            transition: all 0.25s ease;
-        }
-        
-        .card:hover { background: var(--bg-card-hover); transform: translateY(-2px); border-color: rgba(255,255,255,0.15); }
-        
-        .card-title { font-size: 14px; font-weight: 600; line-height: 1.5; margin-bottom: 8px; }
-        .card-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.6; }
-        
-        .card-link {
-            display: inline-block; margin-top: 10px;
-            font-size: 12px; color: var(--accent-cyan);
-            text-decoration: none;
-        }
-        .card-link:hover { text-decoration: underline; }
-        
-        /* Footer */
+        .empty-state-icon { font-size: 64px; margin-bottom: 20px; }
+        .empty-state h2 { font-size: 20px; color: var(--text-secondary); margin-bottom: 8px; }
+        .empty-state p { font-size: 14px; }
         footer {
-            padding: 24px 40px; border-top: 1px solid var(--border-color);
-            text-align: center; color: var(--text-muted); font-size: 12px;
+            padding: 24px 40px;
+            border-top: 1px solid var(--border-color);
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 12px;
         }
-        
         footer a { color: var(--accent-cyan); text-decoration: none; }
-        
-        /* Responsive */
         @media (max-width: 900px) {
             .sidebar { width: 100%; height: auto; position: relative; border-right: none; border-bottom: 1px solid var(--border-color); }
             .main-content { margin-left: 0; }
             .hero, main, footer { padding-left: 20px; padding-right: 20px; }
-            .featured { grid-template-columns: 1fr; }
             .hero-title { font-size: 24px; }
         }
     </style>
 </head>
 <body>
-    <!-- Sidebar -->
     <aside class="sidebar">
         <div class="sidebar-header">
             <div class="logo">
@@ -498,383 +232,63 @@
                 <div class="logo-text">AI 日报</div>
             </div>
         </div>
-        
-        <!-- Navigation -->
         <nav class="sidebar-nav">
             <div class="nav-item active">
                 <span class="nav-item-icon">📅</span>
                 <span>今日资讯</span>
-                <span class="nav-item-count">24</span>
+                <span class="nav-item-count">0</span>
             </div>
             <div class="nav-item">
                 <span class="nav-item-icon">⭐</span>
                 <span>热门资讯</span>
-                <span class="nav-item-count">8</span>
+                <span class="nav-item-count">0</span>
             </div>
             <div class="nav-item">
                 <span class="nav-item-icon">📌</span>
                 <span>我的收藏</span>
-                <span class="nav-item-count">3</span>
+                <span class="nav-item-count">0</span>
             </div>
         </nav>
-        
-        <!-- Date Section -->
-        <div class="date-section">
-            <div class="date-section-title">最近更新</div>
-            <div class="date-list">
-                <div class="date-item active today" data-date="2026-04-22">
-                    <div class="date-item-day">22</div>
-                    <div class="date-item-info">
-                        <div class="date-item-weekday">今天</div>
-                        <div class="date-item-meta">24 条新资讯</div>
-                    </div>
-                </div>
-                <div class="date-item" data-date="2026-04-21">
-                    <div class="date-item-day">21</div>
-                    <div class="date-item-info">
-                        <div class="date-item-weekday">昨天</div>
-                        <div class="date-item-meta">18 条资讯</div>
-                    </div>
-                </div>
-                <div class="date-item" data-date="2026-04-20">
-                    <div class="date-item-day">20</div>
-                    <div class="date-item-info">
-                        <div class="date-item-weekday">周一</div>
-                        <div class="date-item-meta">22 条资讯</div>
-                    </div>
-                </div>
-                <div class="date-item" data-date="2026-04-19">
-                    <div class="date-item-day">19</div>
-                    <div class="date-item-info">
-                        <div class="date-item-weekday">周日</div>
-                        <div class="date-item-meta">15 条资讯</div>
-                    </div>
-                </div>
-                <div class="date-item" data-date="2026-04-18">
-                    <div class="date-item-day">18</div>
-                    <div class="date-item-info">
-                        <div class="date-item-weekday">周六</div>
-                        <div class="date-item-meta">12 条资讯</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <!-- Stats -->
         <div class="sidebar-stats">
             <div class="stats-grid">
                 <div class="stat-box">
-                    <div class="stat-number">276</div>
+                    <div class="stat-number">0</div>
                     <div class="stat-text">总资讯</div>
                 </div>
                 <div class="stat-box">
-                    <div class="stat-number">6</div>
+                    <div class="stat-number">0</div>
                     <div class="stat-text">分类</div>
                 </div>
                 <div class="stat-box">
-                    <div class="stat-number">22</div>
+                    <div class="stat-number">0</div>
                     <div class="stat-text">天</div>
                 </div>
             </div>
         </div>
-        
-        <!-- Categories -->
         <div class="sidebar-categories">
             <div class="category-title">分类浏览</div>
-            <div class="category-item">
-                <span class="category-dot" style="background: #f59e0b;"></span>
-                <span class="category-item-name">AI 设计工具</span>
-                <span class="category-item-count">6</span>
-            </div>
-            <div class="category-item">
-                <span class="category-dot" style="background: #3b82f6;"></span>
-                <span class="category-item-name">大模型动态</span>
-                <span class="category-item-count">4</span>
-            </div>
-            <div class="category-item">
-                <span class="category-dot" style="background: #ef4444;"></span>
-                <span class="category-item-name">AI 视频生成</span>
-                <span class="category-item-count">4</span>
-            </div>
-            <div class="category-item">
-                <span class="category-dot" style="background: #8b5cf6;"></span>
-                <span class="category-item-name">AI 开发工具</span>
-                <span class="category-item-count">3</span>
-            </div>
-            <div class="category-item">
-                <span class="category-dot" style="background: #10b981;"></span>
-                <span class="category-item-name">即时设计</span>
-                <span class="category-item-count">2</span>
-            </div>
         </div>
-        
-        <!-- Footer -->
         <div class="sidebar-footer">
             <div class="footer-text">每日 9:00 自动更新</div>
         </div>
     </aside>
     
-    <!-- Main Content -->
     <div class="main-content">
-        <!-- Hero -->
         <div class="hero">
-            <div class="hero-top">
-                <div class="hero-date">2026年4月22日 星期三</div>
-                <div style="display:flex;gap:8px;">
-                    <span class="hero-badge badge-design">🎨 设计</span>
-                    <span class="hero-badge badge-hot">🔥 热门</span>
-                </div>
-            </div>
-            <h1 class="hero-title">Claude Design 发布 · Sora 正式关停</h1>
-            <p class="hero-desc">Anthropic 发布 Claude Design 可一句话生成商业级设计原型；OpenAI 于3月24日正式关停 Sora；Runway Gen-4 获 3.08 亿美元融资，估值超 30 亿美元。</p>
-            
-            <div class="stats">
-                <div class="stat"><span class="stat-value-main">276</span><span class="stat-label">本月资讯总数</span></div>
-                <div class="stat"><span class="stat-value-main">6</span><span class="stat-label">覆盖领域</span></div>
-                <div class="stat"><span class="stat-value-main">22</span><span class="stat-label">更新天数</span></div>
-            </div>
+            <div class="hero-date">等待更新...</div>
+            <h1 class="hero-title">暂无资讯</h1>
+            <p class="hero-desc">日报将于每日 9:00 自动抓取并更新内容。</p>
         </div>
-        
         <main>
-            <!-- Featured -->
-            <div class="featured">
-                <article class="featured-card orange">
-                    <span class="featured-label">🎨 AI设计</span>
-                    <h3 class="featured-title">Claude Design 发布：输入大白话，一秒生成可交互原型</h3>
-                    <p class="featured-desc">Figma 股价闪崩，Anthropic 发布 Claude Design，可直接生成商业级设计原型并转化为可运行代码。</p>
-                    <a href="https://www.36kr.com/p/3774555927950089" target="_blank" class="featured-link">阅读原文 →</a>
-                </article>
-                <article class="featured-card pink">
-                    <span class="featured-label">🎬 视频生成</span>
-                    <h3 class="featured-title">Sora 正式关停：上线仅六个月</h3>
-                    <p class="featured-desc">OpenAI 于3月24日宣布关停 Sora，涵盖独立 App、API 接口及 ChatGPT 内嵌视频功能。</p>
-                    <a href="https://www.toutiao.com/article/7623645029105435178/" target="_blank" class="featured-link">阅读原文 →</a>
-                </article>
-                <article class="featured-card cyan">
-                    <span class="featured-label">🧠 大模型</span>
-                    <h3 class="featured-title">GPT-6 预训练完成：200万Token上下文</h3>
-                    <p class="featured-desc">预计6月开放 API，革命性突破，上下文窗口相当于两部中篇小说。</p>
-                    <a href="https://blog.csdn.net/lyy_kao/article/details/160027453" target="_blank" class="featured-link">阅读原文 →</a>
-                </article>
-                <article class="featured-card purple">
-                    <span class="featured-label">💰 融资</span>
-                    <h3 class="featured-title">Runway 融资 3.08 亿美元，估值超 30 亿</h3>
-                    <p class="featured-desc">视频生成公司 Runway 完成最新一轮融资，由 General Atlantic 领投。</p>
-                    <a href="https://geekape.net/tools/DH152" target="_blank" class="featured-link">阅读原文 →</a>
-                </article>
+            <div class="empty-state">
+                <div class="empty-state-icon">📭</div>
+                <h2>今日资讯待生成</h2>
+                <p>内容将于每天 9:00（Asia/Shanghai）自动更新，请稍后再来。</p>
             </div>
-            
-            <!-- AI 设计工具 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon design">🎨</div>
-                    <h2 class="category-title">AI 设计工具</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">Claude Design vs Figma：AI 设计工具正面交锋</h3>
-                        <p class="card-desc">Claude Design 可一句话生成商业级原型并转代码，Figma 股价闪崩。用户不用懂图层，输入大白话即可生成可交互设计。</p>
-                        <a href="https://www.36kr.com/p/3774555927950089" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">2026年UI/UX设计师AI工具横评</h3>
-                        <p class="card-desc">UXbot 是目前国内唯一支持从需求描述到完整多页面可交互App界面和可交付前端代码的AI工具。</p>
-                        <a href="https://www.sohu.com/a/1012523639_122725705" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">设计师专属AI工具箱：5个工具让设计效率提升300%</h3>
-                        <p class="card-desc">Midjourney V6 细节之王、Figma AI 设计系统智能伙伴、Adobe Firefly 深度整合 Photoshop 2026。</p>
-                        <a href="https://www.toutiao.com/article/7628054966998532651/" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">2026年UI设计师工具推荐</h3>
-                        <p class="card-desc">从界面设计到AI原生代码生成全覆盖，涵盖 Figma、Adobe 全家桶、UXbot、即时设计等主流工具。</p>
-                        <a href="https://blog.csdn.net/weixin_41291988/article/details/159798287" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">5款主流AI原型工具实测分享</h3>
-                        <p class="card-desc">UXbot AI、Uizard AI、Framer AI、Axure AI、Figma Make 实测对比，覆盖原型生成到代码交付全流程。</p>
-                        <a href="https://blog.csdn.net/weixin_41291988/article/details/158384873" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Figma 2026 设计师状态报告</h3>
-                        <p class="card-desc">72%的设计师已使用生成式AI工具，98%增加AI使用频率，89%认为AI让工作更快。</p>
-                        <a href="https://www.sohu.com/a/1009683188_121956425" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- AI 绘图 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon design">🖼️</div>
-                    <h2 class="category-title">AI 绘图 / 图像生成</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">2026年主流AI绘画软件最新排名</h3>
-                        <p class="card-desc">Midjourney V7 画质出色、Stable Diffusion 可玩性最高、海艺AI 80万+模型生态、文心一格国风专精。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_27169cb806f32252" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Midjourney V6 实测：细节之王</h3>
-                        <p class="card-desc">支持 2048×2048 原生输出、文字渲染高精度、手指修复大幅改进、可训练专属风格 LoRA。</p>
-                        <a href="https://www.toutiao.com/article/7628054966998532651/" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Adobe Illustrator 2026 新功能</h3>
-                        <p class="card-desc">AI 驱动的图像描摹、Firefly 生成式重新着色、转盘功能可将2D矢量转为可交互3D。</p>
-                        <a href="http://www.ddooo.com/softdown/212461.htm" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">南开大学破解AI绘画速度难题</h3>
-                        <p class="card-desc">用"方向感"让机器一步画出完美图像，发表在计算机视觉顶级期刊。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_43369c1121679052" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- AI 视频生成 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon video">🎬</div>
-                    <h2 class="category-title">AI 视频生成</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">AI视频生成三足鼎立新格局</h3>
-                        <p class="card-desc">Runway Gen-4、Sora Pro 与国产工具的2026新格局，分辨率突破8K、支持电影级RAW格式导出。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_92169db088556452" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Runway Gen-4 解决跨场景角色一致性</h3>
-                        <p class="card-desc">这是之前大多数AI视频生成器无法做到的，可生成720p分辨率的5-10秒视频片段。</p>
-                        <a href="https://ai.zhiding.cn/2025/0401/3164896.shtml" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">2026年AI视频生成工具实测对比</h3>
-                        <p class="card-desc">10款主流工具深度对比：海艺AI、可灵AI、即梦AI、Runway、Google Veo、Sora等。</p>
-                        <a href="https://blog.csdn.net/johnyjohny/article/details/160194053" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">快手 Kling：国产视频生成领跑</h3>
-                        <p class="card-desc">国内视频生成领跑者，支持中文提示词，本土化优势明显。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_05269ddf1ee38652" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- 大模型动态 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon llm">🧠</div>
-                    <h2 class="category-title">大模型动态</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">GPT-6 预训练完成：200万Token上下文</h3>
-                        <p class="card-desc">预计6月开放API，上下文窗口相当于两部中篇小说或10小时音频，彻底解决内容截断痛点。</p>
-                        <a href="https://blog.csdn.net/lyy_kao/article/details/160027453" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">2026年AI大模型战局</h3>
-                        <p class="card-desc">Claude 4 和 GPT-5 在代码方面领先，Gemini 3 擅长长文档处理，国内模型中文能力已不逊海外。</p>
-                        <a href="https://blog.csdn.net/weixin_55154866/article/details/159729398" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">大模型API价格一览</h3>
-                        <p class="card-desc">GPT-5 $5/$15 per 1M tokens，Claude Opus 4.6 $15/$75，DeepSeek V3 仅 ¥2/¥8。</p>
-                        <a href="https://blog.csdn.net/ofoxcoding/article/details/159350722" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">SuperCLUE中文大模型基准</h3>
-                        <p class="card-desc">Claude-Opus-4.6、Gemini-3.1-Pro、GPT-5.4 分列前三。</p>
-                        <a href="https://blog.csdn.net/which_which/article/details/160055571" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- AI 开发工具 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon devtools">🛠️</div>
-                    <h2 class="category-title">AI 开发工具</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">2026年主流AI工具分类全解析</h3>
-                        <p class="card-desc">智能体工具（OpenClaw、MaxClaw等）、通用AI工具（ChatGPT、DeepSeek）、垂直场景工具。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_92969d5e0b403152" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Claude Code + Figma AI 画原型教程</h3>
-                        <p class="card-desc">从 PRD 到设计稿只要 5 分钟，支持 MCP 自动推送。</p>
-                        <a href="https://blog.csdn.net/qq_42801126/article/details/158822756" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">7款 AI Web UI 生成工具深度评测</h3>
-                        <p class="card-desc">Framer AI、Webflow AI、Reluma AI、Wegic、Google Stitch、Uizard、UXbot 全面对比。</p>
-                        <a href="https://segmentfault.com/a/1190000047688729" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- 即时设计 -->
-            <section class="category">
-                <div class="category-header">
-                    <div class="category-icon design">⚡</div>
-                    <h2 class="category-title">即时设计 / 国产工具</h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">2026值得尝试的5个AI网站设计工具</h3>
-                        <p class="card-desc">即时设计偏向专业UI/UX设计与原型制作，完全免费的在线工具，AI辅助设计能力加持。</p>
-                        <a href="https://js.design/special/article/ai-website-creation.html" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">海艺AI：80万+模型生态</h3>
-                        <p class="card-desc">限时免费，网页/APP/小程序三端，ControlNet+LoRA专业功能。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_27169cb806f32252" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
         </main>
-        
         <footer>
-            <p>Powered by <a href="#">OpenClaw</a> · 每日 9:00 自动更新 · 数据来源：真实搜索</p>
+            <p>Powered by <a href="#">OpenClaw</a> · 每日 9:00 自动更新</p>
         </footer>
     </div>
-    
-    <script>
-        // Date item click
-        document.querySelectorAll('.date-item').forEach(item => {
-            item.addEventListener('click', () => {
-                document.querySelectorAll('.date-item').forEach(i => i.classList.remove('active'));
-                item.classList.add('active');
-            });
-        });
-        
-        // Nav item click
-        document.querySelectorAll('.nav-item').forEach(item => {
-            item.addEventListener('click', () => {
-                document.querySelectorAll('.nav-item').forEach(i => i.classList.remove('active'));
-                item.classList.add('active');
-            });
-        });
-        
-        // Category item click
-        document.querySelectorAll('.category-item').forEach(item => {
-            item.addEventListener('click', () => {
-                document.querySelectorAll('.category-item').forEach(i => i.style.background = '');
-                item.style.background = 'var(--bg-card-hover)';
-            });
-        });
-    </script>
 </body>
 </html>
