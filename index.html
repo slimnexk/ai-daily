@@ -581,8 +581,11 @@ function loadDateContent(dateStr) {
     } else {
         // 有数据日期：显示内容
         emptyState.style.display = 'none';
-        featured.style.display = '';
-        document.querySelectorAll('.cat-section').forEach(function(s){ s.classList.remove('hidden'); });
+        document.getElementById('featured-section').style.display = '';
+        document.querySelectorAll('#contentBody > .cat-section').forEach(function(s){
+            s.style.display = '';
+            s.classList.remove('hidden');
+        });
         document.getElementById('hero-date').textContent = dateStr;
         document.getElementById('hero-title').textContent = data.title;
         document.getElementById('hero-desc').textContent = data.desc;
@@ -606,15 +609,18 @@ function filterCat(cat, e) {
         el.classList.toggle('active', el.dataset.cat === cat);
     });
 
-    // 更新内容显示
+    // 更新内容显示（featured 用 inline style，categories 用 classList）
     var featured = document.getElementById('featured-section');
+    var sections = document.querySelectorAll('#contentBody > .cat-section');
     if (cat === 'all') {
         featured.style.display = '';
-        document.querySelectorAll('.cat-section').forEach(function(s){ s.classList.remove('hidden'); });
+        sections.forEach(function(s){ s.style.display = ''; s.classList.remove('hidden'); });
     } else {
         featured.style.display = 'none';
-        document.querySelectorAll('.cat-section').forEach(function(s){
-            s.classList.toggle('hidden', s.dataset.cat !== cat);
+        sections.forEach(function(s){
+            var match = (s.dataset.cat === cat);
+            s.classList.toggle('hidden', !match);
+            if (match) s.style.display = '';
         });
     }
 
