@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-22",
+  "llm": [
+    { "title": "GPT-6预训练完成，6月即将发布", "desc": "上下文窗口扩容至200万Token，采用全新稀疏混合架构", "solve": "有效激活参数达2.3万亿，训练能耗降低40%，多模态原生融合" },
+    { "title": "中国AI模型周调用量首超美国", "desc": "截至2026年3月，中国日均Token调用量超140万亿", "solve": "国产模型DeepSeek R1、Qwen系列、豆包等相继发布" },
+    { "title": "GPT-5.4系列发布", "desc": "Pro/Thinking/xhigh三版本，推理与Agent能力双突破", "solve": "SWE-Bench Pro测试成功率57.7%，支持原生计算机操作" }
+  ],
+  "github": [
+    { "title": "OpenClaw", "desc": "302k Star，面向个人场景的开源AI助手", "solve": "强调跨平台执行任务" },
+    { "title": "Overstory", "desc": "多AI代理编排框架，专为AI编码代理设计", "solve": "支持自定义运行时适配器" },
+    { "title": "DeepSeek Coder", "desc": "2月Star数首次超越OpenAI", "solve": "V2版本1.3B到236B多种规格全部开源" }
+  ],
+  "video": [
+    { "title": "Runway Gen-4.5发布", "desc": "Elo评测得分1247超越Sora 2和Veo 3", "solve": "具备更高视觉逼真度，生成电影级动态画面" },
+    { "title": "Sora突遭关停", "desc": "OpenAI 3月25日宣布关停Sora", "solve": "算力需求过高，需断臂谋上市" }
+  ],
+  "devtools": [
+    { "title": "Trae(字节跳动)", "desc": "AI原生IDE，SOLO模式支持全流程自主开发", "solve": "中文指令识别准确率98%，个人版完全免费" },
+    { "title": "Vibe Coding编程模式", "desc": "2026年主流趋势", "solve": "自然语言描述需求即可生成代码" }
+  ],
+  "rag": [
+    { "title": "上下文检索技术", "desc": "上下文嵌入+上下文BM25", "solve": "检索未命中率减少49%，结合重新排序后减少67%" },
+    { "title": "Graph-RAG新范式", "desc": "构建实体-关系图，检索变成路径推理", "solve": "支持多跳reasoning" }
+  ],
+  "other": [
+    { "title": "Anthropic寻求3500亿美元估值融资", "desc": "较4个月前1700亿美元估值翻倍", "solve": "微软、英伟达承诺投资" },
+    { "title": "垂直大模型崛起", "desc": "代码大模型代码生成准确率达资深工程师85%", "solve": "生物医疗大模型可独立完成分子筛选" }
+  ]
+}
