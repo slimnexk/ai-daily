@@ -34,6 +34,9 @@
             line-height: 1.6;
             min-height: 100vh;
         }
+        a { color: inherit; text-decoration: none; }
+
+        /* ── 侧边栏 ── */
         .sidebar {
             width: var(--sidebar-width);
             background: var(--bg-secondary);
@@ -51,38 +54,41 @@
         .logo-icon { width: 34px; height: 34px; background: linear-gradient(135deg, var(--accent-cyan) 0%, var(--accent-purple) 100%); border-radius: 9px; display: flex; align-items: center; justify-content: center; font-size: 16px; }
         .logo-text { font-size: 14px; font-weight: 600; letter-spacing: 0.5px; }
         .sidebar-nav { padding: 12px 10px; border-bottom: 1px solid var(--border-color); }
-        .nav-item { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border-radius: 8px; cursor: pointer; transition: all 0.15s ease; color: var(--text-secondary); font-size: 12px; text-decoration: none; }
+        .nav-item { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border-radius: 8px; cursor: pointer; color: var(--text-secondary); font-size: 12px; transition: all 0.15s; }
         .nav-item:hover { background: var(--bg-card); color: var(--text-primary); }
-        .nav-item.active { background: rgba(0, 229, 255, 0.08); color: var(--accent-cyan); }
         .nav-item-icon { font-size: 14px; width: 18px; text-align: center; }
         .nav-item-count { margin-left: auto; font-size: 10px; color: var(--text-muted); background: var(--bg-card); padding: 2px 7px; border-radius: 10px; }
-        .sidebar-stats { padding: 16px 12px; border-bottom: 1px solid var(--border-color); }
+
+        /* 日期选择器 */
+        .date-selector { padding: 14px 12px; border-bottom: 1px solid var(--border-color); display: flex; flex-direction: column; gap: 6px; }
+        .date-selector-label { font-size: 10px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1.2px; }
+        .date-select { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 8px; color: var(--text-primary); padding: 7px 10px; font-size: 12px; cursor: pointer; font-family: inherit; width: 100%; outline: none; appearance: none; -webkit-appearance: none; }
+        .date-select:hover, .date-select:focus { border-color: var(--accent-cyan); }
+
+        .sidebar-stats { padding: 14px 12px; border-bottom: 1px solid var(--border-color); }
         .stats-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
         .stat-box { background: var(--bg-card); border-radius: 8px; padding: 10px 6px; text-align: center; }
         .stat-number { font-size: 16px; font-weight: 700; color: var(--accent-cyan); }
         .stat-text { font-size: 9px; color: var(--text-muted); margin-top: 3px; }
         .sidebar-categories { padding: 12px 10px; flex: 1; }
-        .category-title { font-size: 10px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1.2px; margin-bottom: 10px; padding: 0 4px; }
-        .category-item { display: flex; align-items: center; gap: 8px; padding: 7px 10px; border-radius: 8px; cursor: pointer; transition: all 0.15s ease; color: var(--text-secondary); font-size: 12px; }
-        .category-item:hover { background: var(--bg-card); color: var(--text-primary); }
-        .category-item.active { background: var(--bg-card-hover); color: var(--text-primary); font-weight: 500; }
+        .category-title-label { font-size: 10px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1.2px; margin-bottom: 10px; padding: 0 4px; }
+        .cat-link { display: flex; align-items: center; gap: 8px; padding: 7px 10px; border-radius: 8px; color: var(--text-secondary); font-size: 12px; transition: all 0.15s; cursor: pointer; }
+        .cat-link:hover { background: var(--bg-card); color: var(--text-primary); }
+        .cat-link.active { background: var(--bg-card-hover); color: var(--text-primary); font-weight: 500; }
+        .cat-link-count { margin-left: auto; font-size: 10px; color: var(--text-muted); }
         .category-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
-        .category-item-name { flex: 1; }
-        .category-item-count { font-size: 10px; color: var(--text-muted); }
         .sidebar-footer { padding: 14px 16px; border-top: 1px solid var(--border-color); margin-top: auto; }
         .footer-text { font-size: 11px; color: var(--text-muted); text-align: center; }
+
+        /* ── 主内容区 ── */
         .main-content { margin-left: var(--sidebar-width); background: var(--bg-primary); min-height: 100vh; }
+
+        /* Hero */
         .hero { padding: 24px 40px 20px; background: linear-gradient(180deg, var(--bg-secondary) 0%, var(--bg-primary) 100%); border-bottom: 1px solid var(--border-color); }
-        .hero-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; flex-wrap: wrap; gap: 10px; }
-        .hero-left { display: flex; align-items: center; gap: 12px; }
-        .hero-date { font-size: 13px; color: var(--text-muted); display: flex; align-items: center; gap: 8px; }
+        .hero-date { font-size: 13px; color: var(--text-muted); display: flex; align-items: center; gap: 8px; margin-bottom: 12px; }
         .hero-date::before { content: ''; width: 6px; height: 6px; background: var(--accent-green); border-radius: 50%; animation: pulse 2s infinite; }
         @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
-        .date-picker-wrap { position: relative; display: flex; align-items: center; gap: 6px; }
-        .date-picker-label { font-size: 12px; color: var(--text-muted); }
-        .date-picker { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 8px; color: var(--text-primary); padding: 6px 10px; font-size: 12px; cursor: pointer; font-family: inherit; outline: none; transition: border-color 0.2s; }
-        .date-picker:hover, .date-picker:focus { border-color: var(--accent-cyan); }
-        .hero-badges { display: flex; gap: 6px; flex-wrap: wrap; }
+        .hero-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
         .hero-badge { font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 20px; text-transform: uppercase; letter-spacing: 1px; }
         .badge-hot { background: linear-gradient(135deg, var(--accent-pink), #ff6b9d); color: white; }
         .badge-new { background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple)); color: white; }
@@ -92,11 +98,10 @@
         .hero-stat { display: flex; flex-direction: column; }
         .hero-stat-val { font-size: 22px; font-weight: 700; color: var(--accent-cyan); }
         .hero-stat-lbl { font-size: 11px; color: var(--text-muted); }
-        .hero-filter-bar { display: flex; align-items: center; gap: 8px; margin-top: 14px; flex-wrap: wrap; }
-        .filter-chip { font-size: 11px; padding: 4px 10px; border-radius: 20px; background: var(--bg-card); border: 1px solid var(--border-color); color: var(--text-secondary); cursor: pointer; transition: all 0.15s; font-family: inherit; }
-        .filter-chip:hover { border-color: rgba(0,229,255,0.4); color: var(--text-primary); }
-        .filter-chip.active { background: rgba(0,229,255,0.1); border-color: var(--accent-cyan); color: var(--accent-cyan); }
+
+        /* ── 分类区块 ── */
         main { padding: 28px 40px 60px; }
+
         .featured { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 36px; }
         .featured-card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 14px; padding: 20px; cursor: pointer; transition: all 0.3s ease; position: relative; overflow: hidden; }
         .featured-card:hover { transform: translateY(-3px); border-color: rgba(0,229,255,0.3); box-shadow: 0 8px 30px rgba(0,0,0,0.3); }
@@ -114,8 +119,9 @@
         .featured-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.6; }
         .featured-link { display: inline-block; margin-top: 10px; font-size: 12px; color: var(--accent-cyan); text-decoration: none; }
         .featured-link:hover { text-decoration: underline; }
+
+        /* ── 分类筛选（CSS :target）── */
         .category { margin-bottom: 32px; }
-        .category.hidden { display: none; }
         .category-header { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
         .category-icon { width: 32px; height: 32px; border-radius: 9px; display: flex; align-items: center; justify-content: center; font-size: 14px; flex-shrink: 0; }
         .category-icon.design { background: linear-gradient(135deg, #f59e0b, #d97706); }
@@ -137,8 +143,28 @@
         .card-desc { font-size: 12px; color: var(--text-secondary); line-height: 1.6; }
         .card-link { display: inline-block; margin-top: 8px; font-size: 11px; color: var(--accent-cyan); text-decoration: none; }
         .card-link:hover { text-decoration: underline; }
+
+        /* ── :target 筛选逻辑 ── */
+        /* 默认全部显示，锚点时只显示目标分类 */
+        .category { display: block; }
+        .featured { display: grid; }
+
+        /* 锚点到某分类时，隐藏其他分类 */
+        .category:target { display: block; }
+        .category:target ~ .category:not(:target) { display: none; }
+        /* featured 在锚点激活时隐藏 */
+        .featured:target { display: grid; }
+        .featured:not(:target) { display: none; }
+
+        /* 当锚点不是 all 时隐藏 featured */
+        :target ~ .featured { display: none !important; }
+
+        /* 当有任意分类被锚定时的通用规则 */
+        :target ~ * .featured { display: none; }
+
         footer { padding: 20px 40px; border-top: 1px solid var(--border-color); text-align: center; color: var(--text-muted); font-size: 11px; }
         footer a { color: var(--accent-cyan); text-decoration: none; }
+
         @media (max-width: 900px) {
             .sidebar { width: 100%; height: auto; position: relative; border-right: none; border-bottom: 1px solid var(--border-color); }
             .main-content { margin-left: 0; }
@@ -149,6 +175,8 @@
     </style>
 </head>
 <body>
+
+    <!-- ═══════════════ 侧边栏 ═══════════════ -->
     <aside class="sidebar">
         <div class="sidebar-header">
             <div class="logo">
@@ -156,102 +184,106 @@
                 <div class="logo-text">AI 日报</div>
             </div>
         </div>
+
         <nav class="sidebar-nav">
-            <div class="nav-item active" data-view="today">
-                <span class="nav-item-icon">📅</span>
-                <span>今日资讯</span>
+            <a href="#top" class="nav-item active">
+                <span class="nav-item-icon">📅</span><span>今日资讯</span>
                 <span class="nav-item-count">26</span>
-            </div>
-            <div class="nav-item" data-view="hot">
-                <span class="nav-item-icon">⭐</span>
-                <span>热门资讯</span>
+            </a>
+            <a href="#sec-llm" class="nav-item">
+                <span class="nav-item-icon">⭐</span><span>热门资讯</span>
                 <span class="nav-item-count">4</span>
-            </div>
-            <div class="nav-item" data-view="fav">
-                <span class="nav-item-icon">📌</span>
-                <span>我的收藏</span>
+            </a>
+            <a href="#fav" class="nav-item">
+                <span class="nav-item-icon">📌</span><span>我的收藏</span>
                 <span class="nav-item-count">0</span>
-            </div>
+            </a>
         </nav>
+
+        <!-- 日期选择器 -->
+        <div class="date-selector">
+            <div class="date-selector-label">📅 选择日期</div>
+            <select class="date-select" onchange="if(this.value) window.location.href=this.value">
+                <option value="" disabled selected>选择日期…</option>
+                <option value="daily/2026-04-22.html">2026-04-22（今日）</option>
+              </select>
+        </div>
+
         <div class="sidebar-stats">
             <div class="stats-grid">
-                <div class="stat-box"><div class="stat-number">26</div><div class="stat-text">今日资讯</div></div>
+                <div class="stat-box"><div class="stat-number">26</div><div class="stat-text">资讯</div></div>
                 <div class="stat-box"><div class="stat-number">9</div><div class="stat-text">分类</div></div>
                 <div class="stat-box"><div class="stat-number">1</div><div class="stat-text">天</div></div>
             </div>
         </div>
+
         <div class="sidebar-categories">
-            <div class="category-title">分类浏览</div>
-            <div class="category-item" data-cat="all" onclick="filterCategory('all')">
-                <span class="category-dot" style="background: #9ca3af;"></span>
-                <span class="category-item-name">全部分类</span>
-                <span class="category-item-count">26</span>
-            </div>
-            <div class="category-item" data-cat="llm" onclick="filterCategory('llm')">
-                <span class="category-dot" style="background: #3b82f6;"></span>
-                <span class="category-item-name">大模型动态</span>
-                <span class="category-item-count">4</span>
-            </div>
-            <div class="category-item" data-cat="github" onclick="filterCategory('github')">
-                <span class="category-dot" style="background: #6366f1;"></span>
-                <span class="category-item-name">GitHub热点</span>
-                <span class="category-item-count">3</span>
-            </div>
-            <div class="category-item" data-cat="devtools" onclick="filterCategory('devtools')">
-                <span class="category-dot" style="background: #10b981;"></span>
-                <span class="category-item-name">AI开发工具</span>
-                <span class="category-item-count">3</span>
-            </div>
-            <div class="category-item" data-cat="design" onclick="filterCategory('design')">
-                <span class="category-dot" style="background: #f59e0b;"></span>
-                <span class="category-item-name">AI设计工具</span>
-                <span class="category-item-count">2</span>
-            </div>
-            <div class="category-item" data-cat="world" onclick="filterCategory('world')">
-                <span class="category-dot" style="background: #ec4899;"></span>
-                <span class="category-item-name">世界模型</span>
-                <span class="category-item-count">3</span>
-            </div>
-            <div class="category-item" data-cat="video" onclick="filterCategory('video')">
-                <span class="category-dot" style="background: #ef4444;"></span>
-                <span class="category-item-name">视频/图片生成</span>
-                <span class="category-item-count">3</span>
-            </div>
-            <div class="category-item" data-cat="rag" onclick="filterCategory('rag')">
-                <span class="category-dot" style="background: #8b5cf6;"></span>
-                <span class="category-item-name">知识库/RAG</span>
-                <span class="category-item-count">3</span>
-            </div>
-            <div class="category-item" data-cat="industry" onclick="filterCategory('industry')">
-                <span class="category-dot" style="background: #14b8a6;"></span>
-                <span class="category-item-name">AI行业资讯</span>
-                <span class="category-item-count">4</span>
-            </div>
-            <div class="category-item" data-cat="game" onclick="filterCategory('game')">
-                <span class="category-dot" style="background: #f97316;"></span>
-                <span class="category-item-name">AI游戏设计</span>
-                <span class="category-item-count">3</span>
-            </div>
+            <div class="category-title-label">分类浏览</div>
+            <a href="#all" class="cat-link active">
+                <span class="category-dot" style="background:#9ca3af;"></span>
+                <span>全部分类</span>
+                <span class="cat-link-count">26</span>
+            </a>
+            <a href="#sec-llm" class="cat-link">
+                <span class="category-dot" style="background:#3b82f6;"></span>
+                <span>大模型动态</span>
+                <span class="cat-link-count">4</span>
+            </a>
+            <a href="#sec-github" class="cat-link">
+                <span class="category-dot" style="background:#6366f1;"></span>
+                <span>GitHub热点</span>
+                <span class="cat-link-count">3</span>
+            </a>
+            <a href="#sec-devtools" class="cat-link">
+                <span class="category-dot" style="background:#10b981;"></span>
+                <span>AI开发工具</span>
+                <span class="cat-link-count">3</span>
+            </a>
+            <a href="#sec-design" class="cat-link">
+                <span class="category-dot" style="background:#f59e0b;"></span>
+                <span>AI设计工具</span>
+                <span class="cat-link-count">2</span>
+            </a>
+            <a href="#sec-world" class="cat-link">
+                <span class="category-dot" style="background:#ec4899;"></span>
+                <span>世界模型</span>
+                <span class="cat-link-count">3</span>
+            </a>
+            <a href="#sec-video" class="cat-link">
+                <span class="category-dot" style="background:#ef4444;"></span>
+                <span>视频/图片生成</span>
+                <span class="cat-link-count">3</span>
+            </a>
+            <a href="#sec-rag" class="cat-link">
+                <span class="category-dot" style="background:#8b5cf6;"></span>
+                <span>知识库/RAG</span>
+                <span class="cat-link-count">3</span>
+            </a>
+            <a href="#sec-industry" class="cat-link">
+                <span class="category-dot" style="background:#14b8a6;"></span>
+                <span>AI行业资讯</span>
+                <span class="cat-link-count">4</span>
+            </a>
+            <a href="#sec-game" class="cat-link">
+                <span class="category-dot" style="background:#f97316;"></span>
+                <span>AI游戏设计</span>
+                <span class="cat-link-count">3</span>
+            </a>
         </div>
+
         <div class="sidebar-footer">
             <div class="footer-text">每日 9:00 自动更新</div>
         </div>
     </aside>
 
-    <div class="main-content">
+    <!-- ═══════════════ 主内容 ═══════════════ -->
+    <div class="main-content" id="top">
+
         <div class="hero">
-            <div class="hero-top">
-                <div class="hero-left">
-                    <div class="hero-date">2026年4月22日 星期三</div>
-                    <div class="date-picker-wrap">
-                        <span class="date-picker-label">📅</span>
-                        <input type="date" class="date-picker" id="datePicker" value="2026-04-22" min="2026-04-22" max="2026-04-22" onchange="onDateChange(this.value)">
-                    </div>
-                </div>
-                <div class="hero-badges">
-                    <span class="hero-badge badge-hot">🔥 热门</span>
-                    <span class="hero-badge badge-new">🆕 今日更新</span>
-                </div>
+            <div class="hero-date">2026年4月22日 星期三</div>
+            <div class="hero-badges">
+                <span class="hero-badge badge-hot">🔥 热门</span>
+                <span class="hero-badge badge-new">🆕 今日更新</span>
             </div>
             <h1 class="hero-title">Images 2.0发布 · 世界模型商业化临界点</h1>
             <p class="hero-desc">OpenAI Images 2.0引入"思考模式"，AI绘图进入智能创作时代；阿里腾讯48小时连发世界模型，商业化临界点已至；Claude Opus 4.7编程能力暴涨11%。</p>
@@ -259,16 +291,6 @@
                 <div class="hero-stat"><span class="hero-stat-val">26</span><span class="hero-stat-lbl">今日资讯</span></div>
                 <div class="hero-stat"><span class="hero-stat-val">9</span><span class="hero-stat-lbl">覆盖领域</span></div>
                 <div class="hero-stat"><span class="hero-stat-val">2026-04-22</span><span class="hero-stat-lbl">更新日期</span></div>
-            </div>
-            <div class="hero-filter-bar">
-                <span style="font-size:11px;color:var(--text-muted);">快速筛选：</span>
-                <button class="filter-chip active" data-cat="all" onclick="filterCategory('all')">全部</button>
-                <button class="filter-chip" data-cat="llm" onclick="filterCategory('llm')">大模型</button>
-                <button class="filter-chip" data-cat="github" onclick="filterCategory('github')">GitHub</button>
-                <button class="filter-chip" data-cat="world" onclick="filterCategory('world')">世界模型</button>
-                <button class="filter-chip" data-cat="video" onclick="filterCategory('video')">视频/图片</button>
-                <button class="filter-chip" data-cat="industry" onclick="filterCategory('industry')">行业</button>
-                <button class="filter-chip" data-cat="game" onclick="filterCategory('game')">游戏</button>
             </div>
         </div>
 
@@ -301,7 +323,7 @@
             </div>
 
             <!-- 大模型动态 -->
-            <section class="category" id="sec-llm" data-category="llm">
+            <section class="category" id="sec-llm">
                 <div class="category-header">
                     <div class="category-icon llm">🧠</div>
                     <h2 class="category-title">大模型动态 <span class="category-count">4条</span></h2>
@@ -315,7 +337,7 @@
                     </article>
                     <article class="card">
                         <h3 class="card-title">GPT-6预训练完成：200万Token上下文，预计6月开放API</h3>
-                        <p class="card-desc">上下文窗口相当于两部中篇小说或10小时音频，彻底解决内容截断痛点。稀疏混合架构，训练能耗降低40%但性能提升120%。</p>
+                        <p class="card-desc">上下文窗口相当于两部中篇小说，彻底解决内容截断痛点。稀疏混合架构，训练能耗降低40%但性能提升120%。</p>
                         <a href="https://blog.csdn.net/lyy_kao/article/details/160027453" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                     <article class="card">
@@ -325,14 +347,14 @@
                     </article>
                     <article class="card">
                         <h3 class="card-title">中美模型差距仅2.7%：斯坦福2026 AI指数报告发布</h3>
-                        <p class="card-desc">Claude Opus 4.6得1503分，国产dola-seed-2.0-preview得1464分，双方已交替领先，差距基本消除(effectively closed)。</p>
+                        <p class="card-desc">Claude Opus 4.6得1503分，国产dola-seed-2.0-preview得1464分，双方已交替领先，差距基本消除。</p>
                         <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_99569df8ee289665" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                 </div>
             </section>
 
             <!-- GitHub热点 -->
-            <section class="category" id="sec-github" data-category="github">
+            <section class="category" id="sec-github">
                 <div class="category-header">
                     <div class="category-icon github">⚡</div>
                     <h2 class="category-title">GitHub 热点项目 <span class="category-count">3条</span></h2>
@@ -357,81 +379,8 @@
                 </div>
             </section>
 
-            <!-- 世界模型 -->
-            <section class="category" id="sec-world" data-category="world">
-                <div class="category-header">
-                    <div class="category-icon world">🌍</div>
-                    <h2 class="category-title">世界模型 <span class="category-count">3条</span></h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">腾讯混元3D世界模型2.0：已开源，可导出游戏级资产</h3>
-                        <p class="card-desc">支持文本/图片/视频生成3D世界，导出Mesh/3DGS/点云，可无缝导入Unity、UE游戏引擎，姚顺雨入职后首个重大升级。</p>
-                        <a href="https://www.sohu.com/a/1011748328_121885030" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">阿里HappyOyster：世界模拟器，4月27日开放API</h3>
-                        <p class="card-desc">漫游模式支持1分钟连续实时位移，导演模式支持3分钟以上720p画面。已登顶Artificial Analysis视频榜，超越字节Seedance 2.0。</p>
-                        <a href="https://www.tmtpost.com/7959349.html" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">群核科技港交所上市：全球空间智能第一股，首日涨144%</h3>
-                        <p class="card-desc">2025年营收8.2亿元，毛利率82.2%，市值超300亿港元。群核科技香港公开发售获1591倍超额认购。</p>
-                        <a href="http://www.ebrun.com/20260421/656689.shtml" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- AI设计工具 -->
-            <section class="category" id="sec-design" data-category="design">
-                <div class="category-header">
-                    <div class="category-icon design">🎨</div>
-                    <h2 class="category-title">AI设计 & 创作工具 <span class="category-count">2条</span></h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">Claude Design：Anthropic推出AI设计助手</h3>
-                        <p class="card-desc">一句话生成商业级设计原型，支持PRD→设计稿→可运行代码全链路。设计师门槛大幅降低，非设计师也能做视觉创作。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_48569e5a7b855052" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">Adobe Photoshop 2026：AI语义级创作升级</h3>
-                        <p class="card-desc">创成式填充升级为语义级创作，场景识别更精准。图像扩展支持任意尺寸边界延伸，输入指令即可延伸画面内容。</p>
-                        <a href="http://www.ddooo.com/softdown/115292.htm" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
-            <!-- 视频/图片生成 -->
-            <section class="category" id="sec-video" data-category="video">
-                <div class="category-header">
-                    <div class="category-icon video">🎬</div>
-                    <h2 class="category-title">视频 / 图片生成 <span class="category-count">3条</span></h2>
-                    <div class="category-line"></div>
-                </div>
-                <div class="cards-grid">
-                    <article class="card">
-                        <h3 class="card-title">OpenAI Images 2.0（gpt-image-2）：AI绘图新王</h3>
-                        <p class="card-desc">Thinking模式可联网推理、多图自检，擅长杂志排版/信息图/漫画分镜。多语言文本（中/日/韩）渲染大幅提升，4K写实画质。</p>
-                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">阿里HappyHorse：登顶视频榜，4月27日开放API</h3>
-                        <p class="card-desc">15B参数统一Transformer，已超越字节Seedance 2.0、可灵AI 3.0等多款主流模型，支持文生视频、图生视频及音频同步生成。</p>
-                        <a href="http://news.pconline.com.cn/2133/21335331.html" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                    <article class="card">
-                        <h3 class="card-title">字节Seedance 2.0：2K清晰度，API定价约1元/秒</h3>
-                        <p class="card-desc">2月7日发布，导演级镜头语言，工业级AI视频标准。火山引擎公布API定价，标志着视频生成从"炫技"走向明确商业化定价。</p>
-                        <a href="https://blog.csdn.net/u010690311/article/details/158688529" target="_blank" class="card-link">阅读原文 →</a>
-                    </article>
-                </div>
-            </section>
-
             <!-- AI开发工具 -->
-            <section class="category" id="sec-devtools" data-category="devtools">
+            <section class="category" id="sec-devtools">
                 <div class="category-header">
                     <div class="category-icon devtools">🛠️</div>
                     <h2 class="category-title">AI开发工具 <span class="category-count">3条</span></h2>
@@ -456,8 +405,81 @@
                 </div>
             </section>
 
+            <!-- AI设计工具 -->
+            <section class="category" id="sec-design">
+                <div class="category-header">
+                    <div class="category-icon design">🎨</div>
+                    <h2 class="category-title">AI设计 & 创作工具 <span class="category-count">2条</span></h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">Claude Design：Anthropic推出AI设计助手</h3>
+                        <p class="card-desc">一句话生成商业级设计原型，支持PRD→设计稿→可运行代码全链路。设计师门槛大幅降低，非设计师也能做视觉创作。</p>
+                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_48569e5a7b855052" target="_blank" class="card-link">阅读原文 →</a>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">Adobe Photoshop 2026：AI语义级创作升级</h3>
+                        <p class="card-desc">创成式填充升级为语义级创作，场景识别更精准。图像扩展支持任意尺寸边界延伸，输入指令即可延伸画面内容。</p>
+                        <a href="http://www.ddooo.com/softdown/115292.htm" target="_blank" class="card-link">阅读原文 →</a>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 世界模型 -->
+            <section class="category" id="sec-world">
+                <div class="category-header">
+                    <div class="category-icon world">🌍</div>
+                    <h2 class="category-title">世界模型 <span class="category-count">3条</span></h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">腾讯混元3D世界模型2.0：已开源，可导出游戏级资产</h3>
+                        <p class="card-desc">支持文本/图片/视频生成3D世界，导出Mesh/3DGS/点云，可无缝导入Unity、UE游戏引擎。</p>
+                        <a href="https://www.sohu.com/a/1011748328_121885030" target="_blank" class="card-link">阅读原文 →</a>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">阿里HappyOyster：世界模拟器，4月27日开放API</h3>
+                        <p class="card-desc">漫游模式支持1分钟连续实时位移，已登顶Artificial Analysis视频榜，超越字节Seedance 2.0。</p>
+                        <a href="https://www.tmtpost.com/7959349.html" target="_blank" class="card-link">阅读原文 →</a>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">群核科技港交所上市：全球空间智能第一股，首日涨144%</h3>
+                        <p class="card-desc">2025年营收8.2亿元，毛利率82.2%，市值超300亿港元。香港公开发售获1591倍超额认购。</p>
+                        <a href="http://www.ebrun.com/20260421/656689.shtml" target="_blank" class="card-link">阅读原文 →</a>
+                    </article>
+                </div>
+            </section>
+
+            <!-- 视频/图片生成 -->
+            <section class="category" id="sec-video">
+                <div class="category-header">
+                    <div class="category-icon video">🎬</div>
+                    <h2 class="category-title">视频 / 图片生成 <span class="category-count">3条</span></h2>
+                    <div class="category-line"></div>
+                </div>
+                <div class="cards-grid">
+                    <article class="card">
+                        <h3 class="card-title">OpenAI Images 2.0（gpt-image-2）：AI绘图新王</h3>
+                        <p class="card-desc">Thinking模式可联网推理、多图自检，擅长杂志排版/信息图/漫画分镜。4K写实画质，多语言（中/日/韩）渲染大幅提升。</p>
+                        <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765" target="_blank" class="card-link">阅读原文 →</a>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">阿里HappyHorse：登顶视频榜，4月27日开放API</h3>
+                        <p class="card-desc">15B参数统一Transformer，已超越字节Seedance 2.0、可灵AI 3.0等多款主流模型。</p>
+                        <a href="http://news.pconline.com.cn/2133/21335331.html" target="_blank" class="card-link">阅读原文 →</a>
+                    </article>
+                    <article class="card">
+                        <h3 class="card-title">字节Seedance 2.0：2K清晰度，API定价约1元/秒</h3>
+                        <p class="card-desc">2月7日发布，导演级镜头语言，工业级AI视频标准。视频生成从"炫技"走向明确商业化定价。</p>
+                        <a href="https://blog.csdn.net/u010690311/article/details/158688529" target="_blank" class="card-link">阅读原文 →</a>
+                    </article>
+                </div>
+            </section>
+
             <!-- 知识库/RAG -->
-            <section class="category" id="sec-rag" data-category="rag">
+            <section class="category" id="sec-rag">
                 <div class="category-header">
                     <div class="category-icon rag">📚</div>
                     <h2 class="category-title">知识库 & RAG 技术 <span class="category-count">3条</span></h2>
@@ -466,7 +488,7 @@
                 <div class="cards-grid">
                     <article class="card">
                         <h3 class="card-title">Agentic RAG：让大模型自主规划检索、多步推理、自我修正</h3>
-                        <p class="card-desc">传统RAG只能"查了再答"，Agentic RAG让大模型拥有自主规划检索、工具调用和自我修正能力，解决"检索不全、回答不准"痛点。</p>
+                        <p class="card-desc">传统RAG只能"查了再答"，Agentic RAG让大模型拥有自主规划检索、工具调用和自我修正能力。</p>
                         <a href="https://blog.csdn.net/qq_52327553/article/details/159922247" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                     <article class="card">
@@ -476,14 +498,14 @@
                     </article>
                     <article class="card">
                         <h3 class="card-title">AMD 3D V-Cache：RAG AI测试性能提升88%</h3>
-                        <p class="card-desc">Ryzen 7 9850X3D在RAG基准测试中比非X3D芯片快88%，大容量缓存显著优化HNSW图检索效率，200K批量搜索提升超50%。</p>
+                        <p class="card-desc">Ryzen 7 9850X3D在RAG基准测试中比非X3D芯片快88%，大容量缓存显著优化HNSW图检索效率。</p>
                         <a href="https://finance.sina.com.cn/tech/digi/2026-04-21/doc-inhvfivq7059712.shtml" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                 </div>
             </section>
 
             <!-- AI行业资讯 -->
-            <section class="category" id="sec-industry" data-category="industry">
+            <section class="category" id="sec-industry">
                 <div class="category-header">
                     <div class="category-icon industry">🏢</div>
                     <h2 class="category-title">AI行业资讯 <span class="category-count">4条</span></h2>
@@ -492,29 +514,29 @@
                 <div class="cards-grid">
                     <article class="card">
                         <h3 class="card-title">启明创投邝子平：AI处于超长技术周期早段</h3>
-                        <p class="card-desc">人工智能是改天换地的技术革命，并非短期潮流。大量技术问题尚未解决，具身智能泛化能力是下一个投资方向。</p>
+                        <p class="card-desc">人工智能是改天换地的技术革命，并非短期潮流。具身智能泛化能力是下一个投资方向。</p>
                         <a href="https://k.sina.com.cn/article_7857201856_1d45362c001904lgt0.html" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                     <article class="card">
                         <h3 class="card-title">量子AI赛道Q1融资突破32亿元，超越2025年全年</h3>
-                        <p class="card-desc">玻色量子完成10亿元B轮融资，"量子+AI"融合成为激活产业价值核心抓手，资本正加速涌入这一赛道。</p>
+                        <p class="card-desc">玻色量子完成10亿元B轮融资，"量子+AI"融合成为激活产业价值核心抓手。</p>
                         <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_58369e756df46452" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                     <article class="card">
                         <h3 class="card-title">国务院AI+行动计划：支持采购大模型/智能体</h3>
-                        <p class="card-desc">2030年服务业破100万亿，明确支持采购大模型和智能体，建设国家AI应用中试基地，6G/算力/文旅/金融全面加码。</p>
+                        <p class="card-desc">2030年服务业破100万亿，明确支持采购大模型和智能体，建设国家AI应用中试基地。</p>
                         <a href="https://caifuhao.eastmoney.com/news/20260421194505996899190" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                     <article class="card">
                         <h3 class="card-title">Factory平台融资1.5亿美元，Droids智能体已服务英伟达Adobe</h3>
-                        <p class="card-desc">AI原生软件开发正加速落地，Droids智能体实现全流程自动化软件开发，AI Agent规模化商业落地"元年"已至。</p>
+                        <p class="card-desc">AI原生软件开发正加速落地，Droids智能体实现全流程自动化软件开发。</p>
                         <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_43969e85a4450752" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                 </div>
             </section>
 
             <!-- AI游戏设计 -->
-            <section class="category" id="sec-game" data-category="game">
+            <section class="category" id="sec-game">
                 <div class="category-header">
                     <div class="category-icon game">🎮</div>
                     <h2 class="category-title">AI游戏设计 <span class="category-count">3条</span></h2>
@@ -523,12 +545,12 @@
                 <div class="cards-grid">
                     <article class="card">
                         <h3 class="card-title">育碧招聘要求精通生成式AI，基于虚幻5开发3A游戏</h3>
-                        <p class="card-desc">技术美术总监岗位明确要求熟练使用ChatGPT/Claude，《红色沙漠》等作品已发现早期阶段由AI生成的美术素材。</p>
+                        <p class="card-desc">技术美术总监岗位明确要求熟练使用ChatGPT/Claude，《红色沙漠》等作品已发现早期阶段AI生成素材。</p>
                         <a href="https://www.sohu.com/a/1012352317_121885030" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                     <article class="card">
                         <h3 class="card-title">《堡垒之夜》UEFN推出AI NPC实时对话</h3>
-                        <p class="card-desc">基于Google Gemini + ElevenLabs，NPC可脱离固定对话树，无脚本交互、记忆游戏进程、上下文语音回应，触发游戏事件。</p>
+                        <p class="card-desc">基于Google Gemini + ElevenLabs，NPC可脱离固定对话树，无脚本交互、记忆游戏进程、上下文语音回应。</p>
                         <a href="http://news.17173.com/content/04192026/184053966.shtml" target="_blank" class="card-link">阅读原文 →</a>
                     </article>
                     <article class="card">
@@ -538,6 +560,11 @@
                     </article>
                 </div>
             </section>
+
+            <!-- 收藏占位 -->
+            <section class="category" id="fav" style="display:none;">
+                <p style="color:var(--text-muted);font-size:14px;text-align:center;padding:40px 0;">收藏功能开发中…</p>
+            </section>
         </main>
 
         <footer>
@@ -545,43 +572,5 @@
         </footer>
     </div>
 
-    <script>
-    var currentCategory = 'all';
-
-    function filterCategory(cat) {
-        currentCategory = cat;
-
-        // 更新侧边栏高亮
-        document.querySelectorAll('.sidebar .category-item').forEach(function(el) {
-            el.classList.toggle('active', el.dataset.cat === cat);
-        });
-
-        // 更新快捷筛选按钮高亮
-        document.querySelectorAll('.filter-chip').forEach(function(el) {
-            el.classList.toggle('active', el.dataset.cat === cat);
-        });
-
-        // 显示/隐藏分类区块
-        document.querySelectorAll('.category[data-category]').forEach(function(el) {
-            el.classList.toggle('hidden', cat !== 'all' && el.dataset.category !== cat);
-        });
-
-        // Featured区在非"全部"时隐藏
-        var featured = document.getElementById('featured-section');
-        if (featured) {
-            featured.style.display = (cat === 'all') ? '' : 'none';
-        }
-
-        // 滚动到顶部
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
-
-    function onDateChange(dateStr) {
-        if (!dateStr) return;
-        // 切换到对应日期的简报文件
-        var target = 'daily/' + dateStr + '.md';
-        window.location.href = target;
-    }
-    </script>
 </body>
 </html>
