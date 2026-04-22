@@ -776,8 +776,14 @@ function filterCat(cat, e) {
     if (e) e.preventDefault();
     activeCat = cat;
 
+    // 更新分类浏览链接高亮
     document.querySelectorAll('.cat-link').forEach(function(el) {
         el.classList.toggle('active', el.dataset.cat === cat);
+    });
+    
+    // 更新侧边栏导航高亮
+    document.querySelectorAll('.nav-item').forEach(function(el) {
+        el.classList.remove('active');
     });
 
     var featured = document.getElementById('featured-section');
@@ -802,6 +808,9 @@ function filterCat(cat, e) {
 function jumpToCat(cat, e) {
     if (e) e.preventDefault();
     filterCat(cat, null);
+    // 高亮当前点击的导航项
+    var navItem = document.querySelector('.nav-item[href="#sec-' + cat + '"]');
+    if (navItem) navItem.classList.add('active');
     var el = document.getElementById('sec-' + cat);
     if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
@@ -809,6 +818,8 @@ function jumpToCat(cat, e) {
 function showAll(e) {
     if (e) e.preventDefault();
     filterCat('all', null);
+    // 高亮「今日资讯」导航项
+    document.getElementById('nav-today').classList.add('active');
 }
 
 function showFav(e) {
