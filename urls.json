@@ -2,147 +2,179 @@
   "featured": [
     {
       "title": "Claude Opus 4.7 发布：可靠性优先的旗舰模型",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7"
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "source": "Anthropic 官方博客"
     },
     {
       "title": "Google Stitch：草图/语音直接生成 UI",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/"
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/",
+      "source": "Google Blog"
     },
     {
       "title": "Stanford AI Index 2026：企业 AI 采用率达 88%",
-      "url": "https://aiindex.stanford.edu/report"
+      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "source": "Stanford HAI"
     },
     {
       "title": "AI 世界模拟器：从代码到想象",
-      "url": "https://www.linkedin.com/pulse/state-ai-2026-anthropic-released-google-just-dropped-tool-steve-nouri-is9fc"
+      "url": "https://www.linkedin.com/pulse/state-ai-2026-anthropic-released-google-just-dropped-tool-steve-nouri-is9fc",
+      "source": "LinkedIn"
     }
   ],
   "llm": [
     {
       "title": "Anthropic Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7"
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "source": "Anthropic"
     },
     {
       "title": "Google Gemma 4 开源",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/"
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+      "source": "Google Blog"
     },
     {
       "title": "Gemini 3.1 Pro 领先",
-      "url": "https://blog.google/products/gemini/"
+      "url": "https://blog.google/products/gemini/",
+      "source": "Google Blog"
     }
   ],
   "world": [
     {
       "title": "World Model Bench @ CVPR'25",
-      "url": "https://worldmodelbench.github.io/"
+      "url": "https://worldmodelbench.github.io/",
+      "source": "CVPR 2025"
     },
     {
       "title": "Yann LeCun 世界模型愿景",
-      "url": "https://www.linkedin.com/pulse/state-ai-2026-anthropic-released-google-just-dropped-tool-steve-nouri-is9fc"
+      "url": "https://www.linkedin.com/pulse/state-ai-2026-anthropic-released-google-just-dropped-tool-steve-nouri-is9fc",
+      "source": "LinkedIn"
     },
     {
       "title": "AI 世界模拟器应用",
-      "url": "https://aiindex.stanford.edu/report"
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/science",
+      "source": "Stanford AI Index"
     }
   ],
   "game": [
     {
       "title": "程序化生成技术成熟",
-      "url": "https://www.gamedeveloper.com/programming/procedural-content-generation"
+      "url": "https://www.gamedeveloper.com/programming/procedural-content-generation",
+      "source": "Game Developer"
     },
     {
       "title": "AI NPC 智能升级",
-      "url": "https://www.anthropic.com/research/"
+      "url": "https://www.anthropic.com/research/",
+      "source": "Anthropic Research"
     },
     {
       "title": "AI 游戏测试自动化",
-      "url": "https://www.anthropic.com/research/"
+      "url": "https://www.anthropic.com/research/",
+      "source": "Anthropic Research"
     },
     {
       "title": "AI 辅助游戏开发工具",
-      "url": "https://unity.com/products/unity-muse"
+      "url": "https://unity.com/products/unity-muse",
+      "source": "Unity"
     }
   ],
   "industry": [
     {
       "title": "Stanford AI Index 2026 核心发现",
-      "url": "https://aiindex.stanford.edu/report"
+      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "source": "Stanford HAI"
     },
     {
       "title": "OpenAI 年收入超 $250 亿",
-      "url": "https://www.theinformation.com/articles/openais-revenue-growth-outpaces-losses"
+      "url": "https://www.theinformation.com/articles/openais-revenue-growth-outpaces-losses",
+      "source": "The Information"
     },
     {
       "title": "中美 AI 差距仅 2.7%",
-      "url": "https://aiindex.stanford.edu/report"
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development",
+      "source": "Stanford AI Index"
     },
     {
       "title": "AI 透明度下降趋势",
-      "url": "https://aiindex.stanford.edu/report"
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/responsible-ai",
+      "source": "Stanford AI Index"
     },
     {
       "title": "Agentic AI 基础设施成熟",
-      "url": "https://www.anthropic.com/news/model-context-protocol"
+      "url": "https://www.anthropic.com/news/model-context-protocol",
+      "source": "Anthropic"
     },
     {
       "title": "AI 劳动力市场影响显现",
-      "url": "https://aiindex.stanford.edu/report"
+      "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report/economy",
+      "source": "Stanford AI Index"
     }
   ],
   "devtools": [
     {
       "title": "AgenticSwarmBench 发布",
-      "url": "https://github.com/SwarmOne/agentic-swarm-bench"
+      "url": "https://github.com/SwarmOne/agentic-swarm-bench",
+      "source": "GitHub"
     },
     {
       "title": "OpenAI Codex CLI 开源",
-      "url": "https://github.com/openai/codex"
+      "url": "https://github.com/openai/codex",
+      "source": "GitHub"
     },
     {
       "title": "Google Gemini Code Assist",
-      "url": "https://developers.google.com/gemini-code-assist"
+      "url": "https://developers.google.com/gemini-code-assist",
+      "source": "Google Developers"
     }
   ],
   "design": [
     {
       "title": "Google Stitch 设计工具",
-      "url": "https://stitch.withgoogle.com/"
+      "url": "https://stitch.withgoogle.com/",
+      "source": "Google Labs"
     },
     {
       "title": "OpenAI gpt-image-1 API",
-      "url": "https://platform.openai.com/docs/guides/image-generation"
+      "url": "https://platform.openai.com/docs/guides/image-generation",
+      "source": "OpenAI"
     },
     {
       "title": "Adobe Firefly 全面升级",
-      "url": "https://www.adobe.com/products/firefly.html"
+      "url": "https://www.adobe.com/products/firefly.html",
+      "source": "Adobe"
     }
   ],
   "video": [
     {
       "title": "Google Veo 2 集成 Gemini",
-      "url": "https://blog.google/products/gemini/google-veo-2-video-generation/"
+      "url": "https://blog.google/products/gemini/google-veo-2-video-generation/",
+      "source": "Google Blog"
     },
     {
       "title": "Amazon Nova Reel 1.1",
-      "url": "https://aws.amazon.com/bedrock/nova/"
+      "url": "https://aws.amazon.com/bedrock/nova/",
+      "source": "AWS"
     },
     {
       "title": "Character.AI AvatarFX",
-      "url": "https://character.ai/"
+      "url": "https://character.ai/",
+      "source": "Character.AI"
     }
   ],
   "rag": [
     {
       "title": "Google A2A 协议",
-      "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/"
+      "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+      "source": "Google Developers Blog"
     },
     {
       "title": "上下文窗口持续扩大",
-      "url": "https://blog.google/technology/ai/gemini-2-5-pro-io/"
+      "url": "https://blog.google/technology/ai/gemini-2-5-pro-io/",
+      "source": "Google Blog"
     },
     {
       "title": "上下文工程新范式",
-      "url": "https://www.anthropic.com/research/"
+      "url": "https://www.anthropic.com/research/",
+      "source": "Anthropic Research"
     }
   ]
 }
