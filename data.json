@@ -1,14 +1,183 @@
 {
-  "date": "",
-  "featured": [],
-  "llm": [],
-  "github": [],
-  "world": [],
-  "game": [],
-  "industry": [],
-  "devtools": [],
-  "design": [],
-  "video": [],
-  "rag": [],
-  "image": []
+  "date": "2026-04-22",
+  "featured": [
+    {
+      "title": "OpenAI Images 2.0发布：AI绘图进入\"会思考\"时代",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765",
+      "source": "企鹅号"
+    },
+    {
+      "title": "阿里腾讯48小时连发世界模型，商业化临界点已至",
+      "url": "https://www.tmtpost.com/7959349.html",
+      "source": "钛媒体"
+    },
+    {
+      "title": "Claude Opus 4.7发布：编程能力暴涨11%，超越GPT-5.4",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_21969e2ffa448952",
+      "source": "企鹅号"
+    },
+    {
+      "title": "国务院重磅定调AI+：2030年服务业破100万亿，支持采购大模型",
+      "url": "https://caifuhao.eastmoney.com/news/20260421194505996899190",
+      "source": "东方财富网"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Claude Opus 4.7：编程能力从53.4%跃升至64.3%，超越GPT-5.4",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_21969e2ffa448952",
+      "source": "企鹅号"
+    },
+    {
+      "title": "GPT-6预训练完成：200万Token上下文，预计6月开放API",
+      "url": "https://blog.csdn.net/lyy_kao/article/details/160027453",
+      "source": "CSDN"
+    },
+    {
+      "title": "智谷AI GLM-5.1开源：一周刷新105项SOTA，支持8小时连续工程作业",
+      "url": "https://blog.csdn.net/ld326/article/details/159999713",
+      "source": "CSDN"
+    },
+    {
+      "title": "中美模型差距仅2.7%：斯坦福2026 AI指数报告发布",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_99569df8ee289665",
+      "source": "企鹅号"
+    }
+  ],
+  "github": [
+    {
+      "title": "OpenClaw：24.7万星，开源个人AI助手",
+      "url": "https://blog.csdn.net/mzh10588/article/details/159783816",
+      "source": "CSDN"
+    },
+    {
+      "title": "Superpowers：45.1k星，AI编码代理技能框架",
+      "url": "https://blog.csdn.net/ld326/article/details/157776541",
+      "source": "CSDN"
+    },
+    {
+      "title": "字节Trae：AI原生IDE，完全免费，中文适配最佳",
+      "url": "https://blog.csdn.net/AUTUMNA/article/details/159541387",
+      "source": "CSDN"
+    }
+  ],
+  "world": [
+    {
+      "title": "腾讯混元3D世界模型2.0：已开源，可导出游戏级资产",
+      "url": "https://www.sohu.com/a/1011748328_121885030",
+      "source": "搜狐"
+    },
+    {
+      "title": "阿里HappyOyster：世界模拟器，4月27日开放API",
+      "url": "https://www.tmtpost.com/7959349.html",
+      "source": "钛媒体"
+    },
+    {
+      "title": "群核科技港交所上市：全球空间智能第一股，首日涨144%",
+      "url": "http://www.ebrun.com/20260421/656689.shtml",
+      "source": "亿邦动力"
+    }
+  ],
+  "game": [
+    {
+      "title": "育碧招聘要求精通生成式AI，基于虚幻5开发3A游戏",
+      "url": "https://www.sohu.com/a/1012352317_121885030",
+      "source": "搜狐"
+    },
+    {
+      "title": "《堡垒之夜》UEFN推出AI NPC实时对话，Gemini+ElevenLabs驱动",
+      "url": "http://news.17173.com/content/04192026/184053966.shtml",
+      "source": "17173"
+    },
+    {
+      "title": "2026腾讯游戏创作大赛启幕，拥抱AI游戏新舞台",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_25769e5fe2027252",
+      "source": "企鹅号"
+    }
+  ],
+  "industry": [
+    {
+      "title": "启明创投邝子平：AI处于超长技术周期早段，具身智能是下一方向",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904lgt0.html",
+      "source": "新浪网"
+    },
+    {
+      "title": "量子AI赛道Q1融资突破32亿元，超越2025年全年",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_58369e756df46452",
+      "source": "企鹅号"
+    },
+    {
+      "title": "国务院AI+行动计划：支持采购大模型/智能体，2030年服务业破100万亿",
+      "url": "https://caifuhao.eastmoney.com/news/20260421194505996899190",
+      "source": "东方财富网"
+    },
+    {
+      "title": "Factory平台融资1.5亿美元，Droids智能体已服务英伟达Adobe",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_43969e85a4450752",
+      "source": "企鹅号"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "OpenClaw v2026.4.5：Dreaming记忆系统，7×24无人值守",
+      "url": "https://www.chinaz.com/tags/1039977.shtml",
+      "source": "站长之家"
+    },
+    {
+      "title": "Claude Code Agent Teams：多代理协作，持久化跨会话",
+      "url": "https://www.toutiao.com/article/7627551318797713962/",
+      "source": "今日头条"
+    },
+    {
+      "title": "字节Trae Builder模式：上传Figma设计稿，90秒生成HTML/CSS",
+      "url": "https://blog.csdn.net/AUTUMNA/article/details/159953335",
+      "source": "CSDN"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design：Anthropic推出AI设计助手，一句话生成商业级原型",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_48569e5a7b855052",
+      "source": "企鹅号"
+    },
+    {
+      "title": "Adobe Photoshop 2026：AI语义级创作，场景识别更精准",
+      "url": "http://www.ddooo.com/softdown/115292.htm",
+      "source": "多多软件站"
+    }
+  ],
+  "video": [
+    {
+      "title": "OpenAI Images 2.0：gpt-image-2发布，Thinking模式联网自检",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765",
+      "source": "企鹅号"
+    },
+    {
+      "title": "阿里HappyHorse：登顶视频榜，4月27日开放API",
+      "url": "http://news.pconline.com.cn/2133/21335331.html",
+      "source": "太平洋科技"
+    },
+    {
+      "title": "字节Seedance 2.0：2K清晰度，API定价约1元/秒",
+      "url": "https://blog.csdn.net/u010690311/article/details/158688529",
+      "source": "CSDN"
+    }
+  ],
+  "rag": [
+    {
+      "title": "Agentic RAG：让大模型自主规划检索、多步推理、自我修正",
+      "url": "https://blog.csdn.net/qq_52327553/article/details/159922247",
+      "source": "CSDN"
+    },
+    {
+      "title": "阿里VRAG开源：多模态RAG框架，视觉+文字+视频统一检索",
+      "url": "https://www.toutiao.com/w/1862450892085388/",
+      "source": "今日头条"
+    },
+    {
+      "title": "AMD 3D V-Cache：RAG AI测试性能提升88%，大缓存优化图检索",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-04-21/doc-inhvfivq7059712.shtml",
+      "source": "新浪财经"
+    }
+  ]
 }
