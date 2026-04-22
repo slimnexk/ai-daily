@@ -258,17 +258,37 @@
         color: var(--text-secondary);
     }
     .view-mode-tab:hover { background: var(--bg-card-hover); color: var(--text-primary); }
+    /* AI行业资讯 - 青蓝色调 */
+    .view-mode-tab.ai {
+        background: linear-gradient(135deg, rgba(0,229,255,0.06), rgba(99,102,241,0.04));
+        border-color: rgba(0,229,255,0.2);
+        color: var(--accent-cyan);
+    }
+    .view-mode-tab.ai:hover {
+        background: linear-gradient(135deg, rgba(0,229,255,0.1), rgba(99,102,241,0.06));
+        border-color: rgba(0,229,255,0.4);
+    }
     .view-mode-tab.ai.active {
-        background: linear-gradient(135deg, rgba(0,229,255,0.12), rgba(99,102,241,0.08));
+        background: linear-gradient(135deg, rgba(0,229,255,0.15), rgba(99,102,241,0.1));
         border-color: var(--accent-cyan);
         color: var(--accent-cyan);
-        box-shadow: 0 0 28px rgba(0,229,255,0.08);
+        box-shadow: 0 0 28px rgba(0,229,255,0.15);
+    }
+    /* 社会热点 - 粉红色调 */
+    .view-mode-tab.hot {
+        background: linear-gradient(135deg, rgba(255,61,113,0.06), rgba(236,72,153,0.04));
+        border-color: rgba(255,61,113,0.2);
+        color: var(--accent-pink);
+    }
+    .view-mode-tab.hot:hover {
+        background: linear-gradient(135deg, rgba(255,61,113,0.1), rgba(236,72,153,0.06));
+        border-color: rgba(255,61,113,0.4);
     }
     .view-mode-tab.hot.active {
-        background: linear-gradient(135deg, rgba(255,61,113,0.12), rgba(236,72,153,0.08));
+        background: linear-gradient(135deg, rgba(255,61,113,0.15), rgba(236,72,153,0.1));
         border-color: var(--accent-pink);
         color: var(--accent-pink);
-        box-shadow: 0 0 28px rgba(255,61,113,0.08);
+        box-shadow: 0 0 28px rgba(255,61,113,0.15);
     }
     .view-mode-tab svg { width: 20px; height: 20px; }
     .view-mode-tab .tab-count {
