@@ -2,7 +2,7 @@
   "date": "2026-04-22",
   "featured": [
     {
-      "title": "OpenAI Images 2.0发布：AI绘图进入\"会思考\"时代",
+      "title": "OpenAI Images 2.0发布：AI绘图进入"会思考"时代",
       "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765",
       "source": "企鹅号"
     },
@@ -137,7 +137,7 @@
   "design": [
     {
       "title": "Claude Design：Anthropic推出AI设计助手，一句话生成商业级原型",
-      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_48569e5a7b855052",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_48569e5A7B855052",
       "source": "企鹅号"
     },
     {
@@ -178,6 +178,58 @@
       "title": "AMD 3D V-Cache：RAG AI测试性能提升88%，大缓存优化图检索",
       "url": "https://finance.sina.com.cn/tech/digi/2026-04-21/doc-inhvfivq7059712.shtml",
       "source": "新浪财经"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "【抖音】72岁洪金宝暴瘦真相曝光：三次肠道手术致体重下降",
+      "url": "https://www.sohu.com/a/1012589169_122085842",
+      "source": "搜狐"
+    },
+    {
+      "title": "【抖音】迅猛龙特蕾莎开通会员订阅，千万粉博主启用付费制引争议",
+      "url": "https://m.zol.com.cn/article/11696605.html",
+      "source": "中关村在线"
+    },
+    {
+      "title": "【抖音】孙颖莎高调官宣喜讯：60秒狂揽百万订单，白象代言热度爆表",
+      "url": "https://c.m.163.com/news/a/KR4RKPNM05567MSS.html",
+      "source": "网易新闻"
+    },
+    {
+      "title": "【抖音】41岁詹姆斯折叠背扣冲上热搜第九，湖人2-0火箭",
+      "url": "https://new.qq.com/rain/a/20260422A04UQJ00",
+      "source": "腾讯网"
+    },
+    {
+      "title": "【抖音】洛琦新歌《嗨起来》全网发行，引爆音乐狂欢热潮",
+      "url": "https://ent.qianlong.com/2026/0422/8658287.shtml",
+      "source": "千龙网"
+    },
+    {
+      "title": "【微博】爱奇艺AI艺人库引热议：张若昀于和伟李一桐紧急声明否认签约",
+      "url": "https://www.sohu.com/a/1012899450_121164089",
+      "source": "搜狐"
+    },
+    {
+      "title": "【微博】周冬雨刘昊然被曝婚期已定，网友评论区直接炸锅",
+      "url": "https://ent.ifeng.com/c/8sX5InWbAZH",
+      "source": "凤凰网"
+    },
+    {
+      "title": "【微博】19岁女孩挪用1700万当榜一大姐，盗用公司资金直播间打赏",
+      "url": "http://www.qing5.com/2026/0422/572127.shtml",
+      "source": "青网"
+    },
+    {
+      "title": "【微博】鹿晗36岁生日引爆全网热搜，关晓彤连续两年未零点送祝福",
+      "url": "https://new.qq.com/rain/a/20260422A01OBU00",
+      "source": "腾讯网"
+    },
+    {
+      "title": "【微博】国内油价年内首降：加满一箱92号省22元，终结六连涨",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_38869e7fb7535652",
+      "source": "企鹅号"
     }
   ]
 }
