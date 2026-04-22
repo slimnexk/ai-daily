@@ -11,10 +11,10 @@
     <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
     <style>
     :root {
-        --bg-primary: #08090c;
-        --bg-secondary: #0d0f12;
-        --bg-card: #13161b;
-        --bg-card-hover: #1a1d24;
+        --bg-primary: #0b0d14;
+        --bg-secondary: #111318;
+        --bg-card: #181b24;
+        --bg-card-hover: #1f2331;
         --accent-cyan: #00e5ff;
         --accent-purple: #a855f7;
         --accent-pink: #ff3d71;
@@ -26,16 +26,27 @@
         --accent-rose: #ec4899;
         --accent-teal: #14b8a6;
         --accent-orange2: #f97316;
-        --text-primary: #f1f5f9;
-        --text-secondary: #94a3b8;
-        --text-muted: #64748b;
-        --border-color: rgba(255,255,255,0.07);
+        --text-primary: #e8ecf4;
+        --text-secondary: #8892a4;
+        --text-muted: #565d70;
+        --border-color: rgba(255,255,255,0.08);
+        --border-card: rgba(255,255,255,0.06);
         --sidebar-width: 256px;
         --font-base: 14px;
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     html { scroll-behavior: smooth; }
-    body { font-family: 'Noto Sans SC', sans-serif; background: var(--bg-primary); color: var(--text-primary); font-size: var(--font-base); line-height: 1.6; min-height: 100vh; }
+    body {
+        font-family: 'Noto Sans SC', sans-serif;
+        background: var(--bg-primary);
+        color: var(--text-primary);
+        font-size: var(--font-base);
+        line-height: 1.6;
+        min-height: 100vh;
+        background-image:
+            radial-gradient(ellipse 80% 50% at 50% -10%, rgba(99,102,241,0.12) 0%, transparent 60%),
+            radial-gradient(ellipse 60% 40% at 80% 100%, rgba(0,229,255,0.06) 0%, transparent 50%);
+    }
     a { color: inherit; text-decoration: none; }
 
     /* ═══════════════════ 侧边栏 ═══════════════════ */
@@ -113,13 +124,29 @@
     .cat-count { font-size: 10px; color: var(--text-muted); }
 
     .sidebar-footer { padding: 12px 14px; border-top: 1px solid var(--border-color); margin-top: auto; }
+    .sidebar {
+        background: var(--bg-secondary);
+        box-shadow: 1px 0 0 0 var(--border-color);
+    }
     .footer-text { font-size: 10px; color: var(--text-muted); text-align: center; }
 
     /* ═══════════════════ 主内容 ═══════════════════ */
     .main { margin-left: var(--sidebar-width); background: var(--bg-primary); min-height: 100vh; }
 
     /* Hero */
-    .hero { padding: 24px 38px 20px; background: linear-gradient(180deg, var(--bg-secondary) 0%, var(--bg-primary) 100%); border-bottom: 1px solid var(--border-color); }
+    .hero {
+        padding: 24px 38px 20px;
+        background: linear-gradient(180deg, rgba(17,19,24,0.9) 0%, transparent 100%);
+        border-bottom: 1px solid var(--border-color);
+        position: relative;
+    }
+    .hero::before {
+        content: '';
+        position: absolute;
+        top: 0; left: 0; right: 0;
+        height: 1px;
+        background: linear-gradient(90deg, transparent, rgba(0,229,255,0.3), rgba(168,85,247,0.2), transparent);
+    }
     .hero-date { font-size: 12px; color: var(--text-muted); display: flex; align-items: center; gap: 8px; margin-bottom: 12px; }
     .hero-date::before { content: ''; width: 6px; height: 6px; background: var(--accent-green); border-radius: 50%; animation: pulse 2s infinite; }
     @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
@@ -143,7 +170,7 @@
         background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 14px;
         padding: 20px; position: relative; overflow: hidden; transition: all 0.3s;
     }
-    .featured-card:hover { transform: translateY(-3px); box-shadow: 0 8px 28px rgba(0,0,0,0.35); }
+    .featured-card:hover { transform: translateY(-3px); box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,255,255,0.1); }
     .featured-card::before { content: ''; position: absolute; top: 0; left: 0; width: 3px; height: 100%; }
     .featured-card.orange::before { background: var(--accent-orange); }
     .featured-card.pink::before { background: var(--accent-rose); }
@@ -184,7 +211,7 @@
 
     .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 12px; }
     .card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 12px; padding: 15px; transition: all 0.2s; }
-    .card:hover { background: var(--bg-card-hover); transform: translateY(-2px); border-color: rgba(255,255,255,0.13); }
+    .card:hover { background: var(--bg-card-hover); transform: translateY(-2px); border-color: rgba(255,255,255,0.14); box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
     .card-title { font-size: 13px; font-weight: 600; line-height: 1.5; margin-bottom: 7px; }
     .card-desc { font-size: 12px; color: var(--text-secondary); line-height: 1.7; }
     .card-link { display: inline-flex; align-items: center; gap: 4px; margin-top: 8px; font-size: 11px; color: var(--accent-cyan); }
@@ -193,7 +220,7 @@
 
     /* GitHub Trending 特殊卡片 */
     .trend-card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 12px; padding: 16px; transition: all 0.2s; }
-    .trend-card:hover { background: var(--bg-card-hover); transform: translateY(-2px); border-color: rgba(255,255,255,0.13); }
+    .trend-card:hover { background: var(--bg-card-hover); transform: translateY(-2px); border-color: rgba(255,255,255,0.14); box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
     .trend-top { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
     .trend-icon-wrap { width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
     .trend-icon-wrap svg { width: 16px; height: 16px; color: #fff; }
