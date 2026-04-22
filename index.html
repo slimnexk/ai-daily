@@ -563,18 +563,21 @@ function loadDateContent(dateStr) {
     var contentBody = document.getElementById('contentBody');
     var featured = document.getElementById('featured-section');
 
-    if (!data) {
-        // 无数据日期：显示空状态，隐藏内容
+        if (!data) {
+        // 无数据日期：隐藏全部内容，只显示空状态
+        var feat = document.getElementById('featured-section');
+        feat.style.display = 'none';
+        document.querySelectorAll('#contentBody > .cat-section').forEach(function(s){ s.style.display = 'none'; });
         emptyState.style.display = 'block';
-        featured.style.display = 'none';
-        document.querySelectorAll('.cat-section').forEach(function(s){ s.classList.add('hidden'); });
         document.getElementById('empty-title').textContent = dateStr + ' 暂无资讯';
+        document.getElementById('empty-desc').textContent = '内容将于每天 9:00 自动更新。';
         document.getElementById('hero-date').textContent = dateStr;
         document.getElementById('hero-title').textContent = '暂无资讯';
-        document.getElementById('hero-desc').textContent = '内容将于每天 9:00 自动更新。';
+        document.getElementById('hero-desc').textContent = '该日期暂无资讯记录，内容将于每天 9:00 自动更新。';
         document.getElementById('hero-total').textContent = '—';
         document.getElementById('hero-date-str').textContent = dateStr;
         document.getElementById('stat-total').textContent = '—';
+        return;
     } else {
         // 有数据日期：显示内容
         emptyState.style.display = 'none';
