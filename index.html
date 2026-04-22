@@ -6,7 +6,7 @@
     <title>AI科技日报 | 2026年4月22日</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
     <style>
         :root {
             --bg-primary: #0a0a0f;
@@ -20,8 +20,6 @@
             --text-secondary: #a0a0b0;
             --text-muted: #6b6b7b;
             --border-color: rgba(255,255,255,0.08);
-            --glow-primary: rgba(0,212,255,0.3);
-            --glow-secondary: rgba(124,58,237,0.3);
         }
         
         * {
@@ -35,15 +33,14 @@
         }
         
         body {
-            font-family: 'Noto Sans SC', 'Space Grotesk', sans-serif;
+            font-family: 'Noto Sans SC', sans-serif;
             background: var(--bg-primary);
             color: var(--text-primary);
             line-height: 1.6;
             min-height: 100vh;
-            overflow-x: hidden;
         }
         
-        /* Background Effects */
+        /* Background */
         .bg-effects {
             position: fixed;
             top: 0;
@@ -52,7 +49,6 @@
             height: 100%;
             pointer-events: none;
             z-index: 0;
-            overflow: hidden;
         }
         
         .bg-effects::before {
@@ -63,10 +59,8 @@
             width: 200%;
             height: 200%;
             background: 
-                radial-gradient(ellipse at 20% 20%, var(--glow-primary) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 80%, var(--glow-secondary) 0%, transparent 50%);
-            opacity: 0.15;
-            animation: bgPulse 15s ease-in-out infinite;
+                radial-gradient(ellipse at 20% 20%, rgba(0,212,255,0.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(124,58,237,0.15) 0%, transparent 50%);
         }
         
         .grid-pattern {
@@ -78,12 +72,6 @@
                 linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
             background-size: 60px 60px;
             mask-image: radial-gradient(ellipse at center, black 0%, transparent 70%);
-        }
-        
-        @keyframes bgPulse {
-            0%, 100% { transform: translate(0, 0) rotate(0deg); }
-            33% { transform: translate(2%, 2%) rotate(1deg); }
-            66% { transform: translate(-1%, 1%) rotate(-1deg); }
         }
         
         /* Header */
@@ -111,12 +99,6 @@
             justify-content: center;
             font-size: 24px;
             font-weight: 700;
-            animation: logoFloat 3s ease-in-out infinite;
-        }
-        
-        @keyframes logoFloat {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-5px); }
         }
         
         .logo-text {
@@ -155,7 +137,7 @@
             50% { opacity: 0.5; }
         }
         
-        /* Main Content */
+        /* Main */
         main {
             position: relative;
             z-index: 10;
@@ -164,26 +146,8 @@
             padding: 20px;
         }
         
-        /* Categories */
         .category {
-            margin-bottom: 60px;
-            opacity: 0;
-            transform: translateY(30px);
-            animation: fadeInUp 0.6s ease forwards;
-        }
-        
-        .category:nth-child(1) { animation-delay: 0.1s; }
-        .category:nth-child(2) { animation-delay: 0.2s; }
-        .category:nth-child(3) { animation-delay: 0.3s; }
-        .category:nth-child(4) { animation-delay: 0.4s; }
-        .category:nth-child(5) { animation-delay: 0.5s; }
-        .category:nth-child(6) { animation-delay: 0.6s; }
-        
-        @keyframes fadeInUp {
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            margin-bottom: 50px;
         }
         
         .category-header {
@@ -208,7 +172,6 @@
         .category-title {
             font-size: 20px;
             font-weight: 600;
-            color: var(--text-primary);
         }
         
         .category-line {
@@ -217,7 +180,6 @@
             background: linear-gradient(90deg, var(--border-color), transparent);
         }
         
-        /* Cards Grid */
         .cards-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -230,20 +192,6 @@
             border-radius: 16px;
             padding: 24px;
             transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 3px;
-            background: var(--accent-gradient);
-            opacity: 0;
-            transition: opacity 0.3s ease;
         }
         
         .card:hover {
@@ -252,14 +200,9 @@
             border-color: rgba(0,212,255,0.2);
         }
         
-        .card:hover::before {
-            opacity: 1;
-        }
-        
         .card-title {
             font-size: 16px;
             font-weight: 600;
-            color: var(--text-primary);
             margin-bottom: 12px;
             line-height: 1.4;
         }
@@ -268,48 +211,6 @@
             font-size: 14px;
             color: var(--text-secondary);
             line-height: 1.6;
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-        
-        .card-tag {
-            display: inline-block;
-            padding: 4px 10px;
-            background: rgba(0,212,255,0.1);
-            color: var(--accent-primary);
-            font-size: 12px;
-            border-radius: 6px;
-            margin-top: 16px;
-        }
-        
-        /* Loading State */
-        .loading {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 200px;
-            gap: 16px;
-        }
-        
-        .loading-spinner {
-            width: 40px;
-            height: 40px;
-            border: 3px solid var(--border-color);
-            border-top-color: var(--accent-primary);
-            border-radius: 50%;
-            animation: spin 1s linear infinite;
-        }
-        
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-        
-        .loading-text {
-            color: var(--text-muted);
-            font-size: 14px;
         }
         
         /* Footer */
@@ -327,29 +228,10 @@
             text-decoration: none;
         }
         
-        /* Responsive */
         @media (max-width: 768px) {
-            header {
-                padding: 40px 16px 30px;
-            }
-            
-            .logo-text {
-                font-size: 22px;
-            }
-            
-            .category-header {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 12px;
-            }
-            
-            .category-line {
-                width: 100%;
-            }
-            
-            .cards-grid {
-                grid-template-columns: 1fr;
-            }
+            header { padding: 40px 16px 30px; }
+            .logo-text { font-size: 22px; }
+            .cards-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -364,97 +246,154 @@
             <span class="logo-text">AI 科技日报</span>
         </div>
         <div class="date-badge">
-            <span id="currentDate">2026年4月22日</span>
+            <span>2026年4月22日</span>
             <span>·</span>
             <span>每日 AI 资讯精选</span>
         </div>
     </header>
     
-    <main id="content">
-        <div class="loading">
-            <div class="loading-spinner"></div>
-            <div class="loading-text">正在加载今日资讯...</div>
-        </div>
+    <main>
+        <!-- 大模型动态 -->
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon">🧠</div>
+                <h2 class="category-title">大模型动态</h2>
+                <div class="category-line"></div>
+            </div>
+            <div class="cards-grid">
+                <article class="card">
+                    <h3 class="card-title">2026年AI大模型全景解析:性能迭代与场景落地双突破</h3>
+                    <p class="card-desc">步入2026年,AI大模型行业已从野蛮生长迈入精细化竞争新阶段。海内外科技巨头与创业公司持续发力,多款重磅新模型密集发布,在推理能力、多模态交互、场景适配性等核心维度实现突破性升级。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">2026开年关键词:Self-Distillation,大模型真正走向「持续学习」</h3>
+                    <p class="card-desc">2026年刚拉开序幕,大模型(LLM)领域的研究者们似乎达成了一种默契。近年来,基础模型取得了显著的成功,为语言、视觉、机器人等领域的AI应用提供了强大的支持。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">最新!2026年3月全球大模型全景:国产登顶、百万上下文、智能体爆发</h3>
+                    <p class="card-desc">2026年3月,全球大模型领域迎来史诗级爆发,OpenAI、谷歌等海外巨头持续突破技术边界,国产大模型实现全球调用量反超、旗舰模型登顶国际盲测的双重突破。</p>
+                </article>
+            </div>
+        </section>
+
+        <!-- GitHub热门 -->
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon">⭐</div>
+                <h2 class="category-title">GitHub 热门</h2>
+                <div class="category-line"></div>
+            </div>
+            <div class="cards-grid">
+                <article class="card">
+                    <h3 class="card-title">2026最新AI量化交易工具盘点:7个GitHub开源项目</h3>
+                    <p class="card-desc">TradingAgents GitHub Star:46k+。TradingAgents是一个基于多智能体协作的AI量化交易框架,由TauricResearch团队开发。该框架模拟了专业投资研究报告流程。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">AI产品推荐榜(2026.2)</h3>
+                    <p class="card-desc">本期推荐榜涉及AI Chatbot、API模型、桌面Agent、Coding Agent、通用Agent、深度研究、世界模型、AI绘图、AI视频、AI PPT、AI搜索、AI音乐、智能会议等领域。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">大四学生AI项目登GitHub榜首,获陈天桥3000万投资</h3>
+                    <p class="card-desc">大四学生郭航江(BaiFu)开发的群体智能引擎"MiroFish"登顶GitHub全球趋势榜,并获得盛大集团创始人陈天桥3000万元投资用于进一步产品孵化。</p>
+                </article>
+            </div>
+        </section>
+
+        <!-- 视频生成 -->
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon">🎬</div>
+                <h2 class="category-title">视频生成</h2>
+                <div class="category-line"></div>
+            </div>
+            <div class="cards-grid">
+                <article class="card">
+                    <h3 class="card-title">Runway发布Gen-4.5文本生成视频模型</h3>
+                    <p class="card-desc">12月5日Runway在纽约正式发布全新的文本生成视频模型Gen-4.5,并高调宣称其在综合表现上已经超越OpenAI的Sora 2和Google的Veo 3。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">百人初创公司Runway发布AI视频模型 生成质量超谷歌OpenAI竞品</h3>
+                    <p class="card-desc">美国人工智能初创公司Runway推出Gen-4.5——一款新视频模型,该模型在独立基准测试中表现优于谷歌和OpenAI同类产品。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">AI视频生成赛道2026年最新格局:Sora、Kling、Pika三国杀</h3>
+                    <p class="card-desc">2026年的视频创作行业正在经历一场前所未有的技术地震。从OpenAI的Sora到国内的快手Kling,从老牌玩家Runway到新兴势力Pika,围绕"一句话生成一段视频"的争夺战已经进入白热化。</p>
+                </article>
+            </div>
+        </section>
+
+        <!-- 开发工具 -->
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon">🛠️</div>
+                <h2 class="category-title">开发工具</h2>
+                <div class="category-line"></div>
+            </div>
+            <div class="cards-grid">
+                <article class="card">
+                    <h3 class="card-title">AI编程工具推荐,程序员必备神器(2026最新)</h3>
+                    <p class="card-desc">Cursor是一款基于VS Code的AI编辑器,集成了强大的AI辅助功能。主要功能包括智能代码补全、代码解释、Bug修复、多文件编辑等。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">2026年最新热门AI编程软件推荐</h3>
+                    <p class="card-desc">Trae(字节跳动):全流程自主AI开发引擎。Trae作为字节跳动推出的AI原生IDE,打破了传统编程工具的功能边界,凭借SOLO模式与双智能体架构脱颖而出。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">8款编程神器必看</h3>
+                    <p class="card-desc">以下8款热门AI编程工具均经过实测验证,兼顾实用性与专业性,其中Trae更是凭借突出优势稳居榜首,全方位适配各类开发场景。</p>
+                </article>
+            </div>
+        </section>
+
+        <!-- 知识库 RAG -->
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon">📚</div>
+                <h2 class="category-title">知识库 RAG</h2>
+                <div class="category-line"></div>
+            </div>
+            <div class="cards-grid">
+                <article class="card">
+                    <h3 class="card-title">RAG性能优化杀器,引入上下文检索!</h3>
+                    <p class="card-desc">本文介绍了一种显著提升RAG检索步骤的方法,称为"上下文检索",它利用两个子技术:上下文嵌入(Contextual Embeddings)和上下文BM25(Contextual BM25)。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">收藏必看:2025年RAG已死?2026年上下文工程将引领大模型新风口!</h3>
+                    <p class="card-desc">RAG技术在2025年从狂热走向冷静,基础设施稳定但创新放缓。作者提出RAG本质是"上下文工程",2026年将向Context Platform(上下文平台)方向演进。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">长上下文窗口、Agent崛起,RAG已死?</h3>
+                    <p class="card-desc">自2022年以来,为解决LLM输入长度有限的问题,RAG作为一种"外挂"知识库的解决方案,迅速成为行业标准。其核心逻辑如同搜索引擎。</p>
+                </article>
+            </div>
+        </section>
+
+        <!-- 其他资讯 -->
+        <section class="category">
+            <div class="category-header">
+                <div class="category-icon">💡</div>
+                <h2 class="category-title">其他资讯</h2>
+                <div class="category-line"></div>
+            </div>
+            <div class="cards-grid">
+                <article class="card">
+                    <h3 class="card-title">2026年AI技术突破与产业落地全景:从GPT-5到多模态智能体的新纪元</h3>
+                    <p class="card-desc">2026年3月,人工智能领域迎来了新一轮技术突破浪潮。从GPT-5的推理能力质变到多模态大模型的实时交互能力,从边缘计算部署到产业应用落地,AI技术正以前所未有的速度推进。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">2026年初AI行业全景:技术突破与争议并存</h3>
+                    <p class="card-desc">2026年初AI行业全景:技术突破与争议并存,国产化与全球化双向发力。2026年开年以来,人工智能行业迎来加速发展期,技术研发持续突破、落地场景不断拓展。</p>
+                </article>
+                <article class="card">
+                    <h3 class="card-title">2026 AI元年:从技术狂欢到价值共生的智能新纪元</h3>
+                    <p class="card-desc">若说2023年是生成式AI的概念启蒙年,2026年则正式开启了人工智能的"应用元年"与"价值兑现年"。这一年,大模型技术从参数竞赛迈入能力沉淀期。</p>
+                </article>
+            </div>
+        </section>
     </main>
     
     <footer>
         <p>Powered by <a href="#">OpenClaw</a> · 自动更新于每日 9:00</p>
     </footer>
-    
-    <script>
-        const categoryConfig = {
-            llm: { title: '大模型动态', icon: '🧠', color: '#00d4ff' },
-            github: { title: 'GitHub 热门', icon: '⭐', color: '#fbbf24' },
-            video: { title: '视频生成', icon: '🎬', color: '#f472b6' },
-            devtools: { title: '开发工具', icon: '🛠️', color: '#22c55e' },
-            rag: { title: '知识库 RAG', icon: '📚', color: '#a78bfa' },
-            other: { title: '其他资讯', icon: '💡', color: '#fb923c' }
-        };
-        
-        function formatDate(dateStr) {
-            const date = new Date(dateStr);
-            const options = { year: 'numeric', month: 'long', day: 'numeric' };
-            return date.toLocaleDateString('zh-CN', options);
-        }
-        
-        function createCard(item, index) {
-            const desc = item.desc.replace(/[#>]/g, '').substring(0, 120);
-            return `
-                <article class="card" style="animation-delay: ${index * 0.1}s">
-                    <h3 class="card-title">${item.title}</h3>
-                    <p class="card-desc">${desc}...</p>
-                </article>
-            `;
-        }
-        
-        function createCategory(key, items) {
-            const config = categoryConfig[key];
-            if (!items || items.length === 0) return '';
-            
-            return `
-                <section class="category">
-                    <div class="category-header">
-                        <div class="category-icon">${config.icon}</div>
-                        <h2 class="category-title">${config.title}</h2>
-                        <div class="category-line"></div>
-                    </div>
-                    <div class="cards-grid">
-                        ${items.slice(0, 3).map((item, i) => createCard(item, i)).join('')}
-                    </div>
-                </section>
-            `;
-        }
-        
-        async function loadData() {
-            try {
-                const response = await fetch('data.json');
-                const data = await response.json();
-                
-                document.getElementById('currentDate').textContent = formatDate(data.date);
-                
-                const content = document.getElementById('content');
-                content.innerHTML = '';
-                
-                const categories = ['llm', 'github', 'video', 'devtools', 'rag', 'other'];
-                
-                for (const cat of categories) {
-                    if (data[cat] && data[cat].length > 0) {
-                        content.innerHTML += createCategory(cat, data[cat]);
-                    }
-                }
-                
-                if (content.innerHTML === '') {
-                    content.innerHTML = '<div class="loading"><div class="loading-text">暂无数据</div></div>';
-                }
-            } catch (error) {
-                console.error('加载数据失败:', error);
-                document.getElementById('content').innerHTML = 
-                    '<div class="loading"><div class="loading-text">数据加载失败，请刷新页面</div></div>';
-            }
-        }
-        
-        // Initialize
-        document.addEventListener('DOMContentLoaded', loadData);
-    </script>
 </body>
 </html>
