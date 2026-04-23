@@ -134,7 +134,11 @@
           "stars": "51K",
           "type": " intelligence dashboard",
           "desc": "全球情报聚合仪表板，koala73/worldmonitor，持续领跑GitHub，日增长接近500星",
-          "tags": ["情报聚合", "AI监控", "开源"],
+          "tags": [
+            "情报聚合",
+            "AI监控",
+            "开源"
+          ],
           "url": "https://github.com/koala73/worldmonitor",
           "iconType": "star",
           "icon": "globe",
@@ -145,7 +149,11 @@
           "stars": "59K",
           "type": "Claude Code记忆系统",
           "desc": "Claude Code持久记忆压缩系统，帮助AI跨会话保持项目理解，日均增长260星",
-          "tags": ["Claude", "AI编程", "记忆系统"],
+          "tags": [
+            "Claude",
+            "AI编程",
+            "记忆系统"
+          ],
           "url": "https://github.com/thedotmack/claude-mem",
           "iconType": "star",
           "icon": "cpu",
@@ -156,7 +164,11 @@
           "stars": "高增速",
           "type": "Claude Code编码指南",
           "desc": "改善Claude Code行为的编码指南，由知名AI专家Karpathy推动，日均增长600星",
-          "tags": ["Claude", "AI编程", "最佳实践"],
+          "tags": [
+            "Claude",
+            "AI编程",
+            "最佳实践"
+          ],
           "url": "https://github.com/forrestchang/andrej-karpathy-skills",
           "iconType": "star",
           "icon": "book",
@@ -167,7 +179,11 @@
           "stars": "高增速",
           "type": "WiFi人体感知",
           "desc": "无摄像头的人体姿态与生命体征监测系统，基于WiFi信号感知人体活动，安全监控领域新突破",
-          "tags": ["WiFi感知", "人体感知", "安全监控"],
+          "tags": [
+            "WiFi感知",
+            "人体感知",
+            "安全监控"
+          ],
           "url": "https://github.com/ruvnet/wifi-densepose",
           "iconType": "star",
           "icon": "wifi",
@@ -337,6 +353,228 @@
           "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_58969ce4cb466852",
           "source": "QQ浏览器",
           "pubDate": "2026-04-20"
+        }
+      ]
+    },
+    "2026-04-22": {
+      "title": "Images 2.0发布/世界模型商业化临界点/Claude Opus 4.7编程暴涨11%",
+      "desc": "OpenAI Images 2.0引入思考模式，AI绘图进入智能创作时代；阿里腾讯48小时连发世界模型，商业化临界点已至；Claude Opus 4.7编程能力暴涨11%超越GPT-5.4。",
+      "featured": [
+        {
+          "title": "OpenAI Images 2.0发布：AI绘图进入会思考时代",
+          "desc": "gpt-image-2模型引入思考模式，可联网搜索、多图生成、自检纠错。Arena全品类登顶超越Google Gemini Banana Pro 2.0，中文/日文/韩文文本渲染能力大幅提升，支持4K写实画质。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765",
+          "label": "图片生成",
+          "icon": "image",
+          "color": "#ff7b00",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "阿里腾讯48小时连发世界模型，商业化临界点已至",
+          "desc": "阿里HappyOyster（4月27日开放API）定位世界模拟器，腾讯开源混元3D世界模型2.0可导出游戏级资产，群核科技港交所上市首日涨144%市值超300亿港元。",
+          "url": "https://www.tmtpost.com/7959349.html",
+          "label": "世界模型",
+          "icon": "globe",
+          "color": "#ff3d71",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "Claude Opus 4.7发布：编程能力暴涨11%，超越GPT-5.4",
+          "desc": "编程测试从53.4%跃升至64.3%，超越GPT-5.4和Gemini 3.1 Pro。可靠性大幅增强，可自我规划、验证、检查输出，Anthropic同日推出Claude Design设计助手。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_21969e2ffa448952",
+          "label": "大模型",
+          "icon": "brain",
+          "color": "#00e5ff",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "国务院重磅定调AI+：2030年服务业破100万亿",
+          "desc": "明确支持采购大模型和智能体，建设国家AI应用中试基地，6G/算力/文旅/金融全面加码，为A股 AI、软件、互联网应用赛道注入最强政策催化剂。",
+          "url": "https://caifuhao.eastmoney.com/news/20260421194505996899190",
+          "label": "政策",
+          "icon": "landmark",
+          "color": "#a855f7",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "llm": [
+        {
+          "title": "Claude Opus 4.7：编程能力从53.4%到64.3%，超越GPT-5.4",
+          "desc": "Anthropic 4月16日发布，可靠性大幅增强，可自我规划、验证、检查输出。编程测试得分单代提升近11个百分点。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_21969e2ffa448952",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "GPT-6预训练完成：200万Token上下文，预计6月开放API",
+          "desc": "上下文窗口相当于两部中篇小说或10小时音频，彻底解决内容截断痛点。稀疏混合架构，训练能耗降低40%但性能提升120%。",
+          "url": "https://blog.csdn.net/lyy_kao/article/details/160027453",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "智谷AI GLM-5.1开源：一周刷新105项SOTA，支持8小时连续工程作业",
+          "desc": "MIT许可开源商用，SWE-bench Pro全球领跑，性能超越Claude Opus 4.6，国产大模型正式跻身第一梯队。",
+          "url": "https://blog.csdn.net/ld326/article/details/159999713",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "中美模型差距仅2.7%：斯坦福2026 AI指数报告发布",
+          "desc": "Claude Opus 4.6得1503分，国产dola-seed-2.0-preview得1464分，双方已交替领先，差距基本消除。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_99569df8ee289665",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "github": [
+        {
+          "title": "OpenClaw：24.7万星，开源个人AI助手，周增7184",
+          "desc": "基于MCP协议，微核+插件+网关架构，解决传统AI助手功能单一、无法本地化/隐私保护/可定制的痛点。",
+          "url": "https://blog.csdn.net/mzh10588/article/details/159783816",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "Superpowers：45.1k星，AI编码代理技能框架",
+          "desc": "需求拆解、方案设计、子代理执行、TDD流程自动化，支持Claude Code，让AI代理可自主完成数小时无偏差开发。",
+          "url": "https://blog.csdn.net/ld326/article/details/157776541",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "字节Trae：AI原生IDE，完全免费，中文适配最佳",
+          "desc": "集成DeepSeek/豆包模型，Builder模式10分钟出项目，上传Figma设计稿90秒生成HTML/CSS，解决国外工具中文理解差的痛点。",
+          "url": "https://blog.csdn.net/AUTUMNA/article/details/159541387",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "world": [
+        {
+          "title": "腾讯混元3D世界模型2.0：已开源，可导出游戏级资产",
+          "desc": "支持文本/图片/视频生成3D世界，导出Mesh/3DGS/点云，可无缝导入Unity、UE游戏引擎，姚顺雨入职后首个重大升级。",
+          "url": "https://www.sohu.com/a/1011748328_121885030",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "阿里HappyOyster：世界模拟器，4月27日开放API",
+          "desc": "漫游模式支持1分钟连续实时位移，导演模式支持3分钟以上720p画面。已登顶Artificial Analysis视频榜，超越字节Seedance 2.0。",
+          "url": "https://www.tmtpost.com/7959349.html",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "群核科技港交所上市：全球空间智能第一股，首日涨144%",
+          "desc": "2025年营收8.2亿元，毛利率82.2%，市值超300亿港元。香港公开发售获1591倍超额认购。",
+          "url": "http://www.ebrun.com/20260421/656689.shtml",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "design": [
+        {
+          "title": "Claude Design：Anthropic推出AI设计助手",
+          "desc": "一句话生成商业级设计原型，支持PRD、设计稿、可运行代码全链路。设计师门槛大幅降低，非设计师也能做视觉创作。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_48569e5a7b855052",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "Adobe Photoshop 2026：AI语义级创作升级",
+          "desc": "创成式填充升级为语义级创作，场景识别更精准。图像扩展支持任意尺寸边界延伸，输入指令即可延伸画面内容。",
+          "url": "http://www.ddooo.com/softdown/115292.htm",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "video": [
+        {
+          "title": "OpenAI Images 2.0（gpt-image-2）：AI绘图新王",
+          "desc": "Thinking模式可联网推理、多图自检，擅长杂志排版、信息图、漫画分镜。多语言文本渲染大幅提升，4K写实画质。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_75569e8713205765",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "阿里HappyHorse：登顶视频榜，4月27日开放API",
+          "desc": "15B参数统一Transformer，已超越字节Seedance 2.0、可灵AI 3.0等多款主流模型，支持文生视频、图生视频及音频同步生成。",
+          "url": "http://news.pconline.com.cn/2133/21335331.html",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "字节Seedance 2.0：2K清晰度，API定价约1元/秒",
+          "desc": "导演级镜头语言，工业级AI视频标准。火山引擎公布API定价，标志着视频生成从炫技走向明确商业化定价。",
+          "url": "https://blog.csdn.net/u010690311/article/details/158688529",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "devtools": [
+        {
+          "title": "OpenClaw v2026.4.5：Dreaming记忆系统，7x24无人值守",
+          "desc": "视频/音乐/图像三大生成能力内置为系统原生工具。首次引入Dreaming记忆系统，模拟人类睡眠记忆机制（Light/Deep/REM三阶段）。",
+          "url": "https://www.chinaz.com/tags/1039977.shtml",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "Claude Code Agent Teams：多代理协作，持久化跨会话",
+          "desc": "支持独立上下文、自主通信、任务并行。Tasks系统取代Todos，支持任务依赖、跨代理共享、实时广播。",
+          "url": "https://www.toutiao.com/article/7627551318797713962/",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "字节Trae Builder模式：上传Figma设计稿，90秒生成代码",
+          "desc": "AI自动解析布局结构和色彩体系，输出像素级还原的响应式HTML/CSS。实测编码效率平均提升30%以上。",
+          "url": "https://blog.csdn.net/AUTUMNA/article/details/159953335",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "rag": [
+        {
+          "title": "Agentic RAG：让大模型自主规划检索、多步推理、自我修正",
+          "desc": "传统RAG只能查了再答，Agentic RAG让大模型拥有自主规划检索、工具调用和自我修正能力，解决检索不全、回答不准痛点。",
+          "url": "https://blog.csdn.net/qq_52327553/article/details/159922247",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "阿里VRAG开源：多模态RAG框架，视觉+文字+视频统一检索",
+          "desc": "阿里通义实验室开源，强化学习、视觉感知、多模态记忆图结合，基准提升20%-30%，代表下一代RAG方向。",
+          "url": "https://www.toutiao.com/w/1862450892085388/",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "AMD 3D V-Cache：RAG AI测试性能提升88%",
+          "desc": "Ryzen 7 9850X3D在RAG基准测试中比非X3D芯片快88%，大容量缓存显著优化HNSW图检索效率，200K批量搜索提升超50%。",
+          "url": "https://finance.sina.com.cn/tech/digi/2026-04-21/doc-inhvfivq7059712.shtml",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "industry": [
+        {
+          "title": "启明创投邝子平：AI处于超长技术周期早段",
+          "desc": "人工智能是改天换地的技术革命，并非短期潮流。大量技术问题尚未解决，具身智能泛化能力是下一个投资方向。",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904lgt0.html",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "量子AI赛道Q1融资突破32亿元，超越2025年全年",
+          "desc": "玻色量子完成10亿元B轮融资，量子+AI融合成为激活产业价值核心抓手，资本正加速涌入这一赛道。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_58369e756df46452",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "Factory平台融资1.5亿美元，Droids智能体已服务英伟达Adobe",
+          "desc": "AI原生软件开发正加速落地，Droids智能体实现全流程自动化软件开发，AI Agent规模化商业落地元年已至。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_43969e85a4450752",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "game": [
+        {
+          "title": "育碧招聘要求精通生成式AI，基于虚幻5开发3A游戏",
+          "desc": "技术美术总监岗位明确要求熟练使用ChatGPT/Claude，《红色沙漠》等作品已发现早期阶段由AI生成的美术素材。",
+          "url": "https://www.sohu.com/a/1012352317_121885030",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "堡垒之夜UEFN推出AI NPC实时对话",
+          "desc": "基于Google Gemini + ElevenLabs，NPC可脱离固定对话树，无脚本交互、记忆游戏进程、上下文语音回应，触发游戏事件。",
+          "url": "http://news.17173.com/content/04192026/184053966.shtml",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "2026腾讯游戏创作大赛启幕，拥抱AI游戏新舞台",
+          "desc": "连接全球开发者，共拓AI游戏新舞台，探索AI在游戏创作中的更多可能性。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_25769e5fe2027252",
+          "pubDate": "2026-04-22"
         }
       ]
     }
