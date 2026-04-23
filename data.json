@@ -254,22 +254,7 @@
           "pubDate": "2026-04-15"
         }
       ],
-      "devtools": [
-        {
-          "title": "Midjourney推出一年多以来首个新图像生成模型V7",
-          "desc": "Midjourney发布V7模型，一年多来首次重大更新，从底层重构提供更高质量图像生成效果，引入草稿模式等新功能。",
-          "url": "https://ai.zhiding.cn/2025/0407/3165043.shtml",
-          "source": "至顶网",
-          "pubDate": "2026-04-17"
-        },
-        {
-          "title": "SD原班人马打造最强图片生成模型FLUX.1",
-          "desc": "黑森林实验室推出全新图像生成模型FLUX.1，三种版本满足不同需求，抽卡效率大幅提升。",
-          "url": "https://blog.csdn.net/HJS123456780/article/details/140985877",
-          "source": "CSDN",
-          "pubDate": "2026-04-18"
-        }
-      ],
+      "devtools": [],
       "industry": [
         {
           "title": "AI人工智能领域最新热点资讯汇总(2026年4月22日)",
