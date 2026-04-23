@@ -1,72 +1,81 @@
 {
-  "title": "DeepSeek V4即将发布/Claude Design震动设计圈/阿里腾讯同日发布世界模型",
-  "desc": "DeepSeek沉默5个月后传出V4将于4月下旬发布，估值传闻超百亿美元；Anthropic Claude Design直击Figma，市值单日蒸发近7%；腾讯阿里同日发布世界模型产品，AI竞争全面升级。",
+  "title": "Claude Opus 4.7发布 | 腾讯阿里同日推世界模型 | GitHub刷星产业链曝光",
+  "desc": "Anthropic发布Claude Opus 4.7引入Symphony多模态架构；腾讯与阿里4月16日同日发布世界模型产品；CMU研究揭露GitHub约600万颗假Star，AI项目刷星最猛；DeepSeek已沉默近5个月未发新模型。",
   "dates": {
     "2026-04-23": {
-      "title": "DeepSeek V4即将发布/Claude Design震动设计圈/阿里腾讯同日发布世界模型",
-      "desc": "DeepSeek沉默5个月后传出V4将于4月下旬发布，估值传闻超百亿美元；Anthropic Claude Design直击Figma，市值单日蒸发近7%；腾讯阿里同日发布世界模型产品，AI竞争全面升级。",
+      "title": "Claude Opus 4.7发布 | 腾讯阿里同日推世界模型 | GitHub刷星产业链曝光",
+      "desc": "Anthropic发布Claude Opus 4.7引入Symphony多模态架构；腾讯与阿里4月16日同日发布世界模型产品；CMU研究揭露GitHub约600万颗假Star，AI项目刷星最猛；DeepSeek已沉默近5个月未发新模型。",
       "featured": [
         {
-          "title": "DeepSeek V4即将发布：沉默5个月后的技术反击",
-          "desc": "4月初The Information报道DeepSeek V4将于4月下旬发布，率先支持华为昇腾950PR芯片。同时传出正洽谈首轮外部融资，估值传闻不低于100亿美元、募集3亿美元以上。DeepSeek最新模型V3.2已连续140天未更新，在基准测试中已跌至全球第16名。",
-          "url": "https://www.36kr.com/p/3777437597586178",
+          "title": "Anthropic发布Claude Opus 4.7：Symphony架构重塑多模态",
+          "desc": "引入全新Symphony原生多模态架构，实现文本/图像/音频/视频真正联合建模，多模态理解任务较前代提升37%，代码能力与对齐显著改进。",
+          "url": "https://blog.csdn.net/qq_41862844/article/details/160253395",
           "label": "大模型",
-          "icon": "brain",
-          "color": "#8b5cf6",
-          "pubDate": "2026-04-20"
+          "icon": "🤖",
+          "color": "#7C3AED",
+          "pubDate": "2026-04-17"
         },
         {
-          "title": "Claude Design发布：Anthropic\"AI斩杀线\"再扩版图",
-          "desc": "4月18日Anthropic推出Claude Design，用户可通过对话完成网页/App设计方案、交互原型、PPT等视觉内容，一键打包到Claude Code生成代码。美国最大设计软件Figma股价当日大跌近7%，市值已从高点跌去近90%。这是Anthropic自1月以来的第N次\"斩杀\"行动。",
-          "url": "https://k.sina.com.cn/article_7264514723_1b0ffb2a300102pb08.html",
-          "label": "Claude生态",
-          "icon": "sparkles",
-          "color": "#f97316",
-          "pubDate": "2026-04-18"
-        },
-        {
-          "title": "腾讯阿里同日发布世界模型，赛道再掀波澜",
-          "desc": "4月16日，腾讯发布开源混元3D世界模型2.0（HY-World 2.0），阿里发布主打实时交互的HappyOyster，世界模型迎来\"ChatGPT时刻\"。极佳视界同日宣布完成近15亿元B1轮融资，由伊利、普华等机构投资。",
-          "url": "https://www.citnews.com.cn/news/216612",
+          "title": "腾讯阿里同日发布世界模型：HY-World 2.0 vs HappyOyster",
+          "desc": "4月16日腾讯开源混元3D世界模型2.0，阿里发布主打实时交互的HappyOyster，48小时内三大事件引爆世界模型赛道。",
+          "url": "https://www.ebrun.com/20260421/656689.shtml",
           "label": "世界模型",
-          "icon": "globe",
-          "color": "#06b6d4",
-          "pubDate": "2026-04-16"
+          "icon": "🌐",
+          "color": "#059669",
+          "pubDate": "2026-04-21"
+        },
+        {
+          "title": "GitHub Star明码标价5毛/颗，CMU揭露600万假星产业链",
+          "desc": "CMU研究识别出约600万颗假Star、超1.8万刷星仓库，AI项目刷假星最猛，买星包装成本不到300美元对应融资百万级。",
+          "url": "https://www.woshipm.com/ai/6381724.html",
+          "label": "开源生态",
+          "icon": "⭐",
+          "color": "#D97706",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "DeepSeek沉默5个月：最新模型V3.2发布至今已140天",
+          "desc": "截至4月20日DeepSeek已近5个月未发布新模型，发布频率在主流模型厂商中几乎最低，业界关注其下一步动向。",
+          "url": "https://news.qq.com/rain/a/20260422A06J4900?adChannelId=tech",
+          "label": "大模型",
+          "icon": "🔮",
+          "color": "#2563EB",
+          "pubDate": "2026-04-22"
         }
       ],
       "hotSearch": [
         {
-          "title": "QQ音乐巅峰榜十大艺人",
-          "url": "https://s.weibo.com/weibo?q=QQ%E9%9F%B3%E4%B9%90%E5%B7%85%E5%B3%B0%E6%A6%9C%E5%8D%81%E5%A4%A7%E8%89%BA%E4%BA%BA",
+          "title": "员工建600多个工作群离职拒交接",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%98%E5%B7%A5%E5%BB%BA600%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%BE%A4%E7%A6%BB%E8%81%8C%E6%8B%92%E4%BA%A4%E6%8E%A5",
           "source": "微博",
-          "heat": "116万"
+          "heat": "109万"
         },
         {
-          "title": "镜片装反孩子暴涨到900度妈妈崩溃",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%9C%E7%89%87%E8%A3%85%E5%8F%8D%E5%AD%A9%E5%AD%90%E6%9A%B4%E6%B6%A8%E5%88%B0900%E5%BA%A6%E5%A6%88%E5%A6%88%E5%B4%A9%E6%BA%83",
+          "title": "崔丽丽案发前年薪120多万元",
+          "url": "https://s.weibo.com/weibo?q=%E5%B4%94%E4%B8%BD%E4%B8%BD%E6%A1%88%E5%8F%91%E5%89%8D%E5%B9%B4%E8%96%AA120%E5%A4%9A%E4%B8%87%E5%85%83",
           "source": "微博",
-          "heat": "85万"
+          "heat": "82万"
         },
         {
-          "title": "人民海军成立77周年",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%B5%B7%E5%86%9B%E6%88%90%E7%AB%8B77%E5%91%A8%E5%B9%B4",
+          "title": "第六届亚洲沙滩运动会在三亚开幕",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E5%85%AD%E5%B1%8A%E4%BA%9A%E6%B4%B2%E6%B2%99%E6%BB%A9%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%9C%A8%E4%B8%89%E4%BA%9A%E5%BC%80%E5%B9%95",
           "source": "微博",
-          "heat": "75万"
+          "heat": "67万"
         },
         {
-          "title": "华为乾崑技术大会",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%8A%80%E6%9C%AF%E5%A4%A7%E4%BC%9A",
+          "title": "问界M6动态评测首发",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM6%E5%8A%A8%E6%80%81%E8%AF%84%E6%B5%8B%E9%A6%96%E5%8F%91",
           "source": "微博",
-          "heat": "75万"
+          "heat": "66万"
         },
         {
-          "title": "男子整日疑妻出轨确诊神经梅毒晚期",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%95%B4%E6%97%A5%E7%96%91%E5%A6%BB%E5%87%BA%E8%BD%A8%E7%A1%AE%E8%AF%8A%E7%A5%9E%E7%BB%8F%E6%A2%85%E6%AF%92%E6%99%9A%E6%9C%9F",
+          "title": "食物热量越来越极端了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A3%9F%E7%89%A9%E7%83%AD%E9%87%8F%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%9E%81%E7%AB%AF%E4%BA%86",
           "source": "微博",
-          "heat": "75万"
+          "heat": "64万"
         },
         {
-          "title": "\"爸爸，这座山下有黄金……\"8岁男孩爬山发现大片问荆草和含云母的石块，推测\"山下有金矿\"。专家：该地大概率含金，但最终结论要等专业单位的化学分析。",
+          "title": "8岁男孩爬山发现大片问荆草，推测山下有金矿",
           "url": "https://www.douyin.com/video/7631411891239243017",
           "source": "抖音",
           "heat": "3735万播放"
@@ -90,7 +99,7 @@
           "heat": "2567万播放"
         },
         {
-          "title": "电诈干到了霍尔木兹海峡！有人冒充伊朗当局，要求用加密货币付过境费，已有船只被骗并遭炮击",
+          "title": "电诈干到了霍尔木兹海峡！有人冒充伊朗当局要求用加密货币付过境费，已有船只被骗并遭炮击",
           "url": "https://www.douyin.com/video/7631234904503766306",
           "source": "抖音",
           "heat": "1944万播放"
@@ -98,246 +107,272 @@
       ],
       "llm": [
         {
-          "title": "DeepSeek V4 4月下旬发布传闻升温，估值100亿美元融资消息待确认",
-          "desc": "The Information报道DeepSeek V4将在4月下旬发布，且将率先支持华为昇腾950PR芯片。同时传出正与投资者洽谈首轮外部融资，计划以不低于100亿美元估值募集超3亿美元，相关资本机构称估值信息不准确。",
-          "url": "https://www.36kr.com/p/3777437597586178",
-          "source": "36氪",
-          "pubDate": "2026-04-20"
+          "title": "OpenAI发布GPT-6：200万token上下文窗口",
+          "desc": "GPT-6支持200万token上下文窗口，较GPT-4.5的128K提升超15倍，HumanEval基准92.3%，推理与代码生成显著提升。",
+          "url": "https://blog.csdn.net/internetear/article/details/160252453",
+          "source": "CSDN",
+          "pubDate": "2026-04-17"
         },
         {
-          "title": "Claude Opus 4.7发布：驱动Claude Design设计工具，Anthropic拓展视觉领域",
-          "desc": "Anthropic于4月17日发布Opus 4.7模型，同步推出基于该模型驱动的实验性设计工具Claude Design，正式进军视觉设计领域，与Canva、Figma展开正面竞争。Claude Code最新版本v2.1.88于3月31日发布。",
-          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_22769e4a02d80165",
-          "source": "腾讯元宝",
+          "title": "阿里发布Qwen3.6：35B MoE架构本地门槛大降",
+          "desc": "阿里巴巴发布Qwen3.6，35B参数MoE模型大幅降低本地运行显卡要求，配置一般的机器也能跑本地AI。",
+          "url": "https://blog.csdn.net/qq_41862844/article/details/160253395",
+          "source": "CSDN",
           "pubDate": "2026-04-17"
+        },
+        {
+          "title": "DeepSeek沉默5个月未发新模型，业界关注下一步",
+          "desc": "DeepSeek最新模型V3.2发布于2025年12月，截至4月20日已140天未更新，发布频率在主流厂商中最低。",
+          "url": "https://news.qq.com/rain/a/20260422A06J4900?adChannelId=tech",
+          "source": "腾讯网",
+          "pubDate": "2026-04-22"
         }
       ],
       "github": [
         {
-          "title": "Claude Context：基于MCP协议的语义代码搜索插件，节省40% token消耗",
-          "desc": "Claude Context（zilliztech/claude-context）基于Model Context Protocol，为Claude Code提供整个代码库的深度上下文理解。通过混合搜索技术（BM25+向量检索）和智能AST分块，开发者可用自然语言快速查找语义相关代码，大型代码库节省约40% token消耗。",
-          "url": "https://github.com/zilliztech/claude-context",
-          "source": "GitHub",
+          "title": "GitHub Star刷假星产业链被CMU研究揭穿",
+          "desc": "CMU识别约600万假Star、超1.8万刷星仓库，AI项目刷星最猛。买星5毛/颗，包装成本不到300美元可对应百万级融资，ROI最高11万倍。",
+          "url": "https://www.woshipm.com/ai/6381724.html",
+          "source": "人人都是产品经理",
           "pubDate": "2026-04-22"
         },
         {
-          "title": "Claude-Mem：Claude Code持久记忆压缩系统，跨会话保持项目理解",
-          "desc": "Claude-Mem（thedotmack/claude-mem）为Claude Code提供持久记忆压缩系统，帮助AI跨会话保持项目理解能力。该项目获得近59000星关注，日均增长260星，位列GitHub AI项目前列，有效解决了AI编程助手的上下文丢失问题。",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "GitHub",
-          "pubDate": "2026-04-16"
+          "title": "Superpowers编码技能框架突破15万星，AI编程工作流成热点",
+          "desc": "Superpowers将TDD/YAGNI等开发方法论固化为可组合技能模块，每日增长791星；Hermes Agent 47k+星，自我进化AI代理持续火热。",
+          "url": "https://blog.csdn.net/xiaoquqi/article/details/160004526",
+          "source": "CSDN",
+          "pubDate": "2026-04-17"
+        },
+        {
+          "title": "Claude Code每日更新至v2.1.114，安全沙箱与多代理修复",
+          "desc": "新增域名黑名单、修复Bash命令绕过漏洞、多代理超时处理、Agent Teams权限弹窗崩溃等问题，20余项具体修复。",
+          "url": "https://blog.csdn.net/Rthan/article/details/160323847",
+          "source": "CSDN",
+          "pubDate": "2026-04-20"
         }
       ],
       "trend": [
         {
-          "name": "WorldMonitor",
-          "stars": "51K",
-          "type": " intelligence dashboard",
-          "desc": "全球情报聚合仪表板，koala73/worldmonitor，持续领跑GitHub，日增长接近500星",
+          "name": "Superpowers",
+          "stars": "150k+",
+          "type": "AI编码工作流框架",
+          "desc": "面向AI编码智能体的完整软件开发工作流框架，将TDD/YAGNI等方法论固化为可组合技能模块，每日增长791星。",
           "tags": [
-            "情报聚合",
-            "AI监控",
-            "开源"
-          ],
-          "url": "https://github.com/koala73/worldmonitor",
-          "iconType": "star",
-          "icon": "globe",
-          "pubDate": "2026-04-22"
-        },
-        {
-          "name": "claude-mem",
-          "stars": "59K",
-          "type": "Claude Code记忆系统",
-          "desc": "Claude Code持久记忆压缩系统，帮助AI跨会话保持项目理解，日均增长260星",
-          "tags": [
-            "Claude",
             "AI编程",
-            "记忆系统"
+            "工作流",
+            "Agent"
           ],
-          "url": "https://github.com/thedotmack/claude-mem",
-          "iconType": "star",
-          "icon": "cpu",
-          "pubDate": "2026-04-16"
-        },
-        {
-          "name": "andrej-karpathy-skills",
-          "stars": "高增速",
-          "type": "Claude Code编码指南",
-          "desc": "改善Claude Code行为的编码指南，由知名AI专家Karpathy推动，日均增长600星",
-          "tags": [
-            "Claude",
-            "AI编程",
-            "最佳实践"
-          ],
-          "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-          "iconType": "star",
-          "icon": "book",
-          "pubDate": "2026-04-16"
-        },
-        {
-          "name": "wifi-densepose",
-          "stars": "高增速",
-          "type": "WiFi人体感知",
-          "desc": "无摄像头的人体姿态与生命体征监测系统，基于WiFi信号感知人体活动，安全监控领域新突破",
-          "tags": [
-            "WiFi感知",
-            "人体感知",
-            "安全监控"
-          ],
-          "url": "https://github.com/ruvnet/wifi-densepose",
-          "iconType": "star",
-          "icon": "wifi",
-          "pubDate": "2026-04-22"
+          "url": "https://github.com/superpowers-extra/superpowers",
+          "iconType": "🔥",
+          "icon": "🔥",
+          "pubDate": "2026-04-14"
         }
       ],
       "world": [
         {
-          "title": "腾讯开源混元3D世界模型2.0（HY-World 2.0），进军\"世界模拟\"赛道",
-          "desc": "4月16日，腾讯发布开源混元3D世界模型2.0（HY-World 2.0），正式进军\"世界模拟\"赛道。该模型支持三维物理世界模拟，为具身智能、机器人控制、自动驾驶等场景提供可预测的机器人大脑能力，标志着腾讯在通用世界模型领域迈出关键一步。",
-          "url": "https://www.citnews.com.cn/news/216612",
-          "source": "中文科技资讯",
-          "pubDate": "2026-04-16"
+          "title": "腾讯阿里同日发布世界模型：HY-World 2.0开源 vs HappyOyster闭源",
+          "desc": "4月16日腾讯开源混元3D世界模型2.0（可导出3D资产），阿里发布HappyOyster（支持1分钟实时交互），策略迥异引发行业对比。",
+          "url": "https://www.ebrun.com/20260421/656689.shtml",
+          "source": "亿邦动力",
+          "pubDate": "2026-04-21"
         },
         {
-          "title": "阿里发布实时交互世界模型HappyOyster，与腾讯同日对擂",
-          "desc": "4月16日阿里发布主打实时交互的世界模型产品HappyOyster，与腾讯同天发布形成直接竞争。两大中国科技巨头同日入局世界模型赛道，显示出该领域的战略重要性。全球已有Google、OpenAI、Meta、NVIDIA等至少12家主要玩家布局。",
-          "url": "https://www.citnews.com.cn/news/216612",
-          "source": "中文科技资讯",
-          "pubDate": "2026-04-16"
-        },
-        {
-          "title": "极佳视界完成近15亿元B1轮融资，\"具身智能+世界模型\"成最大看点",
-          "desc": "4月16日，世界模型企业极佳视界宣布完成近15亿元B1轮融资，由伊利集团CVC健瓴资本、普华资本、毅达资本等多家机构投资。该公司专注于将世界模型与具身智能结合，探索物理世界的商业化落地，被视为该赛道最具潜力的新星之一。",
+          "title": "极佳视界完成近15亿元B1轮融资，1个月内融资25亿估值超百亿",
+          "desc": "4月16日世界模型企业极佳视界宣布完成近15亿元B1轮融资，此前3月已完成近10亿元Pre-B轮，多家国资平台与产业资本参与。",
           "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_04469e0796183552",
-          "source": "腾讯元宝",
+          "source": "企鹅号",
           "pubDate": "2026-04-16"
+        },
+        {
+          "title": "世界模型的三个问题：定义、数据与未完成的商业验证",
+          "desc": "李飞飞World Labs完成10亿美元融资，英伟达Cosmos下载量破500万，Yann LeCun的AMI Labs完成10.3亿种子轮，但商业验证仍未完成。",
+          "url": "https://www.citnews.com.cn/news/216612",
+          "source": "中文科技资讯",
+          "pubDate": "2026-04-23"
         }
       ],
       "design": [
         {
-          "title": "Claude Design 上线 24 小时：模型公司盯上的，不只是设计工具",
-          "desc": "Anthropic首个实验性产品，AI原生视觉设计协作平台由Claude Opus 4.7驱动，可读取codebase应用设计系统，Figma等工具面临入口松动与能力重置的双重挤压。",
-          "url": "https://www.woshipm.com/ai/6379901.html",
-          "source": "人人都是产品经理",
+          "title": "Anthropic推出Claude Design：AI直击Figma核心赛道，设计行业震动了",
+          "desc": "2026年4月17日，Anthropic发布由Opus 4.7驱动的新一代AI设计工具Claude Design，可用自然语言直接生成商业级设计原型和代码，Figma股价应声闪崩7%。",
+          "url": "https://www.sohu.com/a/1011329506_122721736",
+          "source": "搜狐",
           "pubDate": "2026-04-18"
         },
         {
-          "title": "Claude Opus 4.7 首次曝光：AI设计工具、Routines自动化与Opus 4.6超越方向",
-          "desc": "The Information记者于2026年4月14日独家曝光Claude Opus 4.7，Anthropic Labs将推出AI设计工具并支持Routines自动化功能。",
-          "url": "https://www.cnblogs.com/qiniushanghai/p/19873603",
-          "source": "博客园",
-          "pubDate": "2026-04-14"
+          "title": "Adobe Firefly AI Assistant：跨软件AI智能体打通Photoshop、Premiere等创意工具",
+          "desc": "2026年4月15日Adobe发布Firefly AI Assistant，具备自主决策能力，可跨Photoshop、Illustrator、Premiere Pro等多个创意软件协同工作，实现创意工作流程彻底重塑。",
+          "url": "https://www.donews.com/news/detail/8/6513116.html",
+          "source": "DoNews",
+          "pubDate": "2026-04-16"
         }
       ],
       "video": [
         {
-          "title": "AI视频生成一夜被颠覆：Runway重磅发布Gen-4，保真度、动态性、一致性全面升级",
-          "desc": "Runway推出新一代模型系列Gen-4，解决场景一致性问题，还有视觉特效加持，模型直接上线没有套路。",
-          "url": "https://www.163.com/dy/article/JS17CL8T05566VQ3.html",
-          "source": "网易",
+          "title": "Seedance 2.0登顶LMArena视频榜单第一：火山引擎正式上线API服务",
+          "desc": "2026年4月22日，全球权威AI评测基准LMArena公布最新榜单，字节Seedance 2.0在文生视频/图生视频双榜包揽第一。4月14日火山引擎正式上线Seedance 2.0系列API，支持四模态输入。",
+          "url": "https://www.pingwest.com/a/313187",
+          "source": "品玩",
+          "pubDate": "2026-04-23"
+        },
+        {
+          "title": "可灵AI发布2.0视频生成模型，全球用户突破2200万",
+          "desc": "2026年4月15日，快手可灵AI在北京发布可灵2.0视频生成模型及可图2.0图像生成模型。自去年6月发布以来已累计完成超20次迭代，全球用户规模突破2200万。",
+          "url": "https://www.ithome.com/0/942/403.htm",
+          "source": "IT之家",
           "pubDate": "2026-04-15"
         }
       ],
       "rag": [
         {
-          "title": "2026最新Agentic RAG技术详解",
-          "desc": "基于2026年Q1最新技术栈从零搭建完整Agentic RAG系统，使用LangChain v0.3.10原生支持与Qwen3-7B-Instruct大模型。",
+          "title": "2026年最新Agentic RAG技术详解：从零构建能自主思考的智能问答系统",
+          "desc": "2026年AI领域最火方向Agentic RAG（智能体增强检索生成）详解，从传统RAG演进到智能体思考-行动-观察循环，实现自主决策的检索增强生成。",
           "url": "https://blog.csdn.net/qq_52327553/article/details/159922247",
           "source": "CSDN",
-          "pubDate": "2026-04-16"
+          "pubDate": "2026-04-20"
         },
         {
-          "title": "上下文窗口扩大RAG已死？Agentic RAG正在悄悄改变游戏规则",
-          "desc": "Agentic RAG三大超能力：自动化拆解复杂问题、智能工具使用、评估信息质量，给出全面且有理有据的答案。",
-          "url": "https://www.toutiao.com/article/7486827746401550884/",
-          "source": "今日头条",
-          "pubDate": "2026-04-15"
+          "title": "ICLR 2026 Oral：字节开源AgentGym-RL框架，实现长时交互媲美Gemini 2.5 Pro",
+          "desc": "字节跳动在ICLR 2026发表Oral论文，开源AgentGym-RL框架，通过逐阶段扩展交互轮数的Scaling Inter-RL训练方式，在5类场景27个任务中达到Gemini 2.5 Pro水平。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_34169d9c1d312652",
+          "source": "企鹅号",
+          "pubDate": "2026-04-14"
+        },
+        {
+          "title": "AI企业知识库开发技术：Agentic RAG成企业级落地主流方案",
+          "desc": "构建AI企业知识库时技术选型需兼顾安全性和检索精确度，主流方案围绕Agentic RAG展开，其核心技术包括多跳推理、动态检索规划与记忆增强。",
+          "url": "https://www.sohu.com/a/1012798305_122132188",
+          "source": "搜狐",
+          "pubDate": "2026-04-22"
         }
       ],
-      "devtools": [],
+      "devtools": [
+        {
+          "title": "OpenAI发布ChatGPT Images 2.0：AI图像生成迈入智能推理新阶段",
+          "desc": "2026年4月22日凌晨，OpenAI正式发布ChatGPT Images 2.0（DALL-E Images 2.0），中证人工智能主题指数因该消息盘中涨超3%，AI图像生成进入智能推理新阶段。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_78969e8694b08052",
+          "source": "企鹅号",
+          "pubDate": "2026-04-22"
+        }
+      ],
       "industry": [
         {
-          "title": "AI人工智能领域最新热点资讯汇总(2026年4月22日)",
-          "desc": "中国国务院发文力挺大模型采购,AI诊断首次纳入国家医保;SpaceX豪掷600亿美元收购Cursor,OpenAI图像模型免费开放。",
-          "url": "http://news.softunis.com/",
-          "source": "软盟资讯",
+          "title": "国务院印发意见支持采购大模型服务，AI产业再获政策支撑",
+          "desc": "国务院印发《关于推进服务业扩能提质的意见》，明确支持采购大模型服务，AI产业获新一轮政策支撑。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_19869e8276e74452",
+          "source": "企鹅号",
           "pubDate": "2026-04-22"
         },
         {
-          "title": "2026年4月AI圈动态盘点:融资天花板、模型闪电战与智能体落地",
-          "desc": "OpenAI刷新商业史融资纪录达1220亿美元,阿里千问登顶全球调用榜,Anthropic发布最新模型,几大主线同时推进。",
-          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_80269d627c689752",
-          "source": "QQ浏览器",
-          "pubDate": "2026-04-21"
+          "title": "DeepSeek松口要融资？梁文锋电话被投资人打爆",
+          "desc": "市场传闻DeepSeek考虑融资，创始人梁文锋电话被投资人打爆，它石智航4.55亿美元融资刷新纪录。",
+          "url": "http://www.myzaker.com/channel/23643",
+          "source": "ZAKER/IT桔子",
+          "pubDate": "2026-04-17"
         },
         {
-          "title": "启明创投邝子平:人工智能处于超长技术周期早段",
-          "desc": "启明创投创始主管合伙人认为,人工智能是改天换地的技术革命,目前处于超长技术周期早段,未来仍大有可为。",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904lgt0.html?from=tech",
-          "source": "新浪科技",
-          "pubDate": "2026-04-22"
-        },
-        {
-          "title": "最高法:正抓紧起草关于依法妥善审理涉人工智能纠纷案件的意见",
-          "desc": "最高人民法院正在起草涉AI纠纷案件审理意见,妥善审理涉AI生成内容、AI模型参数等前沿问题的民事案件。",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904j1na.html",
-          "source": "新浪新闻",
+          "title": "广东省新增6款已完成登记的生成式人工智能服务",
+          "desc": "广东省新增6款完成登记的生成式AI服务，国内首个第三方医检行业大模型和智能体应用发布。",
+          "url": "https://www.gdtv.cn/tv/d2f09b4ba32cf7cbb4f4995111a2deb8",
+          "source": "荔枝网",
           "pubDate": "2026-04-20"
+        },
+        {
+          "title": "第二十届文博会开幕，八大AI大模型亮相广东展区",
+          "desc": "第二十届文博会4月23日开幕，广东展区集中展示八大AI大模型应用成果。",
+          "url": "https://www.gdtv.cn/tv/beb0d5d383792ca330bc9dbd880ec247",
+          "source": "荔枝网",
+          "pubDate": "2026-04-16"
         }
       ],
       "game": [
         {
-          "title": "腾讯发布GiiNEX AI游戏引擎:面向AI NPC、场景制作与内容生成",
-          "desc": "腾讯AI Lab发布GiiNEX AI游戏引擎,采用生成式AI和决策AI技术,支持MOBA、FPS、MMO等多种游戏类型。",
-          "url": "https://ai.zol.com.cn/861/8618897_all.html",
-          "source": "中关村在线",
-          "pubDate": "2026-04-15"
+          "title": "AI游戏创作平台SOON支持视频生成游戏，颠覆创作模式",
+          "desc": "SOON AI成全球首个支持上传游戏视频片段直接生成游戏的平台，从数月缩短至数周。",
+          "url": "http://tech.hexun.com/2026-04-22/224036083.html",
+          "source": "和讯网",
+          "pubDate": "2026-04-22"
         },
         {
-          "title": "Unity推出AI工具:用自然语言指令轻松生成完整游戏",
-          "desc": "Unity新工具无需编写代码,开发者可直接通过输入提示词生成游戏,大幅降低游戏开发门槛。",
-          "url": "https://www.sohu.com/a/988091177_122004016",
+          "title": "昆仑天工AI突破：游戏世界生成器实现实时可探索虚拟空间",
+          "desc": "昆仑天工AI发布交互式世界模型，可根据实时操作不断生成画面，实现可探索虚拟空间。",
+          "url": "https://www.sohu.com/a/1012161001_121718165",
           "source": "搜狐",
-          "pubDate": "2026-04-18"
+          "pubDate": "2026-04-20"
         },
         {
-          "title": "游戏设计中的生成式AI及其未来潜在趋势",
-          "desc": "程序化内容生成使开发者能创建庞大且可动态调整的游戏世界,AI驱动工具可自动化地形建模、纹理生成。",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001901nip0.html?from=tech",
-          "source": "新浪科技",
-          "pubDate": "2026-04-19"
+          "title": "Roblox推出强化版AI规划模式，一条指令构建游戏",
+          "desc": "全球最大游戏平台Roblox升级AI助手，多Agent并行处理开发流程，接入Claude/Cursor等工具。",
+          "url": "http://www.gamelook.com.cn/2026/04/591683/",
+          "source": "GameLook",
+          "pubDate": "2026-04-21"
+        },
+        {
+          "title": "摩根士丹利：AI工具有望将AAA游戏开发成本削减近半",
+          "desc": "大摩报告称AI工具有望削减AAA游戏近半开发成本，释放约220亿美元增量利润空间。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_83469e890d499752",
+          "source": "企鹅号",
+          "pubDate": "2026-04-22"
         }
       ],
       "drama": [
         {
-          "title": "AI漫剧短剧神器!用Coze智能体工作流一键生成《25宫格分镜图》",
-          "desc": "用Coze一键生成多宫格分镜图,上传角色参考图固定人设,输入故事文案即刻生成专业分镜。",
-          "url": "https://blog.csdn.net/ai929790/article/details/159316430",
-          "source": "CSDN",
-          "pubDate": "2026-04-15"
+          "title": "红果总榜合并，AI漫剧首超真人短剧登顶",
+          "desc": "《菩提临世真人AI版》热度8923万登顶红果总榜，AI剧首次超越真人短剧，行业里程碑事件。",
+          "url": "https://user.guancha.cn/main/content?id=1634979&s=fwzwyzzwzbt",
+          "source": "风闻",
+          "pubDate": "2026-04-20"
         },
         {
-          "title": "Coze工作流实战:5分钟搞定AI漫剧分镜图生成",
-          "desc": "详细介绍AI漫剧生成工作流设计思路,把复杂任务拆解成可自动化执行的标准化步骤。",
-          "url": "https://blog.csdn.net/weixin_29070721/article/details/158676355",
-          "source": "CSDN",
-          "pubDate": "2026-04-10"
+          "title": "第十三届中国网络视听大会AI微短剧和漫剧论坛在成都举行",
+          "desc": "4月16日网络视听大会AI微短剧和漫剧论坛召开，百位从业者共议技术应用与行业规范。",
+          "url": "https://www.thepaper.cn/newsDetail_forward_33021480",
+          "source": "澎湃新闻",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "多位艺人集体维权AI短剧盗用肖像，行业监管收紧",
+          "desc": "龚俊、易烊千玺等艺人声明维权AI换脸盗用肖像，广电总局不良动画微短剧专项治理落地。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_47869e32f5781865",
+          "source": "企鹅号",
+          "pubDate": "2026-04-18"
+        },
+        {
+          "title": "《逆水寒》手游推出造梦模式，玩家可自生成漫剧",
+          "desc": "《逆水寒》上线造梦模式，将AI漫剧生产线搬进一亿用户的武侠开放世界，玩家自写剧本生成漫剧。",
+          "url": "https://www.toutiao.com/article/7627319555266773519/",
+          "source": "今日头条",
+          "pubDate": "2026-04-21"
         }
       ],
       "apps": [
         {
-          "title": "天猫拟新增《AI软件及应用类商品发布规范》",
-          "desc": "天猫拟新增AI软件及应用类商品发布规范,涉及词元额度或会员时长的商品需符合相关发布要求。",
-          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_11369de028c25952",
-          "source": "钛媒体",
-          "pubDate": "2026-04-14"
+          "title": "GPT-6官宣预训练完成，预计6月面向公众开放API",
+          "desc": "GPT-6已完成预训练，200万Token上下文窗口，2.3万亿有效参数，训练能耗降低40%。",
+          "url": "https://blog.csdn.net/lyy_kao/article/details/160027453",
+          "source": "CSDN",
+          "pubDate": "2026-04-20"
         },
         {
-          "title": "2026年AI大模型全景解析:性能迭代与场景落地双突破",
-          "desc": "AI大模型行业迈入精细化竞争新阶段,在推理能力、多模态交互、场景适配性等核心维度实现突破性升级。",
-          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_58969ce4cb466852",
-          "source": "QQ浏览器",
+          "title": "华为首款AI眼镜正式亮相，支持实时同声传译与AI识物",
+          "desc": "华为Pura发布会推出首款AI眼镜，800万像素摄像头，内置AI语义理解，支持同传与识物。",
+          "url": "https://www.iimedia.cn/c1088/110800.html",
+          "source": "艾媒网",
           "pubDate": "2026-04-20"
+        },
+        {
+          "title": "即梦AI上线协作叙事工具小章鱼，首提VibeCreate模式",
+          "desc": "字节即梦AI上线协作型AI叙事创作工具小章鱼Octo，首次提出VibeCreate人机协作创作模式。",
+          "url": "https://www.toutiao.com/article/7627050245344330294/",
+          "source": "今日头条",
+          "pubDate": "2026-04-21"
+        },
+        {
+          "title": "千问推出AI数字人小酒窝，将接入阿里各生态应用",
+          "desc": "千问推出AI数字人小酒窝，将接入阿里各生态应用；火山引擎Coding Plan上线GLM-5.1。",
+          "url": "http://finance.eastmoney.com/a/202604233715086946.html",
+          "source": "东方财富网",
+          "pubDate": "2026-04-23"
         }
       ]
     },
