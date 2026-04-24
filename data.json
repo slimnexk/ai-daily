@@ -1,6 +1,6 @@
 {
-  "title": "Claude Opus 4.7发布 | 腾讯阿里同日推世界模型 | GitHub刷星产业链曝光",
-  "desc": "Anthropic发布Claude Opus 4.7引入Symphony多模态架构；腾讯与阿里4月16日同日发布世界模型产品；CMU研究揭露GitHub约600万颗假Star，AI项目刷星最猛；DeepSeek已沉默近5个月未发新模型。",
+  "title": "GPT-5.5发布 | Seed3D 2.0登顶 | SpaceX 600亿美元收购Cursor",
+  "desc": "OpenAI发布GPT-5.5主打智能体化；字节跳动Seed3D 2.0几何纹理双SOTA；SpaceX达成协议以600亿美元收购AI编程工具Cursor。",
   "dates": {
     "2026-04-23": {
       "title": "Claude Opus 4.7发布 | 腾讯阿里同日推世界模型 | GitHub刷星产业链曝光",
@@ -595,6 +595,335 @@
           "desc": "连接全球开发者，共拓AI游戏新舞台，探索AI在游戏创作中的更多可能性。",
           "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_25769e5fe2027252",
           "pubDate": "2026-04-22"
+        }
+      ]
+    },
+    "2026-04-24": {
+      "title": "GPT-5.5发布 | Seed3D 2.0登顶 | SpaceX 600亿美元收购Cursor",
+      "desc": "OpenAI发布GPT-5.5主打智能体化；字节跳动Seed3D 2.0几何纹理双SOTA；SpaceX达成协议以600亿美元收购AI编程工具Cursor。",
+      "featured": [
+        {
+          "title": "OpenAI发布GPT-5.5，距离AI超级应用目标再进一步",
+          "desc": "OpenAI发布全新GPT-5.5大模型，在智能体化与自然交互计算领域实现重大突破，速度更快、逻辑更精准、Token消耗更少。",
+          "url": "https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusn8195278.shtml",
+          "label": "大模型",
+          "icon": "🤖",
+          "color": "#7C3AED",
+          "pubDate": "2026-04-24"
+        },
+        {
+          "title": "字节跳动发布Seed3D 2.0：几何生成与纹理材质双SOTA",
+          "desc": "4月23日，字节跳动发布Seed3D 2.0，采用MoE架构，在几何生成与纹理材质两项核心指标均取得SOTA，API已上线火山引擎。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_25369ea434619552",
+          "label": "3D生成",
+          "icon": "🎨",
+          "color": "#EC4899",
+          "pubDate": "2026-04-24"
+        },
+        {
+          "title": "SpaceX达成协议：600亿美元收购AI编程助手Cursor",
+          "desc": "SpaceX宣布已与Cursor达成协议，将在年底前以600亿美元收购这家热门AI编程平台，或支付100亿美元合作打造最强编程AI。",
+          "url": "http://tech.hexun.com/2026-04-22/224034669.html",
+          "label": "行业收购",
+          "icon": "🚀",
+          "color": "#059669",
+          "pubDate": "2026-04-23"
+        },
+        {
+          "title": "Anthropic发布Claude Design：AI设计工具进军Figma核心赛道",
+          "desc": "Claude Design由Opus 4.7驱动，支持自然语言生成网页原型和交互设计稿，可一键移交至Claude Code进行开发。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_17369e63c4374265",
+          "label": "开发工具",
+          "icon": "💻",
+          "color": "#2563EB",
+          "pubDate": "2026-04-20"
+        }
+      ],
+      "hotSearch": [
+        {
+          "title": "女歌手因恐飞取消北京巡演",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%9B%A0%E6%81%90%E9%A3%9E%E5%8F%96%E6%B6%88%E5%8C%97%E4%BA%AC%E5%B7%A1%E6%BC%94",
+          "source": "微博",
+          "heat": "148万"
+        },
+        {
+          "title": "月薪1.6万招人放羊包吃住有WiFi",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E8%96%AA1.6%E4%B8%87%E6%8B%9B%E4%BA%BA%E6%94%BE%E7%BE%8A%E5%8C%85%E5%90%83%E4%BD%8F%E6%9C%89WiFi",
+          "source": "微博",
+          "heat": "92万"
+        },
+        {
+          "title": "服务业这些领域将迎大改变",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%8D%E5%8A%A1%E4%B8%9A%E8%BF%99%E4%BA%9B%E9%A2%86%E5%9F%9F%E5%B0%86%E8%BF%8E%E5%A4%A7%E6%94%B9%E5%8F%98",
+          "source": "微博",
+          "heat": "83万"
+        },
+        {
+          "title": "BMW进入新世代",
+          "url": "https://s.weibo.com/weibo?q=BMW%E8%BF%9B%E5%85%A5%E6%96%B0%E4%B8%96%E4%BB%A3",
+          "source": "微博",
+          "heat": "83万"
+        },
+        {
+          "title": "秦昊说外面有人了还要送啊",
+          "url": "https://s.weibo.com/weibo?q=%E7%A7%A6%E6%98%8A%E8%AF%B4%E5%A4%96%E9%9D%A2%E6%9C%89%E4%BA%BA%E4%BA%86%E8%BF%98%E8%A6%81%E9%80%81%E5%95%8A",
+          "source": "微博",
+          "heat": "82万"
+        },
+        {
+          "title": "爱喝无糖饮料的天塌了",
+          "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86",
+          "source": "微博",
+          "heat": "55万"
+        },
+        {
+          "title": "女高管酒醉后被老板性侵案再次开庭",
+          "url": "https://www.douyin.com/video/7631837242188664079",
+          "source": "抖音",
+          "heat": "4270万播放"
+        },
+        {
+          "title": "人民海军77周岁，截图帮福建舰稳稳停靠",
+          "url": "https://www.douyin.com/video/7631738377183776015",
+          "source": "抖音",
+          "heat": "3631万播放"
+        }
+      ],
+      "llm": [
+        {
+          "title": "OpenAI发布GPT-5.5，距离AI超级应用目标再进一步",
+          "desc": "GPT-5.5在智能体化与自然交互计算领域实现重大突破，速度更快、逻辑更精准、Token消耗更少。",
+          "url": "https://finance.sina.com.cn/world/2026-04-24/doc-inhvpusn8195278.shtml",
+          "source": "新浪财经",
+          "pubDate": "2026-04-24"
+        },
+        {
+          "title": "字节跳动发布Seed3D 2.0：几何纹理双SOTA，MoE架构降本增效",
+          "desc": "Seed3D 2.0采用MoE架构，几何生成与纹理材质两项核心指标均取得SOTA，技术报告已公开，API上线火山引擎。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_25369ea434619552",
+          "source": "企鹅号",
+          "pubDate": "2026-04-24"
+        },
+        {
+          "title": "特斯拉车机AI语音大模型最新进展：整合豆包+DeepSeek",
+          "desc": "特斯拉车机AI语音大模型备案信息曝光，整合豆包+DeepSeek解决方案，官方回应称敬请期待。",
+          "url": "https://finance.sina.com.cn/wm/2026-04-24/doc-inhvpkaw3610739.shtml",
+          "source": "新浪财经",
+          "pubDate": "2026-04-24"
+        }
+      ],
+      "github": [
+        {
+          "title": "易方达参与两大AI Agent开源项目登顶GitHub Trending",
+          "desc": "GenericAgent轻量化自主智能体框架与DeerFlow超级智能体框架均由易方达金融科技团队参与，连续两日登顶GitHub Trending榜首。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_20769e9e11985152",
+          "source": "企鹅号",
+          "pubDate": "2026-04-24"
+        },
+        {
+          "title": "CLAUDE.md文件GitHub超6万星，AI编程行为准则成热点",
+          "desc": "CLAUDE.md通过系统化配置文件约束大模型编程行为，迅速蹿红GitHub并连续霸榜Trending，Agentic Engineering理念引发关注。",
+          "url": "https://www.sohu.com/a/1012127643_122066678",
+          "source": "搜狐",
+          "pubDate": "2026-04-20"
+        }
+      ],
+      "trend": [
+        {
+          "name": "GenericAgent",
+          "stars": "持续增长",
+          "type": "AI智能体框架",
+          "desc": "轻量化自主智能体框架，易方达金融科技团队参与技术贡献，连续两日登顶GitHub Trending榜首。",
+          "tags": [
+            "AI Agent",
+            "Python",
+            "智能体"
+          ],
+          "url": "https://github.com/trending/python",
+          "iconType": "🔥",
+          "icon": "🔥",
+          "pubDate": "2026-04-24"
+        },
+        {
+          "name": "Hermes Agent",
+          "stars": "47k+",
+          "type": "AI智能体",
+          "desc": "NousResearch开发的自我进化AI代理框架，GitHub星标突破4.7万+，能随使用不断学习和成长。",
+          "tags": [
+            "AI Agent",
+            "自进化",
+            "对话系统"
+          ],
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "iconType": "⭐",
+          "icon": "⭐",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "name": "DeerFlow",
+          "stars": "持续增长",
+          "type": "多智能体框架",
+          "desc": "字节跳动开源超级智能体框架，侧重多智能体协同统筹，一站式处理复杂任务。",
+          "tags": [
+            "多智能体",
+            "Agent",
+            "字节跳动"
+          ],
+          "url": "https://github.com/bytedance/deer-flow",
+          "iconType": "🚀",
+          "icon": "🚀",
+          "pubDate": "2026-04-24"
+        }
+      ],
+      "world": [
+        {
+          "title": "腾讯开源HY-World 2.0：可导出3D资产，无缝对接Unity/UE",
+          "desc": "混元3D世界模型2.0支持文本/图片/视频多模态输入，可导出Mesh/3DGS/点云格式，与主流游戏引擎无缝对接。",
+          "url": "http://finance.eastmoney.com/a/202604233716363819.html",
+          "source": "东方财富网",
+          "pubDate": "2026-04-23"
+        },
+        {
+          "title": "阿里HappyOyster发布：可WASD漫游的世界模型，支持导演模式",
+          "desc": "阿里ATH创新事业部发布HappyOyster世界模型，支持漫游模式和导演模式，生成可走进去、可二创的完整AI数字世界。",
+          "url": "https://www.woshipm.com/ai/6380261.html",
+          "source": "人人都是产品经理",
+          "pubDate": "2026-04-20"
+        }
+      ],
+      "design": [
+        {
+          "title": "Claude Design发布：自然语言生成设计稿，可一键移交Claude Code开发",
+          "desc": "Claude Design由Opus 4.7驱动，支持文字描述生成交互原型，可导出ZIP/PDF/HTML格式，或直接移交Claude Code进行前端开发。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_17369e63c4374265",
+          "source": "企鹅号",
+          "pubDate": "2026-04-20"
+        },
+        {
+          "title": "Claude Opus 4.7编程能力暴涨11%，超越GPT-5.4与Gemini 3.1 Pro",
+          "desc": "Claude Opus 4.7编程测试得分从53.4%跃升至64.3%，一举超越GPT-5.4和Gemini 3.1 Pro，重新定义AI编程靠谱程度。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_21969e2ffa448952",
+          "source": "企鹅号",
+          "pubDate": "2026-04-18"
+        }
+      ],
+      "video": [
+        {
+          "title": "Seedance 2.0登顶LMArena视频榜单，文生图生视频双榜第一",
+          "desc": "4月22日LMArena最新榜单，字节跳动Seedance 2.0在文生视频、图生视频、视频编辑三大领域全面第一，技术报告已公开。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_72369e9c6d142552",
+          "source": "企鹅号",
+          "pubDate": "2026-04-23"
+        },
+        {
+          "title": "OpenAI正式关停Sora服务，负责人Bill Peebles同日宣布离职",
+          "desc": "OpenAI于3月24日宣布终止Sora运营服务，Sora负责人Bill Peebles于4月17日宣布离职，行业关注视频生成市场格局重塑。",
+          "url": "https://new.qq.com/rain/a/20260418A02M8B00",
+          "source": "腾讯网",
+          "pubDate": "2026-04-18"
+        }
+      ],
+      "rag": [
+        {
+          "title": "AMD 3D V-Cache处理器RAG性能提升88%，大容量缓存优化向量搜索",
+          "desc": "gigglehd报告显示，AMD 3D V-Cache处理器在RAG AI基准测试中较非X3D型号性能最高提升88%，大容量缓存显著优化HNSW图检索效率。",
+          "url": "https://www.sohu.com/a/1012272931_114760",
+          "source": "搜狐",
+          "pubDate": "2026-04-21"
+        },
+        {
+          "title": "Meta REFRAG框架：RAG上下文处理能力提升16倍",
+          "desc": "Meta超级智能实验室提出的REFRAG框架通过智能压缩上下文，解决RAG高内存成本问题，显著提升首token生成速度和上下文处理长度。",
+          "url": "https://tool.lu/zh_CN/topic/cE/RAG",
+          "source": "在线工具",
+          "pubDate": "2026-04-23"
+        }
+      ],
+      "devtools": [
+        {
+          "title": "Claude Code Routines功能上线：云端自动化值守，支持时间表触发",
+          "desc": "Claude Code新增Repeatable Routines功能，可将提示词、代码仓库和连接器打包为自动化任务，设定时间表或事件触发执行。",
+          "url": "https://blog.csdn.net/cookies404/article/details/160313194",
+          "source": "CSDN",
+          "pubDate": "2026-04-19"
+        },
+        {
+          "title": "Anthropic发布Claude Buddy开源硬件：将Claude Code变成桌面宠物",
+          "desc": "Anthropic核心工程师展示Claude Buddy开源硬件项目，为Claude Code提供物理载体，支持蓝牙API连接。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_34669e97b7504952",
+          "source": "企鹅号",
+          "pubDate": "2026-04-23"
+        }
+      ],
+      "industry": [
+        {
+          "title": "SpaceX达成协议：600亿美元收购Cursor，或100亿美元开展合作",
+          "desc": "SpaceX与Cursor达成收购协议，可在年底前以600亿美元收购这家AI编程平台，或支付100亿美元合作打造全球最强编程AI。",
+          "url": "http://tech.hexun.com/2026-04-22/224034669.html",
+          "source": "和讯网",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "贝索斯AI实验室接近完成100亿美元融资，估值380亿美元",
+          "desc": "贝索斯旗下代号\"普罗米修斯计划\"的AI实验室正接近完成百亿美元融资，专注物理世界AI应用，有望跻身全球最大早期初创之列。",
+          "url": "http://tech.hexun.com/2026-04-21/224029376.html",
+          "source": "和讯网",
+          "pubDate": "2026-04-21"
+        },
+        {
+          "title": "DeepSeek启动首次外部融资：估值超100亿美元",
+          "desc": "DeepSeek正启动成立以来的首次外部股权融资，以超100亿美元估值计划募集不少于3亿美元，应对高昂模型开发成本与人才竞争。",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904iou0.html",
+          "source": "新浪网",
+          "pubDate": "2026-04-20"
+        }
+      ],
+      "game": [
+        {
+          "title": "Latitude推出AI驱动RPG平台Voyage：无脚本叙事，每场游戏独一无二",
+          "desc": "AI Dungeon开发商Latitude发布全新平台Voyage，集成世界引擎，NPC能记住过往互动并拥有独立个性，支持玩家自定义游戏世界。",
+          "url": "https://www.sohu.com/a/1013187685_122598898",
+          "source": "搜狐",
+          "pubDate": "2026-04-22"
+        },
+        {
+          "title": "Roblox强化规划模式：一条指令即可构建游戏关卡",
+          "desc": "Roblox推出强化版规划模式，Assistant AI升级为可分析代码、主动提问并转化文字描述为可执行行动计划的协作开发伙伴。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_19769e64ed271852",
+          "source": "企鹅号",
+          "pubDate": "2026-04-21"
+        }
+      ],
+      "drama": [
+        {
+          "title": "AI漫剧工具横评：即梦AI、可灵AI、纳米漫剧、Pixmax谁更强",
+          "desc": "即梦AI凭借字节Seedance 2.0在国漫/日漫风格理解上领先；可灵AI全球用户突破2200万；Catimind Ani支持100集并行生成。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_69069e9868a35952",
+          "source": "企鹅号",
+          "pubDate": "2026-04-23"
+        },
+        {
+          "title": "商汤Seko2.0创作者超20万，AI让一人剧组成为可能",
+          "desc": "商汤科技Seko2.0号称行业首个创编一体多智能体平台，50集作品制作周期从3个月缩至数天，聚集超20万创作者。",
+          "url": "https://www.sohu.com/a/1012866375_122094386",
+          "source": "搜狐",
+          "pubDate": "2026-04-22"
+        }
+      ],
+      "apps": [
+        {
+          "title": "百度文心Image开源：8B参数达国际评测SOTA，24GB显存即可运行",
+          "desc": "百度文心大模型正式开源ERNIE-Image文生图模型，以远低于行业的8B参数实现多项国际基准测试SOTA，24GB显存消费级显卡即可流畅运行。",
+          "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_45269e9b8ff93952",
+          "source": "企鹅号",
+          "pubDate": "2026-04-23"
+        },
+        {
+          "title": "黑湖科技完成近10亿元D轮融资，估值约70亿元跻身独角兽",
+          "desc": "工业AI企业黑湖科技完成近10亿元D轮融资，上海国投先导人工智能基金与国家人工智能产业投资基金参投，营收年增速超60%并已全面盈利。",
+          "url": "http://finance.sina.com.cn/wm/2026-04-23/doc-inhvnnwy5008771.shtml",
+          "source": "新浪财经",
+          "pubDate": "2026-04-23"
         }
       ]
     }
