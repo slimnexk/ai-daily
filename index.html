@@ -433,7 +433,8 @@ var catMeta = {
 var catOrder = ['hotSearch','trend','llm','github','devtools','design','world','video','rag','industry','game','drama','apps'];
 
 // ═══════════════════ 全局状态 ═══════════════════
-var allData = null;
+var allData = null;         // data.json 元数据（标题+desc+日期列表）
+var dayCache = {};          // 缓存已加载的 daily/日期.json 数据
 var dataDates = [];
 var selectedDate = '';
 var activeCat = 'all';
@@ -458,7 +459,7 @@ var viewYear, viewMonth;
             selectedDate = initial;
             renderSidebarCategories();
             renderCalendar();
-            loadDateContent(initial);
+            loadDateContent(initial, true);  // 首次加载
         })
         .catch(function(err) {
             document.getElementById('loading-state').innerHTML = '<p>数据加载失败: ' + err.message + '</p>';
@@ -468,7 +469,7 @@ var viewYear, viewMonth;
 // ═══════════════════ 侧边栏分类 ═══════════════════
 function renderSidebarCategories() {
     var container = document.getElementById('sidebarCategories');
-    var dayData = allData && allData.dates[selectedDate] ? allData.dates[selectedDate] : null;
+    var dayData = dayCache[selectedDate] || null;
     var html = '<div class="cat-title-label">分类浏览</div>';
     html += '<a href="#all" class="cat-link active" data-cat="all" onclick="filterCat(\'all\', event)">' +
         '<span class="cat-dot" style="background:#64748b;"></span><span class="cat-name">全部分类</span><span class="cat-count" id="cc-all">' + (dayData ? countAll(dayData) : 0) + '</span></a>';
@@ -525,24 +526,67 @@ function selectDate(ds) {
     selectedDate = ds;
     activeCat = 'all';
     renderCalendar();
-    renderSidebarCategories();
+    // 切换日期时显示 loading
+    var loading = document.getElementById('loading-state');
+    var dyn = document.getElementById('dynamic-content');
+    loading.style.display = '';
+    dyn.innerHTML = '';
     loadDateContent(ds);
 }
 
 document.getElementById('calPrev').onclick = function() { viewMonth--; if (viewMonth < 0) { viewMonth = 11; viewYear--; } renderCalendar(); };
 document.getElementById('calNext').onclick = function() { viewMonth++; if (viewMonth > 11) { viewMonth = 0; viewYear++; } renderCalendar(); };
 
-// ═══════════════════ 加载日期内容 ═══════════════════
-function loadDateContent(dateStr) {
-    var dayData = allData && allData.dates[dateStr] ? allData.dates[dateStr] : null;
+// ═══════════════════ 加载日期内容（异步加载 daily/日期.json） ═══════════════════
+function loadDateContent(dateStr, isInitial) {
+    var loading = document.getElementById('loading-state');
+    var dyn = document.getElementById('dynamic-content');
+    
+    // 先显示加载状态
+    if (isInitial) {
+        loading.style.display = '';
+        dyn.innerHTML = '';
+    } else {
+        loading.style.display = '';
+    }
+
+    // 更新Hero日期（先显示日期，内容稍后）
+    var dateLabel = formatDateCN(dateStr);
+    document.getElementById('hero-date').textContent = dateLabel;
+    document.getElementById('hero-title').textContent = '加载中...';
+    document.getElementById('hero-desc').textContent = '';
+
+    // 如果已缓存，直接用；否则异步加载
+    if (dayCache[dateStr]) {
+        renderDayData(dateStr, dayCache[dateStr]);
+        return;
+    }
+
+    fetch('./daily/' + dateStr + '.json')
+        .then(function(r) {
+            if (!r.ok) throw new Error('404');
+            return r.json();
+        })
+        .then(function(dayData) {
+            dayCache[dateStr] = dayData;
+            renderDayData(dateStr, dayData);
+        })
+        .catch(function() {
+            dayCache[dateStr] = null;
+            renderDayData(dateStr, null);
+        });
+}
+
+// ═══════════════════ 渲染日期数据 ═══════════════════
+function renderDayData(dateStr, dayData) {
     var loading = document.getElementById('loading-state');
     var dyn = document.getElementById('dynamic-content');
     loading.style.display = 'none';
 
-    // 更新Hero
     var dateLabel = formatDateCN(dateStr);
+    document.getElementById('hero-date').textContent = dateLabel;
+
     if (dayData) {
-        document.getElementById('hero-date').textContent = dateLabel;
         if (viewMode === 'hot') {
             document.getElementById('hero-title').textContent = '今日热搜 · 社会热点';
             document.getElementById('hero-desc').textContent = '抖音/微博实时热搜，了解当下最火话题';
@@ -560,11 +604,9 @@ function loadDateContent(dateStr) {
         document.getElementById('nav-count-today').textContent = total;
         document.getElementById('nav-count-featured').textContent = dayData.featured ? dayData.featured.length : 0;
         document.getElementById('nav-count-hotSearch').textContent = hotTotal;
-        // 更新tab计数
         document.getElementById('tab-count-ai').textContent = aiTotal + '条';
         document.getElementById('tab-count-hot').textContent = hotTotal + '条';
     } else {
-        document.getElementById('hero-date').textContent = dateLabel;
         document.getElementById('hero-title').textContent = '暂无资讯';
         document.getElementById('hero-desc').textContent = '该日期暂无资讯记录。';
         document.getElementById('hero-total').textContent = '-';
@@ -574,6 +616,9 @@ function loadDateContent(dateStr) {
         document.getElementById('tab-count-ai').textContent = '0条';
         document.getElementById('tab-count-hot').textContent = '0条';
     }
+
+    // 更新侧边栏分类计数
+    renderSidebarCategories();
 
     // 渲染内容
     dyn.innerHTML = dayData ? renderDay(dayData) : renderEmpty(dateStr);
@@ -744,7 +789,6 @@ function applyViewMode() {
 }
 
 function updateSidebarForMode() {
-    var dayData = allData && allData.dates[selectedDate] ? allData.dates[selectedDate] : null;
     var visibleCats = viewMode === 'hot' ? hotCategories : aiCategories;
     
     // 更新分类计数显示
