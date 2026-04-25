@@ -678,7 +678,7 @@ function renderHotSearchSection(items) {
         '<div class="cat-rule"></div></div><div class="cards-grid">';
     items.forEach(function(item) {
         html += '<div class="card"><h3 class="card-title">' + esc(item.title) + '</h3>' +
-            (item.source ? '<p class="card-desc">来源: ' + esc(item.source) + '</p>' : '') +
+            (item.heat ? '<p class="card-desc">🔥 ' + esc(item.heat) + (item.source ? ' · ' + esc(item.source) : '') + '</p>' : (item.source ? '<p class="card-desc">来源: ' + esc(item.source) + '</p>' : '')) +
             (item.url ? '<a href="' + esc(item.url) + '" target="_blank" class="card-link">阅读原文 <i data-lucide="arrow-right" style="width:11px;height:11px;"></i></a>' : '') +
             '</div>';
     });

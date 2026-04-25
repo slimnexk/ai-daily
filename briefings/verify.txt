@@ -1,0 +1,9 @@
+{
+  "batch": 1,
+  "date": "2026-04-23",
+  "featured": 4,
+  "llm": 4,
+  "github": 3,
+  "world": 3,
+  "trend": 4
+}
