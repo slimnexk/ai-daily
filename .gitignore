@@ -1,0 +1,4 @@
+briefings/_staging_*
+briefings/task-summary_*
+briefings/verify.*
+*.py
