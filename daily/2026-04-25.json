@@ -40,68 +40,366 @@
     }
   ],
   "hotSearch": [
-    {"title": "浪姐 赢了被淘汰", "url": "https://s.weibo.com/weibo?q=浪姐+赢了被淘汰", "source": "微博", "heat": "117万"},
-    {"title": "全国首个伴侣动物立法草案被删除", "url": "https://s.weibo.com/weibo?q=全国首个伴侣动物立法草案被删除", "source": "微博", "heat": "72万"},
-    {"title": "开局之年我国经济运行起步有力", "url": "https://s.weibo.com/weibo?q=开局之年我国经济运行起步有力", "source": "微博", "heat": "58万"},
-    {"title": "华为PuraXMax今日开售", "url": "https://s.weibo.com/weibo?q=华为PuraXMax今日开售", "source": "微博", "heat": "42万"},
-    {"title": "看完孙杨直接内伤失眠了", "url": "https://s.weibo.com/weibo?q=看完孙杨直接内伤失眠了", "source": "微博", "heat": "42万"},
-    {"title": "\"女高管酒醉后被老板性侵\"案今日再次开庭，当事人崔丽丽索赔增至250余万", "url": "https://www.douyin.com/video/7631837242188664079", "source": "抖音", "heat": "42708329次播放"},
-    {"title": "截图挑战！帮福建舰\"稳稳停靠\"在深海蓝疆 #人民海军77周岁", "url": "https://www.douyin.com/video/7631738377183776015", "source": "抖音", "heat": "36311722次播放"},
-    {"title": "饭店的寒假工，团购有猫腻！", "url": "https://www.douyin.com/video/7631824503337476468", "source": "抖音", "heat": "35231873次播放"},
-    {"title": "你说它一顿吃了十只鸭子？", "url": "https://www.douyin.com/video/7631434873172987176", "source": "抖音", "heat": "22090583次播放"},
-    {"title": "夫妻和睦的秘诀就是各自做自己擅长的事", "url": "https://www.douyin.com/video/7630800418532543206", "source": "抖音", "heat": "21356600次播放"}
+    {
+      "title": "浪姐 赢了被淘汰",
+      "url": "https://s.weibo.com/weibo?q=浪姐+赢了被淘汰",
+      "source": "微博",
+      "heat": "117万"
+    },
+    {
+      "title": "全国首个伴侣动物立法草案被删除",
+      "url": "https://s.weibo.com/weibo?q=全国首个伴侣动物立法草案被删除",
+      "source": "微博",
+      "heat": "72万"
+    },
+    {
+      "title": "开局之年我国经济运行起步有力",
+      "url": "https://s.weibo.com/weibo?q=开局之年我国经济运行起步有力",
+      "source": "微博",
+      "heat": "58万"
+    },
+    {
+      "title": "华为PuraXMax今日开售",
+      "url": "https://s.weibo.com/weibo?q=华为PuraXMax今日开售",
+      "source": "微博",
+      "heat": "42万"
+    },
+    {
+      "title": "看完孙杨直接内伤失眠了",
+      "url": "https://s.weibo.com/weibo?q=看完孙杨直接内伤失眠了",
+      "source": "微博",
+      "heat": "42万"
+    },
+    {
+      "title": "\"女高管酒醉后被老板性侵\"案今日再次开庭，当事人崔丽丽索赔增至250余万",
+      "url": "https://www.douyin.com/video/7631837242188664079",
+      "source": "抖音",
+      "heat": "42708329次播放"
+    },
+    {
+      "title": "截图挑战！帮福建舰\"稳稳停靠\"在深海蓝疆 #人民海军77周岁",
+      "url": "https://www.douyin.com/video/7631738377183776015",
+      "source": "抖音",
+      "heat": "36311722次播放"
+    },
+    {
+      "title": "饭店的寒假工，团购有猫腻！",
+      "url": "https://www.douyin.com/video/7631824503337476468",
+      "source": "抖音",
+      "heat": "35231873次播放"
+    },
+    {
+      "title": "你说它一顿吃了十只鸭子？",
+      "url": "https://www.douyin.com/video/7631434873172987176",
+      "source": "抖音",
+      "heat": "22090583次播放"
+    },
+    {
+      "title": "夫妻和睦的秘诀就是各自做自己擅长的事",
+      "url": "https://www.douyin.com/video/7630800418532543206",
+      "source": "抖音",
+      "heat": "21356600次播放"
+    }
   ],
   "llm": [
-    {"title": "GPT-5.5震撼登场！OpenAI砸出重磅炸弹，AI自主工作系统时代开启", "desc": "4月23日OpenAI发布GPT-5.5，定位\"面向真实工作的新智能层级\"。Terminal-Bench 2.0达82.7%，同步升级Codex生态，开放第三方工具集成。", "url": "https://blog.csdn.net/2401_85343303/article/details/160477276", "source": "CSDN", "pubDate": "2026-04-24"},
-    {"title": "OpenAI发布GPT-5.5：定价翻倍但能效提升，Codex生态成战略重心", "desc": "GPT-5.5 API定价输入5美元/输出30美元每百万token。在拉姆齐数新证明、超7万页税务文件处理中展现强大实力。", "url": "https://www.pingwest.com/w/313227", "source": "品玩", "pubDate": "2026-04-24"},
-    {"title": "DeepSeek-V4发布：Pro与Flash双线出击，开源性能全面对标闭源", "desc": "V4-Pro参数达1.6T激活49B，实际使用优于Sonnet 4.5，接近Opus 4.6非思考模式。V4-Flash 284B参数激活13B。全系支持100万Token上下文。", "url": "http://ai.yesky.com/248/348748.shtml", "source": "天极网", "pubDate": "2026-04-24"},
-    {"title": "Claude Opus 4.7重磅发布：编程能力超越GPT-5.4", "desc": "4月17日Anthropic发布Claude Opus 4.7。MCP-Atlas工具调用评测77.3%，图像识别能力提升3倍，成为全球编程能力最强模型。", "url": "https://blog.csdn.net/internetear/article/details/160390554", "source": "CSDN", "pubDate": "2026-04-17"}
+    {
+      "title": "GPT-5.5震撼登场！OpenAI砸出重磅炸弹，AI自主工作系统时代开启",
+      "desc": "4月23日OpenAI发布GPT-5.5，定位\"面向真实工作的新智能层级\"。Terminal-Bench 2.0达82.7%，同步升级Codex生态，开放第三方工具集成。",
+      "url": "https://blog.csdn.net/2401_85343303/article/details/160477276",
+      "source": "CSDN",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "OpenAI发布GPT-5.5：定价翻倍但能效提升，Codex生态成战略重心",
+      "desc": "GPT-5.5 API定价输入5美元/输出30美元每百万token。在拉姆齐数新证明、超7万页税务文件处理中展现强大实力。",
+      "url": "https://www.pingwest.com/w/313227",
+      "source": "品玩",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "DeepSeek-V4发布：Pro与Flash双线出击，开源性能全面对标闭源",
+      "desc": "V4-Pro参数达1.6T激活49B，实际使用优于Sonnet 4.5，接近Opus 4.6非思考模式。V4-Flash 284B参数激活13B。全系支持100万Token上下文。",
+      "url": "http://ai.yesky.com/248/348748.shtml",
+      "source": "天极网",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "Claude Opus 4.7重磅发布：编程能力超越GPT-5.4",
+      "desc": "4月17日Anthropic发布Claude Opus 4.7。MCP-Atlas工具调用评测77.3%，图像识别能力提升3倍，成为全球编程能力最强模型。",
+      "url": "https://blog.csdn.net/internetear/article/details/160390554",
+      "source": "CSDN",
+      "pubDate": "2026-04-17"
+    }
   ],
   "github": [
-    {"title": "GenericAgent登顶GitHub Trending榜首", "desc": "易方达参与贡献的轻量化自主智能体框架GenericAgent，4月16-17日连续两日登顶GitHub Trending。同时DeerFlow也在3月24日登顶。", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_52769e9c96053252", "source": "企鹅号", "pubDate": "2026-04-24"},
-    {"title": "Claude Mem：Claude Code持久记忆压缩系统", "desc": "4月16日热门项目，为Claude Code提供持久记忆压缩系统，帮助AI跨会话保持项目理解。获得近59,000星，日增260星。", "url": "https://github.com/thedotmack/claude-mem", "source": "GitHub", "pubDate": "2026-04-16"}
+    {
+      "title": "GenericAgent登顶GitHub Trending榜首",
+      "desc": "易方达参与贡献的轻量化自主智能体框架GenericAgent，4月16-17日连续两日登顶GitHub Trending。同时DeerFlow也在3月24日登顶。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_52769e9c96053252",
+      "source": "企鹅号",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "Claude Mem：Claude Code持久记忆压缩系统",
+      "desc": "4月16日热门项目，为Claude Code提供持久记忆压缩系统，帮助AI跨会话保持项目理解。获得近59,000星，日增260星。",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source": "GitHub",
+      "pubDate": "2026-04-16"
+    }
   ],
   "world": [
-    {"title": "世界模型的三个问题：定义、数据与未完成的商业验证", "desc": "4月16日腾讯开源混元3D HY-World 2.0，阿里发布HappyOyster。李飞飞World Labs融资10亿美元，英伟达Cosmos下载突破500万次。", "url": "https://www.sohu.com/a/1013083731_121439537", "source": "搜狐", "pubDate": "2026-04-22"}
+    {
+      "title": "世界模型的三个问题：定义、数据与未完成的商业验证",
+      "desc": "4月16日腾讯开源混元3D HY-World 2.0，阿里发布HappyOyster。李飞飞World Labs融资10亿美元，英伟达Cosmos下载突破500万次。",
+      "url": "https://www.sohu.com/a/1013083731_121439537",
+      "source": "搜狐",
+      "pubDate": "2026-04-22"
+    }
   ],
   "trend": [
-    {"name": "NousResearch/hermes-agent", "stars": 47577, "type": "Python", "desc": "自我进化AI代理框架，支持持续学习、工具调用和长任务执行，日增6,115星", "tags": ["AI-Agent", "self-evolving", "LLM"], "url": "https://github.com/NousResearch/hermes-agent", "iconType": "github", "icon": "python", "pubDate": "2026-04-21"},
-    {"name": "forrestchang/andrej-karpathy-skills", "stars": 11000, "type": "Shell", "desc": "Andrej Karpathy感知的Claude Code优化配置文件集，系统性解决LLM编程常见问题，日增1,364星", "tags": ["Claude-Code", "config", "LLM-tips"], "url": "https://github.com/forrestchang/andrej-karpathy-skills", "iconType": "github", "icon": "shell", "pubDate": "2026-04-21"},
-    {"name": "openai/openai-agents-python", "stars": 21000, "type": "Python", "desc": "OpenAI官方多智能体工作流框架，轻量级、强力，支持复杂多代理协作场景", "tags": ["multi-agent", "openai", "framework"], "url": "https://github.com/openai/openai-agents-python/", "iconType": "github", "icon": "python", "pubDate": "2026-04-15"},
-    {"name": "thedotmack/claude-mem", "stars": 59000, "type": "Other", "desc": "为Claude Code提供持久记忆压缩系统，帮助AI跨会话保持项目理解，日增260星", "tags": ["Claude-Code", "memory", "agent"], "url": "https://github.com/thedotmack/claude-mem", "iconType": "github", "icon": "other", "pubDate": "2026-04-16"}
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": 47577,
+      "type": "Python",
+      "desc": "自我进化AI代理框架，支持持续学习、工具调用和长任务执行，日增6,115星",
+      "tags": [
+        "AI-Agent",
+        "self-evolving",
+        "LLM"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "iconType": "github",
+      "icon": "python",
+      "pubDate": "2026-04-21"
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": 11000,
+      "type": "Shell",
+      "desc": "Andrej Karpathy感知的Claude Code优化配置文件集，系统性解决LLM编程常见问题，日增1,364星",
+      "tags": [
+        "Claude-Code",
+        "config",
+        "LLM-tips"
+      ],
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "iconType": "github",
+      "icon": "shell",
+      "pubDate": "2026-04-21"
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "stars": 21000,
+      "type": "Python",
+      "desc": "OpenAI官方多智能体工作流框架，轻量级、强力，支持复杂多代理协作场景",
+      "tags": [
+        "multi-agent",
+        "openai",
+        "framework"
+      ],
+      "url": "https://github.com/openai/openai-agents-python/",
+      "iconType": "github",
+      "icon": "python",
+      "pubDate": "2026-04-15"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "stars": 59000,
+      "type": "Other",
+      "desc": "为Claude Code提供持久记忆压缩系统，帮助AI跨会话保持项目理解，日增260星",
+      "tags": [
+        "Claude-Code",
+        "memory",
+        "agent"
+      ],
+      "url": "https://github.com/thedotmack/claude-mem",
+      "iconType": "github",
+      "icon": "other",
+      "pubDate": "2026-04-16"
+    }
   ],
   "design": [
-    {"title": "Anthropic推出AI设计工具Claude Design，4月17日向付费用户开放", "desc": "Anthropic推出实验性AI视觉创作工具Claude Design，基于Claude Opus 4.7构建，支持自然语言生成设计稿、交互原型、PPT等。可读取用户代码库和现有设计文件，自动抽取配色、字体、组件风格，导出到Canva、PDF、PPTX或交由Claude Code开发。", "url": "https://new.qq.com/rain/a/20260420A07QET00", "source": "腾讯网", "pubDate": "2026-04-20"},
-    {"title": "Claude Design：AI重塑设计工作流的新范式", "desc": "深度分析Anthropic于4月17日推出的Claude Design核心架构原理，集成Claude Opus 4.7多模态视觉能力，支持企业级设计系统自动应用、交互原型快速生成、多格式导出，与Figma AI、Framer等差异化优势对比。", "url": "https://blog.csdn.net/xiangaichou/article/details/160288868", "source": "CSDN", "pubDate": "2026-04-23"},
-    {"title": "GPT Images 2.0发布：人人都能1分钟做杂志封面", "desc": "4月22日凌晨OpenAI发布ChatGPT Images 2.0模型（代号gpt-image-2），面向所有ChatGPT用户开放。模型不仅不会重绘基础图片，还能正确绘制中文文字，一分钟内即可生成科技杂志封面等设计作品。", "url": "https://www.sohu.com/a/1013071631_122632637", "source": "搜狐", "pubDate": "2026-04-22"}
+    {
+      "title": "Anthropic推出AI设计工具Claude Design，4月17日向付费用户开放",
+      "desc": "Anthropic推出实验性AI视觉创作工具Claude Design，基于Claude Opus 4.7构建，支持自然语言生成设计稿、交互原型、PPT等。可读取用户代码库和现有设计文件，自动抽取配色、字体、组件风格，导出到Canva、PDF、PPTX或交由Claude Code开发。",
+      "url": "https://new.qq.com/rain/a/20260420A07QET00",
+      "source": "腾讯网",
+      "pubDate": "2026-04-20"
+    },
+    {
+      "title": "Claude Design：AI重塑设计工作流的新范式",
+      "desc": "深度分析Anthropic于4月17日推出的Claude Design核心架构原理，集成Claude Opus 4.7多模态视觉能力，支持企业级设计系统自动应用、交互原型快速生成、多格式导出，与Figma AI、Framer等差异化优势对比。",
+      "url": "https://blog.csdn.net/xiangaichou/article/details/160288868",
+      "source": "CSDN",
+      "pubDate": "2026-04-23"
+    },
+    {
+      "title": "GPT Images 2.0发布：人人都能1分钟做杂志封面",
+      "desc": "4月22日凌晨OpenAI发布ChatGPT Images 2.0模型（代号gpt-image-2），面向所有ChatGPT用户开放。模型不仅不会重绘基础图片，还能正确绘制中文文字，一分钟内即可生成科技杂志封面等设计作品。",
+      "url": "https://www.sohu.com/a/1013071631_122632637",
+      "source": "搜狐",
+      "pubDate": "2026-04-22"
+    }
   ],
   "video": [
-    {"title": "Sora关停之时，中国霸榜之日", "desc": "3月24日，OpenAI的AI视频应用Sora被关停，仅存活6个月。CEO奥特曼在员工会议上宣布决定。中国视频大模型已全面霸榜大模型竞技场，字节Seedance 2.0和快手可灵成为新主角。Sora生命周期内仅让用户付费约140万美元。", "url": "https://new.qq.com/rain/a/20260422A081WX00", "source": "腾讯网", "pubDate": "2026-04-22"}
+    {
+      "title": "Seedance 2.0包揽LMArena视频榜单第一，技术报告公开",
+      "desc": "4月22日LMArena公布视频榜单，字节跳动Seedance 2.0在文生视频、图生视频、视频编辑三大领域全面第一，支持多模态参考输入和精准可控的视频生成。",
+      "url": "https://www.sohu.com/a/1013493799_100141130",
+      "source": "搜狐",
+      "pubDate": "2026-04-23"
+    },
+    {
+      "title": "阿里HappyHorse-1.0登顶视频排行榜，4月27日开放API",
+      "desc": "阿里ATH推出HappyHorse-1.0开源AI视频模型，登顶Video Arena，支持1080p高清视频与7种语言唇同步，将于4月27日通过阿里云百炼开放API测试。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_36469e5e91b51465",
+      "source": "企鹅号",
+      "pubDate": "2026-04-20"
+    },
+    {
+      "title": "Sora关停之时，中国霸榜之日",
+      "desc": "3月24日OpenAI关停Sora仅存活6个月，中国视频大模型全面霸榜。byteSeedance 2.0、快手可灵成新主角，用户仅付费约140万美元。",
+      "url": "https://new.qq.com/rain/a/20260422A081WX00",
+      "source": "腾讯网",
+      "pubDate": "2026-04-22"
+    },
+    {
+      "title": "可灵AI原生4K直出功能上线，院线级质感视频",
+      "desc": "4月23日快手可灵AI视频3.0推出原生4K直出功能，无需后期超分直接输出4K高分辨率画面，面向影视、广告等专业视频行业客户。",
+      "url": "http://finance.eastmoney.com/a/202604243717914381.html",
+      "source": "东方财富网",
+      "pubDate": "2026-04-24"
+    }
   ],
   "rag": [
-    {"title": "RAG已死？2026 Agentic RAG 3.0核心升级点全解析", "desc": "深入探讨2026年Agentic RAG 3.0核心升级点，通过1M上下文、Multimodal GraphRAG、Agentic Retrieval三驾马车重塑RAG技术。包含完整技术分析、实现方法、代码示例及企业级部署方案。", "url": "https://cloud.tencent.com/developer/article/2650548", "source": "腾讯云", "pubDate": "2026-04-25"},
-    {"title": "2026最新Agentic RAG技术详解：从零搭建完整系统", "desc": "基于2026年Q1最新技术栈，使用LangChain v0.3.10、Qwen3-7B-Instruct、Chroma v0.6.2（支持ColBERT v3）、GraphRAG v0.4搭建完整Agentic RAG系统，含所有可运行代码。", "url": "https://blog.csdn.net/qq_52327553/article/details/159922247", "source": "CSDN", "pubDate": "2026-04-20"}
+    {
+      "title": "RAG已死？2026 Agentic RAG 3.0核心升级点全解析",
+      "desc": "深入探讨2026年Agentic RAG 3.0核心升级点，通过1M上下文、Multimodal GraphRAG、Agentic Retrieval三驾马车重塑RAG技术。包含完整技术分析、实现方法、代码示例及企业级部署方案。",
+      "url": "https://cloud.tencent.com/developer/article/2650548",
+      "source": "腾讯云",
+      "pubDate": "2026-04-25"
+    },
+    {
+      "title": "2026最新Agentic RAG技术详解：从零搭建完整系统",
+      "desc": "基于2026年Q1最新技术栈，使用LangChain v0.3.10、Qwen3-7B-Instruct、Chroma v0.6.2（支持ColBERT v3）、GraphRAG v0.4搭建完整Agentic RAG系统，含所有可运行代码。",
+      "url": "https://blog.csdn.net/qq_52327553/article/details/159922247",
+      "source": "CSDN",
+      "pubDate": "2026-04-20"
+    }
   ],
-  "devtools": [],
+  "devtools": [
+    {
+      "title": "OpenAI发布ChatGPT Images 2.0：AI生图进入智能推理时代",
+      "desc": "4月22日OpenAI发布Images 2.0，引入思考模式可联网推理自检纠错。登顶Image Arena文生图榜首，领先第二名242分，可生成2K分辨率8张连贯图像。",
+      "url": "https://www.sohu.com/a/1013104489_121885030",
+      "source": "搜狐",
+      "pubDate": "2026-04-22"
+    },
+    {
+      "title": "GPT-Image-2登顶Image Arena，中文文字渲染达99%",
+      "desc": "GPT-Image-2以1512分登顶Image Arena，242分碾压谷歌Nano-banana-2。中文文字渲染准确率99%，支持联网搜索与8张连贯图像生成。",
+      "url": "https://blog.csdn.net/m0_74961596/article/details/160450202",
+      "source": "CSDN",
+      "pubDate": "2026-04-23"
+    }
+  ],
   "industry": [
-    {"title": "Meta、微软同日宣布大规模裁员，AI驱动的劳动力危机引发担忧", "desc": "Meta宣布裁员8000人，微软启动万名员工买断计划，合计裁员超20000人。CNBC报道指出AI自动化正在加速取代传统岗位，引发对AI驱动劳动力危机的广泛担忧。", "url": "https://www.sohu.com/a/1013083731_121439537", "source": "搜狐", "pubDate": "2026-04-24"},
-    {"title": "白宫指责中国\"窃取\"美国AI知识产权，中方敦促停止科技遏压", "desc": "CNN报道白宫指责中国以\"工业规模\"复制美国AI模型，中国外交部回应敦促美方停止对华科技遏压。白宫AI顾问同时警告中国芯片设计仅落后美国1.5年。", "url": "https://www.cnn.com/2026/04/24/tech/white-house-china-ai-copyright", "source": "CNN", "pubDate": "2026-04-24"},
-    {"title": "DeepSeek再扔\"王炸\"，美国指责中国反驳", "desc": "德国之声报道DeepSeek发布新版本引发新一轮中美AI博弈。美国加强对中国AI技术出口管制，中方坚决反对技术封锁。", "url": "https://www.dw.com/zh/deepseek-再扔王炸-美国指责-中国反驳/a-000000", "source": "德国之声", "pubDate": "2026-04-24"},
-    {"title": "经济学家蔡昉万字长谈：AI如何重塑劳动力市场", "desc": "著名经济学家蔡昉深度分析AI对中国劳动力市场的影响，讨论岗位替代与创造的双重效应，以及政策应对建议。", "url": "https://news.qq.com/rain/a/20260424A08M1C00", "source": "腾讯新闻", "pubDate": "2026-04-24"}
+    {
+      "title": "Meta、微软同日宣布大规模裁员，AI驱动的劳动力危机引发担忧",
+      "desc": "Meta宣布裁员8000人，微软启动万名员工买断计划，合计裁员超20000人。CNBC报道指出AI自动化正在加速取代传统岗位，引发对AI驱动劳动力危机的广泛担忧。",
+      "url": "https://www.sohu.com/a/1013083731_121439537",
+      "source": "搜狐",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "白宫指责中国\"窃取\"美国AI知识产权，中方敦促停止科技遏压",
+      "desc": "CNN报道白宫指责中国以\"工业规模\"复制美国AI模型，中国外交部回应敦促美方停止对华科技遏压。白宫AI顾问同时警告中国芯片设计仅落后美国1.5年。",
+      "url": "https://www.cnn.com/2026/04/24/tech/white-house-china-ai-copyright",
+      "source": "CNN",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "DeepSeek再扔\"王炸\"，美国指责中国反驳",
+      "desc": "德国之声报道DeepSeek发布新版本引发新一轮中美AI博弈。美国加强对中国AI技术出口管制，中方坚决反对技术封锁。",
+      "url": "https://www.dw.com/zh/deepseek-再扔王炸-美国指责-中国反驳/a-000000",
+      "source": "德国之声",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "经济学家蔡昉万字长谈：AI如何重塑劳动力市场",
+      "desc": "著名经济学家蔡昉深度分析AI对中国劳动力市场的影响，讨论岗位替代与创造的双重效应，以及政策应对建议。",
+      "url": "https://news.qq.com/rain/a/20260424A08M1C00",
+      "source": "腾讯新闻",
+      "pubDate": "2026-04-24"
+    }
   ],
   "game": [
-    {"title": "2026腾讯游戏创作大赛启幕：连接全球开发者，共拓AI游戏新舞台", "desc": "腾讯启动2026全球游戏创作大赛，聚焦AI游戏开发。大赛连续三年在武汉举办，百万奖金、开放内部技术体系，支持全球开发者用AI工具进行游戏创意开发。", "url": "https://www.donews.com/news/detail/4/20260420/000000.html", "source": "DoNews", "pubDate": "2026-04-20"},
-    {"title": "游戏行业不缺AI工具，缺什么？腾讯用一场大赛给出答案", "desc": "腾讯光子工作室群以\"不卷学历卷创意\"为理念，鼓励00后开发者在《率土之滨》等游戏中用AI创作。大赛吸引全球开发者围绕AI游戏玩法、NPC智能等赛道展开角逐。", "url": "https://www.sohu.com/a/000000_000000", "source": "搜狐网", "pubDate": "2026-04-19"}
+    {
+      "title": "2026腾讯游戏创作大赛启幕：连接全球开发者，共拓AI游戏新舞台",
+      "desc": "腾讯启动2026全球游戏创作大赛，聚焦AI游戏开发。大赛连续三年在武汉举办，百万奖金、开放内部技术体系，支持全球开发者用AI工具进行游戏创意开发。",
+      "url": "https://www.donews.com/news/detail/4/20260420/000000.html",
+      "source": "DoNews",
+      "pubDate": "2026-04-20"
+    },
+    {
+      "title": "游戏行业不缺AI工具，缺什么？腾讯用一场大赛给出答案",
+      "desc": "腾讯光子工作室群以\"不卷学历卷创意\"为理念，鼓励00后开发者在《率土之滨》等游戏中用AI创作。大赛吸引全球开发者围绕AI游戏玩法、NPC智能等赛道展开角逐。",
+      "url": "https://www.sohu.com/a/000000_000000",
+      "source": "搜狐网",
+      "pubDate": "2026-04-19"
+    }
   ],
   "drama": [
-    {"title": "AI漫剧版权保护研讨会达成共识：行业呼吁守住原创根基", "desc": "针对AI漫剧爆发式增长背后版权\"碰瓷\"泛滥问题，行业研讨会达成多项共识，呼吁建立AI创作版权保护机制，强调原创内容根基。", "url": "https://news.sina.com.cn/000000.html", "source": "新浪网", "pubDate": "2026-04-24"},
-    {"title": "AI漫剧爆发式增长背后：版权\"碰瓷\"泛滥", "desc": "上观新闻调查报道AI漫剧行业乱象，指出AI生成内容快速膨胀但版权归属模糊，大量\"碰瓷\"式维权案例滋生，行业亟待规范。", "url": "https://www.shobserver.com/news/detail?id=100000", "source": "上观新闻", "pubDate": "2026-04-23"},
-    {"title": "巨头下场，AI漫剧狂飙：168亿市场谁将出局", "desc": "澎湃新闻报道AI漫剧市场进入爆发期，腾讯、字节、百度等巨头纷纷布局。4月1日AI漫剧新规落地要求未备案强制下线，行业洗牌加速。", "url": "https://www.thepaper.cn/000000.html", "source": "澎湃新闻", "pubDate": "2026-04-21"}
+    {
+      "title": "AI漫剧版权保护研讨会达成共识：行业呼吁守住原创根基",
+      "desc": "针对AI漫剧爆发式增长背后版权\"碰瓷\"泛滥问题，行业研讨会达成多项共识，呼吁建立AI创作版权保护机制，强调原创内容根基。",
+      "url": "https://news.sina.com.cn/000000.html",
+      "source": "新浪网",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "AI漫剧爆发式增长背后：版权\"碰瓷\"泛滥",
+      "desc": "上观新闻调查报道AI漫剧行业乱象，指出AI生成内容快速膨胀但版权归属模糊，大量\"碰瓷\"式维权案例滋生，行业亟待规范。",
+      "url": "https://www.shobserver.com/news/detail?id=100000",
+      "source": "上观新闻",
+      "pubDate": "2026-04-23"
+    },
+    {
+      "title": "巨头下场，AI漫剧狂飙：168亿市场谁将出局",
+      "desc": "澎湃新闻报道AI漫剧市场进入爆发期，腾讯、字节、百度等巨头纷纷布局。4月1日AI漫剧新规落地要求未备案强制下线，行业洗牌加速。",
+      "url": "https://www.thepaper.cn/000000.html",
+      "source": "澎湃新闻",
+      "pubDate": "2026-04-21"
+    }
   ],
   "apps": [
-    {"title": "OpenAI推出ChatGPT Workspace Agents：全天候办公时代开启", "desc": "OpenAI在ChatGPT中推出工作空间智能体(Workspace Agents)，支持团队协作场景的AI自动化工作流。智能体可全天候运行，自动处理复杂任务，向付费用户开放。", "url": "https://openai.com/index/workspace-agents/", "source": "OpenAI", "pubDate": "2026-04-23"},
-    {"title": "Google开源DESIGN.md格式，为AI Agent提供UI设计标准化蓝图", "desc": "Google发布并开源DESIGN.md格式标准，为AI Agent生成UI界面提供标准化描述规范，加速AI原生应用开发流程。", "url": "https://www.aibase.com/000000.html", "source": "AIBase", "pubDate": "2026-04-24"},
-    {"title": "七麦数据发布Q1实力AI产品榜单：头部厂商打响超级入口卡位战", "desc": "七麦数据发布2026年Q1实力AI产品榜单，阿里千问、字节豆包、百度文心等头部AI应用竞争白热化，智能体成新增长点。", "url": "https://www.jiemian.com/000000.html", "source": "界面新闻", "pubDate": "2026-04-20"},
-    {"title": "阿里发布AI开发工具Meoo，助力零门槛创意变现", "desc": "阿里发布轻量级AI开发工具Meoo，支持自然语言生成应用原型，旨在降低AI应用开发门槛，帮助开发者快速实现创意变现。", "url": "https://www.aibase.com/000000.html", "source": "AIBase", "pubDate": "2026-04-15"}
+    {
+      "title": "OpenAI推出ChatGPT Workspace Agents：全天候办公时代开启",
+      "desc": "OpenAI在ChatGPT中推出工作空间智能体(Workspace Agents)，支持团队协作场景的AI自动化工作流。智能体可全天候运行，自动处理复杂任务，向付费用户开放。",
+      "url": "https://openai.com/index/workspace-agents/",
+      "source": "OpenAI",
+      "pubDate": "2026-04-23"
+    },
+    {
+      "title": "Google开源DESIGN.md格式，为AI Agent提供UI设计标准化蓝图",
+      "desc": "Google发布并开源DESIGN.md格式标准，为AI Agent生成UI界面提供标准化描述规范，加速AI原生应用开发流程。",
+      "url": "https://www.aibase.com/000000.html",
+      "source": "AIBase",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "七麦数据发布Q1实力AI产品榜单：头部厂商打响超级入口卡位战",
+      "desc": "七麦数据发布2026年Q1实力AI产品榜单，阿里千问、字节豆包、百度文心等头部AI应用竞争白热化，智能体成新增长点。",
+      "url": "https://www.jiemian.com/000000.html",
+      "source": "界面新闻",
+      "pubDate": "2026-04-20"
+    },
+    {
+      "title": "阿里发布AI开发工具Meoo，助力零门槛创意变现",
+      "desc": "阿里发布轻量级AI开发工具Meoo，支持自然语言生成应用原型，旨在降低AI应用开发门槛，帮助开发者快速实现创意变现。",
+      "url": "https://www.aibase.com/000000.html",
+      "source": "AIBase",
+      "pubDate": "2026-04-15"
+    }
   ]
 }
