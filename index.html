@@ -733,7 +733,7 @@ function renderEmpty(dateStr) {
         '<p>内容将于每天 9:00(Asia/Shanghai)自动更新。</p></div>';
 }
 
-function esc(s) { if (!s) return ''; return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function esc(s) { if (s == null) return ''; return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
 // ═══════════════════ 分类筛选 ═══════════════════
 // ═══════════════════ 模式切换 ═══════════════════
