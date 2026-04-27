@@ -1,0 +1,154 @@
+{
+  "title": "GPT-5.5与DeepSeek V4同日对决，Claude Mythos仅限邀请引爆安全争议",
+  "desc": "4月24日成为2026年大模型最卷一天：OpenAI发布GPT-5.5主打Agent能力，DeepSeek V4预览版开源百万上下文。Anthropic的Claude Mythos以网络漏洞挖掘能力震惊业界，却仅限受邀机构使用。",
+  "featured": [
+    {
+      "title": "OpenAI发布GPT-5.5：Agent能力飞跃，效率与成本双重突破",
+      "desc": "GPT-5.5核心升级Agent能力，可自主规划多步骤任务、调用工具、校验结果。与英伟达联合优化，Token生成速度提升超20%。",
+      "url": "http://www.sohu.com/a/1013854670_118778",
+      "label": "大模型",
+      "icon": "🤖",
+      "color": "#10a37f",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "DeepSeek V4预览版开源：1.6T参数百万上下文，适配华为昇腾",
+      "desc": "DeepSeek V4-Pro(1.6T参数)与V4-Flash(2840亿参数)同步开源，MIT协议，100万token超长上下文标配，八家国产芯片Day 0适配。",
+      "url": "https://new.qq.com/rain/a/20260425A08EUT00",
+      "label": "开源",
+      "icon": "🔥",
+      "color": "#6366f1",
+      "pubDate": "2026-04-24"
+    }
+  ],
+  "hotSearch": [
+    {"title": "歌手2026", "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2026", "source": "微博", "heat": "93万"},
+    {"title": "特朗普夫人反应迅速", "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%8F%8D%E5%BA%94%E8%BF%85%E9%80%9F", "source": "微博", "heat": "68万"},
+    {"title": "影视文旅成消费新风口", "url": "https://s.weibo.com/weibo?q=%E5%BD%B1%E8%A7%86%E6%96%87%E6%97%85%E6%88%90%E6%B6%88%E8%B4%B9%E6%96%B0%E9%A3%8E%E5%8F%A3", "source": "微博", "heat": "53万"},
+    {"title": "身份证照片最接近别人肉眼看到的自己", "url": "https://s.weibo.com/weibo?q=%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E6%9C%80%E6%8E%A5%E8%BF%91%E5%88%AB%E4%BA%BA%E8%82%89%E7%9C%BC%E7%9C%8B%E5%88%B0%E7%9A%84%E8%87%AA%E5%B7%B1", "source": "微博", "heat": "46万"},
+    {"title": "伊朗最高领袖突然发文", "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AA%81%E7%84%B6%E5%8F%91%E6%96%87", "source": "微博", "heat": "39万"},
+    {"title": "饭店的寒假工，遇到熊孩子！", "url": "https://www.douyin.com/video/7632937200799518543", "source": "抖音", "heat": "4135万播放"},
+    {"title": "\"10后\"眼中的\"00后\"原来是这样？", "url": "https://www.douyin.com/video/7632937885301361935", "source": "抖音", "heat": "2967万播放"},
+    {"title": "我在白宫晚宴枪击现场，特朗普紧急撤离", "url": "https://www.douyin.com/video/7632896161951977891", "source": "抖音", "heat": "2842万播放"},
+    {"title": "张若昀 是谁闯入了谁的镜头", "url": "https://www.douyin.com/video/7632546085709386723", "source": "抖音", "heat": "2118万播放"},
+    {"title": "食卵蛇，试图吃掉比嘴巴大数倍的鸡蛋", "url": "https://www.douyin.com/video/7632527678306652667", "source": "抖音", "heat": "1956万播放"}
+  ],
+  "llm": [
+    {
+      "title": "DeepSeek V4适配华为昇腾：摆脱英伟达依赖，国产芯片Day 0适配",
+      "desc": "华为昇腾超节点全系列完成DeepSeek V4适配，寒武纪也实现Day 0适配。八家国产芯片与NVIDIA全面适配，性能提升近2倍。",
+      "url": "https://m.zol.com.cn/article/11706121.html",
+      "source": "中关村在线",
+      "pubDate": "2026-04-25"
+    }
+  ],
+  "github": [
+    {
+      "title": "hermes-agent：NousResearch自我进化AI智能体，47K+星",
+      "desc": "可持续学习成长的AI代理框架，集成先进对话、任务执行和知识积累机制，支持多种LLM，日增6100星登顶GitHub Trending。",
+      "url": "https://blog.csdn.net/u011510825/article/details/160051742",
+      "source": "CSDN",
+      "pubDate": "2026-04-21"
+    }
+  ],
+  "trend": [],
+  "world": [],
+  "design": [],
+  "video": [
+    {
+      "title": "OpenAI CEO回应关停Sora视频生成：集中算力聚焦核心业务",
+      "desc": "OpenAI CEO奥特曼在播客访谈中回应关停Sora，称核心原因为集中计算能力和产品能力，全力投入下一代自动化研究，策略与GPT-3发布前一致。",
+      "url": "http://news.pconline.com.cn/2126/21266255.html",
+      "source": "太平洋科技",
+      "pubDate": "2026-04-24"
+    }
+  ],
+  "rag": [
+    {
+      "title": "阿里通义实验室开源VimRAG：将推理建模为动态有向无环图",
+      "desc": "阿里通义实验室开源VimRAG，将推理过程建模为动态DAG，让AI同时理解文本、图像和视频，标志RAG技术范式级跃迁。",
+      "url": "https://leezhao415.blog.csdn.net/article/details/160503191",
+      "source": "CSDN",
+      "pubDate": "2026-04-25"
+    },
+    {
+      "title": "2026 Agentic RAG 3.0核心升级：1M上下文+Multimodal GraphRAG",
+      "desc": "分析2026年Agentic RAG 3.0三大核心升级：1M上下文窗口、多模态GraphRAG和Agentic Retrieval，重塑RAG技术体系。",
+      "url": "https://cloud.tencent.com/developer/article/2650548",
+      "source": "腾讯云",
+      "pubDate": "2026-04-27"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "OpenAI发布ChatGPT Images 2.0：支持联网搜索、单次生成8张连贯图像",
+      "desc": "OpenAI推出基于GPT Image 2的Images 2.0，引入思考能力可联网检索，支持单次生成最多8张一致性图像，最高2K分辨率，改进中日韩语生成。",
+      "url": "https://www.ithome.com/0/941/861.htm",
+      "source": "IT之家",
+      "pubDate": "2026-04-21"
+    },
+    {
+      "title": "Canva AI 2.0正式发布：Canva创立13年来最重要产品革新",
+      "desc": "Canva推出AI 2.0，引入全新架构层重构设计流程，具备持久记忆能力，能深度理解用户工作方式并自动应用品牌风格，全面转型一体化生产力系统。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_15869e19e9b52052",
+      "source": "企鹅号",
+      "pubDate": "2026-04-17"
+    }
+  ],
+  "industry": [
+    {
+      "title": "斯坦福AI指数报告：中美AI差距仅剩2.7%，全球TOP10中国占4席",
+      "desc": "斯坦福HAI发布《2026年AI指数报告》，中美AI模型差距缩小至39分(2.7%)，全球TOP10中中国占4席（阿里、DeepSeek、清华、字节）。",
+      "url": "https://blog.csdn.net/m0_74961596/article/details/160313577",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-19"
+    },
+    {
+      "title": "谷歌发布TPUv8双芯，首次将AI训练与推理拆分至独立芯片",
+      "desc": "4月22日Google Cloud Next 2026大会上，谷歌发布TPU 8t(训练)和TPU 8i(推理)两款独立芯片，TPU 8t单Pod算力达121 exaflops。",
+      "url": "https://blog.csdn.net/internetear/article/details/160474920",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-24"
+    }
+  ],
+  "game": [],
+  "drama": [
+    {
+      "title": "3人48小时拍一部AI短剧，《霍去病》3000元成本创5亿播放量",
+      "desc": "AI短剧《霍去病》3人团队48小时完成，算力成本不到3000元。AI仿真人剧《莲生万劫》累计播放冲8亿，2026年市场规模有望达240亿元。",
+      "url": "https://m.bjnews.com.cn/detail/1776768691129736.html",
+      "source": "新京报",
+      "pubDate": "2026-04-25"
+    },
+    {
+      "title": "多位艺人集体维权AI短剧盗用肖像，广电总局专项治理落地",
+      "desc": "龚俊、邓为、易烊千玺等艺人声明维权AI短剧换脸侵权。4月1日广电总局"不良动画微短剧专项治理"新规落地，未备案存量剧强制下线。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_47869e32f5781865",
+      "source": "企鹅号",
+      "pubDate": "2026-04-18"
+    },
+    {
+      "title": "AI漫剧工坊「唐庭盛世」上线，提供AI漫画一站式解决方案",
+      "desc": "唐庭盛世AI漫剧工坊上线，支持输入故事梗概自动生成分镜、角色设定、对白脚本，多种艺术风格一键切换，打通IP衍生设计全链路。",
+      "url": "http://www.900000.cn/",
+      "source": "唐庭盛世",
+      "pubDate": "2026-04-23"
+    },
+    {
+      "title": "掌阅科技泡漫平台全新升级，覆盖AI短剧全流程解决方案",
+      "desc": "字节漫剧日消耗破7000万反超真人短剧，快手漫剧单日消耗破2000万。掌阅科技泡漫平台升级，覆盖选题策划、剧本创作、AI制作、智能分发全链路。",
+      "url": "http://news.10jqka.com.cn/20260426/c676287566.shtml",
+      "source": "同花顺财经",
+      "pubDate": "2026-04-26"
+    }
+  ],
+  "apps": [
+    {
+      "title": "Kimi K2.6正式开源，国产模型首次登顶全球代码评测榜首",
+      "desc": "4月20日月之暗面发布Kimi K2.6并开源，SWE-Bench Pro拿下58.6分碾压GPT-5.4，支持300个智能体并行作业，定位从单兵作战转向AI操作系统。",
+      "url": "https://blog.csdn.net/internetear/article/details/160502285",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-25"
+    }
+  ]
+}
