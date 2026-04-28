@@ -1,0 +1,413 @@
+{
+  "date": "2026-04-28",
+  "title": "2026年4月28日AI简报：大模型新突破、Agent框架爆发、世界模型商业化加速",
+  "desc": "今日AI领域动态：DeepSeek V4发布登顶开源大模型，OpenClaw创GitHub星标纪录，阿里腾讯同日发布世界模型，Claude Opus 4.7上线提升编程能力。四大领域同步爆发，AI产业化进程加速。",
+  "featured": [
+    {
+      "title": "DeepSeek V4震撼发布！1.6T参数+1M上下文，国产大模型超越GPT",
+      "desc": "2026年4月24日，DeepSeek正式发布V4系列，1.6T总参数、100万Token上下文，性能超越GPT-5.2、Claude 4.5等国际头部模型。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904ohlm.html?from=tech",
+      "label": "大模型",
+      "icon": "🤖",
+      "color": "#4A90E2",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "OpenClaw横空出世：GitHub史上增长最快项目，24.8万星登顶",
+      "desc": "2026年初OpenClaw横扫GitHub，短短数月获超24.8万星，成AI领域最耀眼新星，支持多平台集成，本地优先AI Agent框架。",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/159125944",
+      "label": "Agent框架",
+      "icon": "🦞",
+      "color": "#FF6B6B",
+      "pubDate": "2026-04-21"
+    },
+    {
+      "title": "阿里腾讯同日发布世界模型，商业化临界点已至",
+      "desc": "2026年4月16日，阿里发布HappyOyster，腾讯开源HY-World 2.0，李飞飞World Labs获10亿美元融资，世界模型赛道进入商业化阶段。",
+      "url": "https://www.toutiao.com/article/7633442781964288558/",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#50C878",
+      "pubDate": "2026-04-27"
+    },
+    {
+      "title": "Claude Opus 4.7正式上线：编程能力提升11%，支持百万上下文",
+      "desc": "2026年4月16日，Anthropic发布Claude Opus 4.7，SWE-bench Pro得分64.3%，视觉能力提升3倍，新增/ultrareview代码审查功能。",
+      "url": "https://blog.csdn.net/2601_95768680/article/details/160444497",
+      "label": "Claude更新",
+      "icon": "🧠",
+      "color": "#9B59B6",
+      "pubDate": "2026-04-23"
+    }
+  ],
+  "llm": [
+    {
+      "title": "DeepSeek V4系列发布，1.6T参数性能碾压国际巨头",
+      "desc": "DeepSeek V4总参数1.6T，激活参数49B，采用MoE架构，编程HumanEval超90%，数学推理MATH达75%+，全面超越GPT-5.2、Claude 4.5。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904ohlm.html?from=tech",
+      "source": "新浪网",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "Claude Opus 4.7上线，编程能力提升11%视觉能力翻倍",
+      "desc": "Claude Opus 4.7于2026年4月16日发布，SWE-bench Pro得分64.3%，视觉分辨率提升至375万像素，准确率从54.5%升至98.5%。",
+      "url": "https://blog.csdn.net/2601_95768680/article/details/160444497",
+      "source": "CSDN",
+      "pubDate": "2026-04-23"
+    },
+    {
+      "title": "Claude Code 2.1.92发布，支持百万上下文重构编程工作流",
+      "desc": "Anthropic发布Claude Code 2.1.92，支持100万Token上下文，深度集成Claude Opus 4.6，可自主完成多步骤工程任务，重构智能体编程流程。",
+      "url": "https://blog.csdn.net/bq990914/article/details/160134130",
+      "source": "CSDN",
+      "pubDate": "2026-04-25"
+    }
+  ],
+  "github": [
+    {
+      "title": "OpenClaw横扫GitHub，24.8万星登顶史上增长最快项目",
+      "desc": "2026年初OpenClaw发布，短短数月获超24.8万星，支持50+通讯平台集成，本地优先AI Agent框架，创GitHub增长纪录。",
+      "url": "https://blog.csdn.net/2401_86326742/article/details/159125944",
+      "source": "CSDN",
+      "pubDate": "2026-04-21"
+    },
+    {
+      "title": "2026年4月22日GitHub热门：AI开发4大风向",
+      "desc": "当日热门项目包括FinceptTerminal金融终端、openai-agents-python多Agent框架、Thunderbolt AI平台、paperless-ngx文档管理。",
+      "url": "https://blog.csdn.net/2601_95496901/article/details/160394106",
+      "source": "CSDN",
+      "pubDate": "2026-04-22"
+    },
+    {
+      "title": "OpenClaw深度解析：2026年最火AI Agent框架技术内核",
+      "desc": "OpenClaw深度解析：支持本地执行任务，集成主流大模型，提供安全风险指南与实践案例，成开发者首选Agent框架。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/159782643",
+      "source": "CSDN",
+      "pubDate": "2026-04-25"
+    }
+  ],
+  "world": [
+    {
+      "title": "阿里腾讯同日发布世界模型，商业化临界点已至",
+      "desc": "2026年4月16日，阿里发布HappyOyster，腾讯开源HY-World 2.0，李飞飞World Labs获10亿美元融资，英伟达Cosmos下载量破500万。",
+      "url": "https://www.toutiao.com/article/7633442781964288558/",
+      "source": "今日头条",
+      "pubDate": "2026-04-27"
+    },
+    {
+      "title": "Momenta R7强化学习世界模型量产首发，覆盖70款车型",
+      "desc": "Momenta R7世界模型理解物理世界规律，已交付70款量产车型，累计定点超200款，搭载车辆超80万台，覆盖10余国家地区。",
+      "url": "https://www.sohu.com/a/1014662955_122014422",
+      "source": "搜狐",
+      "pubDate": "2026-04-26"
+    },
+    {
+      "title": "Yann LeCun创立AMI Labs，获10.3亿美元种子轮融资",
+      "desc": "图灵奖得主Yann LeCun离开Meta创立AMI Labs，专注世界模型研发，获10.3亿美元种子轮融资，推动物理AI发展。",
+      "url": "https://www.sohu.com/a/1013577258_120603108",
+      "source": "搜狐",
+      "pubDate": "2026-04-23"
+    }
+  ],
+  "trend": [
+    {
+      "name": "OpenClaw",
+      "stars": 248000,
+      "type": "AI Agent框架",
+      "desc": "本地优先开源AI Agent框架，支持50+平台集成，创GitHub史上最快增长纪录，登顶星标榜。",
+      "tags": [
+        "agent",
+        "ai",
+        "automation"
+      ],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "emoji",
+      "icon": "🦞",
+      "pubDate": "2026-04-21"
+    },
+    {
+      "name": "openai-agents-python",
+      "stars": "N/A",
+      "type": "多Agent框架",
+      "desc": "OpenAI官方多Agent工作流框架，支持复杂任务编排，2026年4月成为GitHub热门项目。",
+      "tags": [
+        "openai",
+        "agent",
+        "python"
+      ],
+      "url": "https://github.com/openai/openai-agents-python",
+      "iconType": "emoji",
+      "icon": "🤖",
+      "pubDate": "2026-04-22"
+    },
+    {
+      "name": "FinceptTerminal",
+      "stars": "N/A",
+      "type": "金融分析终端",
+      "desc": "开源金融分析和投资研究终端，2026年4月成为GitHub热门项目，支持量化交易策略回测。",
+      "tags": [
+        "finance",
+        "trading",
+        "terminal"
+      ],
+      "url": "https://github.com/fincept/FinceptTerminal",
+      "iconType": "emoji",
+      "icon": "💹",
+      "pubDate": "2026-04-22"
+    },
+    {
+      "name": "Thunderbolt",
+      "stars": "N/A",
+      "type": "AI平台",
+      "desc": "Thunderbird/Mozilla生态AI平台，强调模型可选、数据自有、避免厂商锁定，2026年4月热门。",
+      "tags": [
+        "mozilla",
+        "ai",
+        "privacy"
+      ],
+      "url": "https://github.com/thunderbolt/thunderbolt",
+      "iconType": "emoji",
+      "icon": "⚡",
+      "pubDate": "2026-04-22"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design发布，AI设计工具新范式",
+      "desc": "Anthropic于2026年4月17日推出Claude Design，基于Opus 4.7多模态能力，支持自然语言生成可交互设计稿、PPT等，对标Figma，降低设计门槛。",
+      "url": "https://blog.csdn.net/xiangaichou/article/details/160288868",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-25"
+    },
+    {
+      "title": "GPT Image 2.0上线，生图能力大幅提升",
+      "desc": "OpenAI于2026年4月21日上线GPT Image 2.0，采用原生多模态Transformer架构，Image Arena榜单以1512分登顶，生图速度提升2-3倍。",
+      "url": "https://www.tmtpost.com/7969000.html",
+      "source": "钛媒体",
+      "pubDate": "2026-04-28"
+    }
+  ],
+  "video": [
+    {
+      "title": "Runway Gen-4发布，解决角色一致性难题",
+      "desc": "Runway于2026年4月16日推出Gen-4模型，实现多镜头间角色和场景一致性，支持720p分辨率5-10秒视频生成，提升动态流畅度。",
+      "url": "https://ai.zhiding.cn/2025/0401/3164896.shtml",
+      "source": "至顶网",
+      "pubDate": "2026-04-16"
+    },
+    {
+      "title": "HappyHorse-1.0登顶视频生成榜首",
+      "desc": "阿里巴巴研发的HappyHorse-1.0于2026年4月登顶Artificial Analysis视频竞技场，是全球首个原生支持音视频联合生成的开源模型。",
+      "url": "https://www.cnblogs.com/pixmax-ai/p/19866857",
+      "source": "博客园",
+      "pubDate": "2026-04-14"
+    },
+    {
+      "title": "LongCat-Video开源，支持5分钟长视频生成",
+      "desc": "美团LongCat团队于2026年4月开源LongCat-Video，136亿参数，支持720p/30fps，解决传统模型只能生成几秒视频的问题。",
+      "url": "https://blog.csdn.net/weixin_40970718/article/details/159735261",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-24"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2026最新Agentic RAG技术详解",
+      "desc": "传统RAG向Agentic RAG进化，赋予大模型自主规划检索、多步推理、工具调用能力，解决检索不全、回答不准的痛点，基于LangChain v0.3.10和Qwen3-7B实现。",
+      "url": "https://blog.csdn.net/qq_52327553/article/details/159922247",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-20"
+    },
+    {
+      "title": "RAG企业级落地完全指南，2026年实践",
+      "desc": "2026年RAG技术从狂热走向冷静，Agentic RAG成为企业级落地首选，对比长上下文技术，RAG在检索效率、成本、知识更新上具有优势。",
+      "url": "https://blog.csdn.net/zxc18344522713/article/details/160159230",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-17"
+    },
+    {
+      "title": "Agentic RAG 3.0核心升级点全解析",
+      "desc": "2026年Agentic RAG 3.0通过1M上下文、Multimodal GraphRAG、Agentic Retrieval三驾马车升级，提升系统性能、准确性和实用性。",
+      "url": "https://cloud.tencent.com/developer/article/2650548",
+      "source": "腾讯云",
+      "pubDate": "2026-04-28"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "GPT Image 2.0登顶Image Arena，生图进入生产工具阶段",
+      "desc": "2026年4月，OpenAI GPT-Image 2以1512分登顶Image Arena，采用原生多模态Transformer架构，生图速度提升2-3倍，文字渲染精度显著提高。",
+      "url": "https://www.sohu.com/a/1013700160_122722378",
+      "source": "搜狐",
+      "pubDate": "2026-04-23"
+    },
+    {
+      "title": "Midjourney V7发布，底层重构+草稿模式",
+      "desc": "Midjourney于2026年4月14日发布V7模型，从底层重构，提升细节表现和材质还原，新增草稿模式提高创作效率。",
+      "url": "https://ai.zhiding.cn/2025/0407/3165043.shtml",
+      "source": "至顶网",
+      "pubDate": "2026-04-14"
+    }
+  ],
+  "industry": [
+    {
+      "title": "人工智能产业日报(04.27) : AI赋能产业",
+      "desc": "越疆获深交所受理A股发行申请，AI产业动态速览，涵盖公司动态、政策需求等最新行业资讯。",
+      "url": "https://www.iyiou.com/data/202604281128335",
+      "source": "亿欧网",
+      "pubDate": "2026-04-28"
+    },
+    {
+      "title": "多地AI对接会召开政策需求催化,科创人工智能ETF易方达(588730)涨超2%!",
+      "desc": "4月27日科创AI指数涨2.36%，澜起科技涨超9%，科创人工智能ETF易方达成交额1.05亿元。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_41069eef95714152",
+      "source": "企鹅号",
+      "pubDate": "2026-04-28"
+    },
+    {
+      "title": "中信建投:看好AI应用落地与AI算力需求增长",
+      "desc": "OpenAI推GPT-5.5，DeepSeek发V4预览版，推理成本压缩，看好AI应用侧爆发与算力需求增长。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_48869eff59b58352",
+      "source": "企鹅号",
+      "pubDate": "2026-04-28"
+    },
+    {
+      "title": "新浪AI热点小时报丨2026年04月28日06时",
+      "desc": "Ineffable Intelligence完成11亿美元种子轮融资，为欧洲史上最大，投后估值510亿美元。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904sop6.html",
+      "source": "新浪网",
+      "pubDate": "2026-04-28"
+    }
+  ],
+  "game": [
+    {
+      "title": "游戏开发的AI革新:自动生成与优化",
+      "desc": "涵盖AI在游戏自动内容生成、优化、智能NPC实现的技术原理与代码示例，适合开发者参考。",
+      "url": "https://download.csdn.net/blog/column/12823103/154241166",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-25"
+    }
+  ],
+  "drama": [
+    {
+      "title": "AI漫剧“风口”:掌握生成工具不等于市场成功",
+      "desc": "AI漫剧依托视觉智能引擎，文字描述一键生成分镜、角色及配音，制作周期缩至20天，成本降至千元级。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-27/doc-inhvxtrc2305121.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-04-27"
+    },
+    {
+      "title": "AI漫剧、AI动画",
+      "desc": "介绍AI动漫制作六步法，涵盖剧本创作、角色设计、分镜生成、视频制作全流程及工具推荐。",
+      "url": "https://blog.csdn.net/weixin_60830013/article/details/159384088",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-25"
+    },
+    {
+      "title": "AI漫剧AI短剧创作系统:内容创业者的全自动生产工厂",
+      "desc": "支持AI短剧、漫剧双赛道，自动生成剧本、分镜、角色、配音，批量生产，一天可产几十条内容。",
+      "url": "https://blog.csdn.net/ywyy6798/article/details/158730296",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-21"
+    },
+    {
+      "title": "AI Anime Studio - 动漫短剧生成平台",
+      "desc": "输入小说文字，AI自动拆解分镜、生成角色、绘制画面、合成视频，10分钟生成1分钟高清动漫短剧。",
+      "url": "https://www.lykji.com/",
+      "source": "AI Anime Studio",
+      "pubDate": "2026-04-26"
+    }
+  ],
+  "apps": [
+    {
+      "title": "豆包海外版Dola总榜大幅上升31名;liblib双榜排名持续上升  AI产品周榜",
+      "desc": "Dola单季下载超7200万次，环比增47%，累计破2亿；liblib.art总榜升18名至46，国内榜升6名至13。",
+      "url": "https://new.qq.com/rain/a/20260423A05IUO00",
+      "source": "腾讯网",
+      "pubDate": "2026-04-23"
+    },
+    {
+      "title": "Ai工具集 - 3000 AI工具集合",
+      "desc": "收录3000+AI工具，涵盖写作、图像、视频、编程等领域，提供免费工具导航与社区交流。",
+      "url": "https://ai-321.com/",
+      "source": "Ai工具集",
+      "pubDate": "2026-04-26"
+    },
+    {
+      "title": "陕西数智创联加入英特尔合作伙伴联盟",
+      "desc": "数智创联凭借九爪鱼AI企业赋能平台加入英特尔生态，为企业提供底层算力加持的AI落地解决方案。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_82569e8507d05052",
+      "source": "企鹅号",
+      "pubDate": "2026-04-22"
+    },
+    {
+      "title": "AI应用厂家",
+      "desc": "建议选AI服务商看产学研用闭环能力，通用大模型提供原料，落地型服务商提供成品解决方案。",
+      "url": "https://www.sohu.com/a/1012890511_122723647",
+      "source": "搜狐网",
+      "pubDate": "2026-04-22"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "父亲去世12年银行突然来催债",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%9612%E5%B9%B4%E9%93%B6%E8%A1%8C%E7%AA%81%E7%84%B6%E6%9D%A5%E5%82%AC%E5%80%BA",
+      "source": "微博",
+      "heat": "93万"
+    },
+    {
+      "title": "浪姐三公小考结果",
+      "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E4%B8%89%E5%85%AC%E5%B0%8F%E8%80%83%E7%BB%93%E6%9E%9C",
+      "source": "微博",
+      "heat": "65万"
+    },
+    {
+      "title": "国产开源大模型下载量破100亿次",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1",
+      "source": "微博",
+      "heat": "51万"
+    },
+    {
+      "title": "一加Ace6至尊版",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8A%A0Ace6%E8%87%B3%E5%B0%8A%E7%89%88",
+      "source": "微博",
+      "heat": "37万"
+    },
+    {
+      "title": "旅游的三千块钱定律",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E7%9A%84%E4%B8%89%E5%8D%83%E5%9D%97%E9%92%B1%E5%AE%9A%E5%BE%8B",
+      "source": "微博",
+      "heat": "29万"
+    },
+    {
+      "title": "小男孩翻出窗外玩耍，妈妈上一秒耐心劝导，下一秒一把将其拽回……窗边安全，万不可松懈！",
+      "url": "https://www.douyin.com/video/7633254775890447642",
+      "source": "抖音",
+      "heat": "71656571次播放"
+    },
+    {
+      "title": "饭店的暑假工，给客人取外卖！",
+      "url": "https://www.douyin.com/video/7633293484477213903",
+      "source": "抖音",
+      "heat": "36790261次播放"
+    },
+    {
+      "title": "两岁半小小男子汉学武术，连翻8个跟头练习童子功。网友：穿尿不湿的年纪，竟把住了气势，把住了韧劲，把住了精气神！@精忠武校 彭教练",
+      "url": "https://www.douyin.com/video/7633280848422276390",
+      "source": "抖音",
+      "heat": "26979327次播放"
+    },
+    {
+      "title": "👖潘粤明x王鹤棣 共破18年诡案！ 这栋大楼，进得去 出不来。#黑夜告白开播 #黑夜告白 #潘粤明 #王鹤棣",
+      "url": "https://www.douyin.com/video/7633058069689191720",
+      "source": "抖音",
+      "heat": "25655765次播放"
+    },
+    {
+      "title": "第一眼：钓鱼佬，第二眼：？#机器人钓鱼谁上钩@CoCo",
+      "url": "https://www.douyin.com/video/7633316065245678882",
+      "source": "抖音",
+      "heat": "24587257次播放"
+    }
+  ]
+}

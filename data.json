@@ -2,29 +2,33 @@
   "title": "GPT-5.5与DeepSeek V4同日对决，Claude Mythos仅限邀请引爆安全争议",
   "desc": "4月24日成为2026年大模型最卷一天：OpenAI发布GPT-5.5主打Agent能力，DeepSeek V4预览版开源百万上下文。Anthropic的Claude Mythos以网络漏洞挖掘能力震惊业界，却仅限受邀机构使用。",
   "dates": {
-    "2026-04-22": {
-      "title": "Images 2.0发布/世界模型商业化临界点/Claude Opus 4.7编程暴涨11%",
-      "desc": "OpenAI Images 2.0引入思考模式，AI绘图进入智能创作时代；阿里腾讯48小时连发世界模型，商业化临界点已至；Claude Opus 4.7编程能力暴涨11%超越GPT-5.4。"
+    "2026-04-28": {
+      "title": "2026年4月28日AI简报：大模型新突破、Agent框架爆发、世界模型商业化加速",
+      "desc": "今日AI领域动态：DeepSeek V4发布登顶开源大模型，OpenClaw创GitHub星标纪录，阿里腾讯同日发布世界模型，Claude Opus 4.7上线提升编程能力。四大领域同步爆发，AI产业化进程加速。"
     },
-    "2026-04-23": {
-      "title": "Claude Opus 4.7发布 | 腾讯阿里同日推世界模型 | GitHub刷星产业链曝光",
-      "desc": "Anthropic发布Claude Opus 4.7引入Symphony多模态架构；腾讯与阿里4月16日同日发布世界模型产品；CMU研究揭露GitHub约600万颗假Star，AI项目刷星最猛；DeepSeek已沉默近5个月未发新模型。"
-    },
-    "2026-04-24": {
-      "title": "GPT-5.5发布 | Seed3D 2.0登顶 | SpaceX 600亿美元收购Cursor",
-      "desc": "OpenAI发布GPT-5.5主打智能体化；字节跳动Seed3D 2.0几何纹理双SOTA；SpaceX达成协议以600亿美元收购AI编程工具Cursor。"
-    },
-    "2026-04-25": {
-      "title": "GPT-5.5与DeepSeek-V4双星闪耀，世界模型成AGI共识新方向",
-      "desc": "4月24日OpenAI发布GPT-5.5旗舰模型，定位\"面向真实工作的新智能层级\"，同日DeepSeek发布V4预览版并开源，支持100万Token上下文。Anthropic发布Claude Opus 4.7取得编程能力全球第一。世界模型领域，腾讯发布混元3D世界模型2.0，李飞飞World Labs完成10亿美元融资。"
+    "2026-04-27": {
+      "title": "GPT-5.5与DeepSeek V4同日对决，Claude Mythos仅限邀请引爆安全争议",
+      "desc": "4月24日成为2026年大模型最卷一天：OpenAI发布GPT-5.5主打Agent能力，DeepSeek V4预览版开源百万上下文。Anthropic的Claude Mythos以网络漏洞挖掘能力震惊业界，却仅限受邀机构使用。"
     },
     "2026-04-26": {
       "title": "DeepSeek V4王炸发布，Claude Opus 4.7同步上线，世界模型大战白热化",
       "desc": "本周AI圈重磅消息不断：DeepSeek V4千呼万唤终发布，全面适配华为昇腾芯片；Anthropic推出Claude Opus 4.7，编程能力碾压GPT-5.4；腾讯阿里字节同日杀入世界模型赛道，产业格局加速重塑。"
     },
-    "2026-04-27": {
-      "title": "GPT-5.5与DeepSeek V4同日对决，Claude Mythos仅限邀请引爆安全争议",
-      "desc": "4月24日成为2026年大模型最卷一天：OpenAI发布GPT-5.5主打Agent能力，DeepSeek V4预览版开源百万上下文。Anthropic的Claude Mythos以网络漏洞挖掘能力震惊业界，却仅限受邀机构使用。"
+    "2026-04-25": {
+      "title": "GPT-5.5与DeepSeek-V4双星闪耀，世界模型成AGI共识新方向",
+      "desc": "4月24日OpenAI发布GPT-5.5旗舰模型，定位\"面向真实工作的新智能层级\"，同日DeepSeek发布V4预览版并开源，支持100万Token上下文。Anthropic发布Claude Opus 4.7取得编程能力全球第一。世界模型领域，腾讯发布混元3D世界模型2.0，李飞飞World Labs完成10亿美元融资。"
+    },
+    "2026-04-24": {
+      "title": "GPT-5.5发布 | Seed3D 2.0登顶 | SpaceX 600亿美元收购Cursor",
+      "desc": "OpenAI发布GPT-5.5主打智能体化；字节跳动Seed3D 2.0几何纹理双SOTA；SpaceX达成协议以600亿美元收购AI编程工具Cursor。"
+    },
+    "2026-04-23": {
+      "title": "Claude Opus 4.7发布 | 腾讯阿里同日推世界模型 | GitHub刷星产业链曝光",
+      "desc": "Anthropic发布Claude Opus 4.7引入Symphony多模态架构；腾讯与阿里4月16日同日发布世界模型产品；CMU研究揭露GitHub约600万颗假Star，AI项目刷星最猛；DeepSeek已沉默近5个月未发新模型。"
+    },
+    "2026-04-22": {
+      "title": "Images 2.0发布/世界模型商业化临界点/Claude Opus 4.7编程暴涨11%",
+      "desc": "OpenAI Images 2.0引入思考模式，AI绘图进入智能创作时代；阿里腾讯48小时连发世界模型，商业化临界点已至；Claude Opus 4.7编程能力暴涨11%超越GPT-5.4。"
     }
   }
 }
