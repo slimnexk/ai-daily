@@ -1,0 +1,89 @@
+{
+  "title": "Momenta世界模型量产首发，DeepSeek V4开源引爆国产算力",
+  "desc": "4月26-27日AI圈密集爆发：Momenta R7强化学习世界模型量产首发，51Sim发布SimOne4.0仿真平台。DeepSeek V4开源引爆国产算力，华为昇腾910B成首选。OpenAI GPT-6 Symphony携200万Token上下文登场，Gemini 2.5 Pro屠榜LM Arena。Anthropic Claude Opus 4.7代码能力暴涨11%，Kimi K2.6开源登顶SWE-Bench Pro。",
+  "date": "2026-04-27",
+  "featured": [
+    {"title": "Momenta R7强化学习世界模型量产首发，曹旭东：物理AI两大支柱确立", "desc": "4月25日北京车展，Momenta宣布R7强化学习世界模型实现量产首发。CEO曹旭东指出：大语言模型通过Next Token Prediction压缩数字世界常识，世界模型通过World Model Prediction预测物理世界状态与交互逻辑。已交付70+款量产车型，定点车型超200款，搭载车辆超80万台。", "url": "https://finance.sina.com.cn/tech/2026-04-26/doc-inhvupep0134069.shtml", "source": "新浪财经", "pubDate": "2026-04-26"},
+    {"title": "DeepSeek V4开源引爆国产算力：1.6T MoE架构+1M上下文，全面转向华为昇腾910B", "desc": "DeepSeek V4正式开源，采用1.6T参数MoE架构，支持1M token上下文窗口，MIT协议开源。同期宣布全面转向华为昇腾910B芯片训练，这是国内大模型厂商首次公开宣布完全采用国产算力进行主流模型训练。", "url": "https://blog.csdn.net/internetear/article/details/160215856", "source": "CSDN博客", "pubDate": "2026-04-24"},
+    {"title": "OpenAI GPT-6 Symphony发布：200万Token上下文，原生多模态统一架构", "desc": "OpenAI发布GPT-6 Symphony，采用原生多模态统一架构，支持200万Token上下文窗口，在LongBench长文本理解测试中相比GPT-5提升40%性能。O3在SWE-bench Verified中获69.1%成绩。", "url": "https://blog.csdn.net/internetear/article/details/160307935", "source": "CSDN博客", "pubDate": "2026-04-17"},
+    {"title": "51Sim发布SimOne4.0：面向物理AI重构，集成世界模型与VLA原生底座", "desc": "51WORLD旗下51Sim发布SimOne4.0仿真平台，面向物理AI时代重构，构建世界模型与VLA原生底座，覆盖数据、训练、推理、验证与交付五大核心环节。已与英伟达Omniverse NuRec神经场景重建技术深度融合。", "url": "https://new.qq.com/rain/a/20260425A08DPO00", "source": "腾讯网", "pubDate": "2026-04-25"},
+    {"title": "Kimi K2.6开源登顶SWE-Bench Pro，月之暗面发布100个Agent蜂群模式", "desc": "月之暗面发布Kimi K2.6并开源，在SWE-Bench Pro评测中拿下58.6分，超越GPT-5.4登顶全球代码评测榜首。支持300个智能体并行作业，定位从单兵作战转向AI操作系统。", "url": "https://blog.csdn.net/internetear/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-20"}
+  ],
+  "llm": [
+    {"title": "OpenAI GPT-6 Symphony：200万Token上下文，原生多模态统一架构", "desc": "OpenAI于4月17日正式发布GPT-6 Symphony，采用原生多模态统一架构，将文本、图像、音频处理整合在单一模型中。支持高达200万Token上下文窗口，在LongBench长文本理解测试中相比GPT-5提升40%性能。", "url": "https://blog.csdn.net/internetear/article/details/160307935", "source": "CSDN博客", "pubDate": "2026-04-17"},
+    {"title": "DeepSeek V4开源：1.6T MoE架构，1M上下文，MIT协议", "desc": "DeepSeek V4正式发布并开源，采用1.6T参数MoE架构，支持1M token上下文窗口。同期宣布转向华为昇腾910B芯片训练，这是国内大模型厂商首次公开宣布完全采用国产算力进行主流模型训练。", "url": "https://blog.csdn.net/internetear/article/details/160215856", "source": "CSDN博客", "pubDate": "2026-04-24"},
+    {"title": "Gemini 2.5 Pro屠榜LM Arena：200万Token上下文，全类别第一", "desc": "Google Gemini 2.5 Pro以200万token上下文窗口登顶LM Arena所有类别排行榜，原生多模态能力突出，成为当前综合性能最强的大模型之一。", "url": "https://www.sohu.com/a/1014902152_122666", "source": "搜狐", "pubDate": "2026-04-26"},
+    {"title": "Claude Opus 4.7发布：编程能力暴涨11%，视觉理解提升3倍", "desc": "Anthropic发布Claude Opus 4.7，编程能力在CursorBench测试中暴涨11%至70%，视觉理解能力相比v4.5提升3倍，在UI设计稿转代码任务中代码可用率提升至85%。", "url": "https://blog.csdn.net/internetear/article/details/160307935", "source": "CSDN博客", "pubDate": "2026-04-18"},
+    {"title": "Kimi K2.6开源登顶SWE-Bench Pro，支持300个Agent并行", "desc": "月之暗面发布Kimi K2.6并开源，SWE-Bench Pro得分58.6分超越GPT-5.4，支持300个智能体并行作业，定位从单兵作战转向AI操作系统。", "url": "https://blog.csdn.net/internetear/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-20"},
+    {"title": "DeepSeek首次启动外部融资，估值或超百亿美元", "desc": "据最新消息，DeepSeek正式启动首次外部融资，这是该公司在开源策略取得巨大成功后的重要战略举措，估值预计超过百亿美元，将用于扩大算力基础设施和人才招募。", "url": "https://www.sohu.com/a/1014902152_122666", "source": "搜狐", "pubDate": "2026-04-26"}
+  ],
+  "github": [
+    {"title": "DeerFlow 2.0发布：字节跳动开源SuperAgent，49K星标", "desc": "字节跳动开源DeerFlow 2.0，定位为SuperAgent框架，支持多智能体协作、长期记忆和工具调用，GitHub上线即获49K星标，成为开源Agent领域新星。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-25"},
+    {"title": "Hermes Agent：NousResearch开源多模态Agent，47.5K星标", "desc": "NousResearch开源Hermes Agent，支持视觉、语音、文本多模态输入，具备自主规划、工具调用和自我反思能力，GitHub星标达47.5K。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-24"},
+    {"title": "Alive：开源版Seedance，14B参数MMDiT架构，支持4K视频生成", "desc": "开源社区发布Alive项目，作为字节跳动Seedance的开源替代方案，采用14B参数MMDiT架构，支持4K视频生成，可本地部署运行。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-26"},
+    {"title": "GenericAgent：易方达开源金融Agent框架，支持量化交易策略", "desc": "易方达基金开源GenericAgent框架，专为金融量化交易场景设计，支持多因子策略生成、风险控制和自动回测，成为金融AI领域重要开源项目。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-25"}
+  ],
+  "worldmodel": [
+    {"title": "Momenta R7强化学习世界模型量产首发，覆盖80万+车辆", "desc": "Momenta在北京车展宣布R7强化学习世界模型量产首发。世界模型分三层：预训练压缩物理规律、仿真推演场景、强化学习虚拟训练。已交付70+款车型，定点200+款，搭载车辆超80万台。", "url": "https://finance.sina.com.cn/tech/2026-04-26/doc-inhvupep0134069.shtml", "source": "新浪财经", "pubDate": "2026-04-26"},
+    {"title": "51Sim SimOne4.0发布：物理AI世界模型+ VLA原生底座", "desc": "51WORLD旗下51Sim发布SimOne4.0，面向物理AI时代重构，构建世界模型与VLA原生底座，覆盖数据、训练、推理、验证与交付五大环节。已与英伟达Omniverse NuRec深度融合。", "url": "https://new.qq.com/rain/a/20260425A08DPO00", "source": "腾讯网", "pubDate": "2026-04-25"},
+    {"title": "全球首个具身智能世界模型WALL-B发布，5月25日进家庭", "desc": "深圳自变量机器人发布全球首个基于世界统一模型架构的具身智能基础模型WALL-B，融合视觉、语言、动作、触觉与物理预测，可在真实环境自主迭代，5月25日进入真实家庭上岗。", "url": "https://www.sohu.com/a/1013553211_114984", "source": "搜狐", "pubDate": "2026-04-23"},
+    {"title": "智象未来发布HiDream-O1：原生全模态世界模型，千亿参数", "desc": "智象未来在合肥科交会上发布HiDream-O1全模态世界模型架构，闭源版本参数达千亿级，在六项Benchmark达SOTA，超过Google Nano Banana 2和GPT Image 1。同步发布8B开源版本。", "url": "http://www.ahwang.cn/anhui/2026/0426/2997786.html", "source": "安徽网", "pubDate": "2026-04-26"},
+    {"title": "灵光App上线世界模型功能：手机一图生成3D世界", "desc": "灵光App上线「体验世界模型」功能，用户上传图片选择生成图中世界，即可秒级生成3D场景，支持摇杆操控和第一人称视角沉浸式探索，首次将世界模型搬进手机端。", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_43869eec62786952", "source": "企鹅号", "pubDate": "2026-04-27"},
+    {"title": "港科大+字节Seed提出WMPO：在世界模型中做VLA强化学习", "desc": "香港科技大学与字节跳动Seed团队提出WMPO（World Model-based Policy Optimization），让具身智能在世界模型中训练，无需真实机器人交互即可提升策略性能，并涌现自我纠错行为。收录于ICLR 2026。", "url": "https://blog.csdn.net/2502_93987700/article/details/158579867", "source": "CSDN博客", "pubDate": "2026-04-23"}
+  ],
+  "trend": [
+    {"title": "OpenAI完成1220亿美元融资：亚马逊500亿+英伟达300亿+软银300亿", "desc": "OpenAI完成史上最大规模融资1220亿美元，估值达8520亿美元。亚马逊投资500亿、英伟达300亿、软银300亿。ChatGPT周活跃用户超9亿，月营收达20亿美元。", "url": "https://blog.csdn.net/ld326/article/details/159739239", "source": "CSDN博客", "pubDate": "2026-04-02"},
+    {"title": "Sora因日均亏损100万美元正式下线，战略转向企业级服务", "desc": "OpenAI Sora视频生成工具因日均亏损100万美元、用户从100万暴跌至不足50万而正式下线，战略转向企业级服务与AI超级应用整合。", "url": "https://blog.csdn.net/ld326/article/details/159739239", "source": "CSDN博客", "pubDate": "2026-04-02"},
+    {"title": "Anthropic Claude Code源码泄露：57MB source map暴露内部机制", "desc": "Anthropic Claude Code npm包误含57MB source map文件，导致51万行源码泄露，暴露反蒸馏机制与未发布功能。事件引发AI代码工具安全性广泛讨论。", "url": "https://blog.csdn.net/ld326/article/details/159739239", "source": "CSDN博客", "pubDate": "2026-04-02"},
+    {"title": "Anthropic搭建AI智能体交易测试平台，69名员工参与实验", "desc": "Anthropic搭建二手交易市场测试平台Project Deal，69名员工使用AI智能体进行真实商品交易，总计完成186笔交易，总价值超4000美元。研究发现高级智能体可获得更优交易结果。", "url": "https://www.ithome.com/0/943/557.htm", "source": "IT之家", "pubDate": "2026-04-26"}
+  ],
+  "design": [
+    {"title": "Claude Design引发Figma股价暴跌，Anthropic切入UI设计赛道", "desc": "Anthropic发布Claude Design，支持从自然语言描述直接生成UI设计稿和可运行代码，消息导致Figma股价单日暴跌。设计工具行业面临AI重构压力。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-17"},
+    {"title": "Adobe Firefly 3发布：支持4K图像生成，集成Creative Cloud", "desc": "Adobe发布Firefly 3图像生成模型，支持4K分辨率输出，深度集成Creative Cloud全家桶，设计师可在Photoshop、Illustrator中直接调用AI生成能力。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-20"},
+    {"title": "Flyelep AI：国产设计Agent，支持从需求到设计稿全自动", "desc": "国产AI设计工具Flyelep AI发布，支持从产品需求文档直接生成完整UI设计稿，支持多轮迭代反馈，已服务超过10万设计师用户。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-22"}
+  ],
+  "video": [
+    {"title": "Seedance 2.0发布：字节跳动4K/60fps视频生成模型", "desc": "字节跳动发布Seedance 2.0视频生成模型，支持4K分辨率、60fps帧率，在多个视频质量评测中超越Runway Gen-3，成为当前最强消费级视频生成工具。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-25"},
+    {"title": "Happy Horse 1.0开源：AAVA双榜第一，超越Seedance 2.0和Kling 3.0", "desc": "开源视频生成模型Happy Horse 1.0在AAVA双榜登顶，超越字节Seedance 2.0和快手Kling 3.0，成为当前开源视频生成领域的新标杆，支持文生视频和图生视频。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-26"},
+    {"title": "Runway Gen-3发布：实时视频编辑，支持局部重绘", "desc": "Runway发布Gen-3视频生成模型，支持实时视频编辑和局部重绘功能，创作者可在视频播放过程中实时修改特定区域内容和风格。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-23"},
+    {"title": "Alive：开源Seedance替代方案，14B参数MMDiT架构", "desc": "开源社区发布Alive项目，作为Seedance的开源替代，采用14B参数MMDiT架构，支持4K视频生成，可本地部署，降低视频生成技术门槛。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-26"}
+  ],
+  "image": [
+    {"title": "HiDream-O1-Image发布：千亿参数全模态图像模型，超越GPT Image 1", "desc": "智象未来发布HiDream-O1-Image图像大模型，采用千亿级参数全模态架构，在六项业界标准Benchmark中达到SOTA，超越Google Nano Banana 2、GPT Image 1和Seedream 4.0。", "url": "http://www.ahwang.cn/anhui/2026/0426/2997786.html", "source": "安徽网", "pubDate": "2026-04-26"},
+    {"title": "Midjourney V7发布：支持实时协作编辑，引入3D场景生成", "desc": "Midjourney发布V7版本，支持多用户实时协作编辑同一图像作品，引入3D场景生成能力，用户可在生成的图像基础上直接构建简单3D场景。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-21"}
+  ],
+  "rag": [
+    {"title": "Meta超级智能实验室提出REFRAG：上下文压缩16倍，解决RAG内存瓶颈", "desc": "Meta超级智能实验室提出REFRAG框架，通过智能压缩上下文解决RAG与Agent长上下文处理中的高内存成本和冗余计算问题，上下文处理长度提升16倍。", "url": "https://tool.lu/zh_CN/topic/cE/RAG?type=article&page=5", "source": "在线工具", "pubDate": "2026-04-23"},
+    {"title": "Agentic RAG成2026主流：LangChain v0.3.10原生支持，支持自我纠错", "desc": "Agentic RAG让大模型拥有自主规划检索、多步推理、工具调用和自我修正能力。LangChain v0.3.10已原生支持，GraphRAG v0.4提供图检索增强，成为企业知识库新标准。", "url": "https://blog.csdn.net/qq_52327553/article/details/159922247", "source": "CSDN博客", "pubDate": "2026-04-20"},
+    {"title": "阿里通义实验室开源VimRAG：多模态RAG，支持文本图像视频", "desc": "阿里通义实验室开源VimRAG框架，将RAG推理过程建模为动态有向无环图，支持文本、图像和视频多模态检索增强生成，在多项多模态QA评测中达到SOTA。", "url": "https://blog.csdn.net/qq_52327553/article/details/159922247", "source": "CSDN博客", "pubDate": "2026-04-25"},
+    {"title": "RAG 2026全景：从朴素检索到Agentic RAG的技术演进", "desc": "2026年RAG技术完成从Naive RAG到Agentic RAG的演进，新增混合检索、多源知识路由、权限感知、多模态GraphRAG等八种方案，成为Agent业务知识运行时系统。", "url": "https://blog.csdn.net/yonggeit/article/details/160300304", "source": "CSDN博客", "pubDate": "2026-04-21"}
+  ],
+  "devtools": [
+    {"title": "GitHub Copilot X升级：支持100万Token上下文，集成GPT-6 Symphony", "desc": "GitHub Copilot X完成重大升级，集成OpenAI GPT-6 Symphony，支持100万Token上下文窗口，代码补全准确率提升至92%，支持从设计稿直接生成全栈代码。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-19"},
+    {"title": "Cursor 2.0发布：集成Claude Opus 4.7，代码可用率85%", "desc": "Cursor发布2.0版本，集成Claude Opus 4.7和GPT-6 Symphony双引擎，在React组件生成任务中代码可用率提升至85%，支持多智能体协作编程。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-20"},
+    {"title": "Ollama 0.20.8发布：支持本地运行Gemma 4 31B，4位量化", "desc": "Ollama发布0.20.8版本，支持本地运行Google Gemma 4系列模型，31B参数版本经4位量化后可在消费级显卡上流畅运行，推动端侧AI应用普及。", "url": "https://blog.csdn.net/internetear/article/details/160307935", "source": "CSDN博客", "pubDate": "2026-04-19"}
+  ],
+  "industry": [
+    {"title": "Google发布TPUv8双芯架构：训练芯片+推理芯片分离设计", "desc": "Google发布TPUv8双芯架构，将训练和推理芯片分离设计，训练芯片针对大规模模型训练优化，推理芯片专注低延迟高吞吐，整体能效比提升3倍。", "url": "https://blog.csdn.net/internetear/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-25"},
+    {"title": "Momenta R7世界模型量产首发，已交付70+款车型，定点200+款", "desc": "Momenta在北京车展宣布R7强化学习世界模型实现量产首发，已成功交付超过70款量产车型，累计定点车型数超过200款，量产车辆规模超80万台。", "url": "https://finance.sina.com.cn/tech/2026-04-26/doc-inhvupep0134069.shtml", "source": "新浪财经", "pubDate": "2026-04-26"},
+    {"title": "京东AI硬件孵化计划启动，首期投入30亿扶持国产AI芯片", "desc": "京东正式启动AI硬件孵化计划，首期投入30亿元扶持国产AI芯片和智能硬件创业公司，重点布局AI PC、AI手机、AI眼镜等消费级AI硬件产品。", "url": "https://www.sohu.com/a/1014902152_122666", "source": "搜狐", "pubDate": "2026-04-26"},
+    {"title": "科大讯飞获40亿战略投资，聚焦AI教育+AI医疗双赛道", "desc": "科大讯飞宣布完成40亿元战略融资，投资方包括中国移动、安徽省产业基金等，资金将用于AI教育、AI医疗两大核心赛道的产品研发和市场拓展。", "url": "https://www.sohu.com/a/1014902152_122666", "source": "搜狐", "pubDate": "2026-04-25"},
+    {"title": "Momenta完成超5亿美元Pre-IPO轮融资，估值超50亿美元", "desc": "自动驾驶公司Momenta完成超5亿美元Pre-IPO轮融资，估值超过50亿美元，计划于2026年下半年启动IPO进程，将成为中国自动驾驶第一股。", "url": "https://www.sohu.com/a/1014902152_122666", "source": "搜狐", "pubDate": "2026-04-26"},
+    {"title": "AI拟人化服务监管新规落地，明确AI客服不得冒充真人", "desc": "国家网信办发布《AI拟人化服务管理办法》，明确规定AI客服、AI主播等拟人化服务必须明确标识，不得冒充真人进行欺诈性交互，违者最高罚款500万元。", "url": "https://www.sohu.com/a/1014902152_122666", "source": "搜狐", "pubDate": "2026-04-25"}
+  ],
+  "game": [
+    {"title": "Unity发布AI游戏引擎：支持自然语言生成完整游戏场景", "desc": "Unity发布AI游戏引擎预览版，开发者可通过自然语言描述直接生成完整3D游戏场景、角色模型和交互逻辑，大幅降低游戏开发门槛。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-22"},
+    {"title": "腾讯AI Lab发布GameAgent：支持MOBA游戏全自动对战", "desc": "腾讯AI Lab发布GameAgent框架，支持《王者荣耀》等MOBA类游戏的全自动对战，AI战队在内部测试中达到王者段位水平，超越95%人类玩家。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-23"}
+  ],
+  "drama": [
+    {"title": "万兴剧厂集成可灵AI 4K模型，支持一键生成4K漫剧", "desc": "万兴科技旗下万兴剧厂集成可灵AI 4K视频生成模型，支持一键生成4K分辨率漫剧内容，制作效率提升5倍，成本降低70%，推动AI漫剧进入4K时代。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-26"},
+    {"title": "字节漫剧日消耗破7000万反超真人短剧，快手漫剧单日消耗破2000万", "desc": "据掌阅科技公告，字节跳动漫剧广告日消耗突破7000万元，首次反超真人短剧。快手漫剧单日消耗也突破2000万元，AI漫剧赛道进入爆发期。", "url": "http://news.10jqka.com.cn/20260426/c676287566.shtml", "source": "同花顺财经", "pubDate": "2026-04-26"},
+    {"title": "掌阅科技泡漫平台升级：覆盖选题策划到智能分发全链路", "desc": "掌阅科技泡漫平台全新升级，覆盖选题策划、剧本创作、AI制作、智能分发全链路，为漫剧创作者提供一站式AI解决方案，降低创作门槛。", "url": "http://news.10jqka.com.cn/20260426/c676287566.shtml", "source": "同花顺财经", "pubDate": "2026-04-26"},
+    {"title": "多位艺人集体维权AI短剧盗用肖像，广电总局专项治理落地", "desc": "龚俊、邓为、易烊千玺等艺人声明维权AI短剧换脸侵权。4月1日广电总局不良动画微短剧专项治理新规落地，未备案存量剧强制下线。", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_47869e32f5781865", "source": "企鹅号", "pubDate": "2026-04-18"}
+  ],
+  "apps": [
+    {"title": "Kimi K2.6正式开源，国产模型首次登顶全球代码评测榜首", "desc": "4月20日月之暗面发布Kimi K2.6并开源，SWE-Bench Pro拿下58.6分碾压GPT-5.4，支持300个智能体并行作业，定位从单兵作战转向AI操作系统。", "url": "https://blog.csdn.net/internetear/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-20"},
+    {"title": "灵光App上线世界模型功能：手机一图生成3D世界，支持沉浸式探索", "desc": "灵光App上线「体验世界模型」功能，用户上传图片即可秒级生成3D场景，支持摇杆操控和第一人称视角沉浸式探索，首次将世界模型搬进手机端。", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_43869eec62786952", "source": "企鹅号", "pubDate": "2026-04-27"},
+    {"title": "猫箱AI助手用户破亿：字节跳动AI应用Matrix战略成效显著", "desc": "字节跳动旗下猫箱AI助手宣布用户数突破1亿，成为继豆包之后第二款破亿的AI应用，标志着字节跳动AI应用Matrix战略取得显著成效。", "url": "https://blog.csdn.net/qq_52327553/article/details/160502285", "source": "CSDN博客", "pubDate": "2026-04-24"}
+  ]
+}
