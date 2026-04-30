@@ -1,7 +1,11 @@
 {
-  "title": "GPT-5.5与DeepSeek V4同日对决，Claude Mythos仅限邀请引爆安全争议",
-  "desc": "4月24日成为2026年大模型最卷一天：OpenAI发布GPT-5.5主打Agent能力，DeepSeek V4预览版开源百万上下文。Anthropic的Claude Mythos以网络漏洞挖掘能力震惊业界，却仅限受邀机构使用。",
+  "title": "2026年4月30日AI资讯简报：世界模型、开源项目、Claude/Claw更新速递",
+  "desc": "今日简报涵盖世界模型公司进展、GitHub热门AI开源项目、Claude及OpenClaw功能更新四大领域。共收录6条近10天内发布的权威资讯，所有内容均标注真实来源与发布日期。",
   "dates": {
+    "2026-04-30": {
+      "title": "2026年4月30日AI资讯简报：世界模型、开源项目、Claude/Claw更新速递",
+      "desc": "今日简报涵盖世界模型公司进展、GitHub热门AI开源项目、Claude及OpenClaw功能更新四大领域。共收录6条近10天内发布的权威资讯，所有内容均标注真实来源与发布日期。"
+    },
     "2026-04-28": {
       "title": "2026年4月28日AI简报：大模型新突破、Agent框架爆发、世界模型商业化加速",
       "desc": "今日AI领域动态：DeepSeek V4发布登顶开源大模型，OpenClaw创GitHub星标纪录，阿里腾讯同日发布世界模型，Claude Opus 4.7上线提升编程能力。四大领域同步爆发，AI产业化进程加速。"
@@ -12,7 +16,7 @@
     },
     "2026-04-26": {
       "title": "DeepSeek V4王炸发布，Claude Opus 4.7同步上线，世界模型大战白热化",
-      "desc": "本周AI圈重磅消息不断：DeepSeek V4千呼万唤终发布，全面适配华为昇腾芯片；Anthropic推出Claude Opus 4.7，编程能力碾压GPT-5.4；腾讯阿里字节同日杀入世界模型赛道，产业格局加速重塑。"
+      "desc": "本周AI圈重磅消息不断：DeepSeek V4千呼万唤终发布，全面适配华为昇腾芯片；Anthropic推出Claude Opus 4.7，编程能力碾压GPT-5.4；腾讯阿里同日杀入世界模型赛道，产业格局加速重塑。"
     },
     "2026-04-25": {
       "title": "GPT-5.5与DeepSeek-V4双星闪耀，世界模型成AGI共识新方向",
