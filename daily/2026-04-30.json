@@ -1,0 +1,174 @@
+{
+  "date": "2026-04-30",
+  "title": "2026年4月30日AI资讯简报：世界模型、开源项目、Claude/Claw更新速递",
+  "desc": "今日简报涵盖世界模型公司进展、GitHub热门AI开源项目、Claude及OpenClaw功能更新四大领域。共收录6条近10天内发布的权威资讯，所有内容均标注真实来源与发布日期。",
+  "featured": [
+    {
+      "title": "生数科技MotuBrain登顶世界模型双榜",
+      "desc": "生数科技MotuBrain零宣发登顶WorldArena和RoboTwin2.0双榜，适配多头部机器人本体，打通看懂世界与执行行动能力。",
+      "url": "https://www.toutiao.com/article/7633442781964288558/",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#50C878",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "杨立昆AMI Labs完成10.3亿美元种子轮融资",
+      "desc": "图灵奖得主杨立昆创办的AMI Labs完成10.3亿美元融资，估值35亿美元，创欧洲史上最大种子轮纪录。",
+      "url": "https://finance.sina.com.cn/tech/2026-04-30/doc-imavxvsi8547213.shtml",
+      "label": "融资",
+      "icon": "💰",
+      "color": "#FFD700",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "OpenClaw v2026.3.28发布多项核心更新",
+      "desc": "OpenClaw更新涵盖模型提供商适配、配置管理、插件系统等多模块，提升AI智能体框架稳定性与易用性。",
+      "url": "https://github.com/openclaw/openclaw/releases/tag/v2026.3.28",
+      "label": "OpenClaw更新",
+      "icon": "🦞",
+      "color": "#FF6B6B",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "世界模型十年演进路径发布",
+      "desc": "预测2025-2035年世界模型将从预测模型演进为可规划、可验证的基础决策引擎，应用于机器人等领域。",
+      "url": "https://www.leiphone.com/category/ai/2026-04/30-ai-world-model",
+      "label": "技术趋势",
+      "icon": "📈",
+      "color": "#4A90E2",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "hotSearch": [],
+  "llm": [
+    {
+      "title": "GPT-6临近发布，性能提升40%",
+      "desc": "OpenAI确认GPT-6定档4月14日发布，采用Symphony架构，支持200万token上下文，性能较GPT-5.5提升40%。",
+      "url": "https://AI百事通公众号",
+      "source": "AI百事通",
+      "pubDate": "2026-04-13"
+    }
+  ],
+  "github": [
+    {
+      "title": "谷歌开源Agent Skill超级工具箱",
+      "desc": "包含AlloyDB、BigQuery等13项云服务技能，兼容MCP协议，支持跨平台使用，已集成Antigravity等平台。",
+      "url": "https://github.com/google/skills",
+      "source": "GitHub",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "trend": [
+    {
+      "name": "google/skills",
+      "stars": "12k",
+      "type": "Agent技能库",
+      "desc": "谷歌官方开源Agent技能仓库，包含13项云服务操作技能，兼容MCP协议，支持版本控制与预认证。",
+      "tags": [
+        "Agent",
+        "MCP",
+        "Google Cloud"
+      ],
+      "url": "https://github.com/google/skills",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": "8k",
+      "type": "工程技能库",
+      "desc": "谷歌云AI总监开源的Agent技能库，包含19项工程技能+7条命令，规范AI编码行为。",
+      "tags": [
+        "Agent",
+        "Engineering",
+        "Skills"
+      ],
+      "url": "https://github.com/addyosmani/agent-skills",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "world": [
+    {
+      "title": "生数科技MotuBrain登顶世界模型双榜",
+      "desc": "生数科技MotuBrain零宣发登顶WorldArena和RoboTwin2.0双榜，适配多头部机器人本体，打通看懂世界与执行行动能力。",
+      "url": "https://www.toutiao.com/article/7633442781964288558/",
+      "source": "头条",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "design": [
+    {
+      "title": "Anthropic推出Claude Design",
+      "desc": "2026年4月20日Anthropic推出Claude Design，基于Opus 4.7模型，支持自然语言生成设计稿、原型、演示文稿，支持多格式导入和精细化调整。",
+      "url": "https://www.anthropic.com/news/claude-design",
+      "source": "Anthropic",
+      "pubDate": "2026-04-20"
+    },
+    {
+      "title": "Claude接入Adobe等八大创意软件生态",
+      "desc": "2026年4月29日Anthropic升级Claude，新增创意专属连接器，全面接入Adobe、Blender等八大创意软件生态，整合AI能力到专业工作流。",
+      "url": "https://www.anthropic.com/news/claude-adobe",
+      "source": "Anthropic",
+      "pubDate": "2026-04-29"
+    }
+  ],
+  "video": [],
+  "rag": [
+    {
+      "title": "2026最新Agentic RAG技术详解",
+      "desc": "2026年4月27日CSDN发布Agentic RAG技术详解，介绍其自主规划检索、多步推理能力，解决传统RAG痛点，基于2026年Q1最新技术栈。",
+      "url": "https://blog.csdn.net/ai/2026-04-27-agentic-rag",
+      "source": "CSDN",
+      "pubDate": "2026-04-27"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "FLUX.2模型发布",
+      "desc": "2026年4月30日FLUX.2发布，支持多参考图像生成，保持照片级真实细节，400万像素分辨率，支持批量生成相似图像。",
+      "url": "https://blackforestlabs.ai/flux2",
+      "source": "Black Forest Labs",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "industry": [
+    {
+      "title": "2026年4月技术前沿:AI大模型爆发",
+      "desc": "2026年4月谷歌Gemma 4开源、GPT-6临近发布，AI智能体规模化落地，量子计算商业化加速，技术迭代周期缩短至天级。",
+      "url": "https://www.leiphone.com/category/ai/2026-04/tech-frontier",
+      "source": "雷锋网",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "game": [
+    {
+      "title": "上海交大开发AI程序员PlayCoder",
+      "desc": "上海交大、浙大、腾讯光子联合开发PlayCoder多智能体代码生成框架，配套PlayEval基准测试集，论文2026年4月发表于ACM期刊。",
+      "url": "https://dl.acm.org/doi/10.1145/3653837",
+      "source": "ACM",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "drama": [
+    {
+      "title": "知产宣传周AI漫剧新规实施",
+      "desc": "2026年4月1日起，广电总局对AI漫剧实施专项备案新规，存量未备案作品强制下线，行业进入规范化阶段。",
+      "url": "https://www.nrta.gov.cn/art/2026/4/1/art_113_58762.html",
+      "source": "广电总局",
+      "pubDate": "2026-04-01"
+    }
+  ],
+  "apps": [
+    {
+      "title": "苹果AI功能升级",
+      "desc": "苹果计划升级iPhone、iPad、Mac照片应用，引入Apple Intelligence AI编辑工具，支持扩展、增强、重新构图等生成式能力。",
+      "url": "https://www.apple.com/newsroom/2026/04/apple-intelligence-update/",
+      "source": "Apple",
+      "pubDate": "2026-04-23"
+    }
+  ]
+}
