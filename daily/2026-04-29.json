@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-29",
+  "title": "2026年4月29日AI简报：Claude Design发布、FLUX.2登场、世界模型融资",
+  "desc": "今日AI领域动态：Anthropic推出Claude Design设计工具，FLUX.2发布支持400万像素生成，杨立昆AMI Labs完成10.3亿美元融资。",
+  "featured": [
+    {
+      "title": "Anthropic推出Claude Design设计工具",
+      "desc": "2026年4月20日Anthropic推出Claude Design，基于Opus 4.7模型，支持自然语言生成设计稿、原型、演示文稿。",
+      "url": "https://www.anthropic.com/news/claude-design",
+      "label": "设计工具",
+      "icon": "🎨",
+      "color": "#FF69B4",
+      "pubDate": "2026-04-20"
+    },
+    {
+      "title": "FLUX.2发布支持400万像素生成",
+      "desc": "2026年4月30日FLUX.2发布，支持多参考图像生成，保持照片级真实细节，400万像素分辨率。",
+      "url": "https://blackforestlabs.ai/flux2",
+      "label": "图片生成",
+      "icon": "🖼️",
+      "color": "#4A90E2",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "杨立昆AMI Labs完成10.3亿美元融资",
+      "desc": "图灵奖得主杨立昆创办的AMI Labs完成10.3亿美元融资，估值35亿美元，创欧洲史上最大种子轮纪录。",
+      "url": "https://finance.sina.com.cn/tech/2026-04-30/doc-imavxvsi8547213.shtml",
+      "label": "融资",
+      "icon": "💰",
+      "color": "#FFD700",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "阶跃星辰发布Step Image Edit 2",
+      "desc": "2026年4月29日阶跃星辰发布Step Image Edit 2，3.5B参数，生图0.5-2秒，支持文生图、图像编辑等能力。",
+      "url": "https://www.toutiao.com/article/7633442781964288558/",
+      "label": "图像编辑",
+      "icon": "🖌️",
+      "color": "#50C878",
+      "pubDate": "2026-04-29"
+    }
+  ],
+  "hotSearch": [],
+  "llm": [],
+  "github": [],
+  "trend": [],
+  "world": [],
+  "design": [],
+  "video": [],
+  "rag": [],
+  "devtools": [],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
