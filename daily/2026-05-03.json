@@ -1,0 +1,215 @@
+{
+  "title": "2026年5月3日AI简报：DeepSeek多模态突破，国产世界模型登顶全球，Claude Security公测上线",
+  "desc": "今日AI领域动态频出：DeepSeek发布多模态新范式性能超越GPT-5.4；国产GigaWorld-1世界模型登顶全球榜首；Anthropic开放Claude Security公测；GitHub热门Agent框架与Skills库持续更新。",
+  "featured": [
+    {
+      "title": "DeepSeek多模态新范式:一张图压缩7056倍,思考能力反超GPT和Claude",
+      "desc": "提出“视觉原语思考”新范式，将空间坐标融入AI思维链，仅用少量计算量就在空间推理等任务上与GPT-5.4、Claude-Sonnet-4.6持平或更优。",
+      "url": "https://k.sina.com.cn/article_5952915705_162d248f906702vql4.html?cre=tianyi&mod=pcpager_news&loc=6&r=0&rfunc=93&tj=cxvertical_pc_pager_news&tr=340",
+      "label": "大模型",
+      "icon": "🤖",
+      "color": "blue",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "2026 开源 AI Agent 框架横评:Hermes Agent / OpenClaw / AutoGPT / CrewAI",
+      "desc": "对比Hermes Agent、OpenClaw、AutoGPT、CrewAI四大框架，OpenClaw在IDE集成与代码生成方面优势突出，支持200+国产模型。",
+      "url": "https://cloud.tencent.com/developer/article/2655405",
+      "label": "GitHub",
+      "icon": "💻",
+      "color": "green",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "世界模型全球第一被中国拿下!极佳视界GigaWorld-1得分碾压谷歌、英伟达",
+      "desc": "GigaWorld-1在WorldArena基准测试中击败谷歌、英伟达、阿里等，登顶全球榜首，是首个得分破60的具身世界模型。",
+      "url": "https://www.infoq.cn/article/Ea7qoZWYLkDqY8mvDfzG",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "purple",
+      "pubDate": "2026-05-02"
+    },
+    {
+      "title": "Anthropic推出Claude Security公测版,支持GitHub代码自动漏洞扫描",
+      "desc": "基于Claude Opus 4.7模型，企业用户仅需指定GitHub仓库即可启动扫描，采用类人类研究员推理方式识别复杂漏洞。",
+      "url": "https://www.donews.com/news/detail/8/6539378.html",
+      "label": "Claude",
+      "icon": "🦾",
+      "color": "orange",
+      "pubDate": "2026-05-01"
+    }
+  ],
+  "hotSearch": [],
+  "llm": [
+    {
+      "title": "新浪AI热点小时报丨2026年05月02日14时",
+      "desc": "ChatGPT Images 2.0发布，中文渲染能力大幅提升，解决过去图像模型中文显示乱码问题，用户反馈可直接联系开发团队。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904zapo.html",
+      "source": "新浪网",
+      "pubDate": "2026-05-02"
+    },
+    {
+      "title": "DeepSeek公开新技术了!多模态模型技术报告公布:超越GPT-5.4",
+      "desc": "DeepSeek在GitHub发布多模态推理模型及技术报告《Thinking with Visual Primitives》，基于DeepSeek V4-Flash构建，实现7056倍视觉压缩。",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-01/doc-inhwiwvr6874896.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-01"
+    },
+    {
+      "title": "硬核拆解:GPT-5、Claude和Gemini是如何训练和推理的?",
+      "desc": "解析GPT-5、Claude、Gemini的训练架构，指出DeepSeek V3的MoE架构受GPU机架物理限制，推理仅激活部分专家。",
+      "url": "https://www.sohu.com/a/1016643480_130887",
+      "source": "搜狐",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "github": [
+    {
+      "title": "狂揽 39K Star!GitHub 爆火的 AI 猎头项目,55 个 AI Agent 全部打包开源!",
+      "desc": "Agency Agents项目开源55个AI Agent角色，覆盖产品开发到营销全流程，可直接集成到Claude Code中使用。",
+      "url": "https://cloud.tencent.com/developer/article/2639474",
+      "source": "腾讯云",
+      "pubDate": "2026-05-03"
+    }
+  ],
+  "trend": [
+    {
+      "name": "mattpocock/skills",
+      "stars": "23,000+",
+      "type": "Skills库",
+      "desc": "TypeScript专家Matt Pocock开源的Agent Skills集合，集成TDD、领域驱动设计等工程实践，4月27日登顶GitHub日榜。",
+      "tags": ["Agent", "Skills", "GitHub热榜"],
+      "url": "https://github.com/mattpocock/skills",
+      "iconType": "github",
+      "icon": "⭐",
+      "pubDate": "2026-04-27"
+    },
+    {
+      "name": "Agency Agents",
+      "stars": "39,000+",
+      "type": "开源项目",
+      "desc": "开源55个AI Agent角色，覆盖产品开发到营销全流程，可直接集成到Claude Code中使用，登GitHub热榜。",
+      "tags": ["Agent", "开源", "GitHub热榜"],
+      "url": "https://github.com/agency-agents/agency-agents",
+      "iconType": "github",
+      "icon": "⭐",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "name": "OpenClaw",
+      "stars": "300,000+",
+      "type": "Agent框架",
+      "desc": "开源自托管AI Agent框架，业内昵称小龙虾，支持200+国产模型，IDE深度集成，7×24小时运行。",
+      "tags": ["Agent", "开源", "自托管"],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "github",
+      "icon": "⭐",
+      "pubDate": "2026-05-03"
+    }
+  ],
+  "world": [
+    {
+      "title": "北大开源统一世界模型框架:多类合成推理任务一套搞定",
+      "desc": "北大联合快手可灵等推出OpenWorldLib，统一世界模型推理框架，整合多模态理解、生成与行动能力，提供标准化接口。",
+      "url": "https://www.sohu.com/a/1017165204_610300",
+      "source": "搜狐",
+      "pubDate": "2026-05-01"
+    },
+    {
+      "title": "CVPR 2026 世界模型论文全景梳理:从生成到建模的关键转变",
+      "desc": "CVPR 2026收录多篇世界模型论文，研究从2D像素转向3D/4D几何结构，建模目标扩展到因果关系与物理一致性。",
+      "url": "https://www.sohu.com/a/1016605130_114877",
+      "source": "搜狐",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "design": [],
+  "video": [],
+  "rag": [],
+  "devtools": [],
+  "industry": [
+    {
+      "title": "2026 年4月18 日AI 行业每日大事件速览_2026 年4月ai 创业公司 融资 政策 行业事件-CSDN博客",
+      "desc": "国内AI监管新规发布，限制未成年人情感类AI服务，要求身份标识、防护模式；达摩院文生视频模型开源，国产多模态竞争升温。",
+      "url": "https://blog.csdn.net/2401_84289488/article/details/160173927",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-26"
+    },
+    {
+      "title": "2026 AI行业纵深:技术破壁、场景深耕与合规共生_人工智能的破壁与深耕-CSDN博客",
+      "desc": "AI产业进入技术落地、场景渗透、合规护航阶段，全球市场规模突破9200亿美元，同比增长19%。",
+      "url": "https://blog.csdn.net/weixin_42376192/article/details/158315454",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-28"
+    },
+    {
+      "title": "2026年初AI行业全景:技术突破与争议并存,国产化与全球化双向发力_工智能大模型你追我赶-CSDN博客",
+      "desc": "2026年AI技术多点突破，国产化与国际竞争齐头并进，同时监管风波、市场震荡同步显现。",
+      "url": "https://blog.csdn.net/paixingbang1/article/details/157810376",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-26"
+    }
+  ],
+  "game": [
+    {
+      "title": "2026 腾讯生态深度评测:AI 编程助手如何赋能“社交游戏”双引擎?",
+      "desc": "腾讯云AI代码助手依托混元大模型，打通微信开发者工具与Serverless，支持游戏逻辑生成、代码诊断优化。",
+      "url": "https://cloud.tencent.com/developer/article/2615864",
+      "source": "腾讯云",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "当AI开始“玩转”游戏设计:布里斯托大学等机构联合研发的游戏自动生成系统,究竟能进化出多少创意?",
+      "desc": "布里斯托大学等机构研发AI游戏自动生成系统，可像设计师一样迭代改进游戏创意，论文发表于arXiv。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_06869f2f35166452",
+      "source": "企鹅号",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "drama": [
+    {
+      "title": "云端全自动AI漫剧生成工作流:从模型选型到完整实现_机器学习或技术方案-CSDN专栏",
+      "desc": "腾讯视频发布WorkRally工业级AI漫剧平台，覆盖剧本到协作全链路；商汤Seko2.0缩短制作周期80%-90%。",
+      "url": "https://download.csdn.net/blog/column/13144798/160315018",
+      "source": "CSDN专栏",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "2026 五大AI漫剧工具横向对比,选对工具少走90%弯路_角色_自动提取_支持",
+      "desc": "Catimind Ani支持长剧本、多集并行生成，角色风格一致，零部署云端使用，30-60秒出成片。",
+      "url": "https://www.sohu.com/a/1016760295_121976244",
+      "source": "搜狐",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "2026年AI漫剧工业化制作完整指南:从剧本到分镜的全链路实战-CSDN博客",
+      "desc": "AI漫剧工业化流程：剧本批量生成、分镜设计、AI视频、后期剪辑，单人团队48小时出片。",
+      "url": "https://blog.csdn.net/weixin_44822948/article/details/160586077",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "AI漫剧、仿真人漫剧、AI短剧:趋势与优势全解析",
+      "desc": "2026年AI漫剧市场规模预计破240亿元，同比增长超40%，单人团队48小时出片，产能提升10倍。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_22969f01e9081152",
+      "source": "企鹅号",
+      "pubDate": "2026-04-28"
+    }
+  ],
+  "apps": [
+    {
+      "title": "2026智能AI图像修复神器Aiarty 3.11 中文版来了!内含离线AI模型,新增AI移除一键模糊变清晰(260422)",
+      "desc": "Aiarty 3.11新增2个AI模型，共5个，支持AI擦除、人像修复，生成式图像增强，仅支持Win系统。",
+      "url": "https://www.wszyk.cn/5458/.html",
+      "source": "wszyk.cn",
+      "pubDate": "2026-04-24"
+    },
+    {
+      "title": "苹果计划升级照片应用,引入全新AI编辑工具",
+      "desc": "苹果将随iOS27等系统升级照片应用，新增AI扩展、增强、重新构图等生成式编辑工具。",
+      "url": "https://www.sohu.com/a/1016350588_122066678",
+      "source": "搜狐",
+      "pubDate": "2026-04-29"
+    }
+  ]
+}
