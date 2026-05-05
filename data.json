@@ -1,7 +1,11 @@
 {
-  "title": "2026年5月3日AI简报：DeepSeek多模态突破，国产世界模型登顶全球，Claude Security公测上线",
-  "desc": "今日AI领域动态频出：DeepSeek发布多模态新范式性能超越GPT-5.4；国产GigaWorld-1世界模型登顶全球榜首；Anthropic开放Claude Security公测；GitHub热门Agent框架与Skills库持续更新。",
+  "title": "",
+  "desc": "",
   "dates": {
+    "2026-05-05": {
+      "title": "",
+      "desc": ""
+    },
     "2026-05-03": {
       "title": "2026年5月3日AI简报：DeepSeek多模态突破，国产世界模型登顶全球，Claude Security公测上线",
       "desc": "今日AI领域动态频出：DeepSeek发布多模态新范式性能超越GPT-5.4；国产GigaWorld-1世界模型登顶全球榜首；Anthropic开放Claude Security公测；GitHub热门Agent框架与Skills库持续更新。"
