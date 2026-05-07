@@ -1,0 +1,82 @@
+{
+  "batch": 2,
+  "date": "2026-05-07",
+  "design": [
+    {
+      "title": "Claude Design:AI 重塑设计工作流的新范式",
+      "desc": "Claude Design是Anthropic 2026年4月推出的AI设计协作工具，集成Opus 4.7多模态能力，支持设计系统自动应用、原型生成等功能。",
+      "url": "https://blog.csdn.net/xiangaichou/article/details/160288868",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-01"
+    },
+    {
+      "title": "Anthropic发布Claude Design:用对话做设计,Figma股价应声下跌",
+      "desc": "Anthropic 4月17日推出Claude Design，支持自然语言生成可编辑设计稿、原型、PPT等，发布后Figma股价应声下跌。",
+      "url": "https://cloud.tencent.com/developer/article/2661214",
+      "source": "腾讯云",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "video": [
+    {
+      "title": "Runway官网,最强AI视频工具,Runwayml绿幕抠除、视频生成、动态捕捉等功能",
+      "desc": "Runway提供超30个AI工具，支持绿幕抠除、视频生成、动态捕捉等，2026年5月更新。",
+      "url": "https://feizhuke.com/sites/runway.html",
+      "source": "非猪AI导航",
+      "pubDate": "2026-05-05"
+    },
+    {
+      "title": "Sora竟是用这些数据训练的?OpenAI CTO坦白惹众怒",
+      "desc": "OpenAI Sora今年2月推出，生成超现实场景，目前仍在优化手部处理等问题，未来将增强用户控制能力。",
+      "url": "https://alright.demo.nicetheme.xyz/archives/25.html",
+      "source": "Alright主题",
+      "pubDate": "2026-05-05"
+    },
+    {
+      "title": "OpenAI 官网 Sora 更新",
+      "desc": "OpenAI官网更新Sora功能，支持角色自定义、二创、场景替换等，用户可在社区分享创作灵感。",
+      "url": "http://www.openai.com/",
+      "source": "OpenAI官网",
+      "pubDate": "2026-05-05"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2026最新Agentic RAG技术详解",
+      "desc": "2026年Q1最新Agentic RAG技术，基于LangChain v0.3.10、Qwen3-7B等，支持自主规划检索、多步推理。",
+      "url": "https://blog.csdn.net/qq_52327553/article/details/159922247",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-27"
+    },
+    {
+      "title": "【2026最新版】大模型核心技术解析:RAG、Agent记忆与Text2SQL协同落地指南",
+      "desc": "详解RAG=检索+生成核心原理，2026年最新落地指南，适合小白与程序员，文末附完整代码。",
+      "url": "https://blog.csdn.net/qq_46094651/article/details/160443965",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "西鲸AI",
+      "desc": "西鲸AI支持Midjourney、Flux、DALL-E批量生成图像，单次生成消耗4水滴，支持多风格创作。",
+      "url": "https://wwaigc.com/gimgs/mj",
+      "source": "西鲸AI",
+      "pubDate": "2026-05-01"
+    },
+    {
+      "title": "Midjourney - 中国官网",
+      "desc": "Midjourney中国官网提供AI图像生成服务，支持多风格创作，新用户可体验2次生成。",
+      "url": "http://mj.bandeyu.com/",
+      "source": "Midjourney中国官网",
+      "pubDate": "2026-05-05"
+    },
+    {
+      "title": "Midjourney - 官网中文版【Midjourney中国】",
+      "desc": "Midjourney支持文本生成高分辨率图像，适用于艺术创作、设计等领域，无需绘画技巧，数秒生成。",
+      "url": "http://mj.bandeyu.com/getAi",
+      "source": "Midjourney中国官网",
+      "pubDate": "2026-05-02"
+    }
+  ]
+}

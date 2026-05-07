@@ -1,0 +1,286 @@
+{
+  "title": "2026年5月7日AI简报：Agent框架横评、大模型技术迭代、世界模型突破、Claude新功能上线",
+  "desc": "今日AI领域聚焦开源Agent框架对比、大模型技术演进、世界模型研究进展及Claude Code任务管理新功能发布，覆盖产业落地与学术前沿动态。",
+  "featured": [
+    {
+      "title": "2026 开源 AI Agent 框架横评:Hermes Agent / OpenClaw / AutoGPT / CrewAI",
+      "desc": "对比四大主流Agent框架的核心能力：Hermes Agent具备自进化能力，OpenClaw深度集成IDE，AutoGPT擅长通用自动化，CrewAI专注多Agent协作。",
+      "url": "https://cloud.tencent.com/developer/article/2655405",
+      "label": "框架横评",
+      "icon": "🤖",
+      "color": "blue",
+      "pubDate": "2026-05-07"
+    },
+    {
+      "title": "2026年大模型技术迭代与产业链解析:收藏这份全景参考指南",
+      "desc": "梳理2026年大模型五大技术方向：多模态原生融合、百万Token上下文、Agent推理落地、开源模型逼近闭源、算力芯片自研化。",
+      "url": "https://blog.csdn.net/2301_76168381/article/details/158350655",
+      "label": "技术全景",
+      "icon": "🧠",
+      "color": "purple",
+      "pubDate": "2026-05-05"
+    },
+    {
+      "title": "ACL 2026世界模型能让智能体「预知未来」?这篇新范式研究给了一个反直觉的答案",
+      "desc": "研究揭示：大多数现有智能体无法稳定有效利用世界模型作为前瞻工具，需提升智能体与世界模型的适配能力。",
+      "url": "https://k.sina.com.cn/article_5953740931_162dee083067035aqm.html",
+      "label": "学术前沿",
+      "icon": "🌍",
+      "color": "green",
+      "pubDate": "2026-05-04"
+    },
+    {
+      "title": "Claude Code 官宣新功能:任务管理",
+      "desc": "Anthropic为Claude Code推出原生任务管理系统，任务自动保存在本地目录，支持跨终端持久化，重启电脑不丢失进度。",
+      "url": "https://cloud.tencent.com/developer/article/2628407",
+      "label": "功能更新",
+      "icon": "✨",
+      "color": "orange",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "hotSearch": [],
+  "llm": [
+    {
+      "title": "2026年大模型技术全景演进:核心突破、落地范式与未来深水区",
+      "desc": "Transformer与SSM混合架构完成边端化跃迁，Mamba2解决长上下文语义丢失问题，大模型向认知系统演进。",
+      "url": "https://blog.csdn.net/SaturnCloud/article/details/160459846",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-29"
+    },
+    {
+      "title": "2026年最新AI大模型全景解析:性能迭代与场景落地新突破",
+      "desc": "GPT-5.4系列支持100万token上下文，Gemini 3.1优化多模态与成本，国产大模型周调用量反超美国。",
+      "url": "https://blog.csdn.net/Cxf112439/article/details/159688371",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    }
+  ],
+  "github": [
+    {
+      "title": "2026 GitHub 热门Python项目精选:AI代理与数据工具,开发者必收藏",
+      "desc": "Python生态爆发式增长，Hello-Agents手搓Agent框架、LangGraph主流框架深入讲解，覆盖全场景开发需求。",
+      "url": "https://blog.csdn.net/zsh_1314520/article/details/159735766",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-02"
+    }
+  ],
+  "trend": [
+    {
+      "name": "OpenClaw",
+      "stars": "300K+",
+      "type": "AI Agent框架",
+      "desc": "GitHub史上增长最快的开源项目，本地优先自托管AI代理系统，支持多消息平台接入与系统级任务执行。",
+      "tags": ["agent", "automation", "local-first", "nodejs"],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "github",
+      "icon": "🦞",
+      "pubDate": "2026-05-07"
+    },
+    {
+      "name": "Everything Claude Code",
+      "stars": "100K+",
+      "type": "AI编程助手",
+      "desc": "专为Claude Code打造的harness性能优化系统，包含28个专业化子代理和116项技能，日增超1500星。",
+      "tags": ["claude", "coding-agent", "productivity", "developer-tools"],
+      "url": "https://github.com/anthropics/everything-claude-code",
+      "iconType": "github",
+      "icon": "🤖",
+      "pubDate": "2026-04-27"
+    },
+    {
+      "name": "Superpowers",
+      "stars": "100K+",
+      "type": "AI coding agents框架",
+      "desc": "为AI coding agents设计的结构化开发框架，强调测试驱动开发和代码质量审查，日增640星。",
+      "tags": ["testing", "tdd", "code-quality", "agent-framework"],
+      "url": "https://github.com/superpowers/superpowers",
+      "iconType": "github",
+      "icon": "⚡",
+      "pubDate": "2026-04-27"
+    },
+    {
+      "name": "HermesAgent",
+      "stars": "60K+",
+      "type": "自进化智能体",
+      "desc": "NousResearch开发的自进化个人智能体，支持三层记忆架构、自动技能创建与200+国产模型接入。",
+      "tags": ["self-evolving", "memory", "open-source", "multi-model"],
+      "url": "https://github.com/NousResearch/HermesAgent",
+      "iconType": "github",
+      "icon": "🧠",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "world": [
+    {
+      "title": "CVPR 2026 世界模型论文全景梳理:从生成到建模的关键转变",
+      "desc": "世界模型从生成工具演化为世界模拟器，CVPR 2026聚焦4D几何建模、物理对齐、因果建模与统一评测体系。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_40769f2cd2721252",
+      "source": "企鹅号",
+      "pubDate": "2026-04-30"
+    },
+    {
+      "title": "智能体与世界模型:如何利用前瞻能力提升决策效率?",
+      "desc": "世界模型接收动作预测环境状态，智能体根据状态输出反应，二者协同闭环是提升决策效率的关键。",
+      "url": "https://www.sohu.com/a/1018525488_121956424",
+      "source": "搜狐",
+      "pubDate": "2026-05-05"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design:AI 重塑设计工作流的新范式",
+      "desc": "Claude Design是Anthropic Labs于2026年4月17日推出的AI设计协作工具，集成Claude Opus 4.7多模态能力，支持企业级设计系统自动应用、交互原型生成等功能。",
+      "url": "https://blog.csdn.net/xiangaichou/article/details/160288868",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-01"
+    },
+    {
+      "title": "Anthropic发布Claude Design:用对话做设计,Figma股价应声下跌",
+      "desc": "4月17日Anthropic推出Claude Design，通过自然语言描述生成可编辑设计稿、原型图、PPT等，消息发布后Figma股价应声下跌。",
+      "url": "https://cloud.tencent.com/developer/article/2661214",
+      "source": "腾讯云",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "video": [
+    {
+      "title": "2026年AI视频生成工具实测:10款主流工具深度对比与选型指南",
+      "desc": "本文对2026年主流AI视频生成工具进行全面测评，涵盖国产工具TOP3(海艺AI、可灵AI、即梦AI)及海外工具(Runway、Google Veo、Sora等)，从画质、时长、价格、适用场景等维度进行对比分析。",
+      "url": "https://blog.csdn.net/johnyjohny/article/details/160194053",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "【工具篇】深度揭秘 Sora 工具,一篇让你彻底了解的超详细指南",
+      "desc": "Sora是OpenAI旗下的AI视频生成工具，本文深度揭秘其功能与使用技巧，帮助用户全面了解Sora的使用方法。",
+      "url": "https://download.csdn.net/blog/column/12642791/145463940",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-02"
+    }
+  ],
+  "rag": [
+    {
+      "title": "RAG已经过时了吗?2026年最该学的,其实是AI Agent的上下文工程",
+      "desc": "2026年从“回答问题”升级到“完成任务”，RAG变成Agent上下文工程的关键组件，OpenAI Agents SDK新能力已面向长流程任务。",
+      "url": "https://blog.csdn.net/2601_95563714/article/details/160215065",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-28"
+    },
+    {
+      "title": "2026最新Agentic RAG技术详解",
+      "desc": "Agentic RAG让大模型拥有自主规划检索、多步推理、工具调用和自我修正的能力，解决传统RAG痛点，基于2026年Q1技术栈。",
+      "url": "https://blog.csdn.net/qq_52327553/article/details/159922247",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-27"
+    },
+    {
+      "title": "小白到进阶:RAG、AI智能体与Agentic RAG详解(附实战应用)",
+      "desc": "2026年更新版，深入拆解RAG、AI智能体及Agentic RAG核心技术，解析三者原理、主流应用场景与现存挑战。",
+      "url": "https://blog.csdn.net/qq_46094651/article/details/157653535",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "Midjourney:AI图像生成技术的崛起与应用解析",
+      "desc": "深入剖析Midjourney的技术原理、核心架构，解析扩散模型、NLP与多模态融合技术如何重构创意设计流程。",
+      "url": "https://download.csdn.net/blog/column/12557265/147478656",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-04"
+    }
+  ],
+  "industry": [
+    {
+      "title": "美国政府酝酿收紧AI监管，拟对模型发布前实施安全审查",
+      "desc": "美国政府正考虑对AI模型发布前实施安全审查，并酝酿通过行政令设立跨部门工作机制，与谷歌、微软、xAI等达成新合作协议。",
+      "url": "http://dz.xdkb.net/xdkb/pc/content/202605/07/content_87320.html",
+      "source": "现代快报",
+      "pubDate": "2026-05-07"
+    },
+    {
+      "title": "五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
+      "desc": "国家网信办等五部门联合公布办法，7月15日起施行，严禁危害国家安全内容，预留文化养老等民生领域创新空间。",
+      "url": "http://paper.people.com.cn/rmrb/pc/content/202605/07/content_30155285.html",
+      "source": "人民网",
+      "pubDate": "2026-05-07"
+    },
+    {
+      "title": "AI视频生成赛道经历90天密集竞速与商业化落地",
+      "desc": "从Seedance2.0刷新标准到OpenAI关停Sora，可灵AI ARR突破3亿美元，AI视频生成正经历剧烈震荡与工业化进程加速。",
+      "url": "https://www.sohu.com/a/1019106885_122066678",
+      "source": "搜狐",
+      "pubDate": "2026-05-07"
+    },
+    {
+      "title": "腾讯发布混元Hy3 preview语言模型，姚顺雨主导研发",
+      "desc": "前OpenAI明星研究员姚顺雨加入腾讯后首推成果，混元Hy3 preview正式发布，引发外界广泛关注。",
+      "url": "https://www.sohu.com/a/1019086936_211762",
+      "source": "搜狐",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "game": [
+    {
+      "title": "微软叫停两年前公布的AI游戏助手项目Gaming Copilot",
+      "desc": "微软正式叫停AI游戏助手Gaming Copilot项目，该项目曾用《我的世界》进行实验，能实时读取屏幕内容给予玩家动作提示。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_64769fb668223552",
+      "source": "企鹅号",
+      "pubDate": "2026-05-07"
+    },
+    {
+      "title": "2026腾讯生态评测：AI编程助手赋能社交游戏双引擎",
+      "desc": "腾讯云AI代码助手依托混元大模型，打通微信开发者工具与腾讯云Serverless，在Go微服务与C++游戏逻辑生成上拥有优势。",
+      "url": "https://cloud.tencent.com/developer/article/2615864",
+      "source": "腾讯云",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "drama": [
+    {
+      "title": "2026年AI漫剧哪家强？3家公司稳坐头把交椅",
+      "desc": "AI来客实现创作-分发-变现-运营一体化闭环，单集制作成本仅15元，传统漫剧成本高达2000-5000元/分钟。",
+      "url": "https://www.sohu.com/a/1018936716_122756071",
+      "source": "搜狐",
+      "pubDate": "2026-05-06"
+    },
+    {
+      "title": "AI短剧制作工作流从入门到实战",
+      "desc": "使用Gemini生成高一致性分镜，配合Seedance等视频生成模型制作动画，实现25宫格连贯分镜的AI漫剧制作流程。",
+      "url": "https://blog.csdn.net/baltam1995/article/details/159043996",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-01"
+    },
+    {
+      "title": "200亿市场狂欢！AI漫剧是真风口还是伪需求？",
+      "desc": "巨量引擎日消耗从300万飙升至3500万，一年翻10倍+，行业预计2026年AI漫剧市场规模将突破200亿元。",
+      "url": "https://blog.csdn.net/weixin_45020214/article/details/160595455",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-28"
+    }
+  ],
+  "apps": [
+    {
+      "title": "AI导航每日更新全球AI工具产品",
+      "desc": "智能编程助手Neovate Code正式开源，OpenAI发布GPT-OSS开源权重大模型，原生支持128K上下文。",
+      "url": "http://www.idaohang.cn/",
+      "source": "AI导航",
+      "pubDate": "2026-05-05"
+    },
+    {
+      "title": "Aminii AI创意平台：一站式短剧制作工具",
+      "desc": "AI Drama Studio从剧本创作到视频导出，AI自动生成分镜、角色图片和配音，大幅降低创作门槛。",
+      "url": "http://yixiaocuo.com/",
+      "source": "Aminii",
+      "pubDate": "2026-05-05"
+    },
+    {
+      "title": "2026年产品经理必备的10款AI工具",
+      "desc": "小摹AI支持截图生成高保真设计稿，还原度高达90%，无需复杂操作与AI对话即可生成PRD文档和多页设计稿。",
+      "url": "https://blog.csdn.net/jongde1/article/details/156902672",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-28"
+    }
+  ]
+}
