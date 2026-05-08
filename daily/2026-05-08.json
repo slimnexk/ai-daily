@@ -1,0 +1,172 @@
+{
+  "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
+  "desc": "今日AI领域动态：大模型方面GPT-5.4、Claude Opus 4.6等旗舰模型持续更新；GitHub上OpenClaw等Agent框架热度飙升；世界模型领域国内极佳视界成百亿独角兽；Claude推出Computer Use等功能更新。",
+  "featured": [
+    {
+      "title": "极佳视界成国内首个世界模型百亿独角兽",
+      "desc": "2026年4月极佳视界完成近15亿元B1轮融资，估值破百亿，其GigaWorld-1模型在世界模型权威评测WorldArena中登顶全球第一。",
+      "url": "https://www.sohu.com/a/1019395340_122542328",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#52c41a",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "淘宝免单",
+      "url": "https://s.weibo.com/weibo?q=%E6%B7%98%E5%AE%9D%E5%85%8D%E5%8D%95",
+      "source": "微博",
+      "heat": "123万"
+    },
+    {
+      "title": "全李酒店已更名",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%9D%8E%E9%85%92%E5%BA%97%E5%B7%B2%E6%9B%B4%E5%90%8D",
+      "source": "微博",
+      "heat": "91万"
+    },
+    {
+      "title": "大国重器硬核升级",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7",
+      "source": "微博",
+      "heat": "70万"
+    },
+    {
+      "title": "智界V9人生主场自在转场",
+      "url": "https://s.weibo.com/weibo?q=%E6%99%BA%E7%95%8CV9%E4%BA%BA%E7%94%9F%E4%B8%BB%E5%9C%BA%E8%87%AA%E5%9C%A8%E8%BD%AC%E5%9C%BA",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "跑男 只允许不喜欢郑恺李晨",
+      "url": "https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7+%E5%8F%AA%E5%85%81%E8%AE%B8%E4%B8%8D%E5%96%9C%E6%AC%A2%E9%83%91%E6%81%BA%E6%9D%8E%E6%99%A8",
+      "source": "微博",
+      "heat": "68万"
+    },
+    {
+      "title": "饭店的暑假工，隐形消费！",
+      "url": "https://www.douyin.com/video/7636575288458389864",
+      "source": "抖音",
+      "heat": "33097100次播放"
+    },
+    {
+      "title": "饭店的暑假工，现场制作菜品！",
+      "url": "https://www.douyin.com/video/7633738686886438607",
+      "source": "抖音",
+      "heat": "32465115次播放"
+    },
+    {
+      "title": "大棉签起到真正的作用了#婚礼 #跟妆",
+      "url": "https://www.douyin.com/video/7635893022371248622",
+      "source": "抖音",
+      "heat": "28057859次播放"
+    },
+    {
+      "title": "我没有让你失望吧爸爸 #SKG折叠按摩仪Ultra",
+      "url": "https://www.douyin.com/video/7634036665484940209",
+      "source": "抖音",
+      "heat": "27332761次播放"
+    },
+    {
+      "title": "《\"美少女陪玩\"奇遇记》",
+      "url": "https://www.douyin.com/video/7636612323729280319",
+      "source": "抖音",
+      "heat": "27088886次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "2026年最新AI大模型全景解析:性能迭代与场景落地新突破",
+      "desc": "介绍GPT-5.4系列、Gemini 3.1系列等国际头部模型升级，聚焦Agent与多模态能力，GPT-5.4 Pro在知识工作基准测试胜率83%。",
+      "url": "https://blog.csdn.net/Cxf112439/article/details/159688371",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "2026年大模型技术全景演进:核心突破、落地范式与未来深水区",
+      "desc": "2026年大模型架构从Transformer向混合架构演进，Mamba2等SSM架构解决长上下文效率问题，适配边端场景落地。",
+      "url": "https://blog.csdn.net/SaturnCloud/article/details/160459846",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-29"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub开源项目日报 · 2026年4月23日·AI Agent开发工具热榜",
+      "desc": "Cline获60712星登顶VS Code智能代理榜，微软ai-agents-for-beginners课程获58591星，awesome-agent-skills精选库获17741星。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/160456464",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "Superpowers:AI编程Agent的工程化技能框架深度解析",
+      "desc": "Superpowers构建完整软件开发工作流框架，为AI编码代理注入专业工程师“肌肉记忆”，短短数月获超78000星标。",
+      "url": "https://blog.csdn.net/m0_50709695/article/details/159689935",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-02"
+    }
+  ],
+  "trend": [
+    {
+      "name": "OpenClaw",
+      "stars": "300K+",
+      "type": "AI Agent框架",
+      "desc": "本地优先的自托管AI代理系统，支持多聊天平台接入，可自主执行系统操作、网页任务等，GitHub史上增长最快项目。",
+      "tags": ["Agent", "自动化", "自托管"],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "svg",
+      "icon": "https://aiarea.qclaw.qq.com/qclawimage/avatar/default/daikexing.png",
+      "pubDate": "2026-05-08"
+    },
+    {
+      "name": "Superpowers",
+      "stars": "78K+",
+      "type": "AI编程框架",
+      "desc": "为AI编码代理注入专业工程师工作流的技能框架，支持Claude Code等工具，短短数月获超78000星标。",
+      "tags": ["AI编程", "Agent", "工作流"],
+      "url": "https://github.com/obra/superpowers",
+      "iconType": "svg",
+      "icon": "https://aiarea.qclaw.qq.com/qclawimage/avatar/default/daikexing.png",
+      "pubDate": "2026-05-02"
+    },
+    {
+      "name": "Cline",
+      "stars": "60.7K",
+      "type": "VS Code插件",
+      "desc": "VS Code中的智能代理插件，支持代码生成、调试、任务自动化，登顶2026年4月AI Agent开发工具热榜。",
+      "tags": ["VS Code", "Agent", "编程辅助"],
+      "url": "https://github.com/cline/cline",
+      "iconType": "svg",
+      "icon": "https://aiarea.qclaw.qq.com/qclawimage/avatar/default/daikexing.png",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "name": "HermesAgent",
+      "stars": "60K+",
+      "type": "自进化Agent",
+      "desc": "具备自我学习能力的个人智能体框架，支持持久记忆、技能自动生成，三层架构实现自进化能力。",
+      "tags": ["自进化", "Agent", "记忆"],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "iconType": "svg",
+      "icon": "https://aiarea.qclaw.qq.com/qclawimage/avatar/default/daikexing.png",
+      "pubDate": "2026-05-08"
+    }
+  ],
+  "world": [
+    {
+      "title": "CVPR 2026 世界模型论文全景梳理:从生成到建模的关键转变",
+      "desc": "CVPR 2026世界模型研究从2D像素走向3D/4D几何结构，从生成转向物理一致性建模，推动模型从工具演化为世界模拟器。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_40769f2cd2721252",
+      "source": "企鹅号",
+      "pubDate": "2026-04-30"
+    }
+  ],
+  "design": [],
+  "video": [],
+  "rag": [],
+  "devtools": [],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
