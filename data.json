@@ -1,6 +1,6 @@
 {
-  "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
-  "desc": "今日AI领域动态：大模型方面GPT-5.4、Claude Opus 4.6等旗舰模型持续更新；GitHub上OpenClaw等Agent框架热度飙升；世界模型领域国内极佳视界成百亿独角兽；Claude推出Computer Use等功能更新。",
+  "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
+  "desc": "百度文心大模型5.1正式发布，LMArena搜索榜国内第一；DeepSeek寻求500亿元首轮融资创中国AI纪录，V4.1计划6月推出；高德ABot世界模型登顶ICRA 2026 AGIBOT挑战赛；OpenClaw连发三版本，Google Meet语音与插件独立安装成亮点。",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
@@ -57,6 +57,10 @@
     "2026-04-22": {
       "title": "Images 2.0发布/世界模型商业化临界点/Claude Opus 4.7编程暴涨11%",
       "desc": "OpenAI Images 2.0引入思考模式，AI绘图进入智能创作时代；阿里腾讯48小时连发世界模型，商业化临界点已至；Claude Opus 4.7编程能力暴涨11%超越GPT-5.4。"
+    },
+    "2026-05-10": {
+      "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
+      "desc": "百度文心大模型5.1正式发布，LMArena搜索榜国内第一；DeepSeek寻求500亿元首轮融资创中国AI纪录，V4.1计划6月推出；高德ABot世界模型登顶ICRA 2026 AGIBOT挑战赛；OpenClaw连发三版本，Google Meet语音与插件独立安装成亮点。"
     }
   }
 }
