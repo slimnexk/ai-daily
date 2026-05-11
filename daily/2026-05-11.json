@@ -1,0 +1,444 @@
+{
+  "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
+  "desc": "Anthropic开发者大会连放大招：Claude Dreaming模仿REM睡眠优化记忆，Outcomes自动评分+多智能体编排上线，Claude正式嵌入Excel/PPT/Word/Outlook开启公测。DeepSeek首轮融资500亿创中国AI纪录，V4.1将于6月推出。高德ABot世界模型以0.829分登顶AGIBOT挑战赛。",
+  "featured": [
+    {
+      "title": "Claude学会「做梦」：Anthropic开发者大会连放大招",
+      "desc": "Anthropic推出Dreaming功能模仿REM睡眠优化AI记忆库，同步上线Outcomes自动评分与多智能体编排，Claude Code调用限额翻倍至10小时，与SpaceX合作新增22万GPU算力。",
+      "url": "https://www.sohu.com/a/1019593053_211762",
+      "label": "Claude",
+      "icon": "🧠",
+      "color": "blue",
+      "pubDate": "2026-05-07"
+    },
+    {
+      "title": "DeepSeek启动500亿元首轮融资，V4.1六月发布新增多模态",
+      "desc": "DeepSeek首轮融资最高500亿元创中国AI纪录，创始人梁文锋拟出资200亿，大基金洽谈领投。V4.1将新增图像与音频理解能力，强化MCP协议适配，估值突破3500亿元。",
+      "url": "https://ai.zol.com.cn/1178/11780372.html",
+      "label": "融资",
+      "icon": "💰",
+      "color": "green",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "Claude进驻微软Office全家桶，四大应用无缝协作开启公测",
+      "desc": "Claude正式嵌入Excel、PowerPoint、Word和Outlook，支持跨应用上下文连贯切换，可在Outlook分类邮件→Word起草文档→Excel建模型→PPT生成图表一键流转。",
+      "url": "https://www.sohu.com/a/1020753618_121885030",
+      "label": "Office",
+      "icon": "📄",
+      "color": "orange",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "高德ABot世界模型登顶ICRA 2026 AGIBOT挑战赛",
+      "desc": "高德与中科院联合团队以0.829分力压全球150支队伍夺冠，Visual Quality与Action Following两项指标第一，破解具身智能数据稀缺难题。",
+      "url": "https://www.sohu.com/a/1020320484_122014422",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "purple",
+      "pubDate": "2026-05-09"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "安慕希 百万撤离",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E6%85%95%E5%B8%8C+%E7%99%BE%E4%B8%87%E6%92%A4%E7%A6%BB",
+      "source": "微博",
+      "heat": "302万"
+    },
+    {
+      "title": "世乒赛",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E4%B9%92%E8%B5%9B",
+      "source": "微博",
+      "heat": "107万"
+    },
+    {
+      "title": "一句句妈妈听哭了",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8F%A5%E5%8F%A5%E5%A6%88%E5%A6%88%E5%90%AC%E5%93%AD%E4%BA%86",
+      "source": "微博",
+      "heat": "84万"
+    },
+    {
+      "title": "跟蒋敦豪上淘宝闪购买花送妈妈",
+      "url": "https://s.weibo.com/weibo?q=%E8%B7%9F%E8%92%8B%E6%95%A6%E8%B1%AA%E4%B8%8A%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E4%B9%B0%E8%8A%B1%E9%80%81%E5%A6%88%E5%A6%88",
+      "source": "微博",
+      "heat": "76万"
+    },
+    {
+      "title": "全公司最不会离职的人终于出现了",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%85%AC%E5%8F%B8%E6%9C%80%E4%B8%8D%E4%BC%9A%E7%A6%BB%E8%81%8C%E7%9A%84%E4%BA%BA%E7%BB%88%E4%BA%8E%E5%87%BA%E7%8E%B0%E4%BA%86",
+      "source": "微博",
+      "heat": "76万"
+    },
+    {
+      "title": "猫：你敢耍我 #银渐层 #万物可爱计划 #猫",
+      "url": "https://www.douyin.com/video/7637406436632587770",
+      "source": "抖音",
+      "heat": "44834655次播放"
+    },
+    {
+      "title": "饭店的暑假工，服务员干活不加钱！",
+      "url": "https://www.douyin.com/video/7637542814670239220",
+      "source": "抖音",
+      "heat": "42072991次播放"
+    },
+    {
+      "title": "饭店的暑假工，店长吃回扣！",
+      "url": "https://www.douyin.com/video/7637376570184898484",
+      "source": "抖音",
+      "heat": "40186352次播放"
+    },
+    {
+      "title": "美国公布大量UFO文件，称内容全新、前所未见",
+      "url": "https://www.douyin.com/video/7637689155803188506",
+      "source": "抖音",
+      "heat": "26257641次播放"
+    },
+    {
+      "title": "手搓载人飞剑！实现独属我们中国人的浪漫——御剑飞行！",
+      "url": "https://www.douyin.com/video/7637506176044879167",
+      "source": "抖音",
+      "heat": "25310713次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "DeepSeek启动500亿元融资创纪录，V4.1六月发布新增多模态能力",
+      "desc": "DeepSeek首轮融资最高500亿，梁文锋拟出资200亿，大基金洽谈领投，估值突破3500亿元。V4.1将新增图像与音频理解、强化MCP协议适配。",
+      "url": "https://ai.zol.com.cn/1178/11780372.html",
+      "source": "中关村在线",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "百度文心大模型5.1发布，LMArena搜索榜国内第一全球第四",
+      "desc": "文心5.1采用多维弹性预训练技术，预训练成本仅为同规模模型6%，Agent能力超越DeepSeek-V4-Pro，创意写作与Gemini 3.1 Pro持平。",
+      "url": "https://www.sohu.com/a/1020175666_122014422",
+      "source": "搜狐",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "5月AI模型排行榜：GPT-5.5/Claude Opus 4.7/DeepSeek V4三足鼎立",
+      "desc": "GPT-5.5领跑Agentic工作流，Claude Opus 4.7编程称雄，DeepSeek V4以1/35成本提供接近前沿性能，国产GLM-5.1与Qwen3.6开源突破。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/160787432",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-05"
+    },
+    {
+      "title": "5月初AI大事件：GPT-5.5幻觉减少52%，xAI Grok 4.3降价60%",
+      "desc": "OpenAI升级GPT-5.5 Instant幻觉减少52%，xAI发布Grok 4.3 Beta降价六成，DeepSeek识图功能灰度测试开启，国产调用量首超美国。",
+      "url": "https://blog.csdn.net/ccl00757/article/details/160857324",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-08"
+    }
+  ],
+  "github": [
+    {
+      "title": "TradingAgents开源项目爆火：多智能体架构复刻华尔街投研体系",
+      "desc": "TradingAgents获7.1万+Star登顶Python趋势榜，四层多智能体架构模拟对冲基金决策流程，支持OpenAI/Claude/Gemini多模型接入。",
+      "url": "https://www.sohu.com/a/1020642399_362225",
+      "source": "搜狐",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "GitHub 5月8日热榜：addyosmani/agent-skills 3.4万星、DeepSeek-TUI 2.1万星",
+      "desc": "addyosmani/agent-skills以34618星领跑AI编码技能项目，Hmbown/DeepSeek-TUI以Rust编写获21461星，anthropics/financial-services 14182星。",
+      "url": "https://yaozuopan.blog.csdn.net/article/details/160907223",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "Anthropic开源Claude for Financial Services：10个Agent+41项技能",
+      "desc": "Anthropic首个金融垂直行业开源智能体工具集，覆盖投行/股权研究/私募/财富管理六大场景，11个金融数据连接器，GitHub star数快速攀升。",
+      "url": "https://blog.csdn.net/Chen__2024/article/details/160893887",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    }
+  ],
+  "world": [
+    {
+      "title": "高德ABot世界模型登顶AGIBOT挑战赛，破解具身智能数据荒",
+      "desc": "ICRA 2026 AGIBOT World Challenge收官，高德与中科院联合团队以0.829分力压全球150支队伍夺冠，Visual Quality与Action Following两项第一。",
+      "url": "https://www.sohu.com/a/1020320484_122014422",
+      "source": "搜狐",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "LG联合体获韩国物理AI项目，将开发世界模型与机器人基础模型",
+      "desc": "LG电子主导联合体获韩国\"物理AI领先项目\"合同，开发室内复杂环境移动操作机器人世界基础模型，以及开放型物理AI基础模型初期技术。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3096a00401106052",
+      "source": "企鹅号",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "世界模型让智能体预知未来？新范式研究给出反直觉答案",
+      "desc": "2026年世界模型技术突破加速，研究指向从\"生成工具\"演化为\"世界模拟器\"，统一描述空间结构、时间演化和物理规律，赋能智能体预知与决策。",
+      "url": "https://blog.csdn.net/VucNdnrzk8iwX/article/details/160802666",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-05"
+    }
+  ],
+  "trend": [
+    {
+      "name": "TradingAgents",
+      "stars": "71k+",
+      "type": "多智能体金融",
+      "desc": "多智能体LLM架构金融交易框架，四层决策体系模拟对冲基金，登顶Python趋势榜，支持OpenAI/Claude/Gemini多模型。",
+      "tags": [
+        "金融交易",
+        "多智能体",
+        "Python",
+        "LLM"
+      ],
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "stars": "14k+",
+      "type": "金融AI Agent",
+      "desc": "Anthropic官方开源金融垂直行业智能体工具集，10个专业Agent+41项技能+11个数据连接器，覆盖投行六大场景。",
+      "tags": [
+        "金融",
+        "Anthropic",
+        "Agent",
+        "开源"
+      ],
+      "url": "https://github.com/anthropics/financial-services",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "stars": "34k+",
+      "type": "AI编码技能",
+      "desc": "专注于AI编码代理的技能集合，GitHub Trending热门项目，为编码Agent提供可复用技能模块，提升AI编程效率。",
+      "tags": [
+        "AI编码",
+        "技能集",
+        "Agent",
+        "开源"
+      ],
+      "url": "https://github.com/addyosmani/agent-skills",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "stars": "21k+",
+      "type": "DeepSeek终端",
+      "desc": "Rust编写的DeepSeek终端用户界面编码代理，轻量高性能，GitHub 5月8日热榜上榜项目。",
+      "tags": [
+        "DeepSeek",
+        "Rust",
+        "终端",
+        "编码代理"
+      ],
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-09"
+    }
+  ],
+  "design": [
+    {
+      "title": "2026年UI设计师工具推荐：从界面设计到AI原生代码生成全覆盖",
+      "desc": "系统梳理Figma AI、Claude Design、UXbot等工具，AI生成能力全面渗透设计流程，Figma推出Sites功能支持设计稿直接发布可访问页面。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/159798287",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-08"
+    },
+    {
+      "title": "Claude Design深度解析：AI重塑设计工作流的新范式",
+      "desc": "Anthropic于4月17日推出Claude Design，集成Opus 4.7多模态视觉能力，支持设计系统自动应用、交互原型生成与多格式导出，部分复杂页面仅需2次提示词。",
+      "url": "https://blog.csdn.net/xiangaichou/article/details/160288868",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "2026年5款主流AI原型工具实测：UXbot、Figma AI等效率对比",
+      "desc": "实测UXbot AI、Figma AI等5款原型工具，UXbot支持一句话生成高保真原型并导出多端代码，Figma AI适合已有设计基础的团队做AI辅助迭代。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/158384873",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    }
+  ],
+  "video": [
+    {
+      "title": "Sora的\"死\"与可灵的\"生\"：AI视频赛道技术变现与持续投入的两难",
+      "desc": "Sora因商业闭环失败被关停，投入2500美元仅回收1美元；可灵ARR已突破3亿美元，2026年预计翻倍增长，但行业护城河困境依然存在。",
+      "url": "https://www.huxiu.com/article/4857216.html",
+      "source": "虎嗅",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "视频模型最容易制造惊艳也最容易消耗惊艳：国产加速周期开启",
+      "desc": "OpenAI关停Sora标志视频模型上一周期结束，中国AI视频赛道今年已发布约10个模型，Seedance 2.0、可灵3.0、HappyHorse-1.0加速商业化。",
+      "url": "http://k.sina.com.cn/article_5953190046_162d6789e067033lr0.html",
+      "source": "新浪新闻",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "Sora关停72小时：一天亏100万美元，AI视频生成为何成了死亡之谷？",
+      "desc": "OpenAI关停Sora，迪士尼10亿美元合作泡汤；同日可灵宣布海外用户破5000万，即梦第10万部AI短剧上线红果，同赛道冰火两重天。",
+      "url": "https://blog.csdn.net/weixin_43726381/article/details/160787555",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2026最新Agentic RAG技术详解：从零构建能自主思考的智能问答系统",
+      "desc": "基于LangChain v0.3.10+Qwen3-7B+Chroma v0.6.2+GraphRAG v0.4搭建完整Agentic RAG系统，实现自主规划检索、多步推理与自我修正。",
+      "url": "https://blog.csdn.net/qq_52327553/article/details/159922247",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-05"
+    },
+    {
+      "title": "RAG 2026全景：从朴素检索到Agentic RAG的技术演进与工程落地",
+      "desc": "梳理RAG从Naive到Agentic五个演进阶段，涵盖Graph-RAG、长期记忆系统等新范式，检索从向量相似度走向知识关系推理，附失败案例复盘。",
+      "url": "https://blog.csdn.net/yonggeit/article/details/160300304",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "RAG已经过时了吗？2026年最该学的是AI Agent的上下文工程",
+      "desc": "RAG从主架构变为Agent上下文工程的关键组件，OpenAI Agents SDK重点转向长流程任务基础设施，行业重心从塞外部知识转向管理状态与多代理协作。",
+      "url": "https://blog.csdn.net/2601_95563714/article/details/160215065",
+      "source": "CSDN博客",
+      "pubDate": "2026-04-28"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "国内开发者零门槛集成GPT-Image-2：实测2.8秒响应与免费镜像方案",
+      "desc": "GPT-Image-2中文渲染准确率超90%，支持小字号排版与多语言混合，开发者通过国内镜像方案可零门槛接入，实测响应2.8秒。",
+      "url": "https://blog.csdn.net/a502347020/article/details/160717048",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-08"
+    },
+    {
+      "title": "GPT-Image-2完整接入教程：中文渲染99%，DALL-E退役迁移指南",
+      "desc": "GPT-Image-2发布12小时横扫Image Arena榜首领先242分，DALL-E 2/3将于5月12日正式停用，文本理解与图像生成从两阶段转向单次推理。",
+      "url": "https://blog.csdn.net/weixin_69040516/article/details/160448245",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-02"
+    },
+    {
+      "title": "开发者实测GPT-Image 2接口与生成稳定性：Thinking自检闭环是关键",
+      "desc": "GPT-Image 2 Arena Elo分1512创历史纪录，文字渲染准确率从前代90-95%跳至约99%，新增Thinking自检闭环实现构图检查与错误迭代修正。",
+      "url": "https://blog.csdn.net/journey2012/article/details/160598976",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-02"
+    }
+  ],
+  "industry": [
+    {
+      "title": "AI热点资讯日报 5月8日：xAI并入SpaceX，DeepSeek估值450亿",
+      "desc": "xAI正式并入SpaceX体系更名为SpaceXAI，22万张GPU租赁给Anthropic；DeepSeek估值450亿美元启动新融资；月之暗面完成20亿美元融资估值破200亿。",
+      "url": "https://blog.csdn.net/haohaizi_liu/article/details/160892837",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-08"
+    },
+    {
+      "title": "5月3日AI行业大事件：五角大楼540亿签约7家AI巨头，欧盟AI法案正式生效",
+      "desc": "五角大楼签约OpenAI/Google/NVIDIA等7家AI巨头，540亿美元接入最高机密网络；Anthropic因拒绝自主武器被排除；欧盟AI法案5月3日正式生效，按风险分级监管。",
+      "url": "https://blog.csdn.net/2401_84289488/article/details/160737064",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-08"
+    },
+    {
+      "title": "早读AI领域：大厂投资融资募资热潮涌动",
+      "desc": "DeepSeek拟募资最高500亿元，创中国AI公司最大单轮融资；阶跃星辰接近完成25亿美元融资；字节跳动AI基础设施支出增加25%至2000亿元。",
+      "url": "http://finance.eastmoney.com/a/202605113732498060.html",
+      "source": "东方财富网",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "2026年五月AI领域大事：智元远征A3万台下线，具身智能迈入量产实战",
+      "desc": "智元机器人第10000台远征A3下线，15个月量产十倍级跨越；启动AI发布周，发布物理AI大模型、多模态感知、全身运动控制等全栈自研技术。",
+      "url": "https://blog.csdn.net/weixin_56622231/article/details/160501725",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-07"
+    }
+  ],
+  "game": [
+    {
+      "title": "面向游戏领域的生成式AI产品盘点",
+      "desc": "涵盖游戏艺术创作、3D环境生成、玩法适应性分析、代码生成、NPC角色生成等AI工具全链路，腾讯AI游戏解决方案为行业标杆。",
+      "url": "https://download.csdn.net/blog/column/12422082/137229996",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "游戏中的NPC生成器：AI凭对话内容生成3D动作",
+      "desc": "网易新技术仅需语音AI即可自动生成3D对话动作；从脚本NPC到AI NPC，决策模型与认知模型互训让NPC逐渐拟人化，《逆水寒》自创NPC超500万。",
+      "url": "https://www.toutiao.com/topic/7492625707969873956/",
+      "source": "今日头条",
+      "pubDate": "2026-05-01"
+    },
+    {
+      "title": "AIGC游戏：探索人工智能生成内容的新玩法",
+      "desc": "深入分析AIGC在游戏领域的创新应用，从核心算法、数学模型到实战代码，涵盖智能NPC、程序化生成、交互式叙事等方向。",
+      "url": "https://download.csdn.net/blog/column/12571194/148045532",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-06"
+    }
+  ],
+  "drama": [
+    {
+      "title": "漫剧怎么做？有戏AI全搞定：静态画面配音字幕三步法",
+      "desc": "有戏AI提供漫剧全流程：剧本工坊写分镜脚本、选择漫剧风格模板逐格生成画面、内置AI配音和自动字幕；豆包+有戏AI组合效率翻倍。",
+      "url": "https://www.sohu.com/a/1019690176_122517974",
+      "source": "搜狐",
+      "pubDate": "2026-05-08"
+    },
+    {
+      "title": "西湖新风AI漫剧创作大赛五月评审季开启：1300+部作品参赛",
+      "desc": "截至5月5日收到超1300部作品，个人创作者超1000人；IP创作赛道超1000部，版权漫剧赛道近300部，个人与小团队创作模式成主流。",
+      "url": "https://www.sohu.com/a/1020395466_121814834",
+      "source": "搜狐",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "5月9日漫剧与AI真人剧日榜揭晓：市场热度变化",
+      "desc": "AI真人剧凭借动态捕捉与实时渲染技术营造沉浸式体验；漫剧依托IP运营与内容深耕巩固受众基础，两大赛道并行发展。",
+      "url": "https://www.sohu.com/a/1020723750_122066678",
+      "source": "搜狐",
+      "pubDate": "2026-05-10"
+    }
+  ],
+  "apps": [
+    {
+      "title": "2026年AI Agent全面爆发：微软Agent 365上线，OpenAI探索纯Agent未来",
+      "desc": "微软Agent 365于5月2日正式上线，打包身份认证/权限/合规/安全；OpenAI探索无App界面的纯Agent模式，GPT-5.5在Terminal-Bench达82.7%。",
+      "url": "https://www.sohu.com/a/1020666636_116365",
+      "source": "搜狐",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "GPT-5.5全量上线：幻觉减少52.5%，国产模型周调用量反超美国",
+      "desc": "OpenAI发布GPT-5.5 Instant替代GPT-5.3，幻觉声明减少52.5%，推理速度提升3倍；中国大模型周调用7.94万亿Token，环比暴涨81.7%，反超美国。",
+      "url": "https://blog.csdn.net/a1234567890603/article/details/160833462",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "2026年AI圈爆火产品盘点：Gemini月活7.5亿，Claude Code原生代理编程",
+      "desc": "Gemini月活7.5亿成全球最大AI服务；Claude Code原生集成Xcode实现代理式编程；MiniCPM-o 4.5成最受开发者欢迎开源模型。",
+      "url": "https://blog.csdn.net/2501_92406411/article/details/158391487",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "豆包AI正式推出付费订阅方案，三档68-500元/月",
+      "desc": "字节旗下豆包新增三档订阅：标准版68元/月、加强版200元/月、专业版500元/月；基础功能永久免费，付费针对高算力增值服务如PPT生成和深度分析。",
+      "url": "https://www.sohu.com/a/1020295347_122660323",
+      "source": "搜狐",
+      "pubDate": "2026-05-09"
+    }
+  ]
+}
