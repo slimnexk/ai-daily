@@ -1,6 +1,6 @@
 {
-  "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
-  "desc": "Anthropic开发者大会连放大招：Claude Dreaming模仿REM睡眠优化记忆，Outcomes自动评分+多智能体编排上线，Claude正式嵌入Excel/PPT/Word/Outlook开启公测。DeepSeek首轮融资500亿创中国AI纪录，V4.1将于6月推出。高德ABot世界模型以0.829分登顶AGIBOT挑战赛。",
+  "title": "DeepSeek 500亿融资疑云，Claude Orbit主动助手曝光，hermes-agent 14万星引爆Agent记忆赛道",
+  "desc": "DeepSeek首轮500亿融资引发阿里腾讯博弈传闻，梁文锋自掏200亿托底。Claude隐藏功能Orbit泄露——主动AI助手即将发布。GitHub上hermes-agent凭Personal Memory机制斩获143k星，Skills生态正在取代MCP成Agent开发新标准。",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
@@ -50,10 +50,6 @@
       "title": "GPT-5.5发布 | Seed3D 2.0登顶 | SpaceX 600亿美元收购Cursor",
       "desc": "OpenAI发布GPT-5.5主打智能体化；字节跳动Seed3D 2.0几何纹理双SOTA；SpaceX达成协议以600亿美元收购AI编程工具Cursor。"
     },
-    "2026-04-23": {
-      "title": "Claude Opus 4.7发布 | 腾讯阿里同日推世界模型 | GitHub刷星产业链曝光",
-      "desc": "Anthropic发布Claude Opus 4.7引入Symphony多模态架构；腾讯与阿里4月16日同日发布世界模型产品；CMU研究揭露GitHub约600万颗假Star，AI项目刷星最猛；DeepSeek已沉默近5个月未发新模型。"
-    },
     "2026-05-10": {
       "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
       "desc": "百度文心大模型5.1正式发布，LMArena搜索榜国内第一；DeepSeek寻求500亿元首轮融资创中国AI纪录，V4.1计划6月推出；高德ABot世界模型登顶ICRA 2026 AGIBOT挑战赛；OpenClaw连发三版本，Google Meet语音与插件独立安装成亮点。"
@@ -61,6 +57,10 @@
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
       "desc": "Anthropic开发者大会连放大招：Claude Dreaming模仿REM睡眠优化记忆，Outcomes自动评分+多智能体编排上线，Claude正式嵌入Excel/PPT/Word/Outlook开启公测。DeepSeek首轮融资500亿创中国AI纪录，V4.1将于6月推出。高德ABot世界模型以0.829分登顶AGIBOT挑战赛。"
+    },
+    "2026-05-12": {
+      "title": "DeepSeek 500亿融资疑云，Claude Orbit主动助手曝光，hermes-agent 14万星引爆Agent记忆赛道",
+      "desc": "DeepSeek首轮500亿融资引发阿里腾讯博弈传闻，梁文锋自掏200亿托底。Claude隐藏功能Orbit泄露——主动AI助手即将发布。GitHub上hermes-agent凭Personal Memory机制斩获143k星，Skills生态正在取代MCP成Agent开发新标准。"
     }
   }
 }
