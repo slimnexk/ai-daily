@@ -1,0 +1,444 @@
+{
+  "title": "Claude Code上线Agent View统一调度多Agent，世界模型vs VLA路线激辩，Skills生态接管Agent开发",
+  "desc": "Anthropic发布Claude Code Agent View，一个界面管理所有AI会话，告别终端分屏。IT之家深度辨析世界模型与VLA融合进化路线。GitHub上Skills生态正在取代MCP成为Agent开发新标准，hermes-agent 143k星领跑记忆Agent赛道。",
+  "featured": [
+    {
+      "title": "Claude Code上线Agent View：一个屏幕盯住所有AI会话",
+      "desc": "Anthropic发布Claude Code Agent View研究预览版，开发者可在单一界面管理多个AI Agent会话，按状态分组显示，支持就地回复和随时切换，告别终端分屏焦虑。一键启动claude agents命令即可使用。",
+      "url": "http://www.sohu.com/a/1021552593_115978",
+      "label": "Claude",
+      "icon": "🤖",
+      "color": "blue",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "世界模型会取代VLA吗？IT之家深度辨析：融合进化才是正解",
+      "desc": "具身智能行业爆发技术路线论战，一方称VLA时代终结世界模型才是未来，另一方坚持VLA主航道。智平方郭彦东博士4月23日率先发难，IT之家5月12日深度分析结论：融合进化才是物理世界AI正确答案。",
+      "url": "https://www.ithome.com/0/949/301.htm",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "purple",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "Skills生态崛起取代MCP：Karpathy 10万星，Agent Skills日增450星",
+      "desc": "GitHub趋势周报揭示Skills正在取代MCP成为AI Agent开发新标准。karpathy-skills一周破10万星，mattpocock/skills达6万+，addyosmani/agent-skills日增超450星，工作流范式正在迁移。",
+      "url": "https://blog.csdn.net/Aaronfaty/article/details/160816109",
+      "label": "GitHub",
+      "icon": "⭐",
+      "color": "orange",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "Anthropic发布NLA技术：Claude的\"思考\"终于能看懂了",
+      "desc": "Anthropic发布自然语言自编码器(NLA)技术，可将Claude模型的思考活动转化为人类可读文本，极大提升AI决策可解释性。局限在于计算成本高且存在细节幻想问题，但标志着AI黑箱走向透明的重要一步。",
+      "url": "https://www.sohu.com/a/1021095092_122445228",
+      "label": "LLM",
+      "icon": "🧠",
+      "color": "green",
+      "pubDate": "2026-05-11"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "南京审计大学通报男生偷拍",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%AE%A1%E8%AE%A1%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%94%B7%E7%94%9F%E5%81%B7%E6%8B%8D",
+      "source": "微博",
+      "heat": "147万"
+    },
+    {
+      "title": "宇树机甲390万起",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E7%94%B2390%E4%B8%87%E8%B5%B7",
+      "source": "微博",
+      "heat": "87万"
+    },
+    {
+      "title": "科学避险自救指南",
+      "url": "https://s.weibo.com/weibo?q=%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9%E8%87%AA%E6%95%91%E6%8C%87%E5%8D%97",
+      "source": "微博",
+      "heat": "72万"
+    },
+    {
+      "title": "黄晓明 丫头别拿错行李箱",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E+%E4%B8%AB%E5%A4%B4%E5%88%AB%E6%8B%BF%E9%94%99%E8%A1%8C%E6%9D%8E%E7%AE%B1",
+      "source": "微博",
+      "heat": "70万"
+    },
+    {
+      "title": "建议不要在小环境中待太久",
+      "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%B0%8F%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%BE%85%E5%A4%AA%E4%B9%85",
+      "source": "微博",
+      "heat": "60万"
+    },
+    {
+      "title": "饭店的暑假工，充值卡赚提成！",
+      "url": "https://www.douyin.com/video/7638280548297622159",
+      "source": "抖音",
+      "heat": "48136654次播放"
+    },
+    {
+      "title": "住户3年狂用1200吨水",
+      "url": "https://www.douyin.com/video/7638607865606835508",
+      "source": "抖音",
+      "heat": "39471734次播放"
+    },
+    {
+      "title": "女子骑车被大车远光灯晃眼撞人后逃逸",
+      "url": "https://www.douyin.com/video/7637527643381878042",
+      "source": "抖音",
+      "heat": "36346230次播放"
+    },
+    {
+      "title": "猫：你敢耍我 #银渐层 #万物可爱计划 #猫",
+      "url": "https://www.douyin.com/video/7637406436632587770",
+      "source": "抖音",
+      "heat": "31895672次播放"
+    },
+    {
+      "title": "饭店的暑假工，客人醉酒！",
+      "url": "https://www.douyin.com/video/7637876753919189876",
+      "source": "抖音",
+      "heat": "26060189次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Claude Code上线Agent View：一个屏幕管理所有AI会话",
+      "desc": "Anthropic发布Claude Code Agent View，单一界面管理多Agent会话，按状态分组、就地回复、随时切换，告别终端分屏。claude agents命令一键启动。",
+      "url": "http://www.sohu.com/a/1021552593_115978",
+      "source": "搜狐",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "AI模型价格战白热化：DeepSeek V4 Flash仅0.14美元，GPT-5.5 Plus月费20美元",
+      "desc": "GPT-5.5和Claude Opus死守高端定价，DeepSeek V4 Flash和GLM-4.7打到地板价。同一任务对比：GPT-5.5 Plus月20美元，Gemini 3.1 Flash-Lite 0.25美元，DeepSeek V4 Flash仅0.14美元。",
+      "url": "https://www.sohu.com/a/1020657494_116365",
+      "source": "搜狐",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "5月初AI大事件：GPT-5.5 Instant幻觉减52%，DeepSeek识图灰度测试",
+      "desc": "OpenAI升级GPT-5.5 Instant幻觉减少52.5%并设为默认，xAI发布Grok 4.3 Beta降价六成，DeepSeek开启多模态识图灰度测试，国产Token调用量首超美国。",
+      "url": "https://blog.csdn.net/ccl00757/article/details/160857324",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "飞络AI快报：DeepSeek识图内测全面开启，Anthropic发布NLA技术",
+      "desc": "DeepSeek全面开启大规模识图模式内测补齐多模态短板，Anthropic发布NLA技术使Claude思考可读，百度文心5.1发布预训练成本仅6%，OpenAI推出启发式学习新范式。",
+      "url": "https://www.sohu.com/a/1021095092_122445228",
+      "source": "搜狐",
+      "pubDate": "2026-05-11"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub 5/11热榜：hermes-agent 143k星、UI-TARS-desktop 32k星领跑AI Agent",
+      "desc": "5月11日GitHub Trending共13个项目。hermes-agent 143768星凭Personal Memory登顶，UI-TARS-desktop 32693星，TypeScript占据半数项目，AI Agent工具链全面爆发。",
+      "url": "https://blog.csdn.net/weixin_44848573/article/details/160992420",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "Skills生态崛起周报：Karpathy破10万星，Skills取代MCP成Agent新标准",
+      "desc": "GitHub趋势周报揭示工作流范式迁移：Skills取代MCP成为AI Agent开发新标准。karpathy-skills破10万星，mattpocock/skills达6万+，Agent框架走向去中心化。",
+      "url": "https://blog.csdn.net/Aaronfaty/article/details/160816109",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "GitHub 5/10热榜：agent-skills 37k星日增3009，chrome-devtools-mcp 38k星",
+      "desc": "5月10日热榜AI项目爆发：agent-skills 37783星日增3009，chrome-devtools-mcp 38985星日增1077，hello-agents 46019星，字节UI-TARS-desktop 31666星。",
+      "url": "https://blog.csdn.net/weixin_44848573/article/details/160959033",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-10"
+    }
+  ],
+  "world": [
+    {
+      "title": "世界模型vs VLA路线激辨：IT之家结论融合进化才是正解",
+      "desc": "具身智能行业爆发技术路线论战，一方称VLA时代终结，另一方坚持VLA主航道。智平方郭彦东博士率先发难，IT之家深度分析三大路线优劣后结论：融合进化才是物理世界AI的正确答案。",
+      "url": "https://www.ithome.com/0/949/301.htm",
+      "source": "IT之家",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "高德ABot世界模型登顶AGIBOT挑战赛，破解具身智能数据荒",
+      "desc": "ICRA 2026 AGIBOT挑战赛收官，高德与中科院联合团队以0.829分力压全球150支队伍夺冠，Visual Quality与Action Following双项第一，发布全栈具身技术体系。",
+      "url": "https://www.sohu.com/a/1020320484_122014422",
+      "source": "搜狐",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "李飞飞等巨头押注世界模型：AI迈向懂物理、能预测的关键跃迁",
+      "desc": "从李飞飞WorldLabs到Google DeepMind，巨头纷纷投入世界模型研究。三大路线并行：生成式、隐空间和3D神经世界模型，可大幅降低硬件测试成本并赋能机器人决策。",
+      "url": "https://m.sohu.com/a/1018222262_122066678",
+      "source": "搜狐",
+      "pubDate": "2026-05-04"
+    }
+  ],
+  "trend": [
+    {
+      "name": "hermes-agent",
+      "stars": "143k+",
+      "type": "Agent框架",
+      "desc": "NousResearch可成长AI Agent框架，Personal Memory机制实现长期记忆一致性，Episodic Memory保持多轮交互记忆，随使用不断深化能力。",
+      "tags": [
+        "Agent",
+        "记忆",
+        "Python",
+        "NousResearch"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "name": "agent-skills",
+      "stars": "37k+",
+      "type": "AI编码技能",
+      "desc": "Addy Osmani出品的AI编程智能体生产级工程技能库，Plan→Build→Test→Review→Ship全流程覆盖，日增3009星，Skills生态取代MCP标志项目。",
+      "tags": [
+        "Skills",
+        "AI编码",
+        "Shell",
+        "工程技能"
+      ],
+      "url": "https://github.com/addyosmani/agent-skills",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "name": "UI-TARS-desktop",
+      "stars": "32k+",
+      "type": "多模态Agent",
+      "desc": "字节跳动开源多模态AI Agent技术栈，连接前沿AI模型与基础设施，TypeScript编写，5月11日日增527星持续攀升。",
+      "tags": [
+        "多模态",
+        "Agent",
+        "字节",
+        "TypeScript"
+      ],
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "name": "chrome-devtools-mcp",
+      "stars": "38k+",
+      "type": "浏览器自动化",
+      "desc": "ChromeDevTools官方出品，面向编程智能体的Chrome开发者工具MCP集成，日增1077星，为AI Agent提供浏览器调试能力。",
+      "tags": [
+        "MCP",
+        "Chrome",
+        "浏览器",
+        "TypeScript"
+      ],
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-10"
+    }
+  ],
+  "design": [
+    {
+      "title": "AI设计类工具系列：FigJam AI功能详解",
+      "desc": "Figma为协作白板FigJam推出AI套件，支持即时生成头脑风暴模板、可视化时间表和组织结构图，减少协作准备时间，更专注创意本身。",
+      "url": "https://download.csdn.net/blog/column/12642791/142517004",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "2026年AI软件设计工具选型手册：6款产品全面解析",
+      "desc": "按设计全流程分层解析6款AI设计工具选型，覆盖Cursor、Replit Agent、UXbot等代码导出与部署方案，帮助团队在正确节点选用正确工具。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/159994123",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "2026年AI软件设计工具全景指南：6款主流产品横向对比",
+      "desc": "横向对比Figma AI、UXbot、Lovable、Bolt、v0、Base44六款工具，AI生成能力全面渗透设计流程，一句话生成应用已从科幻变为量产工具承诺。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/159993918",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-08"
+    }
+  ],
+  "video": [
+    {
+      "title": "快手回应可灵分拆传闻：拟重组可灵AI资产，或引入外部融资",
+      "desc": "5月12日快手港交所公告确认正评估重组可灵AI方案，拟引入外部融资，仍处初步阶段。此前报道可灵目标估值200亿美元、计划明年IPO，快手股价盘中一度涨超10%。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1926a02e52568852",
+      "source": "企鹅号",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "即梦和可灵，能不能接住AI短剧风口？",
+      "desc": "Sora关停后即梦、可灵与Google Veo 3.1、Runway Gen-4.5被列为主要替代方案，阿里HappyHorse 1.0涌现，国内视频模型用户与收入飞涨。",
+      "url": "https://www.36kr.com/p/3804766402698759",
+      "source": "36氪",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "老铁流量见顶，快手要靠可灵200亿美元估值\"改命\"？",
+      "desc": "可灵2025年营收约10.4亿元仅占快手0.73%，但目标估值200亿美元接近母公司三分之二市值；P端付费会员贡献近70%收入，企业客户超3万家但B端仅三成。",
+      "url": "https://new.qq.com/rain/a/20260512A09O7200",
+      "source": "腾讯网",
+      "pubDate": "2026-05-12"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2026 RAG选型指南：Vector、Graph、Vectorless该怎么挑",
+      "desc": "系统对比Vector RAG、GraphRAG与Vectorless三种架构的优劣与适用场景，Vector RAG无法跟踪跨文档关系，GraphRAG适合复杂推理但成本高。",
+      "url": "https://new.qq.com/rain/a/20260511A083OT00",
+      "source": "腾讯网",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "港科大提出Ψ-RAG：让AI在海量文档中\"顺藤摸瓜\"精准找答案",
+      "desc": "港科大(广州)提出Ψ-RAG框架，将文档按语义相似度组织为层次化知识树并配备智能检索助手，支持逐步缩小范围的多跳推理，发表于ICML 2026。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3156a0157a582652",
+      "source": "企鹅号",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "小白到进阶：RAG、AI智能体与Agentic RAG详解",
+      "desc": "2026年更新版深入拆解RAG、AI智能体及Agentic RAG核心技术，Agentic RAG融合RAG精准知识获取与Agent自主决策，为复杂场景提供全新思路。",
+      "url": "https://blog.csdn.net/qq_46094651/article/details/157653535",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "2026年主流图像生成模型深度横评：GPT-Image-2技术优势解析",
+      "desc": "开发者实测GPT-Image-2替换DALL·E 3后的写实度、文字渲染、指令遵循精度，作为新底层引擎悄然上线，综合性能断层领先。",
+      "url": "https://blog.csdn.net/2601_95778137/article/details/160976557",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "GPT-Image-2核弹级更新：自回归架构血洗扩散模型",
+      "desc": "深度拆解GPT-Image-2技术架构：将图像拆解为视觉Token与文本Token统一预测，原生4096×4096输出，文字渲染99%准确率，单张3秒出图。",
+      "url": "https://blog.csdn.net/QQ2022100300/article/details/160443695",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "DALL-E 5月12日正式关停，GPT-Image-2全面接管OpenAI图像生态",
+      "desc": "DALL-E 2/3于5月12日正式停用，扩散模型时代在OpenAI画上句号；GPT-Image-2以自回归架构取代，Image Arena评分1512领先第二名242分。",
+      "url": "https://article.juejin.cn/post/7631898635938185262",
+      "source": "掘金",
+      "pubDate": "2026-04-24"
+    }
+  ],
+  "industry": [
+    {
+      "title": "5月10日AI资讯：三部委发布AI智能体规范，OpenAI提出启发式学习新范式",
+      "desc": "网信办等三部委联合印发《智能体规范应用与创新发展实施意见》；OpenAI提出启发式学习HL，无需神经网络训练即可自主迭代；英伟达预判WAM将替代VLA模型。",
+      "url": "https://blog.csdn.net/2401_84289488/article/details/160958615",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "AI日报5月9日：四部门力推AI与能源双向赋能，AI终端国标出台",
+      "desc": "发改委等四部门联合发布AI与能源双向赋能行动方案，29项重点任务；工信部启动AI终端智能化分级国标L1-L4，纳入以旧换新补贴；DeepSeek、月之暗面融资潮涌。",
+      "url": "https://blog.csdn.net/Genio_Wang/article/details/160911402",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "AI日报5月3日：模数共振行动启动，Anthropic估值冲9000亿美元",
+      "desc": "工信部联合国家数据局启动20个行业模数共振行动；网信办开展4个月清朗专项行动；Anthropic估值或达9000亿美元将超OpenAI；四大科技巨头AI资本支出预期7250亿。",
+      "url": "https://www.toutiao.com/article/7635473291880284715/",
+      "source": "今日头条",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "2026物理AI落地五大趋势：4-5月具身智能融资超240亿元",
+      "desc": "4-5月纯具身智能已披露融资超240亿元；千寻智能两轮A轮30亿，星海图B+轮20亿估值超200亿；资本从模型算法转向数据生产与硬件量产基建化投资。",
+      "url": "http://www.sohu.com/a/1021009061_121124477",
+      "source": "搜狐",
+      "pubDate": "2026-05-11"
+    }
+  ],
+  "game": [
+    {
+      "title": "Neowiz布局生成式AI：索尼首公开支持AI缩短游戏制作，EA 85%质检用AI",
+      "desc": "《匹诺曹的谎言》开发商Neowiz招聘AI创意设计师；索尼成首个公开支持AI缩短游戏周期的头部发行商；EA透露85%质检已用AI工具完成。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0156a02d23869552",
+      "source": "企鹅号/IT之家",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "AIGC引导生成在游戏开发中的创新应用案例",
+      "desc": "系统介绍AIGC在游戏角色对话、环境生成、任务设计中的应用实践，涵盖GPT模型、GAN网络、强化学习、风格迁移等技术路径与代码示例。",
+      "url": "https://blog.csdn.net/2502_91678797/article/details/147378316",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "中手游联手极逸人工智能推出GamePartner.AI一站式游戏智能体",
+      "desc": "GamePartner.AI依托自研游戏垂直模型，支持自然语言及视频生成可玩休闲游戏，覆盖市场洞察到全球发行全流程，前6个月承担全部算力成本。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_18869fd465f39052",
+      "source": "企鹅号",
+      "pubDate": "2026-05-08"
+    }
+  ],
+  "drama": [
+    {
+      "title": "5月9日漫剧与AI真人剧日榜揭晓：《死对头非要当我老婆》登榜首",
+      "desc": "AI真人剧头部作品单日播放量破百万，互动评论增长近三成；漫剧板块改编热门网文动画剧集领跑，画面与节奏成制胜关键。",
+      "url": "https://www.sohu.com/a/1020705283_362225",
+      "source": "搜狐",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "西湖新风AI漫剧创作大赛五月评审季开启：超1000部作品参赛",
+      "desc": "IP创作赛道超1000部作品聚焦东方幻想与经典新编；版权漫剧赛道近300部；与光AI平台提供技术支撑，百万级算力资源助力创作。",
+      "url": "https://www.sohu.com/a/1020392186_121118769",
+      "source": "搜狐",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "Sora AI漫剧教程：3x3 Contact Sheet提示词一键生成完整分镜结构",
+      "desc": "基于nanobanana分镜体系与电影印样逻辑，用3x3 Contact Sheet提示词一次生成9格完整漫剧分镜，确保角色/场景/风格一致性，适合Sora制作AI漫剧。",
+      "url": "https://blog.csdn.net/badfl/article/details/157141698",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-10"
+    }
+  ],
+  "apps": [
+    {
+      "title": "新浪AI热点5月13日：Android 17加速手机AI落地，Anthropic推出法律行业工具",
+      "desc": "Android 17迭代四版本加速AI落地，Google I/O下周发布AI新进展；Anthropic推出十余款法律行业Claude新工具，含商业法律顾问与司法考试备考功能。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905et2u.html",
+      "source": "新浪网",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "2026年AI Agent全面爆发：微软Agent 365上线，OpenAI探索纯Agent",
+      "desc": "微软Agent 365于5月2日上线，打包身份认证/权限/合规/安全；OpenAI探索无App纯Agent模式，GPT-5.5在Terminal-Bench达82.7%可自主控制电脑。",
+      "url": "https://www.sohu.com/a/1020666636_116365",
+      "source": "搜狐",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "5月3日AI大事件：五角大楼540亿签约7家AI巨头，欧盟AI法案生效",
+      "desc": "五角大楼签约OpenAI/Google/NVIDIA等7家AI巨头接入最高机密网络；Anthropic因拒自主武器被排除；欧盟AI法案5月3日正式生效按风险分级监管。",
+      "url": "https://blog.csdn.net/2401_84289488/article/details/160737064",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-03"
+    },
+    {
+      "title": "5月4日AI前沿：豆包4.5.2更新、混元Hy3轻量版开源、GLM-5-Turbo上线",
+      "desc": "豆包4.5.2多模态提速30%支持长视频摘要；混元Hy3 1.8B手机端离线运行功耗1.2W；GLM-5-Turbo推理延迟8ms成本降40%；微信AI客服智能体准确率95%。",
+      "url": "https://www.toutiao.com/w/1864207931804810/",
+      "source": "今日头条",
+      "pubDate": "2026-05-04"
+    }
+  ]
+}
