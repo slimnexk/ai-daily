@@ -1,0 +1,444 @@
+{
+  "title": "谷歌Gemini Intelligence重塑安卓为AI系统，林俊旸20亿美元估值投身世界模型，Claude Code上线Agent View统一调度",
+  "desc": "谷歌The Android Show发布Gemini Intelligence，将大模型深度植入安卓原生系统，推动手机从操作系统向智能系统升级。前阿里千问负责人林俊旸创业瞄准世界模型与具身大脑，首轮估值20亿美元。Anthropic为Claude Code推出Agent View研究预览版，一个界面管理所有AI会话。",
+  "featured": [
+    {
+      "title": "谷歌发布Gemini Intelligence：安卓从操作系统进化为智能系统",
+      "desc": "谷歌The Android Show发布Gemini Intelligence，将Gemini大模型深度植入安卓原生系统，支持跨应用多步骤任务自动化，首批适配Galaxy S26和Pixel 10，今年夏季起分批推送，后续拓展至手表、车载、眼镜等全品类设备。",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxsxzu9492841.shtml",
+      "label": "谷歌",
+      "icon": "📱",
+      "color": "blue",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "前千问负责人林俊旸创业：瞄准世界模型，首轮估值20亿美元",
+      "desc": "前阿里通义千问首席研究员林俊旸正式创业，新AI实验室聚焦世界模型与具身大脑两大前沿领域，以约20亿美元估值寻求数亿美元融资，高榕资本和红杉中国正在洽谈投资，团队已吸纳字节、腾讯及海外AI公司核心成员。",
+      "url": "https://www.sohu.com/a/1022072581_115978",
+      "label": "人物",
+      "icon": "🚀",
+      "color": "orange",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "Claude Code上线Agent View：一个屏幕盯住所有AI会话",
+      "desc": "Anthropic发布Claude Code Agent View研究预览版，开发者可在单一界面管理多个AI Agent会话，按状态分组显示，支持就地回复和随时切换，告别终端分屏焦虑。一键启动claude agents命令即可使用。",
+      "url": "http://www.sohu.com/a/1021552593_115978",
+      "label": "Claude",
+      "icon": "🤖",
+      "color": "purple",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "世界模型vs VLA路线激辨：IT之家结论融合进化才是正解",
+      "desc": "具身智能行业爆发技术路线论战，一方称VLA时代终结世界模型才是未来，另一方坚持VLA主航道。IT之家深度分析三大路线优劣后结论：融合进化才是物理世界AI的正确答案，普渡机器人同日发布PuduFM1.0具身智能大模型。",
+      "url": "https://www.ithome.com/0/949/301.htm",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "green",
+      "pubDate": "2026-05-12"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "豆包承诺退机票",
+      "url": "https://www.leikeji.com/article/76711",
+      "source": "微博",
+      "heat": "热搜第一"
+    },
+    {
+      "title": "追觅俞浩回应崩老头",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-13/doc-inhxtqxm7613459.shtml",
+      "source": "微博",
+      "heat": "热搜"
+    },
+    {
+      "title": "莫氏鸡煲否认反向营销",
+      "url": "https://new.qq.com/rain/a/20260513A07CM500",
+      "source": "微博",
+      "heat": "热搜"
+    },
+    {
+      "title": "长征六号发射成功",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4456a03e00869152",
+      "source": "微博",
+      "heat": "刷屏热搜"
+    },
+    {
+      "title": "特朗普访华",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7136a03c68829652",
+      "source": "微博",
+      "heat": "热搜"
+    },
+    {
+      "title": "去延吉当一天朝鲜族公主",
+      "url": "https://new.qq.com/rain/a/20260513A05XL300",
+      "source": "抖音",
+      "heat": "533万热度"
+    },
+    {
+      "title": "莫氏鸡煲劝退式开分店被群嘲",
+      "url": "https://www.leikeji.com/article/76708",
+      "source": "抖音",
+      "heat": "热搜"
+    },
+    {
+      "title": "长征六号发射成功火箭云刷屏",
+      "url": "http://www.sohu.com/a/1021875941_258768",
+      "source": "抖音",
+      "heat": "热搜"
+    },
+    {
+      "title": "中美在韩国举行经贸磋商",
+      "url": "https://k.sina.com.cn/article_6145283913_16e49974901902dz50.html",
+      "source": "抖音",
+      "heat": "热搜"
+    },
+    {
+      "title": "时代峰峻回应张奕然被追打",
+      "url": "http://k.sina.com.cn/article_1644948230_m620beb060330198mk.html",
+      "source": "抖音",
+      "heat": "热搜"
+    }
+  ],
+  "llm": [
+    {
+      "title": "谷歌Gemini Intelligence发布：安卓全面接入AI大模型",
+      "desc": "谷歌5月13日发布Gemini Intelligence，将Gemini大模型深度植入安卓原生系统，支持跨应用多步骤任务自动化，首批适配Galaxy S26和Pixel 10，推动安卓从操作系统向智能系统升级。",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxsxzu9492841.shtml",
+      "source": "新浪科技",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "5月13日AI新品：GPT-5.5 Instant正式上线+TML-Interact首发",
+      "desc": "OpenAI正式上线GPT-5.5 Instant为ChatGPT默认模型，幻觉减少52.5%，同步推出GPT-Realtime-2实时语音模型；Thinking Machines Lab发布首款交互大模型TML-Interact。",
+      "url": "https://www.iimedia.cn/c1088/111266.html",
+      "source": "艾媒网",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "腾讯云宣布部分DeepSeek旧模型5月22日停止调用",
+      "desc": "腾讯云发布公告，DeepSeek-V3-0324、DeepSeek-V3.1-Terminus、DeepSeek-R1-0528等旧版模型将于5月22日10:00起不再支持调用，平台将逐步切换升级至新版本模型。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8676a045f2908852",
+      "source": "企鹅号",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "AI中转站乱象调查：1元285万Token背后的封号跑路与数据倒卖",
+      "desc": "孙宇晨推出B.AI、傅盛推出EasyRouter，以超低价API中转吸引用户。调查发现中转站存在封号跑路、模型降智、倒卖用户数据三大陷阱，低价背后暗藏安全风险。",
+      "url": "https://www.toutiao.com/article/7638918310096060962/",
+      "source": "今日头条",
+      "pubDate": "2026-05-12"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub AI趋势周报：Skills生态崛起取代MCP，Agent框架去中心化",
+      "desc": "本周GitHub核心变化是工作流范式迁移：Skills正取代MCP成为AI Agent开发新标准。karpathy-skills一周破10万星，mattpocock/skills达6万+，llama.cpp 180K+星领跑，hermes-agent 130K星凭Personal Memory机制崛起。",
+      "url": "https://blog.csdn.net/Aaronfaty/article/details/160816109",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "GitHub 5/11热榜：hermes-agent 143k星、UI-TARS-desktop 32k星领跑",
+      "desc": "5月11日GitHub Trending共13个项目。hermes-agent 143768星凭Personal Memory登顶，UI-TARS-desktop 32693星，AiToEarn 10264星，TypeScript占据半数项目，AI Agent工具链全面爆发。",
+      "url": "https://blog.csdn.net/weixin_44848573/article/details/160992420",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "Superpowers：AI编程Agent工程化技能框架，123k星登GitHub Trending榜首",
+      "desc": "Superpowers为AI编码代理注入专业工程师肌肉记忆，覆盖Plan→Build→Test→Review→Ship全流程。2026年初进入Anthropic官方插件市场后爆发，总星数突破123000，一度登顶GitHub Trending。",
+      "url": "https://blog.csdn.net/m0_50709695/article/details/159689935",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-12"
+    }
+  ],
+  "world": [
+    {
+      "title": "林俊旸投身世界模型创业：前千问负责人首轮估值20亿美元",
+      "desc": "前阿里通义千问首席研究员林俊旸正式创业，新AI实验室聚焦世界模型与具身大脑，以约20亿美元估值寻求数亿美元融资，高榕资本和红杉中国洽谈投资，团队吸纳字节、腾讯及海外核心成员。",
+      "url": "https://www.sohu.com/a/1022072581_115978",
+      "source": "搜狐",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "普渡机器人发布具身智能大模型PuduFM1.0：从执行到认知的跨越",
+      "desc": "普渡机器人5月11日正式发布PuduFM1.0具身智能大模型，构建三维空间深度感知与推理、物理状态预测、持续进化学习三大核心技术维度，采用分层解耦架构模拟生物神经系统大小脑分工。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-13/doc-inhxtvfk9284027.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "TPAMI 2026生成式世界模型综述：首次统一2D/视频/3D/4D维度框架",
+      "desc": "港科大(广州)、中大、清华、博世联合团队发布TPAMI 2026综述，首次将2D、视频、3D、4D放进同一个维度生长框架，将世界模拟器从科幻推进至工程化前夜，系统梳理多模态生成模型技术路线。",
+      "url": "https://blog.csdn.net/amusi1994/article/details/160964522",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-11"
+    }
+  ],
+  "trend": [
+    {
+      "name": "Superpowers",
+      "stars": "123k+",
+      "type": "AI编码技能",
+      "desc": "AI编程Agent工程化技能框架，为Claude Code注入专业工程师肌肉记忆，覆盖完整开发工作流，进入Anthropic官方插件市场后爆发，一度登顶GitHub Trending。",
+      "tags": [
+        "Skills",
+        "AI编码",
+        "Claude Code",
+        "工程化"
+      ],
+      "url": "https://github.com/NexTechDev/Superpowers",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "name": "hermes-agent",
+      "stars": "143k+",
+      "type": "Agent框架",
+      "desc": "NousResearch可成长AI Agent框架，Personal Memory机制实现长期记忆一致性，Episodic Memory保持多轮交互记忆，随使用不断深化能力，5月11日日增768星。",
+      "tags": [
+        "Agent",
+        "记忆",
+        "Python",
+        "NousResearch"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "name": "agent-skills",
+      "stars": "37k+",
+      "type": "AI编码技能",
+      "desc": "Addy Osmani出品的AI编程智能体生产级工程技能库，Plan→Build→Test→Review→Ship全流程覆盖，日增3009星，Skills生态取代MCP的标志性项目。",
+      "tags": [
+        "Skills",
+        "AI编码",
+        "Shell",
+        "工程技能"
+      ],
+      "url": "https://github.com/addyosmani/agent-skills",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "name": "chrome-devtools-mcp",
+      "stars": "38k+",
+      "type": "浏览器自动化",
+      "desc": "ChromeDevTools官方出品，面向编程智能体的Chrome开发者工具MCP集成，日增1077星，为AI Agent提供浏览器调试能力，TypeScript编写。",
+      "tags": [
+        "MCP",
+        "Chrome",
+        "浏览器",
+        "TypeScript"
+      ],
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "iconType": "github",
+      "icon": "",
+      "pubDate": "2026-05-10"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design新一代UI设计神器使用指南：从入门到精通",
+      "desc": "详解Claude Design（Opus 4.7驱动）核心操作：对话式生成可编辑视觉设计，非设计师也能快速制作原型、幻灯片、营销素材，\"对话即设计\"理念实操。",
+      "url": "https://blog.csdn.net/m0_37988015/article/details/160302426",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "Claude Code + Figma：AI画原型完整教程，从PRD到设计稿只要5分钟",
+      "desc": "实测Claude Code + Figma MCP路线，将PRD直接变成Figma原型，与Pencil MCP对比出图效果，体脂秤App真实项目演示全流程。",
+      "url": "https://blog.csdn.net/qq_42801126/article/details/158822756",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "Claude Design：AI重塑设计工作流的新范式",
+      "desc": "深度分析Claude Design核心架构原理、与Figma AI和Framer差异化优势，以及SaaS场景应用，企业级设计系统自动应用是关键突破。",
+      "url": "https://blog.csdn.net/xiangaichou/article/details/160288868",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-10"
+    }
+  ],
+  "video": [
+    {
+      "title": "先发优势遭对手赶超，可灵AI拟\"单飞\"引入外部融资",
+      "desc": "东方财富深度分析可灵AI分拆动因：Seedance 2.0多次涨价、阿里HappyHorse-1.0横空出世赶超，可灵算力成本承压，分拆引入融资卸下重担，3.0系列新增原生4K直出。",
+      "url": "https://finance.eastmoney.com/a/202605133735962172.html",
+      "source": "东方财富网",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "即梦和可灵，能不能接住AI短剧风口？",
+      "desc": "Sora关停后即梦、可灵与Veo 3.1、Runway Gen-4.5被列为主要替代方案，阿里HappyHorse 1.0涌现，国内视频模型用户与收入飞涨。",
+      "url": "https://www.36kr.com/p/3804766402698759",
+      "source": "36氪",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "老铁流量见顶，快手要靠可灵200亿美元估值\"改命\"？",
+      "desc": "可灵2025年营收10.4亿元仅占快手0.73%，P端付费会员贡献近70%收入，200亿估值接近母公司三分之二市值，营收与估值倒挂引发关注。",
+      "url": "https://www.sohu.com/a/1021723959_324659",
+      "source": "搜狐",
+      "pubDate": "2026-05-12"
+    }
+  ],
+  "rag": [
+    {
+      "title": "Create2026百度AI开发者大会：李彦宏首提DAA度量衡",
+      "desc": "百度Create2026大会5月13日开幕，李彦宏提出AI时代度量衡——日活智能体数(DAA)，发布DuMate、秒哒、百度一镜、伐谋等智能体产品，AI云升级为Agent Infra。",
+      "url": "http://www.sohu.com/a/1022230158_100058492",
+      "source": "搜狐",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "title": "李彦宏称AI时代的度量衡不是Token消耗，而是日活智能体数",
+      "desc": "Create2026大会上李彦宏系统阐述\"AI时代进化论\"：Token只代表成本不代表收益，DAA对应移动互联网DAU，衡量有多少Agent在给人类干活并交付结果。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2826a03eceb10552",
+      "source": "企鹅号",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "title": "百度Create大会发多项AI成果，智能体应用成核心方向",
+      "desc": "百度集中发布通用智能体DuMate、代码智能体秒哒、数字人百度一镜、决策智能体伐谋，百度智能云升级为面向大规模智能体应用的新全栈AI云，\"芯云模体\"一体化。",
+      "url": "http://www.jjckb.cn/20260513/302b52f3067d4699b21d22af91c6af55/c.html",
+      "source": "经济参考网/新华社",
+      "pubDate": "2026-05-13"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "2026年主流图像生成模型深度横评：GPT-Image-2技术优势解析",
+      "desc": "开发者实测GPT-Image-2替换DALL·E 3后的写实度、文字渲染、指令遵循精度等核心维度，作为新底层引擎综合性能断层领先。",
+      "url": "https://blog.csdn.net/2601_95778137/article/details/160976557",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "GPT-Image-2核弹级更新：自回归架构血洗扩散模型",
+      "desc": "深度拆解GPT-Image-2技术架构：视觉Token与文本Token统一预测，原生4096×4096输出，文字渲染99%准确率，单张3秒出图，DALL-E 5月12日正式关停。",
+      "url": "https://blog.csdn.net/QQ2022100300/article/details/160443695",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-09"
+    },
+    {
+      "title": "2026设计师亲测：6款能自动生成UI界面的AI设计工具",
+      "desc": "设计师实测6款AI设计工具，涵盖UXbot、v0、Bolt等，直接生成UI界面连带组件，从\"AI辅助\"到\"AI生成\"的落地体验对比。",
+      "url": "https://blog.csdn.net/ndsc_d/article/details/160379127",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-05"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Anthropic估值7天暴涨20%破1.2万亿美元，DeepSeek估值21天翻5倍",
+      "desc": "Anthropic估值破1.2万亿美元创AI公司纪录；中国AI基金领投DeepSeek首轮估值500亿美元；国产AI芯片出货占比超40%；百度文心5.1预训练成本仅6%。",
+      "url": "https://new.qq.com/rain/a/20260512A033I500",
+      "source": "腾讯网",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "机构把脉五月投资策略：AI与新能源仍是核心焦点",
+      "desc": "上证指数站稳4200点，创业板涨3.5%刷新11年新高；公募券商普遍认为短期震荡向上，AI算力与新能源仍是资金聚焦主线，市场从预期驱动转向盈利驱动。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-14/doc-inhxuwsw9002747.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "title": "AI政策密集落地：四部门印发AI与能源双向赋能行动方案",
+      "desc": "5月13日四部门部署29项重点任务聚焦算力能源供给与绿色转型；五部门推广人工智能+纺织全产业链；工信部部署人工智能+制造重点任务；豆包启动付费订阅。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3886a04187199052",
+      "source": "企鹅号",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "AI应用落地与政策支持共振：字节AI支出上调至2000亿",
+      "desc": "字节将2026年AI基础设施支出从1600亿上调至2000亿，加大国产AI芯片投入；Q1国内AI服务器出货量同比增长超45%，智算中心进入交付兑现期。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7826a01aae417052",
+      "source": "企鹅号",
+      "pubDate": "2026-05-11"
+    }
+  ],
+  "game": [
+    {
+      "title": "虚幻引擎5.8预览版发布：网格地形系统+程序化内容生成框架升级",
+      "desc": "Epic发布UE5.8预览版，新增实验性网格地形系统原生集成程序化内容生成框架；程序化植被编辑器增强；MetaHuman人群插件支持实时填充大量角色。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9996a04159b56552",
+      "source": "企鹅号",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "Neowiz引入生成式AI：招募AI创意设计师引领游戏新潮流",
+      "desc": "《匹诺曹的谎言》开发商Neowiz旗下Round8工作室布局生成式AI，开设AI创意设计师新职位；索尼首公开支持AI缩短游戏制作周期。",
+      "url": "https://www.sohu.com/a/1021570379_121956424",
+      "source": "搜狐",
+      "pubDate": "2026-05-12"
+    },
+    {
+      "title": "《星球大战》新游获大量投资，导演哈德森曾直言生成式AI没灵魂",
+      "desc": "前《质量效应》总监凯西·哈德森新作《星球大战：旧共和国的命运》获网易前全球投资负责人Simon Zhu投资，成立GreaterThan控股公司。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7686a0462f871052",
+      "source": "企鹅号/IT之家",
+      "pubDate": "2026-05-13"
+    }
+  ],
+  "drama": [
+    {
+      "title": "AI漫剧工具技术革新：Hogee一站式平台实现端到端转化",
+      "desc": "Hogee平台上传剧本即可自动完成故事拆解、角色提取、分镜生成、配音绑定与视频合成；主要服务短剧制作团队、MCN及网文平台，支持爆款预演与全球化改编。",
+      "url": "https://www.sohu.com/a/1021050401_122579048",
+      "source": "搜狐",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "2026好用AI短剧生成工具大盘点：Catimind垄断B端60%+",
+      "desc": "Catimind垄断国内AI短剧和漫剧B端生产线，一句话5分钟完成剧本到成片全流程；内测分镜直出成功率超90%，行业抽卡成功率仅15%。",
+      "url": "https://www.sohu.com/a/1021131331_121976244",
+      "source": "搜狐",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "AI漫剧爆发：从0到1全流程拆解，1人1-7天可完成",
+      "desc": "AI漫剧=网文故事+漫画画风+短剧节奏+AI全流程生产，1人1-7天成本数百至数千元；女频霸甜宠重生占57%，核心难点在角色一致性。",
+      "url": "https://blog.csdn.net/2601_95910375/article/details/160630430",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-11"
+    }
+  ],
+  "apps": [
+    {
+      "title": "腾讯发布Q1财报：新AI产品(Hy、元宝、CodeBuddy、QClaw)显著突破",
+      "desc": "腾讯Q1营收1964.6亿同比增9%，AI战略加速；剔除新AI产品影响后Non-IFRS经营利润同比增17%至844亿；马化腾称新AI产品实现显著突破。",
+      "url": "https://finance.ifeng.com/c/8t6EwKIjSZQ",
+      "source": "凤凰网",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "2026年最好用10款本地AI助手推荐：QClaw位列榜首",
+      "desc": "QClaw凭微信直连+本地执行+持续记忆三合一登顶；支持5000+ Skills、Kimi-2.5等国产模型切换，一键安装零门槛；OpenClaw、LM Studio紧随其后。",
+      "url": "https://cloud.tencent.com/developer/article/2658870",
+      "source": "腾讯云",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "title": "5月6日AI新产品：ChatGPT默认模型升至GPT-5.5 Instant、中国移动AI-eSIM",
+      "desc": "OpenAI将ChatGPT默认模型升至GPT-5.5 Instant；中国移动官宣AI-eSIM产品，可实时调度云端模型让设备自主思考；RedHat推出TankOS开源项目。",
+      "url": "https://www.iimedia.cn/c1088/111094.html",
+      "source": "艾媒网",
+      "pubDate": "2026-05-06"
+    },
+    {
+      "title": "2026年AI工具应用趋势：从比拼模型转向嵌入工作流",
+      "desc": "AI工具生态从模型竞赛转向工作流嵌入；工具碎片化导致切换成本高；多模型并存带来集成与监控难题；Agent化与自动化编排成为主流方向。",
+      "url": "https://blog.csdn.net/renwanggtv/article/details/161043737",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-13"
+    }
+  ]
+}
