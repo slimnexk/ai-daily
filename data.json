@@ -1,6 +1,6 @@
 {
-  "title": "谷歌Gemini Intelligence重塑安卓为AI系统，林俊旸20亿美元估值投身世界模型，Claude Code上线Agent View统一调度",
-  "desc": "谷歌The Android Show发布Gemini Intelligence，将大模型深度植入安卓原生系统，推动手机从操作系统向智能系统升级。前阿里千问负责人林俊旸创业瞄准世界模型与具身大脑，首轮估值20亿美元。Anthropic为Claude Code推出Agent View研究预览版，一个界面管理所有AI会话。",
+  "title": "",
+  "desc": "",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
@@ -38,10 +38,6 @@
       "title": "GPT-5.5与DeepSeek V4同日对决，Claude Mythos仅限邀请引爆安全争议",
       "desc": "4月24日成为2026年大模型最卷一天：OpenAI发布GPT-5.5主打Agent能力，DeepSeek V4预览版开源百万上下文。Anthropic的Claude Mythos以网络漏洞挖掘能力震惊业界，却仅限受邀机构使用。"
     },
-    "2026-04-26": {
-      "title": "DeepSeek V4王炸发布，Claude Opus 4.7同步上线，世界模型大战白热化",
-      "desc": "本周AI圈重磅消息不断：DeepSeek V4千呼万唤终发布，全面适配华为昇腾芯片；Anthropic推出Claude Opus 4.7，编程能力碾压GPT-5.4；腾讯阿里同日杀入世界模型赛道，产业格局加速重塑。"
-    },
     "2026-05-10": {
       "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
       "desc": "百度文心大模型5.1正式发布，LMArena搜索榜国内第一；DeepSeek寻求500亿元首轮融资创中国AI纪录，V4.1计划6月推出；高德ABot世界模型登顶ICRA 2026 AGIBOT挑战赛；OpenClaw连发三版本，Google Meet语音与插件独立安装成亮点。"
@@ -61,6 +57,10 @@
     "2026-05-14": {
       "title": "谷歌Gemini Intelligence重塑安卓为AI系统，林俊旸20亿美元估值投身世界模型，Claude Code上线Agent View统一调度",
       "desc": "谷歌The Android Show发布Gemini Intelligence，将大模型深度植入安卓原生系统，推动手机从操作系统向智能系统升级。前阿里千问负责人林俊旸创业瞄准世界模型与具身大脑，首轮估值20亿美元。Anthropic为Claude Code推出Agent View研究预览版，一个界面管理所有AI会话。"
+    },
+    "2026-05-15": {
+      "title": "",
+      "desc": ""
     }
   }
 }
