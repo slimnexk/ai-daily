@@ -1,6 +1,6 @@
 {
-  "title": "Anthropic估值9000亿美元超越OpenAI，Google I/O下周开幕",
-  "desc": "Anthropic敲定300亿美元融资，投后估值9000亿美元首超OpenAI的8520亿美元；5月大模型排行Kimi K2.6登顶，国产模型强势崛起；Google I/O 5月19日将发布Gemini 4.0；世界模型赛道融资密集。",
+  "title": "米哈游3年豪掷1000亿做AI，Anthropic/OpenAI编程工具大战白热化",
+  "desc": "米哈游创始人刘伟宣布3年最多投入1000亿做AI大模型；Anthropic十天三次重置Claude Code额度对抗OpenAI Codex免费迁移攻势；iOS 27开放第三方AI模型；Google I/O 5月19日发布Gemini 4.0。",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
@@ -30,10 +30,6 @@
       "title": "2026年4月29日AI简报：Claude Design发布、FLUX.2登场、世界模型融资",
       "desc": "今日AI领域动态：Anthropic推出Claude Design设计工具，FLUX.2发布支持400万像素生成，杨立昆AMI Labs完成10.3亿美元融资。"
     },
-    "2026-04-28": {
-      "title": "2026年4月28日AI简报：大模型新突破、Agent框架爆发、世界模型商业化加速",
-      "desc": "今日AI领域动态：DeepSeek V4发布登顶开源大模型，OpenClaw创GitHub星标纪录，阿里腾讯同日发布世界模型，Claude Opus 4.7上线提升编程能力。四大领域同步爆发，AI产业化进程加速。"
-    },
     "2026-05-10": {
       "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
       "desc": "百度文心大模型5.1正式发布，LMArena搜索榜国内第一；DeepSeek寻求500亿元首轮融资创中国AI纪录，V4.1计划6月推出；高德ABot世界模型登顶ICRA 2026 AGIBOT挑战赛；OpenClaw连发三版本，Google Meet语音与插件独立安装成亮点。"
@@ -61,6 +57,10 @@
     "2026-05-16": {
       "title": "Anthropic估值9000亿美元超越OpenAI，Google I/O下周开幕",
       "desc": "Anthropic敲定300亿美元融资，投后估值9000亿美元首超OpenAI的8520亿美元；5月大模型排行Kimi K2.6登顶，国产模型强势崛起；Google I/O 5月19日将发布Gemini 4.0；世界模型赛道融资密集。"
+    },
+    "2026-05-17": {
+      "title": "米哈游3年豪掷1000亿做AI，Anthropic/OpenAI编程工具大战白热化",
+      "desc": "米哈游创始人刘伟宣布3年最多投入1000亿做AI大模型；Anthropic十天三次重置Claude Code额度对抗OpenAI Codex免费迁移攻势；iOS 27开放第三方AI模型；Google I/O 5月19日发布Gemini 4.0。"
     }
   }
 }
