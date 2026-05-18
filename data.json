@@ -1,6 +1,6 @@
 {
-  "title": "米哈游3年豪掷1000亿做AI，Anthropic/OpenAI编程工具大战白热化",
-  "desc": "米哈游创始人刘伟宣布3年最多投入1000亿做AI大模型；Anthropic十天三次重置Claude Code额度对抗OpenAI Codex免费迁移攻势；iOS 27开放第三方AI模型；Google I/O 5月19日发布Gemini 4.0。",
+  "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
+  "desc": "Anthropic CEO Dario Amodei最新专访透露Claude Co-work由Opus自主开发仅用一周半，ARR达440亿美元估值超9000亿；Google I/O 2026明日开幕，Gemini 4.0+Android XR眼镜+Aluminum OS三重磅待发；OpenAI与马耳他达成全球首个国家级AI免费协议；黄仁勋斯坦福演讲痛斥GPU核武比喻。",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
@@ -25,10 +25,6 @@
     "2026-04-30": {
       "title": "2026年4月30日AI资讯简报：世界模型、开源项目、Claude/Claw更新速递",
       "desc": "今日简报涵盖世界模型公司进展、GitHub热门AI开源项目、Claude及OpenClaw功能更新四大领域。共收录6条近10天内发布的权威资讯，所有内容均标注真实来源与发布日期。"
-    },
-    "2026-04-29": {
-      "title": "2026年4月29日AI简报：Claude Design发布、FLUX.2登场、世界模型融资",
-      "desc": "今日AI领域动态：Anthropic推出Claude Design设计工具，FLUX.2发布支持400万像素生成，杨立昆AMI Labs完成10.3亿美元融资。"
     },
     "2026-05-10": {
       "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
@@ -61,6 +57,10 @@
     "2026-05-17": {
       "title": "米哈游3年豪掷1000亿做AI，Anthropic/OpenAI编程工具大战白热化",
       "desc": "米哈游创始人刘伟宣布3年最多投入1000亿做AI大模型；Anthropic十天三次重置Claude Code额度对抗OpenAI Codex免费迁移攻势；iOS 27开放第三方AI模型；Google I/O 5月19日发布Gemini 4.0。"
+    },
+    "2026-05-18": {
+      "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
+      "desc": "Anthropic CEO Dario Amodei最新专访透露Claude Co-work由Opus自主开发仅用一周半，ARR达440亿美元估值超9000亿；Google I/O 2026明日开幕，Gemini 4.0+Android XR眼镜+Aluminum OS三重磅待发；OpenAI与马耳他达成全球首个国家级AI免费协议；黄仁勋斯坦福演讲痛斥GPU核武比喻。"
     }
   }
 }

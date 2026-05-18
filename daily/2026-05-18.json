@@ -1,0 +1,440 @@
+{
+  "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
+  "desc": "Anthropic CEO Dario Amodei最新专访透露Claude Co-work由Opus自主开发仅用一周半，ARR达440亿美元估值超9000亿；Google I/O 2026明日开幕，Gemini 4.0+Android XR眼镜+Aluminum OS三重磅待发；OpenAI与马耳他达成全球首个国家级AI免费协议；黄仁勋斯坦福演讲痛斥GPU核武比喻。",
+  "featured": [
+    {
+      "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
+      "desc": "Dario Amodei透露Claude Co-work由Opus自主开发仅一周半，上线首日指标达同类四倍；Anthropic ARR达440亿美元估值超9000亿，内部工程主管已不再写代码转而审核AI产出",
+      "url": "https://www.sohu.com/a/1023798421_122414924",
+      "label": "CEO专访",
+      "icon": "🎙️",
+      "color": "#DC2626",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "Google I/O 2026明日开幕：Gemini 4.0、Android XR眼镜、Aluminum OS三重磅",
+      "desc": "5月19-20日Google I/O将发布Gemini 4.0（3-5万亿参数、1000万token上下文）、首款自研Android XR智能眼镜（80g/499美元）、Aluminum OS三系统合一，但业内亦有声音认为可能只是Gemini 3.2/3.5小幅更新",
+      "url": "https://www.sohu.com/a/1023933941_447547",
+      "label": "I/O倒计时",
+      "icon": "🔮",
+      "color": "#2563EB",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "OpenAI与马耳他达成全球首个国家级AI免费协议，全民免费一年ChatGPT Plus",
+      "desc": "OpenAI与马耳他政府签署AI4ALL协议，57.4万居民完成AI素养课程后可免费使用ChatGPT Plus一年，首批5月启动，由马耳他数字创新管理局负责分发",
+      "url": "https://www.sohu.com/a/1023717842_211762",
+      "label": "全民AI",
+      "icon": "🌍",
+      "color": "#059669",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "黄仁勋斯坦福演讲：痛斥GPU核武比喻，反对AI芯片出口管制",
+      "desc": "黄仁勋在斯坦福CS153课程上驳斥Anthropic总裁将AI芯片比作核武的说法，称全球10亿人在用GPU，自己会推荐给家人但绝不推荐原子弹，直言出口管制已适得其反",
+      "url": "https://new.qq.com/rain/a/20260517A06M6700",
+      "label": "芯片博弈",
+      "icon": "⚡",
+      "color": "#7C3AED",
+      "pubDate": "2026-05-17"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "卢昱晓道歉",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E9%81%93%E6%AD%89",
+      "source": "微博",
+      "heat": "290万"
+    },
+    {
+      "title": "女游客景区坠亡没有监控",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%B8%B8%E5%AE%A2%E6%99%AF%E5%8C%BA%E5%9D%A0%E4%BA%A1%E6%B2%A1%E6%9C%89%E7%9B%91%E6%8E%A7",
+      "source": "微博",
+      "heat": "105万"
+    },
+    {
+      "title": "今天全国助残日",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E5%85%A8%E5%9B%BD%E5%8A%A9%E6%AE%8B%E6%97%A5",
+      "source": "微博",
+      "heat": "82万"
+    },
+    {
+      "title": "电脑微信会惩罚每一个恋旧的人",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E5%BE%AE%E4%BF%A1%E4%BC%9A%E6%83%A9%E7%BD%9A%E6%AF%8F%E4%B8%80%E4%B8%AA%E6%81%8B%E6%97%A7%E7%9A%84%E4%BA%BA",
+      "source": "微博",
+      "heat": "82万"
+    },
+    {
+      "title": "给阿嬷的情书 屏摄",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6+%E5%B1%8F%E6%91%84",
+      "source": "微博",
+      "heat": "82万"
+    },
+    {
+      "title": "盲人女孩盲道被撞系摆拍 北京警方通报",
+      "url": "https://www.douyin.com/video/7640297373650046260",
+      "source": "抖音",
+      "heat": "6731万播放"
+    },
+    {
+      "title": "北京警方通报盲人盲道被撞系摆拍造假",
+      "url": "https://www.douyin.com/video/7640295932440907044",
+      "source": "抖音",
+      "heat": "6233万播放"
+    },
+    {
+      "title": "美国空军一号轰鸣中国军人纹丝不动",
+      "url": "https://www.douyin.com/video/7639573732231426162",
+      "source": "抖音",
+      "heat": "5959万播放"
+    },
+    {
+      "title": "俩少年误洒502胶水双手紧握求助消防",
+      "url": "https://www.douyin.com/video/7640372503138913563",
+      "source": "抖音",
+      "heat": "5542万播放"
+    },
+    {
+      "title": "鞠婧祎😜",
+      "url": "https://www.douyin.com/video/7640355826692412927",
+      "source": "抖音",
+      "heat": "4877万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Claude Code十天三次重置额度，Anthropic/OpenAI编程工具大战白热化",
+      "desc": "5月16日Anthropic全员重置Claude Code额度，十天三次放水；OpenAI推Codex两个月免费迁移+一键搬运Claude Code配置；6月15日Agent SDK用量将按API另计费",
+      "url": "https://www.bianews.com/news/details?id=238108",
+      "source": "Bianews",
+      "pubDate": "2026-05-16"
+    },
+    {
+      "title": "GPT-5.6曝光：内部测试已启动，Codex日志中发现路由记录",
+      "desc": "爆料人Leo透露GPT-5.6开发进入全速阶段，首批检查点启动内部测试，大部分调用仍路由到GPT-5.5，预计下月正式亮相",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-14/doc-inhxvtwn8722202.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "title": "AMD游戏引擎专利曝光：画个草图AI就能帮你做游戏",
+      "desc": "AMD一项新专利阐述完全依托AI打造的游戏引擎思路，运用神经外推、智能超采样等技术，大幅降低算力消耗同时打造逼真画面",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905kwle.html",
+      "source": "新浪",
+      "pubDate": "2026-05-17"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub Trending日报：agent-skills日增405星、Anthropic金融工具包日增145星",
+      "desc": "GitHub日报显示agent-skills(405星/天)增速最快，DeepSeek-TUI(167星/天)、anthropics/financial-services(145星/天)紧随，AI编程辅助成热点",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/160875831",
+      "source": "CSDN",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "今日GitHub Trending热榜7大项目：Skills生态持续爆发",
+      "desc": "mattpocock/skills通过npx一键安装TDD/PRD等技能到Claude Code，Superpowers超78K星，karpathy-skills破10万星，Skills生态正取代MCP成为Agent能力组织新范式",
+      "url": "https://blog.csdn.net/weixin_56622231/article/details/160594510",
+      "source": "CSDN",
+      "pubDate": "2026-05-15"
+    },
+    {
+      "title": "字节DeerFlow 33K星V2重写后冲GitHub Trending第一，MIT协议完全开源",
+      "desc": "字节跳动开源DeerFlow深度探索与高效研究框架超33K星，V2全面重写，支持多Agent协作与自动化研究流程",
+      "url": "https://blog.csdn.net/xx_nm98/article/details/159507222",
+      "source": "CSDN",
+      "pubDate": "2026-05-11"
+    }
+  ],
+  "world": [
+    {
+      "title": "清华00后刘松铭物理世界模型LiberAI完成数亿元融资，红杉美团龙珠顺为联合投资",
+      "desc": "LiberAI连续完成种子轮/天使轮/天使+轮数亿元融资，CEO为清华00后特奖获得者刘松铭，已发布全球首个高自由度灵巧操作具身基础模型，跑通UMI全流程闭环",
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806703xtw4.html",
+      "source": "新浪",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "李飞飞World Labs一年估值暴涨5倍，正洽谈5亿美元新一轮融资",
+      "desc": "彭博社消息World Labs以约50亿美元估值进行新一轮融资，较2024年10亿美元估值5倍增长，融资规模最高5亿美元，LLM之后下一条主线含金量十足",
+      "url": "https://blog.csdn.net/weixin_47196664/article/details/157867659",
+      "source": "CSDN",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "title": "Zenbot完成近亿元天使轮，聚焦通用具身智能世界模型迭代研发",
+      "desc": "具身智能基础设施领航者Zenbot完成近亿元天使轮，由长盈精密/科达利/肇民科技家族办公室联合投资，资金用于世界模型迭代研发及GaN关节模组量产",
+      "url": "https://www.sohu.com/a/1022744004_115035",
+      "source": "搜狐",
+      "pubDate": "2026-05-15"
+    }
+  ],
+  "trend": [
+    {
+      "name": "agent-skills",
+      "stars": "22,000+",
+      "type": "技能框架",
+      "desc": "Google工程师Addy Osmani开源AI Agent技能框架，日增405星最快增速，提供完整技能定义配置和调用框架",
+      "tags": [
+        "Skills",
+        "Agent",
+        "增速最快"
+      ],
+      "url": "https://github.com/addyosmani/agent-skills",
+      "iconType": "🛠️",
+      "icon": "🛠️",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "name": "DeerFlow",
+      "stars": "33,000+",
+      "type": "Agent框架",
+      "desc": "字节跳动开源深度探索与高效研究框架，V2全面重写后登GitHub Trending第一，MIT协议",
+      "tags": [
+        "Agent",
+        "字节",
+        "开源"
+      ],
+      "url": "https://github.com/bytedance/deer-flow",
+      "iconType": "🦌",
+      "icon": "🦌",
+      "pubDate": "2026-05-11"
+    },
+    {
+      "name": "OpenHuman",
+      "stars": "3,400+",
+      "type": "开源Agent",
+      "desc": "Tiny Humans AI开发，Rust+TypeScript，登顶GitHub Trending当日第一，让普通人驾驭AI Agent",
+      "tags": [
+        "Agent",
+        "Rust",
+        "开源"
+      ],
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "iconType": "👤",
+      "icon": "👤",
+      "pubDate": "2026-05-15"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "stars": "10,000+",
+      "type": "行业工具包",
+      "desc": "Anthropic官方金融服务业Claude代理与技能工具包，日增145星，为企业级金融工作流提供Agent解决方案",
+      "tags": [
+        "金融",
+        "Claude",
+        "企业"
+      ],
+      "url": "https://github.com/anthropics/financial-services",
+      "iconType": "🏦",
+      "icon": "🏦",
+      "pubDate": "2026-05-13"
+    }
+  ],
+  "design": [
+    {
+      "title": "2026 年UI/UX 设计师最常用的 AI 工具完整清单：从原型到代码交付",
+      "desc": "系统梳理UI/UX设计师6大AI工具能力，覆盖Figma AI、Claude Design、UXbot等从原型到代码交付全流程，适合设计负责人评估AI能力。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/160340207",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "title": "2026年UI设计师必备10款AI工具，从新手到大神都够用",
+      "desc": "推荐Figma、Claude Design、v0等10款AI设计工具，Figma核心优势为云端协作+组件共享，Claude Design主打对话生成视觉设计。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/157435457",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "Claude Design:AI 重塑设计工作流的新范式",
+      "desc": "深度分析Claude Design核心架构原理、与Figma AI/Framer差异化优势及SaaS场景应用，支持企业级设计系统自动应用与多格式导出。",
+      "url": "https://blog.csdn.net/xiangaichou/article/details/160288868",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-10"
+    }
+  ],
+  "video": [
+    {
+      "title": "国产视频生成大模型加速冲刺",
+      "desc": "字节Seedance 2.0凭借多模态输入火速出圈，可灵累计6000万创作者，阿里HappyHorse-1.0引发关注，国产视频模型进入加速周期。",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33186633",
+      "source": "澎湃新闻",
+      "pubDate": "2026-05-16"
+    },
+    {
+      "title": "快手可灵的\"单飞\"之路：AI视频生成市场的资本狂想曲",
+      "desc": "可灵累计服务超6000万创作者、6亿视频，Seedance 2.0和HappyHorse-1.0构成竞争压力，拟200亿美元估值分拆融资。",
+      "url": "https://www.sohu.com/a/1023272929_121956424",
+      "source": "搜狐",
+      "pubDate": "2026-05-16"
+    },
+    {
+      "title": "Seedance 2.0 实战避坑指南：3步做出多镜头AI短片（全程免费）",
+      "desc": "实操教程：分镜设计→参考输入→参数微调三步法，解决AI视频开盲盒问题，小云雀App新用户注册送3次免费生成。",
+      "url": "https://blog.csdn.net/qq_45591903/article/details/160310205",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-14"
+    }
+  ],
+  "rag": [
+    {
+      "title": "GEO 技术底层全解：RAG + 知识图谱如何让结构化内容被AI精准采信",
+      "desc": "解析GEO优化核心：企业专业内容高质量向量化+知识库存储，RAG检索增强生成确保AI生成答案基于真实知识而非幻觉。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6996a06eaa397152",
+      "source": "企鹅号",
+      "pubDate": "2026-05-15"
+    },
+    {
+      "title": "百度智能云发布\"百度胜算\"，破解Agent企业核心业务落地难题",
+      "desc": "上下文工程+系统工程双突破：三大业务图谱注入行业基因，Agent决策准确率提升至99%，覆盖20余行业。",
+      "url": "http://www.sohu.com/a/1023263161_100058492",
+      "source": "搜狐",
+      "pubDate": "2026-05-16"
+    },
+    {
+      "title": "2026最火爆方向：Agent智能体，小白程序员必看（收藏版）",
+      "desc": "梳理Prompt/Context/Harness三大工程化改造，ReAct/Plan-and-Execute/Reflection三种Agent运行模式，RAG是上下文工程最典型实现。",
+      "url": "https://blog.csdn.net/youmaob/article/details/159920339",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-10"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "GPT image-2 怎么调用？2026 完整接入教程踩坑实录",
+      "desc": "通过gpt-image-1端点调用，支持文字渲染、风格控制和透明背景，基础调用和DALL·E 3接口几乎一样只需换model参数。",
+      "url": "https://blog.csdn.net/ofoxcoding/article/details/160418947",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "title": "《2026 视觉革命：深度测评GPT-Image-2，基于DMXAPI实现4K超分与批量生图实战》",
+      "desc": "GPT-Image-2支持原生4K输出，文生图理解力强可输入描述逻辑，图生图同样精准，纹理补偿达印刷级精度。",
+      "url": "https://blog.csdn.net/lzj781210/article/details/160642826",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-13"
+    },
+    {
+      "title": "Flux.1 Kontext图像视频生成大模型实测与实操",
+      "desc": "FLUX.1 Kontext支持10种核心功能：图片参考、风格转换、移除物体、变更文字等，CSDN专栏5/16更新开源实测代码。",
+      "url": "https://download.csdn.net/blog/column/12509466/149827474",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-16"
+    }
+  ],
+  "industry": [
+    {
+      "title": "国家电网具身智能规划：68亿采购8500台设备，从人工运维迈向自主化",
+      "desc": "国家电网内部印发《2026年具身智能发展规划》，计划今年集中采购具身智能设备约8500台，总投资约68亿元，聚焦电力巡检/带电作业/应急救援/仓储物流四大场景，推动电网向自主化运维转型。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905l5sy.html",
+      "source": "新浪AI热点/界面新闻",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "国家人工智能应用中试基地(具身智能)揭牌，宇树/摩尔线程等18家签约",
+      "desc": "5月16日杭州具身智能创新发展大会上，国家级具身智能应用中试基地揭牌；华数传媒联合宇树科技、摩尔线程、沐曦股份等18家龙头企业签约，组建覆盖资本/芯片/本体/应用的全产业链联盟。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905l0w2.html",
+      "source": "新浪AI热点/观点网",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "中国电信推出全国性Token套餐，三大运营商Token经营战略落地",
+      "desc": "5月17日中国电信推出系列试商用Token套餐，为全国层面Token经营套餐；此前上海电信率先发布Token套餐体系，中国电信还发布一站式Token服务平台覆盖规模生产/调度/变现全链条。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905kwn2.html",
+      "source": "新浪AI热点/中国证券报",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发，ARR达440亿美元",
+      "desc": "Anthropic CEO Dario Amodei受访称Claude新功能几乎完全由AI自主开发；公司ARR达440亿美元，一级市场估值超9000亿，已超OpenAI；警告高GDP增速与高失业率将并存。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905kwn2.html",
+      "source": "新浪AI热点/钛媒体",
+      "pubDate": "2026-05-17"
+    }
+  ],
+  "game": [
+    {
+      "title": "AMD新专利揭示AI驱动游戏引擎潜力：草图秒变逼真游戏画面",
+      "desc": "AMD专利\"基于人工智能的游戏与渲染引擎\"曝光：通过神经外推/智能超采样技术，开发者仅需简单草图AI即可自动生成详细游戏内容与场景，可替代现有引擎部分功能，大幅降低资源消耗与开发门槛。",
+      "url": "https://www.sohu.com/a/1023923250_122066678",
+      "source": "搜狐",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "AIGC游戏：探索人工智能生成内容在游戏中的创新应用",
+      "desc": "系统探讨AIGC在游戏场景生成/交互式叙事/程序化生成中的技术原理与实践，涵盖核心算法、数学模型与项目实战代码，为游戏开发者提供全面技术参考。",
+      "url": "https://download.csdn.net/blog/column/12571194/148045532",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-15"
+    },
+    {
+      "title": "中手游联手极逸人工智能推出AI一站式智能体GamePartner.AI",
+      "desc": "GamePartner.AI依托自研游戏垂直领域模型，支持自然语言及视频生成可玩休闲游戏，面向全球休闲游戏市场提供从开发到发行的一站式智能体，解决中小开发者资源短缺痛点。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_18869fd465f39052",
+      "source": "企鹅号",
+      "pubDate": "2026-05-08"
+    }
+  ],
+  "drama": [
+    {
+      "title": "人民网深度调研AI漫剧产业：微短剧更应向\"心\"生长",
+      "desc": "人民网走访郑州AI漫剧制作一线：分镜师通过工作流指令生成视频，AI漫剧/仿真人剧从尝鲜走向主流；但业界呼吁微短剧应重\"心\"而非仅追技术风口，内容价值才是根本。",
+      "url": "http://sx.people.com.cn/n2/2026/0517/c352664-41582475.html",
+      "source": "人民网",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "AI漫剧制作成本深度解析：从零预算到专业级三层体系",
+      "desc": "基础版近乎零预算（免费AI绘图+免费大模型+免费配音）；进阶版数百至千元（Midjourney+付费TTS）；专业版数千至万元（定制模型+影视级渲染），普通人入局门槛大幅降低。",
+      "url": "https://www.sohu.com/a/1023180278_122544860",
+      "source": "搜狐",
+      "pubDate": "2026-05-15"
+    },
+    {
+      "title": "Coze智能体工作流一键生成25宫格分镜图，保持人物场景一致性",
+      "desc": "用Coze一键生成多宫格分镜图，上传角色参考图可固定人设，输入故事文案即刻生成专业分镜；搭配即梦Seedance2.0视频模型可直接生成AI动漫短剧，告别抽卡模式。",
+      "url": "https://blog.csdn.net/ai929790/article/details/159316430",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-10"
+    },
+    {
+      "title": "AI漫剧市场规模\"狂飙\"，业界期待人工创意与AI深度协同",
+      "desc": "郑州AI漫剧专场沙龙探讨产业：文案/画面/分镜/配音/剪辑渐由AI执行，漫剧赛道进入\"无人区\"；业界呼吁人机深度协同而非简单替代。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9506a05b30418752",
+      "source": "企鹅号/中新网",
+      "pubDate": "2026-05-14"
+    }
+  ],
+  "apps": [
+    {
+      "title": "摩尔线程2026产品发布会今日19:00举行，有望发布NAS/迷你主机家庭AI产品",
+      "desc": "国产GPU厂商摩尔线程5月18日19:00举行2026产品发布会，预热视频显示有望带来NAS/迷你主机形态的家庭AI产品；此前摩尔线程刚与国家具身智能中试基地签署战略合作。",
+      "url": "http://www.sohu.com/a/1023453954_114760",
+      "source": "搜狐/IT之家",
+      "pubDate": "2026-05-16"
+    },
+    {
+      "title": "MATLAB R2026a发布：AI助手Simulink Copilot+Polyspace Copilot",
+      "desc": "MathWorks发布MATLAB R2026a，引入AI驱动的Simulink Copilot和Polyspace Copilot助手，可智能理解模型意图提供建模建议、自动识别代码缺陷并提供修复建议，标志工程开发进入AI辅助时代。",
+      "url": "https://blog.csdn.net/qingfengxd1/article/details/160913700",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-16"
+    },
+    {
+      "title": "阿里发布Qoder 1.0智能代码工作台：AI编程迈入\"自动驾驶\"时代",
+      "desc": "阿里云推出Qoder 1.0，从AI IDE升级为智能体自主开发工作台；输入自然语言需求，AI Agent团队自主完成需求拆解/编写/测试/交付全流程，适配Win/Mac/Linux，编程赛道白热化。",
+      "url": "https://blog.csdn.net/2401_84289488/article/details/161144504",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-16"
+    },
+    {
+      "title": "荣耀AgenticOS即将发布：AI从工具进化为操作系统",
+      "desc": "荣耀AI首席科学家黄非在搜狐科技论坛表示，AI正从工具进化为操作系统；荣耀全新AI原生通用智能体操作系统AgenticOS有望今年与MagicOS11一同发布，将定义行业演进方向。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905kod2.html",
+      "source": "新浪AI热点/搜狐科技",
+      "pubDate": "2026-05-17"
+    }
+  ]
+}
