@@ -1,6 +1,6 @@
 {
-  "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
-  "desc": "Anthropic CEO Dario Amodei最新专访透露Claude Co-work由Opus自主开发仅用一周半，ARR达440亿美元估值超9000亿；Google I/O 2026明日开幕，Gemini 4.0+Android XR眼镜+Aluminum OS三重磅待发；OpenAI与马耳他达成全球首个国家级AI免费协议；黄仁勋斯坦福演讲痛斥GPU核武比喻。",
+  "title": "Google I/O今日开幕：Gemini 3.2 Flash偷跑上线，百度AI收入首超一半，微软Copilot付费率仅3.3%遭前副总裁炮轰",
+  "desc": "Google I/O 2026今日开幕，Gemini 3.2 Flash大会前偷跑被开发者抓包，单次生成2200行代码；百度Q1财报AI业务收入136亿首次占比52%；微软前副总裁炮轰Copilot付费率仅3.3%。",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
@@ -21,10 +21,6 @@
     "2026-05-02": {
       "title": "2026年5月2日AI资讯简报：世界模型、Agent框架、OpenClaw更新",
       "desc": "今日汇总世界模型公司进展、GitHub热门AI开源项目、OpenClaw功能更新三大领域近10天内的优质资讯，共收录10条最新内容。"
-    },
-    "2026-04-30": {
-      "title": "2026年4月30日AI资讯简报：世界模型、开源项目、Claude/Claw更新速递",
-      "desc": "今日简报涵盖世界模型公司进展、GitHub热门AI开源项目、Claude及OpenClaw功能更新四大领域。共收录6条近10天内发布的权威资讯，所有内容均标注真实来源与发布日期。"
     },
     "2026-05-10": {
       "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
@@ -61,6 +57,10 @@
     "2026-05-18": {
       "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
       "desc": "Anthropic CEO Dario Amodei最新专访透露Claude Co-work由Opus自主开发仅用一周半，ARR达440亿美元估值超9000亿；Google I/O 2026明日开幕，Gemini 4.0+Android XR眼镜+Aluminum OS三重磅待发；OpenAI与马耳他达成全球首个国家级AI免费协议；黄仁勋斯坦福演讲痛斥GPU核武比喻。"
+    },
+    "2026-05-19": {
+      "title": "Google I/O今日开幕：Gemini 3.2 Flash偷跑上线，百度AI收入首超一半，微软Copilot付费率仅3.3%遭前副总裁炮轰",
+      "desc": "Google I/O 2026今日开幕，Gemini 3.2 Flash大会前偷跑被开发者抓包，单次生成2200行代码；百度Q1财报AI业务收入136亿首次占比52%；微软前副总裁炮轰Copilot付费率仅3.3%。"
     }
   }
 }
