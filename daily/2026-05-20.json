@@ -1,0 +1,440 @@
+{
+  "title": "Google I/O 2026开幕：Gemini 3.5 Flash+Omni+Spark三连发，阿里千问Qwen3.7今正式发布，Claude Code默认切Opus 4.7",
+  "desc": "Google I/O 2026凌晨开幕，Gemini 3.5 Flash干翻上代Pro、Omni全能模型一句话改视频、Spark全天候AI代理登场；阿里云峰会今日发布Qwen3.7；Anthropic上调Claude Design额度翻倍，Code快速模式切Opus 4.7。",
+  "featured": [
+    {
+      "title": "Google I/O 2026开幕：Gemini 3.5 Flash+Omni+Spark三连发，AI智能体全面塞入核心入口",
+      "desc": "Gemini 3.5 Flash性能超越上代Pro；Gemini Omni从任意输入生成任意输出，支持对话式视频编辑；Spark全天候AI代理可代表用户执行任务；Gemini集成C2PA内容凭证抵御深伪",
+      "url": "http://finance.eastmoney.com/a/202605203742465238.html",
+      "label": "I/O开幕",
+      "icon": "🔮",
+      "color": "#2563EB",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "Gemini Omni模型发布：哈萨比斯亲揭\"从任意输入到任意输出\"，一句话让AI改视频",
+      "desc": "诺贝尔奖得主哈萨比斯发布Gemini Omni全能模型，支持文本/图像/视频/音频全模态输入输出；首款落地Gemini Omni Flash即日起上线Gemini App和YouTube Shorts",
+      "url": "https://www.donews.com/news/detail/8/6562964.html",
+      "label": "Omni发布",
+      "icon": "🎬",
+      "color": "#DC2626",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "阿里云峰会今日举行：Qwen3.7-Max-Preview已上线Arena AI，正式版即将揭晓",
+      "desc": "千问Qwen3.7-Max-Preview文本综合榜第13、数学专家应用前10；Qwen3.7-Plus-Preview视觉榜第16；官网预热\"重量级新朋友\"，更全能更强大有深度有广度",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-05-19/doc-inhyknru0243615.shtml",
+      "label": "千问3.7",
+      "icon": "☁️",
+      "color": "#FF6B00",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "Claude Design套餐额度翻倍，Claude Code快速模式默认切换Opus 4.7",
+      "desc": "Anthropic 5月19日公告：现有套餐内Claude Design Token上限翻倍；Claude Code快速模式默认切换为Opus 4.7，编程能力再提升",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9526a0c036c37152",
+      "label": "Claude升级",
+      "icon": "🟣",
+      "color": "#7C3AED",
+      "pubDate": "2026-05-19"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "杨梅泡药事件冲击浙江杨梅市场",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E6%A2%85%E6%B3%A1%E8%8D%AF%E4%BA%8B%E4%BB%B6%E5%86%B2%E5%87%BB%E6%B5%99%E6%B1%9F%E6%9D%A8%E6%A2%85%E5%B8%82%E5%9C%BA",
+      "source": "微博",
+      "heat": "117万"
+    },
+    {
+      "title": "普京访华俄方代表团名单公布",
+      "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E%E4%BF%84%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83",
+      "source": "微博",
+      "heat": "83万"
+    },
+    {
+      "title": "让高品质文旅点亮诗和远方",
+      "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E9%AB%98%E5%93%81%E8%B4%A8%E6%96%87%E6%97%85%E7%82%B9%E4%BA%AE%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9",
+      "source": "微博",
+      "heat": "83万"
+    },
+    {
+      "title": "我没病 只是浑身不得劲",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E6%B2%A1%E7%97%85+%E5%8F%AA%E6%98%AF%E6%B5%91%E8%BA%AB%E4%B8%8D%E5%BE%97%E5%8A%B2",
+      "source": "微博",
+      "heat": "83万"
+    },
+    {
+      "title": "五月份不要轻易离职",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E4%BB%BD%E4%B8%8D%E8%A6%81%E8%BD%BB%E6%98%93%E7%A6%BB%E8%81%8C",
+      "source": "微博",
+      "heat": "82万"
+    },
+    {
+      "title": "90后夫妻同患罕见病瘫痪 男方再回应",
+      "url": "https://www.douyin.com/video/7640844041931771186",
+      "source": "抖音",
+      "heat": "4868万播放"
+    },
+    {
+      "title": "饭店的暑假工 笼络人心",
+      "url": "https://www.douyin.com/video/7641133917580486031",
+      "source": "抖音",
+      "heat": "3452万播放"
+    },
+    {
+      "title": "饭店的暑假工 醉酒客人扶不扶",
+      "url": "https://www.douyin.com/video/7640657985367514792",
+      "source": "抖音",
+      "heat": "2376万播放"
+    },
+    {
+      "title": "OK了老铁们下集 陈泽综艺",
+      "url": "https://www.douyin.com/video/7640544941084609807",
+      "source": "抖音",
+      "heat": "2025万播放"
+    },
+    {
+      "title": "OK了老铁们上集 陈泽综艺",
+      "url": "https://www.douyin.com/video/7640259548015529222",
+      "source": "抖音",
+      "heat": "1840万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Google I/O 2026：Gemini 3.5 Flash亮相，轻量模型再次干翻上代Pro",
+      "desc": "Gemini 3.5系列首发Flash版本，延续Google轻量模型超越上代旗舰的传统；Pro版本下月上线。轰炸式发布数十个产品更新，2小时信息量爆炸",
+      "url": "https://www.sohu.com/a/1024920490_211762",
+      "source": "搜狐",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "Gemini for Science发布：追踪论文、写实验代码、生成科学假设",
+      "desc": "谷歌推出科研版Gemini模型，可实时追踪最新论文、将研究目标转化为可执行代码、生成新假设；推进临床前项目涵盖免疫疾病与癌症领域",
+      "url": "http://www.sohu.com/a/1024910245_114760",
+      "source": "搜狐",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "LLM近期重大架构进化：从Gemma 4到DeepSeek V4，KV Cache与长上下文成焦点",
+      "desc": "机器之心盘点LLM架构进化：用户token消耗翻倍导致KV cache和attention计算成本飙升；Gemma 4、DeepSeek V4等模型在推理和Agent场景下的架构优化",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9506a0be3d570052",
+      "source": "企鹅号",
+      "pubDate": "2026-05-19"
+    }
+  ],
+  "github": [
+    {
+      "title": "《2026 OpenClaw类自主智能体发展白皮书》今日发布，GitHub 36万星全球第一",
+      "desc": "赛迪研究院报告：OpenClaw 84天破20万星，增速比Kubernetes快18倍超越React；NIST已启动AI安全审查；白皮书覆盖架构/安全/产业落地",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6346a0b3bee42452",
+      "source": "企鹅号",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "OpenClaw v2026.5.18发布：Mac设置页重设计、导航缓存加速、权限优化",
+      "desc": "OpenClaw最新版重新设计Mac应用设置页面，采用统一卡片式布局；导航缓存加速提升体验；权限系统优化增强安全性",
+      "url": "https://fluxbbs.com/",
+      "source": "FluxBBS",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "Google I/O 2026直击：Gemini Spark智能体对标Claude Code，Agent战场开战",
+      "desc": "品玩报道Google I/O 2026饱和式发布，Gemini Spark云端全天候AI代理对标Claude Code；Agentic Coding工具链全面布局",
+      "url": "https://www.sohu.com/a/1024920490_211762",
+      "source": "搜狐/品玩",
+      "pubDate": "2026-05-20"
+    }
+  ],
+  "world": [
+    {
+      "title": "Figure 03人形机器人连续工作33小时，分拣4万件快递零人工干预",
+      "desc": "Figure AI全程无剪辑直播：Figure 03每秒0.37件效率是人工1.8倍，不规则包裹识别率99.7%，自主换电池自诊断，标志量产拐点",
+      "url": "https://www.sohu.com/a/1024563649_122555474",
+      "source": "搜狐",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "百度Create 2026具身智能论坛：产学研共探VLA+世界模型落地新路径",
+      "desc": "5月14日百度具身智能论坛汇聚北大/上交/英伟达/星动纪元；智平方自研NeuroVLA毫秒级实时响应；百度智能云全栈能力助力启元/星动纪元研发",
+      "url": "https://www.sohu.com/a/1024654000_211762",
+      "source": "搜狐",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "中科院重庆研究院：面向长程任务的按需搜索方法，LIBERO-Long基准成功率达97.6%",
+      "desc": "视觉-语言-动作模型在复杂连续任务中易目标偏离；新方法通过轨迹重采样与一致性校验降低局部最优风险；较π0提升15.2%，较RDT提高31.6%",
+      "url": "https://www.antpedia.com/news/42/n-3648542.html",
+      "source": "分析测试百科网",
+      "pubDate": "2026-05-18"
+    }
+  ],
+  "trend": [
+    {
+      "name": "openclaw/openclaw",
+      "stars": "360,000+",
+      "type": "AI Agent网关",
+      "desc": "GitHub全球第一；白皮书今日发布；NIST启动安全审查；36万星超越React十年积累，84天破20万星",
+      "tags": [
+        "Agent",
+        "白皮书",
+        "全球第一"
+      ],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "🦞",
+      "icon": "🦞",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "name": "Superpowers",
+      "stars": "78,000+",
+      "type": "AI编程框架",
+      "desc": "AI编码Agent工程化技能框架，TDD/YAGNI/DRY最佳实践；日增100+星，Skills生态核心项目",
+      "tags": [
+        "编程",
+        "工程化",
+        "Skills"
+      ],
+      "url": "https://github.com/superpowers-org/superpowers",
+      "iconType": "⚡",
+      "icon": "⚡",
+      "pubDate": "2026-05-15"
+    },
+    {
+      "name": "DeerFlow",
+      "stars": "33,000+",
+      "type": "Agent框架",
+      "desc": "字节跳动开源深度研究框架V2重写，MIT协议，支持多Agent协作与自动化研究，Trending第一",
+      "tags": [
+        "Agent",
+        "字节",
+        "MIT"
+      ],
+      "url": "https://github.com/bytedance/deer-flow",
+      "iconType": "🦌",
+      "icon": "🦌",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "name": "TradingAgents",
+      "stars": "10,000+",
+      "type": "多智能体交易",
+      "desc": "多智能体LLM金融交易框架，模拟专业金融团队市场分析与决策，GitHub日报热门项目日增100+星",
+      "tags": [
+        "金融",
+        "多Agent",
+        "交易"
+      ],
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "iconType": "📈",
+      "icon": "📈",
+      "pubDate": "2026-05-16"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design 新一代的UI设计神器-使用指南：从入门到精通",
+      "desc": "Claude Design使用指南，Opus 4.7驱动，对话即设计理念，非设计师可快速做原型/幻灯片/营销素材，5/18更新。",
+      "url": "https://blog.csdn.net/m0_37988015/article/details/160302426",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "Claude Code + Figma：AI画原型完整教程，从PRD到设计稿只要5分钟",
+      "desc": "实测Claude Code + Figma MCP将PRD直接变Figma原型，对比Pencil MCP路线，出图更贴近设计规范。",
+      "url": "https://blog.csdn.net/qq_42801126/article/details/158822756",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-14"
+    },
+    {
+      "title": "2026年AI软件设计工具全景指南：6款主流产品横向对比",
+      "desc": "横评Figma AI/UXbot/Lovable/Bolt/v0/Base44，传统嵌入AI辅助 vs AI生成为核心的新一代应用生成。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/159993918",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-13"
+    }
+  ],
+  "video": [
+    {
+      "title": "Seedance 2.1近期将发布，效果预计提升20%",
+      "desc": "字节Seedance 2.1近期发布，效果较2.0提升20%；推2.0低配版5毛/秒；按日消耗占比Seedance占市场超八成份额。",
+      "url": "https://tech.ifeng.com/c/8tFraguLMAV",
+      "source": "凤凰网",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "Seedance 2.1即将发布，效果预计提升20%（附市场份额）",
+      "desc": "Seedance占市场超80%，可灵约14%，万相2.7约4%，HappyHorse不足1%。Seedance绝对优势领跑，可灵稳居第二。",
+      "url": "https://www.sohu.com/a/1024674303_115060",
+      "source": "搜狐",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "Seedance 2.0内测全解析：2026最新AI视频生成神器功能入口使用指南",
+      "desc": "Seedance 2.0多模态AI视频生成模型全面解析，接入即梦AI/豆包/小云雀，后续对接抖音/剪映实现一站式闭环。",
+      "url": "https://blog.csdn.net/w708955424/article/details/158619362",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-16"
+    }
+  ],
+  "rag": [
+    {
+      "title": "从\"野蛮生长\"到\"有规可循\"：2026年5月智能体治理元年正式开启",
+      "desc": "全球首个国家级智能体专项治理文件5/8公布，国务院年度立法计划明确AI综合性立法，智能体治理元年开启。",
+      "url": "https://www.sohu.com/a/1024486606_122440928",
+      "source": "搜狐",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "搞懂上下文工程，选对Agent框架！2026年保姆级选型指南",
+      "desc": "Agent核心在于上下文质量而非框架，对话历史管理/工具调用传递/记忆存储/任务分解才是关键，保姆级选型指南。",
+      "url": "https://blog.csdn.net/l01011_/article/details/159279002",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "2026新书《基于RAG的大模型应用开发：问答系统、多模态系统与Agent开发实践》",
+      "desc": "RAG新书发布：涵盖文档解析/向量化/检索/重排/生成全流程，问答系统+多模态+Agent开发实战。",
+      "url": "https://download.csdn.net/blog/column/12379351/160080541",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-19"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "2026年GPT-Image-2接口中转平台深度测评：主流商用服务能力横向对比与选型全指南",
+      "desc": "GPT-Image-2中转平台深度测评，承担链路高可用/多模型负载均衡/跨厂商协议适配核心作用，工程化落地已成熟。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4136a0c12fe78752",
+      "source": "企鹅号",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "GPT-Image-2正式发布，OpenAI最强图片模型！实测看看到底有多强",
+      "desc": "ChatGPT Images 2.0实测：画质/生成速度/可控性全面升级，正朝\"以假乱真\"目标迈出实质性一步。",
+      "url": "https://blog.csdn.net/weixin_42100033/article/details/160559472",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-15"
+    },
+    {
+      "title": "GPT Image 2 - 在线AI图像生成器与照片编辑工具",
+      "desc": "GPT Image 2聚合平台上线，集成Nano Banana Pro/Seedream/GPT Image等顶级模型，4K输出15秒出图。",
+      "url": "https://www.gpt-image2ai.org/",
+      "source": "产品站",
+      "pubDate": "2026-05-19"
+    }
+  ],
+  "industry": [
+    {
+      "title": "谷歌I/O 2026：Gemini 3.5 Flash/Omni齐发，AI智能体全面塞进搜索/浏览器/手机和眼镜",
+      "desc": "谷歌I/O大会系统性转向Agent：Gemini 3.5 Flash堪比最佳模型且更快；Gemini Omni全能模型可生成任意模态内容；AI助手Spark可跨应用执行任务；月Token处理量3.2千万亿同比增7倍；Gemini月活达9亿。",
+      "url": "https://finance.sina.com.cn/roll/2026-05-20/doc-inhynvwt1800470.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "卡帕西官宣加入Anthropic：组建新团队，用Claude加速AI预训练研究",
+      "desc": "OpenAI联合创始人、前特斯拉AI总监Andrej Karpathy宣布加入Anthropic，将组建新团队专注用Claude本身加速预训练研究，让AI帮助训练更好的AI——这是各大前沿实验室争相投入的方向。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905o958.html",
+      "source": "新浪AI热点/DeepTech",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "中国AI公司加速融资上市：DeepSeek 23天估值涨5倍至3500亿，阶跃星辰冲刺港股",
+      "desc": "DeepSeek首轮融资500亿创始人或自投200亿，23天估值从700亿涨至3500亿；月之暗面完成约20亿美元融资估值破200亿；阶跃星辰完成近25亿美元融资宣布股改冲刺港股IPO；约每两家上市公司就有一家与AI产业链相关。",
+      "url": "https://www.sohu.com/a/1024749665_121019331",
+      "source": "搜狐",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "英伟达Vera CPU首批交付：专为Agentic AI设计，已交付Anthropic/OpenAI/SpaceX/甲骨文",
+      "desc": "英伟达首款专为Agentic AI设计的Vera CPU完成首批交付，客户包括Anthropic、OpenAI、SpaceX及甲骨文云；同时黑石与谷歌成立合资企业投资50亿美元打造TPU算力平台，首批500兆瓦数据中心2027年上线。",
+      "url": "https://new.qq.com/rain/a/20260519A091L500",
+      "source": "腾讯网",
+      "pubDate": "2026-05-19"
+    }
+  ],
+  "game": [
+    {
+      "title": "AMD游戏引擎专利曝光：草图秒变逼真游戏画面，可替代虚幻引擎部分功能",
+      "desc": "AMD\"基于AI的游戏与渲染引擎\"专利：通过神经外推+智能超采样技术，开发者仅需简单草图AI即可生成详细游戏内容与场景；整套AI模块可替代传统引擎运算任务，大幅降低开发门槛与算力消耗。",
+      "url": "https://www.sohu.com/a/1023923250_122066678",
+      "source": "搜狐",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "AIGC游戏：探索人工智能生成内容在游戏中的创新应用",
+      "desc": "系统探讨AIGC在游戏场景生成/交互式叙事/程序化生成中的技术原理与实践，涵盖核心算法、数学模型与项目实战代码，为游戏开发者提供全面技术参考。",
+      "url": "https://download.csdn.net/blog/column/12557266/148045532",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "中手游联手极逸人工智能推出AI一站式智能体GamePartner.AI",
+      "desc": "GamePartner.AI依托自研游戏垂直领域模型，支持自然语言及视频生成可玩休闲游戏，面向全球休闲游戏市场提供从开发到发行的一站式智能体，解决中小开发者资源短缺痛点。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_18869fd465f39052",
+      "source": "企鹅号",
+      "pubDate": "2026-05-08"
+    }
+  ],
+  "drama": [
+    {
+      "title": "普通人做AI短剧：2个方法3分钟学会，从一键生成到分镜脚本掌控全流程",
+      "desc": "新浪详解AI短剧制作两大路径：一键生成法输入描述选风格即可出片含配乐字幕配音；进阶法用分镜脚本掌控故事细节，AI润色扩写+逐镜头生成，创作门槛大幅降低。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905nvy2.html",
+      "source": "新浪网",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "2026西北AI短剧/漫剧生态发展交流会在陕西圆满落幕",
+      "desc": "5月16日中国广告协会指导的\"AI新势能 漫剧正当红\"交流会在陕西西咸国际会议中心举办，为西北地区首个聚焦AI短剧/漫剧行业上下游的生态发展交流会，探讨AI漫剧产业区域化发展路径。",
+      "url": "https://www.sohu.com/a/1024283569_122009842",
+      "source": "搜狐",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "人民网深度调研AI漫剧产业：微短剧更应向\"心\"生长",
+      "desc": "人民网走访郑州AI漫剧制作一线：分镜师通过工作流指令生成视频，AI漫剧/仿真人剧从尝鲜走向主流；但业界呼吁微短剧应重\"心\"而非仅追技术风口，内容价值才是根本。",
+      "url": "http://hb.people.com.cn/n2/2026/0517/c194063-41582392.html",
+      "source": "人民网",
+      "pubDate": "2026-05-17"
+    },
+    {
+      "title": "AI漫剧市场规模\"狂飙\"，业界期待人工创意与AI深度协同",
+      "desc": "郑州AI漫剧专场沙龙探讨产业：文案/画面/分镜/配音/剪辑渐由AI执行，漫剧赛道进入\"无人区\"；业界呼吁人机深度协同而非简单替代。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9506a05b30418752",
+      "source": "企鹅号/中新网",
+      "pubDate": "2026-05-14"
+    }
+  ],
+  "apps": [
+    {
+      "title": "谷歌AI Studio新功能：文本直出原生安卓应用，Kotlin+Jetpack Compose构建",
+      "desc": "谷歌I/O大会宣布AI Studio加入原生安卓应用生成功能，用户直接在浏览器用文本提示创建可安装/可分享的完整安卓应用，采用Kotlin与Jetpack Compose构建，支持离线使用/GPS/蓝牙/NFC等硬件特性。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905obps.html",
+      "source": "新浪AI热点/IT之家",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "谷歌搜索框全面升级+Agent代理功能：可追踪话题/预订餐厅/监测健康",
+      "desc": "谷歌I/O大会重新设计搜索框，更好处理长复杂问题；为搜索引擎加入Agent代理功能可帮用户追踪话题/预订餐厅/监测健康，部分功能初期仅向付费用户开放；Gemini Spark助手本周推测试版。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905obps.html",
+      "source": "新浪AI热点/财联社",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "特斯拉FSD V14.3.3发布：算法架构重写，复杂环境感知大幅提升",
+      "desc": "特斯拉5月18日发布FSD V14.3.3：神经网络训练逻辑重新优化，大雾/低光照等复杂环境识别精度显著提高；AI编译器基于MLIR全新构建，系统响应速度提升约20%；覆盖日常驾驶/自动泊车/路口通行/应急响应。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905oeiw.html",
+      "source": "新浪AI热点",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "理想AI眼镜Livis OTA升级1.8.50：泊车指挥+哨兵模式+英文唤醒词",
+      "desc": "理想汽车AI眼镜Livis 1.8.50升级：新增泊车指挥功能语音控制泊车、哨兵模式高风险实时警报、英文唤醒词\"Hi Livis\"、语音唤醒开关+三种反馈模式；适配理想L9新车型。",
+      "url": "https://www.sohu.com/a/1024342506_121956424",
+      "source": "搜狐",
+      "pubDate": "2026-05-18"
+    }
+  ]
+}

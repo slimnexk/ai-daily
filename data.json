@@ -1,6 +1,6 @@
 {
-  "title": "Google I/O今日开幕：Gemini 3.2 Flash偷跑上线，百度AI收入首超一半，微软Copilot付费率仅3.3%遭前副总裁炮轰",
-  "desc": "Google I/O 2026今日开幕，Gemini 3.2 Flash大会前偷跑被开发者抓包，单次生成2200行代码；百度Q1财报AI业务收入136亿首次占比52%；微软前副总裁炮轰Copilot付费率仅3.3%。",
+  "title": "Google I/O 2026开幕：Gemini 3.5 Flash+Omni+Spark三连发，阿里千问Qwen3.7今正式发布，Claude Code默认切Opus 4.7",
+  "desc": "Google I/O 2026凌晨开幕，Gemini 3.5 Flash干翻上代Pro、Omni全能模型一句话改视频、Spark全天候AI代理登场；阿里云峰会今日发布Qwen3.7；Anthropic上调Claude Design额度翻倍，Code快速模式切Opus 4.7。",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
@@ -17,10 +17,6 @@
     "2026-05-03": {
       "title": "2026年5月3日AI简报：DeepSeek多模态突破，国产世界模型登顶全球，Claude Security公测上线",
       "desc": "今日AI领域动态频出：DeepSeek发布多模态新范式性能超越GPT-5.4；国产GigaWorld-1世界模型登顶全球榜首；Anthropic开放Claude Security公测；GitHub热门Agent框架与Skills库持续更新。"
-    },
-    "2026-05-02": {
-      "title": "2026年5月2日AI资讯简报：世界模型、Agent框架、OpenClaw更新",
-      "desc": "今日汇总世界模型公司进展、GitHub热门AI开源项目、OpenClaw功能更新三大领域近10天内的优质资讯，共收录10条最新内容。"
     },
     "2026-05-10": {
       "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
@@ -61,6 +57,10 @@
     "2026-05-19": {
       "title": "Google I/O今日开幕：Gemini 3.2 Flash偷跑上线，百度AI收入首超一半，微软Copilot付费率仅3.3%遭前副总裁炮轰",
       "desc": "Google I/O 2026今日开幕，Gemini 3.2 Flash大会前偷跑被开发者抓包，单次生成2200行代码；百度Q1财报AI业务收入136亿首次占比52%；微软前副总裁炮轰Copilot付费率仅3.3%。"
+    },
+    "2026-05-20": {
+      "title": "Google I/O 2026开幕：Gemini 3.5 Flash+Omni+Spark三连发，阿里千问Qwen3.7今正式发布，Claude Code默认切Opus 4.7",
+      "desc": "Google I/O 2026凌晨开幕，Gemini 3.5 Flash干翻上代Pro、Omni全能模型一句话改视频、Spark全天候AI代理登场；阿里云峰会今日发布Qwen3.7；Anthropic上调Claude Design额度翻倍，Code快速模式切Opus 4.7。"
     }
   }
 }
