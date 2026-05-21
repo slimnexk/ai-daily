@@ -1,6 +1,6 @@
 {
-  "title": "Google I/O 2026开幕：Gemini 3.5 Flash+Omni+Spark三连发，阿里千问Qwen3.7今正式发布，Claude Code默认切Opus 4.7",
-  "desc": "Google I/O 2026凌晨开幕，Gemini 3.5 Flash干翻上代Pro、Omni全能模型一句话改视频、Spark全天候AI代理登场；阿里云峰会今日发布Qwen3.7；Anthropic上调Claude Design额度翻倍，Code快速模式切Opus 4.7。",
+  "title": "Qwen3.7-Max登顶国产第一、DeepSeek组建Harness团队对标Claude Code、OpenClaw白皮书发布",
+  "desc": "阿里云峰会发布Qwen3.7-Max登顶Arena国产榜首+真武M890芯片+千问云上线；DeepSeek正式组建Harness团队做DeepSeek Code Harness对标Claude Code；OpenClaw类自主智能体白皮书5月20日发布。",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
@@ -13,10 +13,6 @@
     "2026-05-05": {
       "title": "",
       "desc": ""
-    },
-    "2026-05-03": {
-      "title": "2026年5月3日AI简报：DeepSeek多模态突破，国产世界模型登顶全球，Claude Security公测上线",
-      "desc": "今日AI领域动态频出：DeepSeek发布多模态新范式性能超越GPT-5.4；国产GigaWorld-1世界模型登顶全球榜首；Anthropic开放Claude Security公测；GitHub热门Agent框架与Skills库持续更新。"
     },
     "2026-05-10": {
       "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
@@ -61,6 +57,10 @@
     "2026-05-20": {
       "title": "Google I/O 2026开幕：Gemini 3.5 Flash+Omni+Spark三连发，阿里千问Qwen3.7今正式发布，Claude Code默认切Opus 4.7",
       "desc": "Google I/O 2026凌晨开幕，Gemini 3.5 Flash干翻上代Pro、Omni全能模型一句话改视频、Spark全天候AI代理登场；阿里云峰会今日发布Qwen3.7；Anthropic上调Claude Design额度翻倍，Code快速模式切Opus 4.7。"
+    },
+    "2026-05-21": {
+      "title": "Qwen3.7-Max登顶国产第一、DeepSeek组建Harness团队对标Claude Code、OpenClaw白皮书发布",
+      "desc": "阿里云峰会发布Qwen3.7-Max登顶Arena国产榜首+真武M890芯片+千问云上线；DeepSeek正式组建Harness团队做DeepSeek Code Harness对标Claude Code；OpenClaw类自主智能体白皮书5月20日发布。"
     }
   }
 }
