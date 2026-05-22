@@ -1,16 +1,12 @@
 {
-  "title": "Qwen3.7-Max登顶国产第一、DeepSeek组建Harness团队对标Claude Code、OpenClaw白皮书发布",
-  "desc": "阿里云峰会发布Qwen3.7-Max登顶Arena国产榜首+真武M890芯片+千问云上线；DeepSeek正式组建Harness团队做DeepSeek Code Harness对标Claude Code；OpenClaw类自主智能体白皮书5月20日发布。",
+  "title": "OpenAI最快今日提交IPO申请估值瞄准万亿、月之暗面赴港IPO估值200亿美元、智谱ZCube不加GPU算力多15%",
+  "desc": "OpenAI联合高盛摩根士丹利最快5月22日秘密提交IPO申请，目标估值1万亿美元；月之暗面启动VIE拆除赴港IPO，估值半年涨4倍至200亿美元；智谱发布ZCube网络架构，同等硬件推理吞吐提升15%。",
   "dates": {
     "2026-05-08": {
       "title": "2026年5月8日AI资讯：大模型迭代加速，Agent框架爆发，世界模型融资热",
       "desc": "今日AI领域动态：大模型方面GPT-5.4、Claude Opus 4.6等旗舰模型持续更新；GitHub上OpenClaw等Agent框架热度飙升；世界模型领域国内极佳视界成百亿独角兽；Claude推出Computer Use等功能更新。"
     },
     "2026-05-06": {
-      "title": "",
-      "desc": ""
-    },
-    "2026-05-05": {
       "title": "",
       "desc": ""
     },
@@ -61,6 +57,10 @@
     "2026-05-21": {
       "title": "Qwen3.7-Max登顶国产第一、DeepSeek组建Harness团队对标Claude Code、OpenClaw白皮书发布",
       "desc": "阿里云峰会发布Qwen3.7-Max登顶Arena国产榜首+真武M890芯片+千问云上线；DeepSeek正式组建Harness团队做DeepSeek Code Harness对标Claude Code；OpenClaw类自主智能体白皮书5月20日发布。"
+    },
+    "2026-05-22": {
+      "title": "OpenAI最快今日提交IPO申请估值瞄准万亿、月之暗面赴港IPO估值200亿美元、智谱ZCube不加GPU算力多15%",
+      "desc": "OpenAI联合高盛摩根士丹利最快5月22日秘密提交IPO申请，目标估值1万亿美元；月之暗面启动VIE拆除赴港IPO，估值半年涨4倍至200亿美元；智谱发布ZCube网络架构，同等硬件推理吞吐提升15%。"
     }
   }
 }

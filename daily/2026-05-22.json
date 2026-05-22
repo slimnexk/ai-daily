@@ -1,0 +1,440 @@
+{
+  "title": "OpenAI最快今日提交IPO申请估值瞄准万亿、月之暗面赴港IPO估值200亿美元、智谱ZCube不加GPU算力多15%",
+  "desc": "OpenAI联合高盛摩根士丹利最快5月22日秘密提交IPO申请，目标估值1万亿美元；月之暗面启动VIE拆除赴港IPO，估值半年涨4倍至200亿美元；智谱发布ZCube网络架构，同等硬件推理吞吐提升15%。",
+  "featured": [
+    {
+      "title": "OpenAI最快今日秘密提交IPO申请，目标估值1万亿美元",
+      "desc": "华尔街日报报道OpenAI联合高盛摩根士丹利，最快5月22日向SEC秘密递交IPO文件；目标今年9月上市，当前私营估值8520亿美元，IPO或成史上最大之一；软银应声暴涨20%",
+      "url": "http://finance.eastmoney.com/a/202605213743945658.html",
+      "label": "OpenAI IPO",
+      "icon": "🚀",
+      "color": "#10B981",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "月之暗面启动赴港IPO：200亿美元估值，半年暴涨4倍",
+      "desc": "AI六小龙之首月之暗面向全体股东发出通知全面拆除VIE红筹架构；最新投后估值突破200亿美元，半年累计融资39亿美元；美团龙珠领投，中国移动等央企入局",
+      "url": "https://www.toutiao.com/article/7642391116968493583/",
+      "label": "月之暗面IPO",
+      "icon": "🌙",
+      "color": "#8B5CF6",
+      "pubDate": "2026-05-22"
+    },
+    {
+      "title": "智谱发布ZCube：不加一块GPU，算力多出15%",
+      "desc": "智谱联合驭驯网络与清华在GLM-5.1集群落地ZCube组网架构；GPU推理吞吐提升15%，TTFT P99降低40.6%，交换机成本省33%；万卡集群可省2.1-6.4亿元网络硬件",
+      "url": "https://www.yicai.com/brief/103194233.html",
+      "label": "智谱ZCube",
+      "icon": "🧊",
+      "color": "#3B82F6",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "Gartner：2026全球AI支出将达2.59万亿美元，同比增长47%",
+      "desc": "GenAI模型与AI智能体支出将增加逾一倍，新增约600亿美元；全球AI模型支出今年预计突破320亿美元，2027年接近600亿美元；四分之三技术领导者将可量化企业价值列为首要目标",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8756a0ea27122352",
+      "label": "全球AI支出",
+      "icon": "💰",
+      "color": "#F59E0B",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "米粉店老板回应本地人7元游客13元",
+      "url": "https://s.weibo.com/weibo?q=%E7%B1%B3%E7%B2%89%E5%BA%97%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E6%9C%AC%E5%9C%B0%E4%BA%BA7%E5%85%83%E6%B8%B8%E5%AE%A213%E5%85%83",
+      "source": "微博",
+      "heat": "热搜榜首"
+    },
+    {
+      "title": "抖音封了打焦赞直播间",
+      "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E5%B0%81%E4%BA%86%E6%89%93%E7%84%A6%E8%B5%9E%E7%9B%B4%E6%92%AD%E9%97%B4",
+      "source": "微博",
+      "heat": "热搜第一"
+    },
+    {
+      "title": "孙颖莎王楚钦混双搭档第九年",
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B7%B7%E5%8F%8C%E6%90%AD%E6%A1%A3%E7%AC%AC%E4%B9%9D%E5%B9%B4",
+      "source": "微博",
+      "heat": "上榜"
+    },
+    {
+      "title": "给阿嬷的情书2000万投流（谣言）",
+      "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%95%E7%9A%84%E6%83%85%E4%B9%A62000%E4%B8%87%E6%8A%95%E6%B5%81",
+      "source": "微博",
+      "heat": "辟谣"
+    },
+    {
+      "title": "于娜退圈十年归来胖若两人",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E5%A8%9C%E9%80%80%E5%9C%88%E5%8D%81%E5%B9%B4%E5%BD%92%E6%9D%A5%E8%83%96%E8%8B%A5%E4%B8%A4%E4%BA%BA",
+      "source": "微博",
+      "heat": "上榜"
+    },
+    {
+      "title": "抖音封了打焦赞直播间 录播伪装直播被处罚",
+      "url": "https://www.douyin.com/",
+      "source": "抖音",
+      "heat": "热搜第一"
+    },
+    {
+      "title": "主角热度 反抖音营销第一枪",
+      "url": "https://www.douyin.com/",
+      "source": "抖音",
+      "heat": "热搜上榜"
+    },
+    {
+      "title": "给阿嬷的情书 投流谣言",
+      "url": "https://www.douyin.com/",
+      "source": "抖音",
+      "heat": "辟谣"
+    },
+    {
+      "title": "小满五不吃入夏病不沾",
+      "url": "https://www.douyin.com/",
+      "source": "抖音",
+      "heat": "上榜"
+    },
+    {
+      "title": "于娜退圈十年归来 21天重养自己",
+      "url": "https://www.douyin.com/",
+      "source": "抖音",
+      "heat": "上榜"
+    }
+  ],
+  "llm": [
+    {
+      "title": "阿里语音大模型Fun-Realtime获三项第一，超越GPT-Realtime-2",
+      "desc": "Fun-Realtime-ASR词错误率仅1.8%，毫秒级响应覆盖30+语言和7大中文方言；在听准、听懂、会聊三项指标登顶Artificial Analysis",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6326a0ec85a59352",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "北大百度联合提出RepoZero：首个可验证的仓库级代码生成基准",
+      "desc": "首次为\"从零生成完整代码仓库\"提供可验证可扩展自动化评测框架ACE；推动代码补全迈向自动化软件工程新方向",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9156a0ec83b16852",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "英伟达Q1利润583.21亿美元暴增211%",
+      "desc": "英伟达最新季度财报亮眼，AI芯片需求持续爆发；同期阿里云峰会曝光真武M890芯片性能3倍于上代；中国大模型周调用量已达美国2.11倍",
+      "url": "http://www.sohu.com/a/1025415283_413980",
+      "source": "搜狐",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "github": [
+    {
+      "title": "高德开源SkillClaw：Agent Skills跨框架共享，支持Hermes/Claude Code/OpenClaw",
+      "desc": "高德推出SkillClaw框架解决Agent技能碎片化问题；支持Hermes、Codex、Claude Code、OpenClaw、QwenPaw等主流Agent；兼容任意OpenAI接口，已获1.3k星",
+      "url": "https://new.qq.com/rain/a/20260520A035M700",
+      "source": "腾讯网",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "Superpowers逼近20万星、OpenHuman日涨3.6k星：5月GitHub最火5大AI项目",
+      "desc": "Superpowers 199,943星(日涨1.7k)结构化编码方法论；OpenHuman 23,534星(日涨3.6k增速最快)桌面AI管家118+集成；Karpathy Skills 140,667星",
+      "url": "https://blog.csdn.net/Aliaoo/article/details/161287758",
+      "source": "CSDN",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "Hermes Agent代码Review完整指南：从单文件审查到PR自动化",
+      "desc": "2026年5月版Hermes Agent通过CLI+Skills+Webhook+子Agent+MCP+Hooks实现全PR自动化评审；核心优势在事件触发+跨平台投递+可复用Skill",
+      "url": "https://segmentfault.com/a/1190000047762760",
+      "source": "SegmentFault",
+      "pubDate": "2026-05-13"
+    }
+  ],
+  "world": [
+    {
+      "title": "LiberAI三个月融资近5亿元：清华00后特奖得主做物理世界模型",
+      "desc": "刘松铭创立的LiberAI连续完成种子/天使/天使+轮；红杉中国、美团龙珠、顺为资本(雷军)等押注；瞄准人类UMI数据+世界模型新范式",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0666a0ee21a08752",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "智象未来完成亿级融资，同日发布原生全模态大模型",
+      "desc": "深创投、金浦投资等参与；半个月内连续完成两轮融资；视觉生成+具身智能融合，底层架构与产品化持续突破",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2906a0ec69f40152",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "中科院自动化所NeoVerse-ABot夺AGIBOT世界模型赛冠军",
+      "desc": "ICRA 2026上153支全球顶尖团队角逐；图像质量和动作跟随双指标第一；探索动作条件世界模型为机器人打造物理大脑",
+      "url": "http://news.sciencenet.cn/htmlnews/2026/5/564916.shtm",
+      "source": "科学网",
+      "pubDate": "2026-05-19"
+    }
+  ],
+  "trend": [
+    {
+      "name": "obra/superpowers",
+      "stars": "199,943",
+      "type": "AI编码方法论",
+      "desc": "给Claude Code/Codex/Cursor装上结构化工作流；TDD+子代理并行+两阶段审查；日涨1.7k星逼近20万",
+      "tags": [
+        "编码",
+        "方法论",
+        "Claude Code"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "iconType": "⚡",
+      "icon": "⚡",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": "23,534",
+      "type": "桌面AI Agent",
+      "desc": "桌面AI管家118+集成+本地知识图谱+Obsidian；日涨3.6k星为当日增速最快；Rust核心TypeScript前端",
+      "tags": [
+        "Agent",
+        "桌面",
+        "Rust"
+      ],
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "iconType": "👤",
+      "icon": "👤",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "name": "AMAP-ML/SkillClaw",
+      "stars": "1,300+",
+      "type": "Agent Skills共享",
+      "desc": "高德开源跨框架Agent技能共享；支持Hermes/Claude Code/OpenClaw/QwenPaw；兼容任意OpenAI接口",
+      "tags": [
+        "Skills",
+        "跨框架",
+        "高德"
+      ],
+      "url": "https://github.com/AMAP-ML/SkillClaw",
+      "iconType": "🦅",
+      "icon": "🦅",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "name": "karpathy/skills",
+      "stars": "140,667",
+      "type": "Claude Code Skills",
+      "desc": "Karpathy本人调教的Claude Code提示词集合；持续增长稳居GitHub AI项目前三",
+      "tags": [
+        "Skills",
+        "Karpathy",
+        "Claude"
+      ],
+      "url": "https://github.com/karpathy/skills",
+      "iconType": "🎓",
+      "icon": "🎓",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "design": [
+    {
+      "title": "腾讯AI设计智能体协作平台Ardot正式开启公测",
+      "desc": "钛媒体5/18消息：腾讯Ardot公测，一句话生成可编辑UI、Figma零成本导入、基于MCP一键转代码直通IDE、多人实时协作。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2066a0a872081552",
+      "source": "企鹅号（钛媒体）",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "腾讯发布Ardot：AI设计新平台，协作与效率双提升",
+      "desc": "Ardot流式生成可编辑设计稿，自然语言调整按钮/颜色不重绘整页；Figma文件直接导入保留布局组件；MCP协议推送至IDE。",
+      "url": "https://www.sohu.com/a/1024993722_121885030",
+      "source": "搜狐",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "AI视觉创作工具Claude Design来了！Anthropic的野心远不止AI作图",
+      "desc": "Claude Design发布后Figma股价暴跌7%，Adobe同步跟跌；这不是AI画图工具而是设计工作流变革，深度解析差异化优势。",
+      "url": "https://blog.csdn.net/llooyyuu/article/details/160284457",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-18"
+    }
+  ],
+  "video": [
+    {
+      "title": "最新消息：Seedance 2.1预计6月底发布",
+      "desc": "AI普瑞斯5/21消息：Seedance 2.1预计6月23日Froce大会发布，效果比2.0提升20%。此前字节官方否认'近期发布'，现给出更明确时间线。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2956a0ed3b095852",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "字节跳动Seedance 2.1发布传言被辟谣，AI视频生成市场竞争加剧",
+      "desc": "5/20接近字节人士向21快讯否认2.1即将发布；同日IT之家等多家报道2.1发布在即+效果提升20%；辟谣与传闻同日对撞，市场竞争白热化。",
+      "url": "https://www.sohu.com/a/1025100661_121956424",
+      "source": "搜狐",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "在AI视频生成这块，'遥遥领先'成真了",
+      "desc": "新浪5/21深度：字节称2.1为假消息，但Seedance 2.0海外热度大涨；中国AI视频模型在Arena测试中全面反超海外，创作者用脚投票。",
+      "url": "https://k.sina.com.cn/article_5953190046_162d6789e0670367wc.html",
+      "source": "新浪网",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2026年AI核心关键词：智能体(Agent)六大工作流设计模式",
+      "desc": "链式/路由式/评估优化式/并行式/编排者-执行者/分布式六大Agent工作流模式深度解析，含医疗/工业/政务典型场景。",
+      "url": "https://blog.csdn.net/2401_84815887/article/details/157029501",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "RAG与Agent融合：打造具备领域知识的智能体",
+      "desc": "RAG解决LLM知识局限，Agent赋予自主决策能力，两者融合打造具备领域知识的智能体；检索增强+自主行动的协同架构。",
+      "url": "https://download.csdn.net/blog/column/12648270/160259486",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "AI智能体的开发流程：从场景定义到系统工程的六阶段",
+      "desc": "2026年工业界标准Agent开发流程六阶段：场景定义与边界设定→认知架构选型→记忆系统→工具调用→安全红线→反思规划。",
+      "url": "https://www.sohu.com/a/1025143617_121198703",
+      "source": "搜狐",
+      "pubDate": "2026-05-20"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "2026最新GPT-Image-2与主流生图基座模型极限横评（万字深度架构）",
+      "desc": "GPT-Image-2 vs Nano Banana 2 vs 豆包Seedream-5极限横评，物理光影渲染+长程语义遵循+国内高并发API接入实战。",
+      "url": "https://blog.csdn.net/weixin_57978701/article/details/160243891",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-15"
+    },
+    {
+      "title": "生图新王GPT-image-2已用！附使用教程生成案例",
+      "desc": "GPT-image-2已超越Nano Banana 2坐上SOTA宝座，中文文案海报文字渲染问题终结，附完整使用教程与生成案例。",
+      "url": "https://blog.csdn.net/SDFsoul/article/details/160507558",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "GPT Image 2在线AI图像生成器与照片编辑工具（多模型聚合平台）",
+      "desc": "集成Nano Banana Pro/Seedream/GPT Image等顶级模型，一站式覆盖文生图/图生图/多图融合，支持4K输出15秒出图。",
+      "url": "https://www.gpt-image2ai.org/",
+      "source": "gpt-image2ai.org",
+      "pubDate": "2026-05-20"
+    }
+  ],
+  "industry": [
+    {
+      "title": "英伟达Q1财报深度：营收816亿数据中心增92%，盘后一度跳水3%后回升",
+      "desc": "英伟达Q1营收816亿同比增85%，数据中心752亿增92%创新高；Q2指引910亿超华尔街870亿预期；净利润583亿同比增211%；但盘后一度跳水因市场预期过高，3客户占总收入54%引集中度担忧。",
+      "url": "http://stock.10jqka.com.cn/usstock/20260521/c676849954.shtml",
+      "source": "同花顺财经",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "英伟达业绩狂飙但投资者难被打动：自研芯片压力+客户集中度风险",
+      "desc": "英伟达Q1超预期但盘后跌1.2%——3客户占营收54%高度集中；谷歌/亚马逊/AMD自研定制芯片挑战长期地位；科技巨头今年AI资本支出预计超7000亿美元但正试图降低对英伟达依赖；黄仁勋称增长将快于云厂商资本开支。",
+      "url": "http://finance.eastmoney.com/a/202605213745225716.html",
+      "source": "东方财富网",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "2026年AI赛道最大金主英伟达：2个月投资9家超600亿美元，从卖铲人变生态架构师",
+      "desc": "IT桔子记录显示英伟达1-3月连续出手投资9家AI头部企业，累计超600亿美元含OpenAI 300亿大手笔；战略从\"卖铲人\"向\"生态架构师\"转型，投资覆盖芯片/模型/算力全链条。",
+      "url": "http://k.sina.com.cn/article_7857201856_1d45362c001905q9uq.html",
+      "source": "新浪网",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "5月AI圈大事件：微软收购Fintool AI整合Office全家桶+Kimi融资20亿美元",
+      "desc": "微软收购AI金融工具Fintool AI全面整合Excel/Word/PowerPoint增强金融分析；国产Kimi即将完成20亿美元融资为2026年国产AI最大之一；英伟达高层访华引发A股AI板块集体上涨。",
+      "url": "https://www.cnblogs.com/ai-observe-diary/p/20069370",
+      "source": "博客园",
+      "pubDate": "2026-05-18"
+    }
+  ],
+  "game": [
+    {
+      "title": "浙江省高校电竞赛AIGC大赛获奖作品出炉：蚂蚁灵光App助力零基础创作",
+      "desc": "浙江省电竞赛AIGC赛道吸引50余高校1000+作品参赛，选手用蚂蚁灵光App零编程基础自然语言描述即可生成电竞主题交互应用，分\"电竞小游戏\"和\"电竞通用工具\"两赛道评选获奖。",
+      "url": "https://new.qq.com/rain/a/20260521A0491D00",
+      "source": "腾讯网",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "2026年AI游戏生成工具5款横评：DevokAI一句话生成手游+Pixelfork移动端发布",
+      "desc": "DevokAI Game Generator(飞写AI游戏)一句话生成可玩手游+支持微信小程序；Pixelfork专注移动端APK/AAB导出上架；Instaply网页社交传播；Ludo.ai市场研究素材辅助；RPGGO叙事/RPG方向。",
+      "url": "https://www.sohu.com/a/1025251589_122825049",
+      "source": "搜狐",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "AMD游戏引擎专利深度解读：火柴人秒变超写实画面，重构游戏内容生成流程",
+      "desc": "AMD\"基于AI的游戏与渲染引擎\"专利：神经外推+智能超分辨率从火柴人等极简模型生成精细图像；AI模块替代传统引擎大量图形运算，从根本上重构内容生成流程。",
+      "url": "https://game.zol.com.cn/1181/11818215.html",
+      "source": "中关村在线",
+      "pubDate": "2026-05-17"
+    }
+  ],
+  "drama": [
+    {
+      "title": "千龙网报道：西北首个AI短剧/漫剧全产业链交流会圆满落幕，千人规模",
+      "desc": "5月16日中国广告协会指导的西北首个AI短剧/漫剧全产业链交流会在西咸成功举办，汇聚约800名行业精英，围绕技术革新、产业升级、精品创作、合规运营与全球化出海深度研讨。",
+      "url": "https://ent.qianlong.com/2026/0521/8671591.shtml",
+      "source": "千龙网",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "2026年5月AI短剧工具推荐：Seedance 2.0电影级运镜+Kling 3.0全流程Agent+HappyHorse动画",
+      "desc": "搜狐横评5月最佳AI短剧工具：Seedance 2.0专业级电影运镜+分镜控制；Kling 3.0全流程创作Agent从剧本到视频一站完成；HappyHorse专注2D/3D漫剧动画生成新手友好；GPT Image 2等。",
+      "url": "https://www.sohu.com/a/1025230412_120444720",
+      "source": "搜狐",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "2026年AI漫剧赛道分析：市场规模有望达240亿，用户从1.2亿增至2.8亿",
+      "desc": "2025年AI漫剧市场规模168亿/上线3.76万部/播放700亿次；2026年预计达240亿，用户增至2.8亿。行业正从野蛮生长向精品化转型，技术迭代重塑内容生产逻辑。",
+      "url": "https://www.sohu.com/a/1024745291_121610421",
+      "source": "搜狐",
+      "pubDate": "2026-05-19"
+    },
+    {
+      "title": "人民网深度调研AI漫剧产业：微短剧更应向\"心\"生长",
+      "desc": "人民网走访郑州AI漫剧一线：AI漫剧/仿真人剧从尝鲜走向主流；但业界呼吁微短剧应重\"心\"而非仅追技术风口，内容价值才是根本。",
+      "url": "http://hb.people.com.cn/n2/2026/0517/c194063-41582392.html",
+      "source": "人民网",
+      "pubDate": "2026-05-17"
+    }
+  ],
+  "apps": [
+    {
+      "title": "腾讯上线OS级AI助手Marvis跨端操控+智谱AutoClaw移动端APP+Photoshop 27.7",
+      "desc": "5月21日AI日报：腾讯Marvis在操作系统层级实现深度整合支持跨端可视化操控；智谱AI推出AutoClaw移动端APP支持云端双模式；Photoshop 27.7移除工具支持本地AI+生成式积分翻倍。",
+      "url": "https://new.qq.com/rain/a/20260521A0774200",
+      "source": "腾讯网",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "阿里平头哥真武M890重磅亮相：性能跃升3倍+OpenAI引入Google SynthID图像水印",
+      "desc": "阿里平头哥真武M890芯片性能跃升3倍，开启\"芯-云-模型-推理\"全栈Agent化时代；OpenAI引入Google SynthID水印打击虚假图片；亚马逊SageMaker AI推出兼容OpenAI API实时推理端点。",
+      "url": "https://new.qq.com/rain/a/20260521A0774200",
+      "source": "腾讯网/AIbase",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "2026中国AI应用全景图谱发布：五大趋势重塑行业",
+      "desc": "量子位智库在第四届中国AIGC产业峰会上发布2026中国AI应用全景图谱报告，揭示五大趋势重塑行业格局，涵盖智能体化/垂直深融/算力重构/可信治理/普惠化并行方向。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0546a0d4cc101452",
+      "source": "企鹅号/量子位",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "谷歌AI Studio新功能：文本直出原生安卓应用，Kotlin+Jetpack Compose构建",
+      "desc": "谷歌I/O大会宣布AI Studio加入原生安卓应用生成功能，浏览器用文本提示创建可安装完整安卓应用，Kotlin+Jetpack Compose构建，支持离线/GPS/蓝牙/NFC硬件特性。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905obps.html",
+      "source": "新浪AI热点/IT之家",
+      "pubDate": "2026-05-20"
+    }
+  ]
+}
