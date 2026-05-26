@@ -1,0 +1,440 @@
+{
+  "title": "华为发布半导体韬定律剑指1.4nm、DeepSeek-V4-Flash登顶全球调用榜、宇树科技科创板IPO定档6月1日",
+  "desc": "华为在ISCAS 2026正式发布韬(τ)定律，以时间缩微替代几何缩微，预计2031年达1.4nm同等水平；DeepSeek-V4-Flash周调用3.43万亿Token登顶全球；宇树科技科创板IPO 6月1日上会，拟募资42亿。",
+  "featured": [
+    {
+      "title": "华为发布半导体\"韬(τ)定律\"：以时间缩微替代几何缩微，剑指1.4nm",
+      "desc": "华为何庭波在ISCAS 2026发布韬定律，以逻辑折叠等核心技术压缩信号时延；6年量产381款芯片；秋季麒麟芯片搭载逻辑折叠；预计2031年达1.4nm同等水平；A股半导体板块大幅拉升",
+      "url": "http://finance.people.com.cn/n1/2026/0526/c1004-40727170.html",
+      "label": "华为韬定律",
+      "icon": "🔶",
+      "color": "#F59E0B",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "DeepSeek-V4-Flash登顶全球AI大模型调用榜，国产连续4周超美国",
+      "desc": "OpenRouter数据：上周全球总调用28.9万亿Token五连涨；DeepSeek-V4-Flash 3.43万亿Token登顶，环比+66%；腾讯Hy3 preview第二3.07万亿；中国9.22万亿 vs 美国4.93万亿",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8086a13ec3b88652",
+      "label": "DeepSeek登顶",
+      "icon": "🐋",
+      "color": "#3B82F6",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "宇树科技科创板IPO定档6月1日上会，拟募资42亿冲击具身智能第一股",
+      "desc": "上交所公告6月1日审议宇树科技首发申请；拟募资42.02亿投向机器人研发制造基地；2025年营收约17亿毛利率60%+；已通过现场检查，如过会将成为A股人形机器人第一股",
+      "url": "http://jjckb.xinhuanet.com/20260526/1b1b591541a548a5be401f874e848c1c/c.html",
+      "label": "宇树IPO",
+      "icon": "🤖",
+      "color": "#10B981",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "5月国产大模型融资超300亿：月之暗面、阶跃星辰引领资本狂潮",
+      "desc": "5月月之暗面、阶跃星辰等拿下超300亿融资；阶跃星辰年内融资或超200亿冲刺港股；米奥会展1.5亿入股阶跃；Q1 AI领域融资近600起总额超1100亿同比+185.4%",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-25/doc-inhzamvr5188953.shtml",
+      "label": "AI融资300亿",
+      "icon": "💰",
+      "color": "#8B5CF6",
+      "pubDate": "2026-05-25"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "盒马郑重道歉",
+      "url": "https://s.weibo.com/weibo?q=%E7%9B%92%E9%A9%AC%E9%83%91%E9%87%8D%E9%81%93%E6%AD%89",
+      "source": "微博",
+      "heat": "116万"
+    },
+    {
+      "title": "男子打晕妻子后扔下十几米悬崖致死",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%89%93%E6%99%95%E5%A6%BB%E5%AD%90%E5%90%8E%E6%89%94%E4%B8%8B%E5%8D%81%E5%87%A0%E7%B1%B3%E6%82%AC%E5%B4%96%E8%87%B4%E6%AD%BB",
+      "source": "微博",
+      "heat": "115万"
+    },
+    {
+      "title": "网警公布5起打击整治网络谣言案例",
+      "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%835%E8%B5%B7%E6%89%93%E5%87%BB%E6%95%B4%E6%B2%BB%E7%BD%91%E7%BB%9C%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B",
+      "source": "微博",
+      "heat": "101万"
+    },
+    {
+      "title": "时代少年团的能量新选择",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%9A%84%E8%83%BD%E9%87%8F%E6%96%B0%E9%80%89%E6%8B%A9",
+      "source": "微博",
+      "heat": "100万"
+    },
+    {
+      "title": "王鹤棣客栈录制期间不开心",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AE%A2%E6%A0%88%E5%BD%95%E5%88%B6%E6%9C%9F%E9%97%B4%E4%B8%8D%E5%BC%80%E5%BF%83",
+      "source": "微博",
+      "heat": "100万"
+    },
+    {
+      "title": "乘客酒后误付车费19万余元 出租车司机报警归还",
+      "url": "https://www.douyin.com/video/7643725738570484992",
+      "source": "抖音",
+      "heat": "9315万播放"
+    },
+    {
+      "title": "饭店的暑假工 店长的假人设",
+      "url": "https://www.douyin.com/video/7643410590345789608",
+      "source": "抖音",
+      "heat": "4277万播放"
+    },
+    {
+      "title": "一只狗能闯多大祸 轻轻咬了一口",
+      "url": "https://www.douyin.com/video/7643357967026827983",
+      "source": "抖音",
+      "heat": "2921万播放"
+    },
+    {
+      "title": "饭店的暑假工 海鲜不新鲜",
+      "url": "https://www.douyin.com/video/7643074072050470479",
+      "source": "抖音",
+      "heat": "2884万播放"
+    },
+    {
+      "title": "带大黑牛自律的一天",
+      "url": "https://www.douyin.com/video/7642983498198665649",
+      "source": "抖音",
+      "heat": "2393万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "智谱发布GLM-5.1高速版API：400 tokens/s刷新全球速度上限",
+      "desc": "基于旗舰GLM-5.1能力，TileRT引擎实现编译期静态编排；30秒生成复杂网页代码；50个Agent并行调度；首次兼顾旗舰能力与极致低延迟",
+      "url": "https://www.sohu.com/a/1025964350_115433",
+      "source": "搜狐",
+      "pubDate": "2026-05-22"
+    },
+    {
+      "title": "英伟达Q1营收816亿美元同比+85%，数据中心752亿+92%，Q2指引910亿",
+      "desc": "数据中心计算收入600亿+77%，网络收入150亿+近3倍；净利润583亿同比+139%；新增800亿股票回购；黄仁勋称AI基建还要烧4万亿美元",
+      "url": "http://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid/832873294449/index.phtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "具身大模型类脑VLA架构突破：智平方发布全球首个类脑VLA具身大模型",
+      "desc": "2026大脑-小脑-脊髓分工协同评估；智平方郭彦东博士团队从端到端VLA迈入类脑VLA新纪元；已搭载量产机器人在真实工厂运行",
+      "url": "https://www.ithome.com/0/955/043.htm",
+      "source": "IT之家",
+      "pubDate": "2026-05-25"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub月度榜Claude Skills霸榜半壁江山：hermes-agent 15.58万星领跑",
+      "desc": "Top5：hermes-agent 155,800星、Karpathy Skills 135,300星、mattpocock/skills 90,800星、TradingAgents 76,800星、Superpowers逼近20万星",
+      "url": "https://www.cnblogs.com/aijygc/p/20097784",
+      "source": "博客园",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "OpenHuman 23,534星日涨3.6k：桌面AI管家118+集成登顶GitHub Trending",
+      "desc": "Rust核心TypeScript前端；118+集成一键OAuth；本地知识图谱+Obsidian；每20分钟自动同步；桌面宠物加入Google Meet",
+      "url": "https://blog.csdn.net/Aliaoo/article/details/161287758",
+      "source": "CSDN",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "地平线开源HoloMotion-1：4亿参数机器人小脑大模型，端侧300FPS",
+      "desc": "面向人形机器人全身控制；从百万/千万级推至4亿级；端侧约300FPS实时推理；突破大模型在运动控制中的落地瓶颈",
+      "url": "https://www.sohu.com/a/1026398098_122066678",
+      "source": "搜狐",
+      "pubDate": "2026-05-23"
+    }
+  ],
+  "world": [
+    {
+      "title": "Figure F.03机器人连续200小时无故障分拣25万件包裹，效率为人工1.8倍",
+      "desc": "3台F.03连续作业200小时处理24.96万件，每分钟近21件全程无故障；BotQ工厂每小时产1台，效率为5个月前24倍；特斯拉Optimus Gen-3已启动量产",
+      "url": "http://news.pconline.com.cn/2157/21575011.html",
+      "source": "太平洋科技",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "特斯拉弗里蒙特工厂Model S/X产线改造为人形机器人产线，乐聚创业板IPO获受理",
+      "desc": "陶琳宣布最后一批Model S/X下线，产线将改造为Optimus产线设计年产能100万台；乐聚智能创业板IPO获受理拟募资26亿，首家使用第四套标准",
+      "url": "http://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid=833075880266/index.phtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "国家发改委：加快具身智能训练基础设施建设，支撑大小脑模型训练",
+      "desc": "发改委李超强调加快具身智能训练基础设施；地平线开源4亿参数HoloMotion-1；全国首个面向家庭场景通用机器人在武汉发布；蚂蚁灵波开源LingBot-VLA后训练工具链",
+      "url": "http://data.eastmoney.com/report/zw_industry.jshtml?infocode=AP202605261822869460",
+      "source": "东方财富网",
+      "pubDate": "2026-05-26"
+    }
+  ],
+  "trend": [
+    {
+      "name": "obra/superpowers",
+      "stars": "199,943",
+      "type": "AI编码方法论",
+      "desc": "给Claude Code/Codex/Cursor装结构化工作流；TDD+子代理并行+两阶段审查；逼近20万星",
+      "tags": [
+        "编码",
+        "方法论",
+        "Claude Code"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "iconType": "⚡",
+      "icon": "⚡",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "stars": "155,800",
+      "type": "AI Agent系统",
+      "desc": "自适应生长Agent系统；Personal Memory机制；GitHub月度榜Top1",
+      "tags": [
+        "Agent",
+        "自适应",
+        "NousResearch"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "iconType": "🧠",
+      "icon": "🧠",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "stars": "23,534",
+      "type": "桌面AI Agent",
+      "desc": "桌面AI管家118+集成+本地知识图谱+Obsidian；日涨3.6k星增速最快",
+      "tags": [
+        "Agent",
+        "桌面",
+        "Rust"
+      ],
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "iconType": "👤",
+      "icon": "👤",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "name": "HorizonRobotics/HoloMotion-1",
+      "stars": "N/A",
+      "type": "机器人小脑模型",
+      "desc": "地平线开源4亿参数机器人小脑大模型；端侧300FPS实时推理；突破运动控制落地瓶颈",
+      "tags": [
+        "机器人",
+        "小脑",
+        "开源"
+      ],
+      "url": "https://github.com/HorizonRobotics",
+      "iconType": "🦿",
+      "icon": "🦿",
+      "pubDate": "2026-05-23"
+    }
+  ],
+  "design": [
+    {
+      "title": "腾讯Ardot深度评测：一句话画App，一键转代码，Figma终于有对手了？",
+      "desc": "5/18公测后首篇深度评测：Ardot打通产品/设计/研发三端，流式生成可编辑设计稿，一键交付生产级代码，Figma零成本导入，全闭环协作。",
+      "url": "https://blog.csdn.net/xiaoma0529/article/details/161362661",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-24"
+    },
+    {
+      "title": "Figma在协作画布中新增AI助手",
+      "desc": "Figma与OpenAI和Anthropic合作，集成Claude Code和Codex，新增AI智能体可用自然语言生成/编辑设计、自动执行任务，理解设计上下文和元素。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0466a0e866a61952",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "独立设计师UI设计工具推荐(2026)：支持AI原型生成与代码导出的5款工具",
+      "desc": "评估AI原型生成质量、代码导出能力和单人工作流闭环，筛选2026年5款最适合独立设计师的UI工具，含Anima等插件对比。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/160893848",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-16"
+    }
+  ],
+  "video": [
+    {
+      "title": "AI生成视频\"三国杀\"：Seedance领跑，可灵分拆拟IPO，阿里紧跟入局",
+      "desc": "搜狐5/25深度：Seedance一家独大，可灵200亿美元分拆上市，阿里HappyHorse入局，谷歌Gemini Omni为赛道再添火。行业人士称Seedance目前效果无可超越。",
+      "url": "https://www.sohu.com/a/1027496098_211762",
+      "source": "搜狐",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "Seedance完胜！网友实测对比谷歌Gemini Omni",
+      "desc": "Google I/O 2026推出Gemini Omni强调物理理解，但网友四组运动类视频横向对比中Seedance 2.0全面胜出，Omni均存在明显差距。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4576a0e5e6f07852",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "AI视频生成赛道激战正酣：Seedance领跑 可灵谋上市 阿里HappyHorse入局竞逐",
+      "desc": "搜狐5/25：Seedance凭抖音庞大用户基础和算法推荐占显著优势，戛纳电影节参与8部AI影片；可灵拟IPO；Gemini Omni加入战局。",
+      "url": "https://www.sohu.com/a/1027531569_362225",
+      "source": "搜狐",
+      "pubDate": "2026-05-25"
+    }
+  ],
+  "rag": [
+    {
+      "title": "掌握上下文工程：打造具备记忆与检索能力的智能Agent",
+      "desc": "上下文工程=系统解决'给模型看什么、怎么看'，提出GSSC四阶段流水线：Gather汇集→Select选择→Structure结构化→Compress压缩，含子代理架构控制上下文规模。",
+      "url": "https://blog.csdn.net/WANGJUNAIJIAO/article/details/160801430",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-20"
+    },
+    {
+      "title": "2026智能体开发路线图：从入门到精通，一篇读懂AI Agent",
+      "desc": "覆盖RAG与高级推理、多Agent系统与状态管理、记忆与状态管理、用户界面与部署、监控评估与安全治理五大模块完整开发路线图。",
+      "url": "https://blog.csdn.net/Wufjsjjx/article/details/157801922",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-23"
+    },
+    {
+      "title": "大模型为什么需要\"知识库\"？详解RAG技术如何消除AI幻觉",
+      "desc": "RAG全流程详解：检索从知识库找相关片段+生成基于真实信息回答；知识来源可控，只让模型从授权知识库检索，不依赖内部参数知识。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8146a0fb76869652",
+      "source": "企鹅号",
+      "pubDate": "2026-05-22"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "极限拉扯，年轻人用AI生成美女，GPT-Image2被「玩坏」",
+      "desc": "36氪5/25：GPT-Image2把大模型竞技场评分刷到新高度，但年轻人已用它生成大量仿真美女图片，AI生图伦理边界与滥用问题凸显。",
+      "url": "https://36kr.com/p/3819195318935815",
+      "source": "36氪",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "GPT-Image-2 API接入实战：Python调用3分钟搞定",
+      "desc": "完整可运行代码，通过OpenAI Images API调用，核心参数prompt/size/n/quality，实测5-15秒生成，支持Base64和URL返回。",
+      "url": "https://blog.csdn.net/ofoxcoding/article/details/160450155",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "GPT Image2这4个玩法，太绝了吧！",
+      "desc": "4个落地可用的GPT-Image2实用玩法：直播界面生成、电商海报、仿真页面制作等，从围观看热闹到工作落地实操指南。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5696a13f91723552",
+      "source": "企鹅号",
+      "pubDate": "2026-05-25"
+    }
+  ],
+  "industry": [
+    {
+      "title": "DeepSeek V4-Pro永久降价75%登顶全球AI性价比之巅",
+      "desc": "DeepSeek宣布V4-Pro API永久降价75%，缓存命中输入低至0.025元/百万Token。Artificial Analysis评测：同任务成本仅为GPT-5.5的1/12、Claude Opus 4.7的1/19，登顶全球性价比榜首。",
+      "url": "https://www.sohu.com/a/1027550653_121850782",
+      "source": "搜狐",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "\"场景即边界\"：2026年AI产业告别宏大叙事转向具体问题",
+      "desc": "发改委5/22发布会：正谋划AI+落地配套文件，推动央国企开放高价值场景，开展AI立法研究。同日数据局印发《2026数字经济发展工作要点》八方面重点任务。AI产业从\"通用竞赛\"转向场景深耕。",
+      "url": "https://www.sohu.com/a/1027217812_122440928",
+      "source": "搜狐",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "5月24日AI大事件：Anthropic首季盈利+OpenAI冲刺万亿IPO+中美AI政府间对话",
+      "desc": "Anthropic Q2营收预计109亿美元较前季翻倍，有望实现首个盈利季度；OpenAI冲刺万亿估值IPO开出最高44万薪酬；中美开启AI政府间对话；华为昇腾端侧Agent算力突破。",
+      "url": "https://blog.csdn.net/2401_84289488/article/details/161361236",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-24"
+    },
+    {
+      "title": "5月国产大模型融资超300亿，AI创投热度持续攀升",
+      "desc": "DeepSeek推进700亿元融资（较此前500亿更大，有望创中国AI史上最大单笔）；月之暗面Kimi融资20亿美元；国产大模型5月融资总额超300亿，创投热度显著攀升。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0756a12c5a409552",
+      "source": "企鹅号",
+      "pubDate": "2026-05-24"
+    }
+  ],
+  "game": [
+    {
+      "title": "Unity GDC 2026推出自然语言生成游戏AI工具测试版",
+      "desc": "Unity在GDC 2026推出自然语言生成游戏AI工具测试版，开发者无需写代码即可用一句话创建完整休闲游戏。分析其对独立开发者和行业格局的深层影响及当前能力边界。",
+      "url": "https://00ue.com/",
+      "source": "零基础虚幻学习网",
+      "pubDate": "2026-05-24"
+    },
+    {
+      "title": "升博钻石娱乐发布VeniceEngine 3.0 AI游戏引擎：自然语言生成场景+实时物理光追",
+      "desc": "VeniceEngine 3.0融合深度学习与实时渲染，内置Transformer模型自动生成3D模型/纹理/动画；自然语言输入即可生成游戏场景如\"中世纪城堡\"；集成实时物理模拟与光追渲染。",
+      "url": "http://lcrb.lcxw.cn/link/url=wikiRUrUex3bGj-M-wiki1IGfpyN2RxRE7E",
+      "source": "聊城日报",
+      "pubDate": "2026-05-23"
+    },
+    {
+      "title": "10款小游戏生成AI工具测评榜单：Prompt-to-App从概念走向现实",
+      "desc": "IDC/信通院报告显示AI驱动Prompt-to-App成趋势。实测10款工具横评：DevokAI一句话生成可玩手游、Pixelfork移动端APK导出、RPGGO叙事RPG方向等，零代码对话式深度解析。",
+      "url": "https://www.sohu.com/a/1025741851_122553831",
+      "source": "搜狐",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "drama": [
+    {
+      "title": "欧博方发布全国首个1000秒AI漫剧平台：一键生成16.7分钟动漫短片",
+      "desc": "欧博方发布全国首个支持1000秒(约16.7分钟)时长的AI漫剧平台，远超行业30秒-3分钟限制。支持剧本→分镜→配音→配乐→合成一站式全流程，零门槛一键生成高质量动漫短片。",
+      "url": "http://lcrb.lcxw.cn/TAG.xls/wikiYmfD",
+      "source": "聊城日报",
+      "pubDate": "2026-05-24"
+    },
+    {
+      "title": "AI漫剧新风口：斩仙台播放破10亿霸榜7天，从霸总虐恋到拼技术建生态",
+      "desc": "AI漫剧《斩仙台下，我震惊了诸神！》播放破10亿连续霸榜7天；\"爱漫剧2026 AI漫剧生态产业大会\"召开预示赛道从野蛮生长转向拼技术/重内容/建生态；漫剧成功打破年龄圈层。",
+      "url": "https://www.sohu.com/a/1022930063_121729913",
+      "source": "搜狐",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "2026年AI漫剧视频模型行业白皮书：市场规模跃升+出海增长200%-300%",
+      "desc": "白皮书显示2025年AI漫剧市场规模168亿同比增80%+月供1.8万部；\"十五五\"文化数字化战略推动下北美东南亚出海增长200%-300%，成为数字文化输出重要载体。",
+      "url": "http://www.sohu.com/a/1026952257_99900770",
+      "source": "搜狐",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "AI漫剧工业化制作完整指南：从剧本到分镜五步全链路实战",
+      "desc": "CSDN实战指南：AI漫剧五步工业化流程(剧本→分镜→图片→AI视频→后期)；推荐DeepSeek/豆包/ChatGPT剧本工具，Sora等图生视频，剪映自动剪辑；熟练团队日产能5-10集。",
+      "url": "https://blog.csdn.net/weixin_44822948/article/details/160586077",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "apps": [
+    {
+      "title": "红帽推出面向智能体AI全新开发者工具：本地Agent沙箱+混合云部署",
+      "desc": "红帽5/25发布Red Hat Desktop支持本地AI Agent沙箱安全运行测试自主智能体；高级开发者套件新增可信软件工厂+AI漏洞利用智能判断代码风险优先级，实现本地到混合云平滑过渡。",
+      "url": "https://www.cbismb.com/solution/61700",
+      "source": "CBISMB",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "DeepSeek逆市降价+华为韬定律算力标准+Reasonix编程智能体发布",
+      "desc": "DeepSeek V4-Pro永久降价75%同时推出Reasonix编程智能体主打缓存优化高并发；华为发布韬定律引领算力标准；HBM成本占GPU 63%突破但国产自研架构降本路径清晰。",
+      "url": "https://blog.csdn.net/2401_84289488/article/details/161396076",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "AI Coding工具5月大爆发实测：Devin 2.0自主完成95%任务+Cursor仍居首",
+      "desc": "实测5款AI编程工具：Devin 2.0任务完成度95%但代码质量82分+学习成本高；Cursor 0.45综合89分仍居首；GitHub Copilot仅72分只能补代码；通义灵码中文注释理解最好78分。",
+      "url": "https://blog.csdn.net/yp0to1/article/details/161188183",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-23"
+    },
+    {
+      "title": "AI产品走向工作流：Notion升级Agent中枢+Anthropic推出中小企业Claude",
+      "desc": "Notion将工作区升级为AI Agent连接中心，开发者平台允许接入Agent+外部数据+自定义代码；Anthropic推出Claude for Small Business套餐打通中小企业日常工具和预设工作流。",
+      "url": "https://blog.csdn.net/qq_37699336/article/details/161067101",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-23"
+    }
+  ]
+}
