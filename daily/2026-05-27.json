@@ -1,0 +1,262 @@
+{
+  "title": "AI日报 2026-05-27",
+  "desc": "",
+  "featured": [],
+  "hotSearch": [
+    {
+      "title": "女干部展示不到100元的耳环",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%B9%B2%E9%83%A8%E5%B1%95%E7%A4%BA%E4%B8%8D%E5%88%B0100%E5%85%83%E7%9A%84%E8%80%B3%E7%8E%AF",
+      "source": "微博",
+      "heat": "286万"
+    },
+    {
+      "title": "白玉兰 利剑玫瑰",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0+%E5%88%A9%E5%89%91%E7%8E%AB%E7%91%B0",
+      "source": "微博",
+      "heat": "194万"
+    },
+    {
+      "title": "暴雨山洪来了怎么办",
+      "url": "https://s.weibo.com/weibo?q=%E6%9A%B4%E9%9B%A8%E5%B1%B1%E6%B4%AA%E6%9D%A5%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E",
+      "source": "微博",
+      "heat": "180万"
+    },
+    {
+      "title": "现在就出发",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91",
+      "source": "微博",
+      "heat": "167万"
+    },
+    {
+      "title": "30个太阳休一天",
+      "url": "https://s.weibo.com/weibo?q=30%E4%B8%AA%E5%A4%AA%E9%98%B3%E4%BC%91%E4%B8%80%E5%A4%A9",
+      "source": "微博",
+      "heat": "104万"
+    },
+    {
+      "title": "乘客酒后误付车费19万余元 出租车司机报警归还",
+      "url": "https://www.douyin.com/video/7643725738570484992",
+      "source": "抖音",
+      "heat": "9315万播放"
+    },
+    {
+      "title": "饭店的暑假工 店长的假人设",
+      "url": "https://www.douyin.com/video/7643410590345789608",
+      "source": "抖音",
+      "heat": "4277万播放"
+    },
+    {
+      "title": "一只狗能闯多大祸 轻轻咬了一口",
+      "url": "https://www.douyin.com/video/7643357967026827983",
+      "source": "抖音",
+      "heat": "2921万播放"
+    },
+    {
+      "title": "饭店的暑假工 海鲜不新鲜",
+      "url": "https://www.douyin.com/video/7643074072050470479",
+      "source": "抖音",
+      "heat": "2884万播放"
+    },
+    {
+      "title": "带大黑牛自律的一天",
+      "url": "https://www.douyin.com/video/7642983498198665649",
+      "source": "抖音",
+      "heat": "2393万播放"
+    }
+  ],
+  "llm": [],
+  "github": [],
+  "world": [],
+  "trend": [],
+  "design": [
+    {
+      "title": "腾讯 AI 设计神器「Ardot」一句话即可生成可编辑设计稿",
+      "desc": "Ardot免费公测全面开放，不用邀请码、腾讯账号直接登录，新用户1000免费Credits。提供网页版+macOS客户端，文生UI+图转UI+一键转代码MCP联动。",
+      "url": "https://www.toutiao.com/article/7643346330785415695/",
+      "source": "今日头条",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "Ardot：腾讯推出的AI赋能智能设计工具，让灵感轻松落地",
+      "desc": "5/24 CSDN深度解析：Ardot深度融合自然语言理解、智能生成、矢量编辑和开发交付，搭建覆盖权限/资产/操作记录的全流程协作体系。",
+      "url": "https://blog.csdn.net/qq_16525279/article/details/159156538",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-24"
+    },
+    {
+      "title": "腾讯 Ardot 深度评测：一句话画App，一键转代码，Figma终于有对手了？",
+      "desc": "5/24万字评测：Ardot打通产设研三端，流式生成可编辑设计稿+一键交付生产级代码，Figma零成本导入，全闭环协作。",
+      "url": "https://blog.csdn.net/xiaoma0529/article/details/161362661",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-24"
+    }
+  ],
+  "video": [
+    {
+      "title": "AI生成视频\"三国杀\"：Seedance领跑，可灵分拆拟IPO，阿里紧跟入局",
+      "desc": "搜狐5/25深度：行业人士称Seedance\"目前效果还没发现更好的\"一家独大；可灵200亿美元估值分拆；阿里HappyHorse入局；谷歌Gemini Omni加入战局。",
+      "url": "https://www.sohu.com/a/1027496098_211762",
+      "source": "搜狐",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "谷歌推出Gemini Omni Flash，实现跨应用自主视频创作",
+      "desc": "5/25企鹅号：Gemini Omni Flash已在Gemini应用/Google Flow/YouTube Shorts上线，支持多输入工作流和对话式视频编辑，保持角色场景一致性。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7016a13d12771652",
+      "source": "企鹅号",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "Seedance完胜！网友实测对比谷歌Gemini Omni",
+      "desc": "Google I/O 2026推出Gemini Omni强调物理理解，但网友用同一组提示词四组运动类视频横向对比，Seedance 2.0全面胜出，Omni均存在明显差距。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4576a0e5e6f07852",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "rag": [
+    {
+      "title": "RAG/MCP/Agent：大模型落地的三道关与工程实践全解",
+      "desc": "5/21 CSDN：三者为递进关系——RAG赋予知识，MCP赋予工具，Agent整合并驱动二者自主执行。企业应用三大基础要求对应RAG/MCP/Agent三道关卡。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/159461697",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "智能体(AI Agent)开发实战：结合大模型基于RAG实现本地知识库问答",
+      "desc": "5/27腾讯云：RAG全流程实战教程，含文档加载、文本拆分、向量存储、检索链构建和问答链实现，附完整代码。",
+      "url": "https://cloud.tencent.com/developer/article/2533828",
+      "source": "腾讯云",
+      "pubDate": "2026-05-27"
+    },
+    {
+      "title": "GEO技术底层全解：RAG+知识图谱如何让结构化内容被AI精准采信",
+      "desc": "5/15企鹅号：RAG通过Embedding向量化+相似度搜索实现语义检索，GEO优化核心是确保企业专业内容被高质量向量化并存入知识库，让AI精准采信。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6996a06eaa397152",
+      "source": "企鹅号",
+      "pubDate": "2026-05-15"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "GPT-Image-2让学术绘图变天了",
+      "desc": "5/21 CSDN：GPT-Image-2已被OpenAI标注为当前SOTA图像生成模型，学术绘图场景实测优于传统工具，与Google Nano Banana对比分析。",
+      "url": "https://blog.csdn.net/q155281844/article/details/160452357",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "【GPT-Image-2技术解析】OpenAI图像生成的新纪元",
+      "desc": "5/21 CSDN：GPT-Image-2并非扩散模型调参，而是将图像生成整合进GPT-4o自回归架构，文字渲染/复杂指令/风格一致性全面突破。",
+      "url": "https://blog.csdn.net/weixin_44262492/article/details/160419981",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "GPT-Image-2实测：电商商品图已经可以\"一次生成一整套\"了",
+      "desc": "5/21 CSDN：GPT-Image-2采用\"自回归+结构化推理\"路径，电商场景实测可一次生成多角度商品图整套，告别传统扩散模型的随机性。",
+      "url": "https://blog.csdn.net/shuaishoutu/article/details/160581495",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "industry": [
+    {
+      "title": "DeepSeek永久降价碾压行业，Anthropic估值破万亿反超OpenAI",
+      "desc": "DeepSeek V4-Pro输出永久降至6元/百万Token约为GPT-4o的1/50；Anthropic ARR飙升至450亿美元估值突破1万亿美元反超OpenAI成全球最具价值AI公司。降价与估值齐飞，AI两极分化加速。",
+      "url": "https://www.toutiao.com/article/7643396305804345866/",
+      "source": "今日头条",
+      "pubDate": "2026-05-27"
+    },
+    {
+      "title": "5月AI行业四大趋势：IPO、降价、算力、安全，一个都绕不开",
+      "desc": "趋势一资本化：OpenAI密交IPO目标万亿+Anthropic首季盈利5.59亿；趋势二平民化：DeepSeek永久降价API 18个月降90%；趋势三算力化：微软Build发布Azure AI超级集群算力5倍；趋势四安全化：Claude发现1万+高危漏洞。",
+      "url": "https://www.sohu.com/a/1027861537_122203805",
+      "source": "搜狐",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "多家AI企业月内斩获亿元级融资，具身智能成资本新风口",
+      "desc": "5月国内AI创投热度攀升，具身智能赛道成资本新风口，多家相关企业斩获大额融资。政策赋能+技术迭代+需求旺盛三重因素推动资本持续布局，但行业仍存技术落地瓶颈、盈利模式未成熟等挑战。",
+      "url": "https://www.cnfin.com/hg-lb/detail/20260526/4417241_1.html",
+      "source": "中国金融信息网",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "通信周报5月第4期：英伟达指引强劲+Anthropic有望单季盈利",
+      "desc": "英伟达业绩指引强劲，持续看好AI算力需求；Anthropic有望实现单季盈利，估值持续攀升；DeepSeek永久降价体现极致技术成本优化；看好国产大模型商业化进程。通信板块本期回调0.97%。",
+      "url": "http://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/search/rptid/833024458317/index.phtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-27"
+    }
+  ],
+  "game": [
+    {
+      "title": "《和平精英》亮相GDC 2026：大模型AI Bot三阶段架构引领游戏AI潮流",
+      "desc": "腾讯《和平精英》GDC 2026展示大模型AI Bot架构：V1专业拟人AI战术伙伴+V2记忆陪伴建立情感纽带+V3玩家养成专属AI伙伴。三版本面向千万级用户，AI从行为到语言到个性化全面演进。",
+      "url": "https://k.sina.com.cn/article_7857141524_1d452771401902noyo.html",
+      "source": "光明网/新浪",
+      "pubDate": "2026-05-18"
+    },
+    {
+      "title": "10款小游戏生成AI工具测评榜单：百度秒哒V3.0居首",
+      "desc": "实测10款AI小游戏生成工具：百度秒哒V3.0居首支持自然语言+多智能体协作生成小游戏/H5/小程序；5月升级支持原生APP生成+多人协同+企业版。IDC/信通院报告称Prompt-to-App已成趋势。",
+      "url": "https://www.sohu.com/a/1025741851_122553831",
+      "source": "搜狐",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "drama": [
+    {
+      "title": "灵漫快创AI短剧《晚风入我怀》上线24小时冲抖音品牌榜TOP2",
+      "desc": "杭州灵漫快创5/19推出AI短剧《晚风入我怀》上线24小时冲上抖音短剧品牌榜第二位，连续三天保持前列。甜宠+酒店职场题材打破\"测评师与酒店永远是敌人\"固有观念，展现AI短剧市场爆发力。",
+      "url": "https://www.sohu.com/a/1027367124_121885030",
+      "source": "搜狐",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "AI漫剧新风口：斩仙台播放破10亿霸榜7天，赛道从野蛮生长转向拼技术建生态",
+      "desc": "AI漫剧《斩仙台下》播放破10亿连续霸榜7天；\"爱漫剧2026生态产业大会\"召开预示赛道从野蛮生长转向拼技术/重内容/建生态；2025年上线46931部作品，168亿市场规模+700亿次播放。",
+      "url": "https://www.sohu.com/a/1022930063_121729913",
+      "source": "搜狐",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "AniShort亮相深圳文博会，引领AI短剧工业化新时代",
+      "desc": "南京八点八数字携AI短剧协作平台AniShort亮相第二十二届深圳文博会，展示AI短剧工业化创作流程。作为AI短剧创作领域领军企业，其核心产品定位重构文化产业生产力。",
+      "url": "https://www.sohu.com/a/1025494395_122651392",
+      "source": "搜狐",
+      "pubDate": "2026-05-21"
+    },
+    {
+      "title": "2026AI漫剧工具亲测：蛙蛙写作分镜拆分+自动画面描述",
+      "desc": "CSDN实测蛙蛙写作：分镜拆分功能自动识别场景/人物/剧情脉络生成分镜框架，镜头颗粒度拉满到茶盏折扇细节；每个分镜搭配详细画面描述。告别繁琐流程，单人也能做高质量漫剧。",
+      "url": "https://blog.csdn.net/m0_50020961/article/details/159956524",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "apps": [
+    {
+      "title": "5月AI编程工具选型横评：Cursor自研Composer 2.5+Antigravity 2.0+Copilot Agent化",
+      "desc": "Google I/O后AI编程工具大迭代：Cursor 5/21发布自研Composer 2.5脱离Claude依赖复杂终端操作69.3%；Antigravity 2.0对标Claude Code；Copilot全面Agent化；Devin 2.0企业版铺开。AI编程进入Agent自主编程阶段。",
+      "url": "https://blog.csdn.net/yp0to1/article/details/161308318",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-22"
+    },
+    {
+      "title": "FeelFish AI小说创作软件评测：全流程辅助从大纲到成稿",
+      "desc": "IT之家评测杭州愚指导科技FeelFish AI小说创作软件：专业AI小说创作工具，覆盖大纲生成/角色设定/章节续写/风格润色全流程辅助。2025年4月成立的新创公司产品，性价比表现突出。",
+      "url": "https://www.ithome.com/0/954/600.htm",
+      "source": "IT之家",
+      "pubDate": "2026-05-24"
+    },
+    {
+      "title": "2026年10款实用AI神器：DeepSeek月活2亿+豆包覆盖短视频电商",
+      "desc": "盘点10款AI神器：DeepSeek免费全能月活超2亿擅长文案/多任务推理；通义千问深度绑定阿里生态长文本总结+购物地图闭环；豆包月活2亿覆盖短视频电商内容精准把握堪称\"内容工厂\"。",
+      "url": "https://blog.csdn.net/lgf228/article/details/157800617",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-25"
+    }
+  ]
+}
