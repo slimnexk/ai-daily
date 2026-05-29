@@ -1,0 +1,440 @@
+{
+  "title": "Claude Opus 4.8发布+Anthropic融资9650亿，天津智博会具身智能独立设馆",
+  "desc": "Anthropic凌晨同时发布Opus 4.8并完成650亿美元H轮融资，估值9650亿超越OpenAI；天津智博会开幕具身智能首次独立设馆，宇树GD01变形机甲390万起售；MiniMax ARR两月翻倍至3亿美元；DeepSeek首轮融资国家大基金领投估值450亿。",
+  "featured": [
+    {
+      "title": "Claude Opus 4.8发布+Anthropic完成650亿美元H轮融资",
+      "desc": "5月29日凌晨Anthropic发布旗舰Opus 4.8(Agent能力加强，价格不变)，同时完成650亿美元H轮融资，投后估值9650亿美元超越OpenAI，红杉等领投、亚马逊出资50亿",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhznviz9799849.shtml",
+      "label": "重磅",
+      "icon": "🚀",
+      "color": "#D97706",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "Anthropic计划几周内发布Mythos级别安全模型，欧盟请求访问",
+      "desc": "Anthropic计划几周内广泛发布与Mythos媲美的安全模型；欧盟拟与Anthropic谈判获取Mythos访问权限，可能需美国政府批准",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0016a18881009552",
+      "label": "AI安全",
+      "icon": "🛡️",
+      "color": "#7C3AED",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "天津智博会：具身智能首次独立设馆，宇树GD01变形机甲首谈",
+      "desc": "740+企业参展13万㎡，具身智能馆独立设馆为最大看点；王兴兴首谈390万起载人变形机甲GD01，发布当天即获购买意向，可用于救灾开荒农业",
+      "url": "http://www.sohu.com/a/1028997927_123753",
+      "label": "具身智能",
+      "icon": "🤖",
+      "color": "#8B5CF6",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "DeepSeek首轮融资：国家大基金领投，投前估值450亿美元",
+      "desc": "DeepSeek首轮融资接近尾声，国家集成电路产业投资基金领投，数家市场化机构参与谈判，投前估值450亿美元",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7106a17bb3e75352",
+      "label": "融资",
+      "icon": "💰",
+      "color": "#10A37F",
+      "pubDate": "2026-05-28"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "浪姐宿舍甲醛超标",
+      "url": "https://www.toutiao.com/article/7644826388914029096/",
+      "source": "微博",
+      "heat": "热搜第一"
+    },
+    {
+      "title": "孙颖莎毕业",
+      "url": "https://c.m.163.com/news/a/KU0V5T8J05568W0A.html",
+      "source": "微博",
+      "heat": "热搜"
+    },
+    {
+      "title": "DeepSeek崩了",
+      "url": "https://c.m.163.com/news/a/KU121JTF0519860S.html",
+      "source": "微博",
+      "heat": "热搜"
+    },
+    {
+      "title": "河南南阳重大交通事故13死3伤",
+      "url": "http://weibo.com/1807715644/profile",
+      "source": "微博",
+      "heat": "热搜"
+    },
+    {
+      "title": "雷军回应武契奇买不起小米汽车",
+      "url": "https://c.m.163.com/news/a/KU0KJL4C05119FMA.html",
+      "source": "微博",
+      "heat": "热搜榜首"
+    },
+    {
+      "title": "启境汽车找苏芒当品鉴官被骂上热搜",
+      "url": "https://new.qq.com/rain/a/20260528A07CZ700",
+      "source": "抖音",
+      "heat": "热搜"
+    },
+    {
+      "title": "卢昱晓美人一大跳",
+      "url": "http://weibo.com/5885337078/profile",
+      "source": "微博",
+      "heat": "热搜"
+    },
+    {
+      "title": "杨紫韩东君落地签短片",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3806a180b6b54652",
+      "source": "微博",
+      "heat": "热搜"
+    },
+    {
+      "title": "武契奇夫人在上海买买买",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019061g7m.html",
+      "source": "抖音",
+      "heat": "热搜"
+    },
+    {
+      "title": "音综变演综男高戏精上身",
+      "url": "http://k.sina.com.cn/article_6001750278_m165bb710603308l6es.html",
+      "source": "抖音",
+      "heat": "热搜"
+    }
+  ],
+  "llm": [
+    {
+      "title": "MiniMax ARR两月翻倍至3亿美元，B端客户半年增5倍破百万",
+      "desc": "MiniMax 5月28日披露：全球用户3亿，B端客户100万(半年5倍)，ARR从1.5亿翻倍至3亿美元(60天)，M2模型Token消耗增6倍，B端收入占比41%",
+      "url": "https://finance.ifeng.com/c/8tUqmXZRT6b",
+      "source": "凤凰网",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "DeepSeek年内第18次服务异常，C端免费模式走到十字路口",
+      "desc": "5月28日DeepSeek再次服务异常(年内第18次，本月第5次)；V4-Flash单周3.43万亿Token环比增66%登顶全球；中国大模型周调用9.22万亿连续4周超美国",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4446a18423e41652",
+      "source": "企鹅号",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "5月中国大模型API测评报告：DeepSeek-V4-Pro综合第一",
+      "desc": "DeepSeek-v4-pro综合81.1分列第一(代码/数学/规划均衡、Token消耗最低)；Kimi K2.6 Thinking 90分数学推理单项第一；各模型场景分化明显",
+      "url": "https://finance.ifeng.com/c/8tV043U9bod",
+      "source": "凤凰网",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "AI大模型密集迭代，下半年或进入推理爆发元年",
+      "desc": "GPT-5.5全量开放幻觉降52.5%，GPT-5.6内测拟9月IPO；Gemini 3.5 Flash速度为5.5的4倍、月活9亿；Meta AI付费订阅上线",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3656a1813c273652",
+      "source": "企鹅号",
+      "pubDate": "2026-05-28"
+    }
+  ],
+  "github": [
+    {
+      "title": "2026年5月GitHub最火AI开源项目：5个20万星级别",
+      "desc": "Superpowers(20万+⭐)定义AI编码结构化工作流；OpenHuman(23.5k⭐)桌面AI管家118+集成；Karpathy Skills(14万⭐)Claude Code调教经验",
+      "url": "https://blog.csdn.net/Aliaoo/article/details/161287758",
+      "source": "CSDN",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "Claude Code子代理实战指南：/agents创建自定义代理",
+      "desc": "Claude Code内置Explore/Plan/general-purpose三类子代理，v2.1.139支持/agents创建自定义代理，Agent View统一管理并行会话，含Git Worktree原生支持",
+      "url": "https://www.sohu.com/a/1027715982_120824542",
+      "source": "搜狐",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "OpenClaw 5月更新总结：13个版本，Gateway性能提升4100倍",
+      "desc": "4.29到5.22共13个正式版：Provider Auth预热20s→5ms(4100倍)，新增Meeting Notes插件、Plugin SDK扩展、Control UI聊天增强、MiniMax图像生成",
+      "url": "https://blog.csdn.net/cause98/article/details/161365598",
+      "source": "CSDN",
+      "pubDate": "2026-05-24"
+    }
+  ],
+  "world": [
+    {
+      "title": "天津智博会具身智能独立设馆，宇树GD01变形机甲王兴兴首谈",
+      "desc": "740+企业参展，具身智能馆80余家企业150种机器人；宇树科技与天津签署战略合作，王兴兴首谈390万起GD01变形机甲可用于救灾开荒农业，发布当天即获购买意向",
+      "url": "https://new.qq.com/rain/a/20260528A08TZW00",
+      "source": "腾讯网",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "新华社：智博会展现AI加速融合千行百业强劲动能",
+      "desc": "宇树人形机器人搏击表演、科大讯飞智能座舱方言评测机器人、京东AI理疗机器人、海尔智慧家庭场景生命体，百余种机器人全面展示落地场景",
+      "url": "http://k.sina.com.cn/article_1699432410_654b47da02001reru.html",
+      "source": "新浪/新华社",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "人民日报：世界智能产业博览会在津开幕，发布200+创新成果",
+      "desc": "博览会为期4天，集中签约一批重点项目，发布超200项研究报告与创新成果；人才高质量发展大会同期举办，面向市民开放观摩体验",
+      "url": "http://paper.people.com.cn/rmrb/pc/content/202605/29/content_30159868.html",
+      "source": "人民日报",
+      "pubDate": "2026-05-29"
+    }
+  ],
+  "trend": [
+    {
+      "name": "superpowers",
+      "stars": "200k+",
+      "type": "AI编码方法论",
+      "desc": "AI编程结构化工作流方法论框架，定义提示工程与Agent协作最佳实践，GitHub最火AI项目之一",
+      "tags": [
+        "coding",
+        "agent",
+        "workflow"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "iconType": "⚡",
+      "icon": "⚡",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "name": "openclaw",
+      "stars": "363k+",
+      "type": "AI Agent框架",
+      "desc": "开源个人AI操作系统，5月13版本迭代Gateway性能提升4100倍，Meeting Notes+Plugin SDK扩展",
+      "tags": [
+        "agent",
+        "os",
+        "openclaw"
+      ],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "🦞",
+      "icon": "🦞",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "name": "karpathy-skills",
+      "stars": "140k+",
+      "type": "Claude Code提示词",
+      "desc": "Karpathy本人调教的Claude Code提示词经验，压缩为CLAUDE.md文件，AI编码社区标杆级技能包",
+      "tags": [
+        "claude-code",
+        "skills",
+        "prompt"
+      ],
+      "url": "https://github.com/karpathy/skills",
+      "iconType": "🧠",
+      "icon": "🧠",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "name": "openhuman",
+      "stars": "23.5k",
+      "type": "桌面AI管家",
+      "desc": "桌面AI伙伴，118+集成(Gmail/Notion/Slack)，每20分钟自动同步数据构建知识图谱，Rust核心+TS前端",
+      "tags": [
+        "desktop",
+        "ai-assistant",
+        "integration"
+      ],
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "iconType": "🤖",
+      "icon": "🤖",
+      "pubDate": "2026-05-29"
+    }
+  ],
+  "design": [
+    {
+      "title": "深度观察：AI设计工具的演进与国内企业选型策略",
+      "desc": "5/27搜狐长文：Figma Design Agent于2026年5月进入Beta，原生AI设计协作者深度融合Figma生态，对话式交互执行设计任务。系统梳理Ardot/Claude Design/Pixso等国内外工具选型策略。",
+      "url": "https://www.sohu.com/a/1028325087_121748326",
+      "source": "搜狐",
+      "pubDate": "2026-05-27"
+    },
+    {
+      "title": "腾讯Ardot vs 谷歌Stitch：两大AI设计工具全面对比评测",
+      "desc": "5/26 CSDN：Ardot主打产设研全流程闭环+MCP一键转代码+1000免费Credits，Stitch基于Gemini 2.5 Pro提出Vibe Design概念+无限画布+Agent Manager并行探索。",
+      "url": "https://blog.csdn.net/m0_37988015/article/details/161217056",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "Figma在协作画布中新增AI助手",
+      "desc": "5/21企鹅号：Figma与OpenAI/Anthropic合作集成Claude Code和Codex，AI助手理解设计上下文，基于设计用途微调模型，自然语言生成/编辑设计。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0466a0e866a61952",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "video": [
+    {
+      "title": "Gemini Omni泄露解析：Google I/O 2026视频生成与全模态大模型",
+      "desc": "5/22 CSDN深度解析：Omni在复杂物理模拟和文字渲染上超越Veo 3.1，5/2应用内隐藏UI首次曝光，5/11 Pro账号泄出生成视频，解读为独立视频模型+统一全模态混合体。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/161154989",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-22"
+    },
+    {
+      "title": "谷歌推出Gemini Omni Flash，实现跨应用自主视频创作",
+      "desc": "5/25企鹅号：Gemini Omni Flash已上线Gemini应用/Google Flow/YouTube Shorts，支持对话式视频编辑，多输入工作流，角色物体环境一致性保持。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7016a13d12771652",
+      "source": "企鹅号",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "Seedance完胜！网友实测对比谷歌Gemini Omni",
+      "desc": "5/21企鹅号：网友用同一组提示词对比Omni与Seedance 2.0，四组运动类视频Omni均存在差距。Omni强调物理理解但实际生成效果不及Seedance。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4576a0e5e6f07852",
+      "source": "企鹅号",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "rag": [
+    {
+      "title": "MCP不只是协议：它正在成为智能体时代的\"控制平面\"",
+      "desc": "5/27新浪：MCP在AI编程智能体上下文提供方面表现出色，63%用户用MCP服务器访问文档/知识库。上下文工程让智能体自主判断所需上下文并实时获取，MCP正成为Agent时代的控制平面。",
+      "url": "https://news.sina.cn/ai/2026-05-27/detail-inhziqxq9281234.d.html?vt=4",
+      "source": "新浪新闻",
+      "pubDate": "2026-05-27"
+    },
+    {
+      "title": "2026年Agent智能体开发平台怎么选？实测解析实用选型指南",
+      "desc": "5/28 IT之家：实测解析科大讯飞AstronClaw等Agent开发平台选型，覆盖零代码便捷/多模型兼容/云端全天候等维度，小白也能避坑。",
+      "url": "https://www.ithome.com/0/956/720.htm",
+      "source": "IT之家",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "RAG/MCP/Agent：大模型落地的三道关与工程实践全解",
+      "desc": "5/21 CSDN：RAG赋予知识+MCP赋予工具+Agent整合驱动自主执行，三者递进关系明确。企业应用三大基础要求：知识实时性(RAG)、工具调用(MCP)、多步骤自主执行(Agent)。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/159461697",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "AI绘话：面向中文电商场景的GPT-image-2智能美工平台上线",
+      "desc": "5/28：底层调用GPT-image-2模型(代号Spud)，自动完成场景搭建/光影渲染/文字排版/视觉优化，30-60秒出图，对话指令局部微调，电商上架直用。",
+      "url": "https://www.ai-huihua.com.cn/",
+      "source": "ai-huihua.com.cn",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "最强生图模型GPT-image-2深度测评，附教程",
+      "desc": "5/24 CSDN：GPT-image-2超越Nano Banana 2坐上SOTA宝座，中文渲染终结AI文字乱码，DeepSider插件免费使用无需GPT Plus，直播截图/电商海报/官网一键生成。",
+      "url": "https://blog.csdn.net/Constantine37/article/details/160446696",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-24"
+    },
+    {
+      "title": "GPT最新的GPT-Image-2让学术绘图变天了",
+      "desc": "5/21 CSDN：OpenAI已将GPT Image 2标为SOTA图像生成模型，与Google Nano Banana对比分析，学术绘图场景实测优于传统工具。",
+      "url": "https://blog.csdn.net/q155281844/article/details/160452357",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-21"
+    }
+  ],
+  "industry": [
+    {
+      "title": "Anthropic完成650亿美元H轮融资，投后估值超OpenAI",
+      "desc": "美股5月29日隔夜要闻：Anthropic完成650亿美元H轮融资，投后估值正式超越OpenAI。Snowflake强劲财报带动科技股全线走高，美股三大股指再创历史新高。AI交易热情重新点燃。",
+      "url": "https://www.toutiao.com/article/7645079028927398419/",
+      "source": "今日头条",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "高盛付思：中国AI产业发展空间充足，板块配置价值逐步显现",
+      "desc": "高盛中国股票策略分析师付思表示，中国AI产业正处于快速发展的早期阶段，未来发展空间充足，板块配置价值将逐步显现。香港IPO市场高活跃度有望延续，海外资金对优质中国资产保持较高热情。",
+      "url": "http://finance.eastmoney.com/a/202605283752774332.html",
+      "source": "东方财富网",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "两部门联合印发《人工智能计量体系和能力建设指引(2026版)》",
+      "desc": "市场监管总局与国家发改委联合印发AI计量建设指引2026版，系统布局AI计量能力建设，着力破解算法黑箱和数据荒痛点，加强对智能制造/智慧医疗/智慧交通等14个重点领域赋能，实现AI性能可测量可比较可追溯。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019062uuq.html",
+      "source": "新浪/经济参考报",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "2026世界智能产业博览会在天津开幕，中外人士聚焦AI+共话合作",
+      "desc": "5月28日天津开幕，由天津市与重庆市共同主办。与会中外人士聚焦人工智能+共话合作，展示AI无人机自主巡检、AI识别缺陷等应用，体现AI从能看见进化到能看懂。人工智能被视为新质生产力发展重要引擎。",
+      "url": "http://finance.yunnan.cn/system/2026/05/28/034027067.shtml",
+      "source": "云南网/新华社",
+      "pubDate": "2026-05-28"
+    }
+  ],
+  "game": [
+    {
+      "title": "AI大航海游戏先上岸：AI NPC从工具向情感型升级，全链路AI创作落地",
+      "desc": "新浪财经新经济观察：AI NPC小田从工具向情感型升级，AI解说已在赛事上线，UGC拥有场景生成到玩法配置的全链路AI创作助手。A股星辉/电魂/冰川/完美/恺英等均布局智能NPC，AI+游戏多点开花切实影响产品体验。",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-05-28/doc-inhzmyen8613111.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "600个AI NPC游戏实测：当前AI游戏两大商业化路径",
+      "desc": "虎嗅深度评测《遥远行星:建造师》600个AI NPC动态世界实验。当前AI游戏商业化分两类：AI生成非核心内容型(竞拍之王/不问凡尘)与AI原生游戏型(NPC对话/世界观生态不可预测)。行业仍处野蛮生长阶段。",
+      "url": "https://www.huxiu.com/article/4862150.html",
+      "source": "虎嗅",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "AIGC游戏：探索AI生成内容新玩法技术解析",
+      "desc": "CSDN专栏深度解析AIGC游戏技术：覆盖生成式AI游戏设计、交互式叙事、程序化生成、智能NPC等方向，包含核心算法解析、数学模型和项目实战代码，为游戏开发者和AI研究者提供全面技术参考。",
+      "url": "https://download.csdn.net/blog/column/12571194/148045532",
+      "source": "CSDN专栏",
+      "pubDate": "2026-05-27"
+    }
+  ],
+  "drama": [
+    {
+      "title": "光明日报文化评析：AI短剧崛起，也要保护真人影视空间",
+      "desc": "光明日报05月29日02版评论指出AI短剧崛起带来的文化思考，强调在AI短剧快速发展的同时需要保护真人影视的创作空间和生态，体现官媒对AI与传统文化产业关系的审慎态度。",
+      "url": "https://epaper.gmw.cn/gmrb/html/content/202605/29/content_15273.html",
+      "source": "光明日报",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "AI漫剧遇冷，爆改日漫老番成为新宠",
+      "desc": "36氪深度分析：2026年Q1上线的12.8万部微短剧中AI占比超95%，但产能狂飙后行业迅速降温——保底取消/爆款减少/监管收紧，同质化内容失去用户耐心。而由经典动漫IP改编的AI真人漫剧却在逆势扩散。",
+      "url": "https://36kr.com/p/3828324178039683",
+      "source": "36氪",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "短剧利空传闻不休，但总有人默默吃到红利",
+      "desc": "AI短剧市场近期遭遇收益暴跌等利空传闻，但仍有人气之作脱颖而出。过去两周真人短剧和AI短剧均出现新剧轮番霸榜情况，四部真人短剧破10亿播放。行业在传闻中继续分化，优质内容仍是硬通货。",
+      "url": "https://www.sohu.com/a/1028733835_116162",
+      "source": "搜狐",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "有戏AI漫剧短剧双模式工具实测：漫剧45分钟/短剧50分钟出片",
+      "desc": "搜狐实测有戏AI双模式：漫剧模式分镜6-8格画面+配音+字幕约45分钟出片；短剧模式支持5万字超长剧本导入+四大模型+对口型约50分钟出片。漫剧比短剧快一倍，国漫/日漫/条漫风格可选。",
+      "url": "https://www.sohu.com/a/1028395883_122520484",
+      "source": "搜狐",
+      "pubDate": "2026-05-27"
+    }
+  ],
+  "apps": [
+    {
+      "title": "MiniMax炸裂成绩单：全球用户3亿/ARR翻番/B端客户破100万",
+      "desc": "生成式AI独角兽MiniMax最新数据：全球企业与开发者客户突破100万，全球用户约3亿，过去两个月ARR实现100%翻番，M2系列模型日均token消耗量狂飙6倍，开放平台新注册用户增长超4倍。半年前B端客户仅20万。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019062ux2.html",
+      "source": "新浪财经",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "Meta开启AI付费时代：订阅服务$3-4/月，AI聊天机器人+社交流量打包",
+      "desc": "Meta宣布从下月起测试AI付费订阅服务，面向企业和网红推出订阅套餐。普通消费者月付3-4美元获得个性化AI功能。狂砸上千亿投资AI后终于向股东展示赚钱能力，AI商业化迈出关键一步。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190615yk.html",
+      "source": "新浪/财联社",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "MediaTek Computex 2026展出Agentic AI技术：从边缘到云端",
+      "desc": "MediaTek以AI Without Limits为主题亮相Computex 2026，展出从边缘到云端的次世代AI技术，包括先进Wi-Fi 8系列产品、Agentic AI赋能的平板电脑和车载方案，全面赋能Agentic AI时代。",
+      "url": "http://news.imobile.com.cn/",
+      "source": "手机之家",
+      "pubDate": "2026-05-28"
+    }
+  ]
+}

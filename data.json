@@ -1,11 +1,7 @@
 {
-  "title": "AI日报 2026-05-27",
-  "desc": "",
+  "title": "Claude Opus 4.8发布+Anthropic融资9650亿，天津智博会具身智能独立设馆",
+  "desc": "Anthropic凌晨同时发布Opus 4.8并完成650亿美元H轮融资，估值9650亿超越OpenAI；天津智博会开幕具身智能首次独立设馆，宇树GD01变形机甲390万起售；MiniMax ARR两月翻倍至3亿美元；DeepSeek首轮融资国家大基金领投估值450亿。",
   "dates": {
-    "2026-05-10": {
-      "title": "文心5.1发布登顶国内、DeepSeek融资500亿、高德世界模型夺冠",
-      "desc": "百度文心大模型5.1正式发布，LMArena搜索榜国内第一；DeepSeek寻求500亿元首轮融资创中国AI纪录，V4.1计划6月推出；高德ABot世界模型登顶ICRA 2026 AGIBOT挑战赛；OpenClaw连发三版本，Google Meet语音与插件独立安装成亮点。"
-    },
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
       "desc": "Anthropic开发者大会连放大招：Claude Dreaming模仿REM睡眠优化记忆，Outcomes自动评分+多智能体编排上线，Claude正式嵌入Excel/PPT/Word/Outlook开启公测。DeepSeek首轮融资500亿创中国AI纪录，V4.1将于6月推出。高德ABot世界模型以0.829分登顶AGIBOT挑战赛。"
@@ -61,6 +57,10 @@
     "2026-05-27": {
       "title": "AI日报 2026-05-27",
       "desc": ""
+    },
+    "2026-05-29": {
+      "title": "Claude Opus 4.8发布+Anthropic融资9650亿，天津智博会具身智能独立设馆",
+      "desc": "Anthropic凌晨同时发布Opus 4.8并完成650亿美元H轮融资，估值9650亿超越OpenAI；天津智博会开幕具身智能首次独立设馆，宇树GD01变形机甲390万起售；MiniMax ARR两月翻倍至3亿美元；DeepSeek首轮融资国家大基金领投估值450亿。"
     }
   }
 }
