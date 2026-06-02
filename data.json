@@ -1,6 +1,6 @@
 {
-  "title": "Claude Opus 4.8发布+Anthropic融资9650亿，天津智博会具身智能独立设馆",
-  "desc": "Anthropic凌晨同时发布Opus 4.8并完成650亿美元H轮融资，估值9650亿超越OpenAI；天津智博会开幕具身智能首次独立设馆，宇树GD01变形机甲390万起售；MiniMax ARR两月翻倍至3亿美元；DeepSeek首轮融资国家大基金领投估值450亿。",
+  "title": "Claude Opus 4.8发布：数百子智能体并行运作，AI迈向诚实时代",
+  "desc": "Anthropic推出Claude Opus 4.8，引入Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；DeepSeek V4-Pro API永久维持2.5折定价；51WORLD发布全球首款物理直觉世界模型51World Model。",
   "dates": {
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
@@ -61,6 +61,10 @@
     "2026-05-29": {
       "title": "Claude Opus 4.8发布+Anthropic融资9650亿，天津智博会具身智能独立设馆",
       "desc": "Anthropic凌晨同时发布Opus 4.8并完成650亿美元H轮融资，估值9650亿超越OpenAI；天津智博会开幕具身智能首次独立设馆，宇树GD01变形机甲390万起售；MiniMax ARR两月翻倍至3亿美元；DeepSeek首轮融资国家大基金领投估值450亿。"
+    },
+    "2026-06-02": {
+      "title": "Claude Opus 4.8发布：数百子智能体并行运作，AI迈向诚实时代",
+      "desc": "Anthropic推出Claude Opus 4.8，引入Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；DeepSeek V4-Pro API永久维持2.5折定价；51WORLD发布全球首款物理直觉世界模型51World Model。"
     }
   }
 }
