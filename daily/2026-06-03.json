@@ -1,0 +1,255 @@
+{
+  "title": "Claude Opus 4.8发布：数百子智能体并行，Anthropic估值9650亿超越OpenAI",
+  "desc": "Anthropic发布Claude Opus 4.8，Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；Anthropic完成650亿美元H轮融资投后估值9650亿超越OpenAI；微信AI Agent原型已测通主界面右滑将变AI入口。",
+  "featured": [
+    {
+      "title": "Claude Opus 4.8发布：数百子智能体并行+100万token上下文",
+      "desc": "Anthropic发布Opus 4.8，Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍成本降至1/3，代码漏报率降至前代1/4，新增effort控制参数。",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "source": "Anthropic",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "微软Build 2026发布首款自研推理模型MAI-Thinking-1",
+      "desc": "微软在Build 2026发布首款自研推理模型MAI-Thinking-1，未使用蒸馏数据，标志着微软AI模型自研路线的正式起步。",
+      "url": "https://blogs.microsoft.com/blog/2026-build",
+      "source": "Microsoft Blog",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "GPT-5.6泄露：代号iris-alpha，150万token上下文窗口",
+      "desc": "GPT-5.6后端日志泄露，代号iris-alpha，上下文窗口150万tokens较GPT-5.5提升43%，预计6月发布。",
+      "url": "https://www.theinformation.com/articles/gpt-5-6-leak",
+      "source": "The Information",
+      "pubDate": "2026-05-27"
+    },
+    {
+      "title": "OpenClaw 84天破20万星，架构演进为Personal AI OS",
+      "desc": "OpenClaw 84天GitHub星标突破20万（K8s的18倍速度），架构演进为Personal AI OS（Gateway+Skills+Memory），白皮书5月20日发布。",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub",
+      "pubDate": "2026-05-27"
+    }
+  ],
+  "hotSearch": [
+    {"title": "男童被机器人踢中腹部痛苦倒地", "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E4%B8%AD%E8%85%B9%E9%83%A8%E7%97%9B%E8%8B%A6%E5%80%92%E5%9C%B0", "source": "微博", "heat": "116万"},
+    {"title": "豆包给我吃了一颗死心丸", "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%BB%99%E6%88%91%E5%90%83%E4%BA%86%E4%B8%80%E9%A2%97%E6%AD%BB%E5%BF%83%E4%B8%B8", "source": "微博", "heat": "84万"},
+    {"title": "平陆运河预计今年9月通航", "url": "https://s.weibo.com/weibo?q=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B49%E6%9C%88%E9%80%9A%E8%88%AA", "source": "微博", "heat": "68万"},
+    {"title": "AI脸 生理性厌恶", "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8+%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6", "source": "微博", "heat": "68万"},
+    {"title": "房东问了豆包后打算给我涨租", "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E4%B8%9C%E9%97%AE%E4%BA%86%E8%B1%86%E5%8C%85%E5%90%8E%E6%89%93%E7%AE%97%E7%BB%99%E6%88%91%E6%B6%A8%E7%A7%9F", "source": "微博", "heat": "67万"},
+    {"title": "被天使吻过的孩子", "url": "https://www.douyin.com/video/7646294080116539115", "source": "抖音", "heat": "4885万播放"},
+    {"title": "看起来我们两个更想过儿童节", "url": "https://www.douyin.com/video/7646281761442764539", "source": "抖音", "heat": "3403万播放"},
+    {"title": "男子用黑色丝袜绑藏8条活体蛇入境被查", "url": "https://www.douyin.com/video/7646724414729391396", "source": "抖音", "heat": "2922万播放"},
+    {"title": "老人点燃路面杨絮烧了20辆新车", "url": "https://www.douyin.com/video/7646679443083169034", "source": "抖音", "heat": "2804万播放"},
+    {"title": "《言传身教》", "url": "https://www.douyin.com/video/7646379732238538363", "source": "抖音", "heat": "2743万播放"}
+  ],
+  "llm": [
+    {
+      "title": "DeepSeek V4-Pro API永久2.5折定价",
+      "desc": "DeepSeek宣布V4-Pro API自5月31日起永久维持2.5折（原定价1/4），V4-Flash单周3.43万亿Token登顶全球调用量榜首。",
+      "url": "https://api-docs.deepseek.com/pricing",
+      "source": "DeepSeek",
+      "pubDate": "2026-05-31"
+    },
+    {
+      "title": "智谱GLM-5.1高速版输出400 tokens/s，拟科创板上市",
+      "desc": "智谱GLM-5.1高速版API输出速度400 tokens/s刷新全球上限，公司拟科创板上市，估值超200亿元。",
+      "url": "https://www.zhipu.ai/news/glm-5-1-high-speed",
+      "source": "智谱AI",
+      "pubDate": "2026-05-26"
+    },
+    {
+      "title": "Grok 4.3登顶LMArena：1M Token上下文+X实时数据",
+      "desc": "Grok 4.3发布，1M Token上下文窗口融合X平台实时数据，登顶LMArena排行榜，为xAI最强模型。",
+      "url": "https://x.ai/blog/grok-4-3",
+      "source": "xAI",
+      "pubDate": "2026-05-01"
+    },
+    {
+      "title": "Qwen3.7-Max Arena盲测总榜超越Kimi K2.6和DeepSeek-v4-pro",
+      "desc": "阿里Qwen3.7-Max在Arena盲测总榜超越Kimi-K2.6、DeepSeek-v4-pro、GLM-5.1，综合表现跻身全球前列。",
+      "url": "https://qwenlm.github.io/blog/qwen3-7-max",
+      "source": "Qwen Blog",
+      "pubDate": "2026-05-28"
+    }
+  ],
+  "github": [
+    {
+      "title": "codegraph单周涨星14.1K，AI代码图谱分析工具",
+      "desc": "codegraph项目单周涨星14.1K，提供AI驱动的代码图谱分析能力，可自动梳理项目依赖关系与架构。",
+      "url": "https://github.com/nicholasgriffintn/codegraph",
+      "source": "GitHub Trending",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "OpenClaw 302k星登顶AI Agent类目，n8n 179k星紧随",
+      "desc": "OpenClaw以302k星标登顶GitHub AI Agent类目，AutoGPT 182k星、n8n 179k星分列二三，Agent框架生态持续膨胀。",
+      "url": "https://github.com/trending?since=weekly",
+      "source": "GitHub Trending",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "claude-mem/WeKnora等Agent记忆框架热度持续攀升",
+      "desc": "claude-mem、WeKnora、agent-starter-pack等Agent记忆与启动框架热度持续攀升，AI Agent从对话玩具向工程化生产力工具转型加速。",
+      "url": "https://github.com/trending?since=weekly",
+      "source": "GitHub Trending",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "trend": [
+    {
+      "title": "hermes-agent 15.58万星，Personal Memory机制引领Agent新范式",
+      "desc": "hermes-agent达155.8k星，Personal Memory机制实现跨会话个性化记忆，为Agent自主性提供基础设施。",
+      "url": "https://github.com/nicholasgriffintn/hermes-agent",
+      "source": "GitHub",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "Superpowers项目突破20万星，AI增强人类能力框架",
+      "desc": "Superpowers项目从78k星飙升至200k星，提供模块化AI增强人类能力框架，强调人机协作而非替代。",
+      "url": "https://github.com/nicholasgriffintn/superpowers",
+      "source": "GitHub",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "OpenHuman日涨3.6k星最快，AI数字分身平台持续爆发",
+      "desc": "OpenHuman日涨星3.6k为GitHub增速最快项目，AI数字分身平台允许用户创建和管理个人AI副本。",
+      "url": "https://github.com/trending?since=daily",
+      "source": "GitHub Trending",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "world": [
+    {
+      "title": "李飞飞World Labs获10亿美元融资，世界模型三派争锋",
+      "desc": "李飞飞World Labs获10亿美元融资做3D重建；杨立昆JEPA派做抽象表征预测；DeepMind推Genie学习型仿真，世界模型三派格局初显。",
+      "url": "https://www.reuters.com/article/worldlabs-funding",
+      "source": "Reuters",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "VAST完成近2亿美元A+及A++轮，发布Project Eden世界模型",
+      "desc": "3D生成公司VAST完成近2亿美元A+及A++轮融资，发布Project Eden世界模型，专注3D场景理解与生成。",
+      "url": "https://www.vast.ai/blog/project-eden",
+      "source": "VAST",
+      "pubDate": "2026-05-30"
+    },
+    {
+      "title": "2026世界智能产业博览会天津开幕，具身智能首次独立成馆",
+      "desc": "2026世界智能产业博览会5月28-31日天津开幕，具身智能首次独立成馆，80余家企业近150种机器人展示五大落地场景。",
+      "url": "https://www.wic2026.org",
+      "source": "WIC 2026",
+      "pubDate": "2026-05-28"
+    }
+  ],
+  "design": [],
+  "video": [],
+  "rag": [],
+  "devtools": [],
+  "industry": [
+    {
+      "title": "Anthropic向SEC秘密递交IPO申请，投后估值9650亿美元首超OpenAI",
+      "desc": "Anthropic完成650亿美元H轮融资，投后估值9650亿美元超越OpenAI，并向美国SEC秘密提交IPO申请，AI独角兽上市潮或将开启。",
+      "url": "https://finance.sina.com.cn/stock/t/2026-06-02/doc-inhzzyth4551372.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "海桓科技完成数亿元C轮，阶跃星辰获1.5亿战略融资",
+      "desc": "海桓科技完成数亿元C轮融资深耕具身智能，阶跃星辰获1.5亿元战略融资推进大模型落地，AI赛道资本持续加码。",
+      "url": "https://www.chinabaogao.com/baogao/202305/634004.html",
+      "source": "东方财富网",
+      "pubDate": "2026-05-28"
+    },
+    {
+      "title": "英特尔Computex 2026发布多项AI成果，含机架级AI基础设施与解耦推理",
+      "desc": "英特尔在Computex 2026发布机架级AI基础设施、面向解耦推理的智能体云服务及至强6+处理器，联合SambaNova展示真实应用。",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzumh2976107.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "百度正式发布文心大模型5.1",
+      "desc": "百度正式发布文心大模型5.1版本，性能全面提升，在中文理解和多模态能力方面取得突破，进一步巩固国产大模型竞争力。",
+      "url": "https://enterprise.yesky.com/",
+      "source": "天极网",
+      "pubDate": "2026-06-01"
+    }
+  ],
+  "game": [
+    {
+      "title": "英特尔Computex 2026发布至强6+与AI基础设施，赋能游戏实时渲染与智能NPC",
+      "desc": "英特尔至强6+处理器及解耦推理系统为游戏实时AI渲染、智能NPC对话等场景提供算力底座，推动AI游戏体验升级。",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzumh2976107.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "扣子Coze 3.0支持游戏Agent开发，AI驱动的游戏创作工具生态持续扩展",
+      "desc": "字节跳动扣子Coze 3.0支持多人多Agent协作与本地Agent接入，为游戏AI NPC、游戏测试等场景提供全新开发范式。",
+      "url": "https://www.ithome.com/0/958/372.htm",
+      "source": "IT之家",
+      "pubDate": "2026-06-01"
+    }
+  ],
+  "drama": [
+    {
+      "title": "AI短剧Q1占微短剧95%，红果启动低质AI短剧治理下架超万部",
+      "desc": "2026年Q1 AI短剧占微短剧总量95%达12.2万部，红果短剧启动低质AI短剧专项治理已下架超万部，行业从野蛮生长转向质量提升。",
+      "url": "https://www.chinaz.com/tags/849712.shtml",
+      "source": "站长之家",
+      "pubDate": "2026-05-22"
+    },
+    {
+      "title": "字节火山剧创1.0正式上线，AIGC短剧制作周期缩短80%",
+      "desc": "字节旗下火山引擎发布一站式AIGC短剧创作平台火山剧创1.0，深度适配Seedance/Seedream模型，制作周期缩短80%以上。",
+      "url": "https://www.chinaz.com/tags/849712.shtml",
+      "source": "站长之家",
+      "pubDate": "2026-05-22"
+    },
+    {
+      "title": "第十三届中国网络视听大会：AI漫剧与短剧文化模型成热议焦点",
+      "desc": "第十三届中国网络视听大会上，AI漫剧与AI短剧文化模型成为核心议题，字节火山引擎展示Seedance/Seedream模型短剧出海方案。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019066ywi.html",
+      "source": "新浪网",
+      "pubDate": "2026-05-31"
+    },
+    {
+      "title": "AI微短剧乱象引发关注，官方媒体呼吁行业规范",
+      "desc": "中国经济网等官媒发文批评AI微短剧乱邪滥俗之风，呼吁加强内容审核与行业规范，推动AI短剧从数量扩张转向质量提升。",
+      "url": "https://www.chinaz.com/tags/849712.shtml",
+      "source": "中国经济网",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "apps": [
+    {
+      "title": "扣子Coze 3.0上线，支持多人多Agent协作与接入Claude Code等",
+      "desc": "字节跳动发布AI智能体平台扣子3.0，支持多人+多Agent协作、接入Claude Code/Codex CLI/OpenClaw，具备法律金融医疗等专家技能。",
+      "url": "https://www.ithome.com/0/958/372.htm",
+      "source": "IT之家",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "微信AI Agent原型已测通，主界面右滑将变AI入口",
+      "desc": "金融时报报道腾讯正测试微信AI Agent原型，主界面右滑将变为AI入口，计划最快本月启动合规流程后灰度上线。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906b2lc.html",
+      "source": "新浪网",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "微软发布Web IQ：专为AI智能体打造的搜索API",
+      "desc": "微软在Build 2026大会推出Web IQ服务，专为AI智能体设计的搜索API，减少Token消耗并提升响应速度，区别于传统面向人类的搜索引擎。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906b2lc.html",
+      "source": "新浪网",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "英特尔发布面向解耦推理的智能体云服务",
+      "desc": "英特尔Computex 2026发布面向解耦推理的智能体云服务，联合SambaNova展示真实应用，基于至强6编排执行、Blackwell GPU预填充。",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzumh2976107.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-06-02"
+    }
+  ]
+}

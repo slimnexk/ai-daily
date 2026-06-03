@@ -1,6 +1,6 @@
 {
-  "title": "Claude Opus 4.8发布：数百子智能体并行运作，AI迈向诚实时代",
-  "desc": "Anthropic推出Claude Opus 4.8，引入Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；DeepSeek V4-Pro API永久维持2.5折定价；51WORLD发布全球首款物理直觉世界模型51World Model。",
+  "title": "Claude Opus 4.8发布：数百子智能体并行，Anthropic估值9650亿超越OpenAI",
+  "desc": "Anthropic发布Claude Opus 4.8，Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；Anthropic完成650亿美元H轮融资投后估值9650亿超越OpenAI；微信AI Agent原型已测通主界面右滑将变AI入口。",
   "dates": {
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
@@ -65,6 +65,10 @@
     "2026-06-02": {
       "title": "Claude Opus 4.8发布：数百子智能体并行运作，AI迈向诚实时代",
       "desc": "Anthropic推出Claude Opus 4.8，引入Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；DeepSeek V4-Pro API永久维持2.5折定价；51WORLD发布全球首款物理直觉世界模型51World Model。"
+    },
+    "2026-06-03": {
+      "title": "Claude Opus 4.8发布：数百子智能体并行，Anthropic估值9650亿超越OpenAI",
+      "desc": "Anthropic发布Claude Opus 4.8，Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；Anthropic完成650亿美元H轮融资投后估值9650亿超越OpenAI；微信AI Agent原型已测通主界面右滑将变AI入口。"
     }
   }
 }
