@@ -1,6 +1,6 @@
 {
-  "title": "Claude Opus 4.8发布：数百子智能体并行，Anthropic估值9650亿超越OpenAI",
-  "desc": "Anthropic发布Claude Opus 4.8，Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；Anthropic完成650亿美元H轮融资投后估值9650亿超越OpenAI；微信AI Agent原型已测通主界面右滑将变AI入口。",
+  "title": "AI日报 2026-06-04",
+  "desc": "",
   "dates": {
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
@@ -69,6 +69,10 @@
     "2026-06-03": {
       "title": "Claude Opus 4.8发布：数百子智能体并行，Anthropic估值9650亿超越OpenAI",
       "desc": "Anthropic发布Claude Opus 4.8，Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；Anthropic完成650亿美元H轮融资投后估值9650亿超越OpenAI；微信AI Agent原型已测通主界面右滑将变AI入口。"
+    },
+    "2026-06-04": {
+      "title": "AI日报 2026-06-04",
+      "desc": ""
     }
   }
 }

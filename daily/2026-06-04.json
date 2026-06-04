@@ -1,0 +1,129 @@
+{
+  "title": "AI日报 2026-06-04",
+  "desc": "",
+  "featured": [],
+  "hotSearch": [],
+  "llm": [],
+  "github": [],
+  "trend": [],
+  "world": [],
+  "design": [
+    {
+      "title": "优设网：GPT×Gemini×Figma Make×Stitch×Codex全链路工作流解读",
+      "desc": "优设网梳理多工具协同工作流：GPT、Gemini、Figma Make、Stitch、Codex联动，从设计到可运行Demo的全链路方案。",
+      "url": "https://www.uisdc.com/tag/figma",
+      "source": "优设网",
+      "pubDate": "2026-05-26"
+    }
+  ],
+  "video": [
+    {
+      "title": "可灵AI领跑全球AI视频生成赛道，5月MAU达1318万环比增41.9%",
+      "desc": "快手可灵AI5月在出海增速榜与全球增速榜双榜夺冠，月活1318万环比增41.9%，高盛维持快手买入评级看好可灵AI商业化价值。",
+      "url": "https://finance.ifeng.com/c/8tehM4Ro0iC",
+      "source": "凤凰网",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "即梦Seedance 2.0实测：产品一致性+电影级运镜，商家AI视频首选",
+      "desc": "即梦Seedance 2.0支持多图上传、产品细节精准还原、电影级运镜与自带配乐，被评国内AI视频产品压倒性优势Top。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019067wb6.html",
+      "source": "新浪网",
+      "pubDate": "2026-06-01"
+    }
+  ],
+  "rag": [],
+  "devtools": [],
+  "industry": [
+    {
+      "title": "英伟达GTC Taipei 2026：黄仁勋发布Vera Rubin芯片与RTX Spark，宣告Agentic AI时代到来",
+      "desc": "英伟达CEO黄仁勋在COMPUTEX 2026发布面向AI PC的Vera Rubin芯片、RTX Spark超级芯片及AI工厂平台DSX，称token成为利润单位，算力即收入。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190693wi.html?from=tech",
+      "source": "新浪网",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "Anthropic完成650亿美元融资估值9650亿超越OpenAI，MiniMax M3发布并启动A股IPO",
+      "desc": "Anthropic完成650亿美元融资，估值达9650亿美元超越OpenAI。国产大模型MiniMax M3正式发布，编程能力超越GPT-5.5，同步启动A股IPO辅导。",
+      "url": "https://yishuo.blog.csdn.net/article/details/161598564",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "宇树科技73天闪电过会，即将成为A股人形机器人第一股",
+      "desc": "宇树科技科创板IPO申请73天闪电过会，即将成为A股人形机器人第一股。英伟达黄仁勋公开表示与宇树合作，为其赋能加码。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906apti.html?from=tech",
+      "source": "新浪网",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "OpenAI正式进军机器人赛道，组建OpenAI Robotics事业部",
+      "desc": "OpenAI进军实体机器人赛道，组建OpenAI Robotics事业部，从软件AI向具身智能全面拓展，CEO奥特曼发布招聘寻找全栈硬件与ML工程师。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019069gl4.html?from=tech",
+      "source": "新浪网",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "game": [
+    {
+      "title": "腾讯游戏AI大爆发：开源NDGI全局光照方案，发布AI创作平台代号Craft",
+      "desc": "腾讯游戏发布两款AI产品：全球首个跨平台神经动态全局光照方案NDGI全面开源，以及自研AI游戏创作平台代号Craft，王者荣耀灵宝支持AI NPC互动。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6796a17aba814752",
+      "source": "企鹅号",
+      "pubDate": "2026-05-28"
+    }
+  ],
+  "drama": [
+    {
+      "title": "AI漫剧爆发：从0到1全流程拆解，1人1天可出3-5集",
+      "desc": "AI漫剧全称AI动态漫画剧，成本压缩90%，1人操作周期1-7天，日更10集可实现。成本400-2500元/集，剧本、生图、动效、配音全链路AI自动化。",
+      "url": "https://blog.csdn.net/2601_95910375/article/details/160630430",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-31"
+    },
+    {
+      "title": "AI短剧席卷全球：《从赖皮蛇开始吞噬进化》上线一周播放量破2亿",
+      "desc": "2026年1月底AI漫剧《从赖皮蛇开始吞噬进化》上线一周播放量破2亿成开年爆款，制作成本仅十余万，毛利率70%以上，AI短剧正席卷海内外市场。",
+      "url": "https://www.sohu.com/a/1030183972_122094386",
+      "source": "搜狐",
+      "pubDate": "2026-05-31"
+    },
+    {
+      "title": "AI漫剧+AI短剧创作系统：24小时全自动内容生产工厂",
+      "desc": "AI漫剧短剧创作系统实现全流程AI自动化：智能生成剧本分镜人设、自动生成角色场景、多情感配音+自动字幕合成，一天可产出几十条内容，支持独立部署。",
+      "url": "https://blog.csdn.net/ywyy6798/article/details/158730296",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-31"
+    }
+  ],
+  "apps": [
+    {
+      "title": "2026年AI圈爆火产品盘点：Gemini月活7.5亿，Claude Code原生集成Xcode",
+      "desc": "Google Gemini月活7.5亿成全球最大AI产品；Claude Code原生集成Xcode实现视觉验证与自主任务执行；面壁智能MiniCPM-o 4.5成首款开源全双工多模态模型。",
+      "url": "https://blog.csdn.net/2501_92406411/article/details/158391487",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "OpenAI演示无APP手机：所有界面实时生成，推理甩给云端GPT",
+      "desc": "OpenAI Voice Hack Night活动展示Agentic操作系统原型，所有界面均为即时生成，无需调用任何传统App，标志着AI原生操作系统形态的首次公开展示。",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019069gl4.html?from=tech",
+      "source": "新浪网",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "2026年真正实用的10款AI神器：DeepSeek月活超2亿，豆包覆盖多场景",
+      "desc": "DeepSeek月活超2亿擅长中文场景，豆包月活超2亿聚焦短视频电商内容，通义千问深度绑定购物地图服务，AI工具正成为职场人士标配生产力工具。",
+      "url": "https://blog.csdn.net/lgf228/article/details/157800617",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "6月AI模型密集更新：Gemini 3.5 Flash、GPT-5.5 Instant、Qwen3齐发",
+      "desc": "谷歌发布Gemini 3.5 Flash和Gemini Omni；OpenAI发布GPT-5.5 Instant及三款实时语音模型；腾讯发布OpenSearch-VL和设计智能体Ardot；阿里推出Qwen3。",
+      "url": "http://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid/833715889370/index.phtml",
+      "source": "新浪财经",
+      "pubDate": "2026-06-02"
+    }
+  ]
+}
