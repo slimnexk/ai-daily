@@ -1,6 +1,6 @@
 {
-  "title": "AI日报 2026-06-04",
-  "desc": "",
+  "title": "英伟达发布Cosmos 3世界模型，Anthropic冲刺IPO",
+  "desc": "英伟达GTC台北发布全球首个全开源全模态物理AI模型Cosmos 3；Anthropic提交IPO申请估值近万亿美元；DeepSeek首轮融资500亿腾讯宁德时代入局；微软Build 2026发布7款自研MAI模型。",
   "dates": {
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
@@ -73,6 +73,10 @@
     "2026-06-04": {
       "title": "AI日报 2026-06-04",
       "desc": ""
+    },
+    "2026-06-05": {
+      "title": "英伟达发布Cosmos 3世界模型，Anthropic冲刺IPO",
+      "desc": "英伟达GTC台北发布全球首个全开源全模态物理AI模型Cosmos 3；Anthropic提交IPO申请估值近万亿美元；DeepSeek首轮融资500亿腾讯宁德时代入局；微软Build 2026发布7款自研MAI模型。"
     }
   }
 }
