@@ -1,0 +1,191 @@
+{
+  "title": "微软发布自研推理模型，Anthropic呼吁暂停前沿AI，世界模型加速落地",
+  "desc": "Build 2026大会上微软一口气发布7款自研AI模型；Anthropic披露内部80%代码由Claude编写并呼吁放缓前沿AI；OpenAI升级ChatGPT记忆系统；51WORLD发布物理直觉世界模型；腾讯云DeepSeek-V4 API大幅降价。",
+  "featured": [
+    {
+      "title": "微软Build 2026：首发自研推理模型MAI-Thinking-1，七款AI模型齐发",
+      "desc": "微软在Build 2026大会发布首款自研推理模型MAI-Thinking-1，350亿激活参数/万亿总参数，未用蒸馏数据，编码能力达Claude Sonnet 4.6水平。同步发布MAI-Image-2.5、MAI-Code-1、MAI-Voice-2等，覆盖推理、图像、语音、编程全栈。",
+      "url": "https://www.sohu.com/a/1030945310_121885030",
+      "label": "模型发布",
+      "icon": "rocket",
+      "color": "#0078D4",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "Anthropic呼吁暂停前沿AI开发：内部超80%代码已由Claude编写",
+      "desc": "Anthropic发文呼吁全球放缓前沿AI发展，披露内部数据：超80%代码由Claude编写，工程师人均提交量是2024年8倍，Claude优化训练代码提速从3倍增至52倍，编程任务成功率6个月从26%升至76%。",
+      "url": "https://www.toutiao.com/article/7647843291693695542/",
+      "label": "行业动态",
+      "icon": "alert",
+      "color": "#D97706",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "OpenAI升级ChatGPT记忆系统：准确率提升至82.8%，免费用户即将开放",
+      "desc": "OpenAI基于Dreaming V3机制升级ChatGPT记忆功能，事实回忆准确率从67.9%升至82.8%，计算资源降至1/5，记忆容量翻倍，Plus/Pro用户已可体验，免费用户即将开放。",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-06-05/doc-iniaikay8686419.shtml",
+      "label": "产品更新",
+      "icon": "brain",
+      "color": "#10A37F",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "51WORLD发布全球首款物理直觉世界模型，AI进入物理世界",
+      "desc": "51WORLD发布物理直觉世界模型51World Model及Agent底座51Claw，将世界模型与OpenClaw融合，覆盖智能驾驶、具身机器人、低空经济等物理AI场景，提供API与SDK接入。",
+      "url": "https://new.qq.com/rain/a/20260601A09P7B00",
+      "label": "世界模型",
+      "icon": "globe",
+      "color": "#7C3AED",
+      "pubDate": "2026-06-01"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "南开大学一学生被电诈220万",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%94%B5%E8%AF%88220%E4%B8%87",
+      "source": "微博",
+      "heat": "123万"
+    },
+    {
+      "title": "男子落水7天6夜从海口漂到澄迈",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%90%BD%E6%B0%B47%E5%A4%A96%E5%A4%9C%E4%BB%8E%E6%B5%B7%E5%8F%A3%E6%BC%82%E5%88%B0%E6%BE%84%E8%BF%88",
+      "source": "微博",
+      "heat": "89万"
+    },
+    {
+      "title": "美丽中国行",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E8%A1%8C",
+      "source": "微博",
+      "heat": "81万"
+    },
+    {
+      "title": "意识到了一杯奶茶钱真不是小钱",
+      "url": "https://s.weibo.com/weibo?q=%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E9%92%B1%E7%9C%9F%E4%B8%8D%E6%98%AF%E5%B0%8F%E9%92%B1",
+      "source": "微博",
+      "heat": "80万"
+    },
+    {
+      "title": "中央空调才是电费刺客",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%A4%AE%E7%A9%BA%E8%B0%83%E6%89%8D%E6%98%AF%E7%94%B5%E8%B4%B9%E5%88%BA%E5%AE%A2",
+      "source": "微博",
+      "heat": "76万"
+    },
+    {
+      "title": "饭店的暑假工，八块钱餐位费合理吗？",
+      "url": "https://www.douyin.com/video/7647099531683536463",
+      "source": "抖音",
+      "heat": "4455万播放"
+    },
+    {
+      "title": "中国少年叶梓渝以0.39秒解出2×2魔方破世界纪录",
+      "url": "https://www.douyin.com/video/7647131100162286693",
+      "source": "抖音",
+      "heat": "2776万播放"
+    },
+    {
+      "title": "鬼火少年深夜飙车炫技挑衅警方",
+      "url": "https://www.douyin.com/video/7647463294265003316",
+      "source": "抖音",
+      "heat": "2229万播放"
+    },
+    {
+      "title": "沉浸式体验明星保镖的一天，今天保护的艺人是赵露思",
+      "url": "https://www.douyin.com/video/7647172456411583231",
+      "source": "抖音",
+      "heat": "1977万播放"
+    },
+    {
+      "title": "《言 传 身 教》",
+      "url": "https://www.douyin.com/video/7646379732238538363",
+      "source": "抖音",
+      "heat": "1885万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "微软Build 2026发布7款自研AI模型，MAI-Thinking-1编码比肩Claude",
+      "desc": "微软发布首款自研推理模型MAI-Thinking-1（350亿激活/万亿总参数），同步推出MAI-Code-1-Flash、MAI-Image-2.5、MAI-Transcribe-1.5、MAI-Voice-2等，覆盖推理、编程、图像、语音四大方向。",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-06-03/doc-iniaaezc1240303.shtml",
+      "source": "新浪科技",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "OpenAI升级ChatGPT记忆系统：Dreaming V3机制，准确率升至82.8%",
+      "desc": "OpenAI发布ChatGPT记忆功能重大升级，基于Dreaming V3架构，事实回忆准确率从67.9%提升至82.8%，计算资源降至原来1/5，记忆容量翻倍，首次向免费用户开放。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6426a229d3e29552",
+      "source": "企鹅号",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "腾讯云大幅下调DeepSeek-V4 API价格，最高降幅97.5%",
+      "desc": "腾讯云宣布DeepSeek-V4-Pro推理输入/输出降价75%，缓存命中降价97.5%；V4-Flash缓存命中降价90%。该系列1.6万亿参数MoE架构，原生支持百万级上下文。",
+      "url": "https://ai.zol.com.cn/1192/11920318.html",
+      "source": "中关村在线",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "WWDC 2026前瞻：Siri全面改版，Apple Intelligence大更新",
+      "desc": "苹果WWDC 2026将于6月9日开幕，预计发布全新Siri和Apple Intelligence更新，包括独立Siri应用、AI代理应用商店等。彭博社泄露信息显示苹果正开发与ChatGPT/Claude竞争的独立AI应用。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1036a22088805752",
+      "source": "企鹅号",
+      "pubDate": "2026-06-05"
+    }
+  ],
+  "github": [
+    {
+      "title": "Zod作者推出Pullfrog：跑在GitHub Actions里的开源AI编程Agent",
+      "desc": "Pullfrog定位为CodeRabbit的模型无关替代方案，运行在GitHub Actions内，可监听webhook并触发AI agent处理PR、issue、CI失败等事件，2026年5月发布后迅速走红。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2946a1e978b31352",
+      "source": "企鹅号",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "微软MarkItDown开源项目日增243星，多格式文档转Markdown利器",
+      "desc": "微软开源的MarkItDown支持PDF、Office等多种格式转Markdown，支持LLM数据预处理和OCR识别，解决统一文档转换痛点，在GitHub Trending上持续增长。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161611120",
+      "source": "CSDN",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "trend": [
+    {
+      "name": "openclaw/openclaw",
+      "stars": "300K+",
+      "type": "Agent框架",
+      "desc": "全平台私人AI助手，跨系统跨终端适配，本地优先+IDE深度集成+安全沙箱，GitHub星数最高的AI Agent项目。",
+      "tags": [
+        "Agent",
+        "自动化",
+        "跨平台"
+      ],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "github",
+      "icon": "🦞",
+      "pubDate": "2026-06-04"
+    }
+  ],
+  "world": [
+    {
+      "title": "51WORLD发布全球首款物理直觉世界模型51World Model",
+      "desc": "51WORLD发布物理直觉世界模型及Agent底座51Claw，将世界模型与OpenClaw融合。基于高精度重建技术，生成过程严格遵循因果物理一致性，覆盖智能驾驶、具身机器人、低空经济等场景。",
+      "url": "https://new.qq.com/rain/a/20260601A09P7B00",
+      "source": "腾讯网",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "Google重磅上线通用世界模型Genie 3，文本提示即可生成3D世界",
+      "desc": "Google DeepMind的Genie 3实现文本到交互3D世界的生成，24帧/秒720p实时导航，消费级显卡可运行。输入文本提示即可生成动态世界，角色可在其中自由移动和交互。",
+      "url": "https://cloud.tencent.com/developer/article/2552869",
+      "source": "腾讯云",
+      "pubDate": "2026-06-06"
+    }
+  ],
+  "design": [],
+  "video": [],
+  "rag": [],
+  "devtools": [],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}

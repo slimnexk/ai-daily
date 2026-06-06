@@ -1,6 +1,6 @@
 {
-  "title": "英伟达发布Cosmos 3世界模型，Anthropic冲刺IPO",
-  "desc": "英伟达GTC台北发布全球首个全开源全模态物理AI模型Cosmos 3；Anthropic提交IPO申请估值近万亿美元；DeepSeek首轮融资500亿腾讯宁德时代入局；微软Build 2026发布7款自研MAI模型。",
+  "title": "微软发布自研推理模型，Anthropic呼吁暂停前沿AI，世界模型加速落地",
+  "desc": "Build 2026大会上微软一口气发布7款自研AI模型；Anthropic披露内部80%代码由Claude编写并呼吁放缓前沿AI；OpenAI升级ChatGPT记忆系统；51WORLD发布物理直觉世界模型；腾讯云DeepSeek-V4 API大幅降价。",
   "dates": {
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
@@ -77,6 +77,10 @@
     "2026-06-05": {
       "title": "英伟达发布Cosmos 3世界模型，Anthropic冲刺IPO",
       "desc": "英伟达GTC台北发布全球首个全开源全模态物理AI模型Cosmos 3；Anthropic提交IPO申请估值近万亿美元；DeepSeek首轮融资500亿腾讯宁德时代入局；微软Build 2026发布7款自研MAI模型。"
+    },
+    "2026-06-06": {
+      "title": "微软发布自研推理模型，Anthropic呼吁暂停前沿AI，世界模型加速落地",
+      "desc": "Build 2026大会上微软一口气发布7款自研AI模型；Anthropic披露内部80%代码由Claude编写并呼吁放缓前沿AI；OpenAI升级ChatGPT记忆系统；51WORLD发布物理直觉世界模型；腾讯云DeepSeek-V4 API大幅降价。"
     }
   }
 }
