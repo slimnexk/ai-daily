@@ -1,6 +1,6 @@
 {
-  "title": "微软发布自研推理模型，Anthropic呼吁暂停前沿AI，世界模型加速落地",
-  "desc": "Build 2026大会上微软一口气发布7款自研AI模型；Anthropic披露内部80%代码由Claude编写并呼吁放缓前沿AI；OpenAI升级ChatGPT记忆系统；51WORLD发布物理直觉世界模型；腾讯云DeepSeek-V4 API大幅降价。",
+  "title": "WWDC前瞻Siri重生、Anthropic冲刺IPO、Claude Code动态工作流、世界模型国产登顶",
+  "desc": "苹果WWDC 2026即将开幕，Siri将迎来15年来最大改版；Anthropic秘密提交IPO申请估值近万亿；Claude Code推出动态工作流，AI编程进入多Agent并行时代；WorldArena榜单中国团队连夺双冠，世界模型赛道竞争白热化。",
   "dates": {
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
@@ -81,6 +81,10 @@
     "2026-06-06": {
       "title": "微软发布自研推理模型，Anthropic呼吁暂停前沿AI，世界模型加速落地",
       "desc": "Build 2026大会上微软一口气发布7款自研AI模型；Anthropic披露内部80%代码由Claude编写并呼吁放缓前沿AI；OpenAI升级ChatGPT记忆系统；51WORLD发布物理直觉世界模型；腾讯云DeepSeek-V4 API大幅降价。"
+    },
+    "2026-06-07": {
+      "title": "WWDC前瞻Siri重生、Anthropic冲刺IPO、Claude Code动态工作流、世界模型国产登顶",
+      "desc": "苹果WWDC 2026即将开幕，Siri将迎来15年来最大改版；Anthropic秘密提交IPO申请估值近万亿；Claude Code推出动态工作流，AI编程进入多Agent并行时代；WorldArena榜单中国团队连夺双冠，世界模型赛道竞争白热化。"
     }
   }
 }
