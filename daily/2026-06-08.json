@@ -1,0 +1,198 @@
+{
+  "title": "AI日报 2026-06-08",
+  "desc": "",
+  "featured": [],
+  "hotSearch": [
+    {
+      "title": "高考数学",
+      "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6",
+      "source": "微博",
+      "heat": "347万"
+    },
+    {
+      "title": "真考琵琶行了",
+      "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E8%80%83%E7%90%B5%E7%90%B6%E8%A1%8C%E4%BA%86",
+      "source": "微博",
+      "heat": "346万"
+    },
+    {
+      "title": "我国氢煤混烧技术取得重大突破",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E6%B0%A2%E7%85%A4%E6%B7%B7%E7%83%A7%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
+      "source": "微博",
+      "heat": "182万"
+    },
+    {
+      "title": "翘楚弹幕 没法看",
+      "url": "https://s.weibo.com/weibo?q=%E7%BF%98%E6%A5%9A%E5%BC%B9%E5%B9%95+%E6%B2%A1%E6%B3%95%E7%9C%8B",
+      "source": "微博",
+      "heat": "138万"
+    },
+    {
+      "title": "一卷作文 脑子里只有网络烂梗",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%8D%B7%E4%BD%9C%E6%96%87+%E8%84%91%E5%AD%90%E9%87%8C%E5%8F%AA%E6%9C%89%E7%BD%91%E7%BB%9C%E7%83%82%E6%A2%97",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "饭店的暑假工，菜难吃要退款吗？",
+      "url": "https://www.douyin.com/video/7648082660011097443",
+      "source": "抖音",
+      "heat": "5148万播放"
+    },
+    {
+      "title": "这巨大的威～力～",
+      "url": "https://www.douyin.com/video/7647832688694431014",
+      "source": "抖音",
+      "heat": "4503万播放"
+    },
+    {
+      "title": "回想那一天 喧闹的喜宴 #阴天 #青春",
+      "url": "https://www.douyin.com/video/7648116122483761262",
+      "source": "抖音",
+      "heat": "3116万播放"
+    },
+    {
+      "title": "狸花：拿人罐罐，替人消鼠！",
+      "url": "https://www.douyin.com/video/7647830552246827121",
+      "source": "抖音",
+      "heat": "3042万播放"
+    },
+    {
+      "title": "我和我的小狗和他",
+      "url": "https://www.douyin.com/video/7647829511245891813",
+      "source": "抖音",
+      "heat": "2727万播放"
+    }
+  ],
+  "llm": [],
+  "github": [],
+  "trend": [],
+  "world": [],
+  "design": [
+    {
+      "title": "前端工程师开始用Claude了，顺便让Figma股价单日跌了7%",
+      "desc": "Claude Design由Opus 4.7驱动，分辨率从1568px升级到2576px，支持对话式原型生成，可一键导出为Claude Code的handoff包，实现设计到开发闭环。",
+      "url": "https://blog.csdn.net/cute_cat_kaddy/article/details/161217110",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-31"
+    }
+  ],
+  "video": [
+    {
+      "title": "Sora Turbo版本上线，支持1080p 20秒视频生成",
+      "desc": "OpenAI Sora推出Turbo版本，提供更快的视频生成能力，支持高达1080p分辨率、最长20秒视频，支持生成多个视频变体及修改、扩展、循环等编辑操作。",
+      "url": "https://www.aihub.cn/tools/video",
+      "source": "AIHub",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "AI视频生成模型前二十盘点：Sora 2、Veo 3、Kling领跑",
+      "desc": "盘点当前主流AI视频生成模型：Sora 2为技术标杆但API难获取，Veo 3支持原生音视频集成，Kling为国产顶级模型，Runway Gen-3专业控制力强，Seedance用户增长快。",
+      "url": "https://blog.csdn.net/weixin_40970718/article/details/156867286",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "rag": [],
+  "devtools": [
+    {
+      "title": "AI修图火了！GPT Image 2被网友玩烂，照骗要升级了",
+      "desc": "GPT Image 2于2026年4月发布，生图稳定性超越Nano Banana等模型，多人脸五官稳定，AI修图玩法爆发，但也引发图片真实性担忧。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5676a1e51c817852",
+      "source": "企鹅号",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "industry": [
+    {
+      "title": "2026Q1 AI产业观察：融资总额763.80亿元，Agentic AI与具身智能成核心主线",
+      "desc": "2026Q1中国AI行业一级市场融资事件577个，同比增长62.08%，Agentic AI与具身智能成为融资核心主线，政策持续加码推动行业健康发展。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0426a20dec390352",
+      "source": "企鹅号",
+      "pubDate": "2026-06-04"
+    },
+    {
+      "title": "2026年AI投资趋势权威报告：从Agent爆发到具身智能",
+      "desc": "AI投资正经历从基础设施竞赛到应用价值兑现的关键转折，AI Agent、具身智能、企业级应用等赛道迎来爆发窗口，六大趋势重塑全球资本版图。",
+      "url": "https://www.sohu.com/a/1029061438_122557330",
+      "source": "搜狐",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "2026 AI发展趋势预测：从技术迭代到产业深耕",
+      "desc": "德国通过全球首部AI生成内容强制标识法，国内出台《人工智能生成内容安全管理办法(升级版)》，AI内容溯源、水印标准和平台治理成为2026年重点。",
+      "url": "https://blog.csdn.net/fhkk55/article/details/158542551",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-06"
+    },
+    {
+      "title": "2026年AI行业趋势深度报告：全球AI市场规模预测超9000亿",
+      "desc": "整合IBM、NVIDIA等权威机构研究，2026年全球AI市场规模预测超9000亿美元，88%企业表示AI帮助增加年收入，86%企业计划增加AI预算。",
+      "url": "https://blog.csdn.net/zhanggongzichu/article/details/159159196",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-04"
+    }
+  ],
+  "game": [
+    {
+      "title": "Claude Opus 4.8一次生成完整《我的世界》风格游戏，成本不到百元",
+      "desc": "Anthropic推出Claude Opus 4.8，测试者通过单条文字指令让AI自动生成可运行的《我的世界》风格游戏，代码可直接在浏览器中运行并构建立体方块世界。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6846a1aba6571852",
+      "source": "企鹅号",
+      "pubDate": "2026-05-30"
+    }
+  ],
+  "drama": [
+    {
+      "title": "开源drama-workshop：AI一站式短剧/漫剧创作工坊",
+      "desc": "drama-workshop采用Script-to-Asset-to-Video工业化工作流，支持智能剧本解析、分镜自动生成、人物一致性保持、多风格图像生成及动态视频生成，解决AI视频换脸问题。",
+      "url": "https://blog.csdn.net/jl500120381/article/details/160034775",
+      "source": "CSDN博客",
+      "pubDate": "2026-05-29"
+    },
+    {
+      "title": "AI漫剧生成全流程解析：从剧本到成片的技术栈",
+      "desc": "完整解析AI漫剧生成流程，涵盖LLM剧本创作、LoRA/ControlNet角色一致性、SDXL分镜生成、视频合成与TTS配音等关键技术环节，附伪代码示例。",
+      "url": "https://blog.csdn.net/weixin_55647998/article/details/160226841",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "AI短剧制作工作流从入门到实战：Gemini+Seedance全流程",
+      "desc": "详细介绍使用Gemini生成高一致性短剧分镜预设，结合NanoBananaPro生成25宫格分镜图，再使用Seedance视频模型制作动画的完整工作流。",
+      "url": "https://blog.csdn.net/baltam1995/article/details/159043996",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-01"
+    }
+  ],
+  "apps": [
+    {
+      "title": "OpenAI发布Codex六大企业插件及批注、站点生成功能",
+      "desc": "OpenAI上线销售、数据分析、创意制作等六大场景智能体插件，推出全职场批注功能支持文档表格幻灯片精准编辑，开放站点生成功能可快速构建协作网站。",
+      "url": "https://www.donews.com/news/detail/8/6581038.html",
+      "source": "DoNews",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "苹果WWDC 2026：AI驱动新版Siri及账单分摊功能",
+      "desc": "苹果预计在WWDC 2026上推出与谷歌Gemini合作开发的全新AI版Siri，基于Gemini技术开发下一代苹果基础模型，模型将在苹果设备及私有云基础设施上运行确保隐私。",
+      "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-03/doc-iniaavwu2520664.shtml",
+      "source": "新浪财经",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "荣耀MagicOS六月更新：YOYO AI创作焕新及排队码提醒等功能上线",
+      "desc": "荣耀MagicOS六月更新带来YOYO排队码提醒、YOYO AI创作焕新玩法、灵动胶囊赛事比分与驾车导航等功能，提升智能手机日常使用便捷性。",
+      "url": "https://www.sohu.com/a/1032756968_122004016",
+      "source": "搜狐",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "蓝信发布2026全栈AI新品：LanEcho听蓝AI录音卡等三款核心产品",
+      "desc": "蓝信2026 AI新品发布会推出三款核心AI产品，包括专为政企打造的LanEcho听蓝AI录音卡，厚度2.88mm超轻超薄超长待机，强调AI原生驱动与全域智能化重构。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6376a200d4407552",
+      "source": "企鹅号",
+      "pubDate": "2026-06-03"
+    }
+  ]
+}
