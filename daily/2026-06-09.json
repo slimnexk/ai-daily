@@ -1,0 +1,114 @@
+{
+  "title": "英伟达Cosmos 3发布、Anthropic冲刺IPO、Claude Opus 4.8登顶",
+  "desc": "6月第一周AI圈重磅不断：英伟达GTC台北发布全模态物理AI模型Cosmos 3，Anthropic秘密递交IPO申请估值近万亿美元，Claude Opus 4.8以智能体能力登顶基准测试，谷歌豪掷300亿美元向SpaceX租赁算力。",
+  "featured": [
+    {
+      "title": "英伟达发布Cosmos 3：全球首个全开源全模态物理AI模型",
+      "desc": "英伟达在台北GTC大会发布Cosmos 3，采用混合Transformer架构，集成视觉推理、世界生成与动作预测，将物理AI训练周期从数月压缩至数天。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3466a1fdc9b14665",
+      "label": "世界模型",
+      "icon": "🌐",
+      "color": "#76B900",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "Anthropic秘密递交IPO申请，估值9650亿美元挑战万亿市值",
+      "desc": "Claude开发商Anthropic向SEC秘密提交S-1注册声明，完成650亿美元H轮融资后正式启动上市流程，与OpenAI、SpaceX开启上市竞速。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0946a1ed7f457552",
+      "label": "行业重磅",
+      "icon": "💰",
+      "color": "#D97706",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "谷歌豪掷300亿美元向SpaceX租赁11万GPU算力",
+      "desc": "SpaceX与谷歌签署33个月算力协议，月付9.2亿美元；此前已与Anthropic签约22万GPU月付12.5亿美元，SpaceX年化算力收入达260亿美元。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2866a239dce50452",
+      "label": "算力基建",
+      "icon": "⚡",
+      "color": "#059669",
+      "pubDate": "2026-06-06"
+    }
+  ],
+  "hotSearch": [],
+  "llm": [
+    {
+      "title": "大模型企业扎堆IPO：智谱MiniMax冲刺A股，Anthropic抢先OpenAI递表",
+      "desc": "智谱全票通过科创板上市决议募资150亿，MiniMax启动A股IPO，Anthropic秘密提交IPO申请，全球大模型上市竞赛同步升温。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2726a1ed6d936752",
+      "source": "企鹅号",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "github": [
+    {
+      "title": "ECC超20万星领跑GitHub：AI Agent性能优化系统",
+      "desc": "ECC（everything-claude-code）面向Claude Code/Cursor等工具提供技能、本能和记忆持久化，63个代理、249个技能，每日增长1500+星。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161674372",
+      "source": "CSDN博客/GitHub Trending",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "MarkItDown 14万星持续增长：微软开源多格式文档转Markdown工具",
+      "desc": "微软开源工具，可将PDF/Word/Excel等转为LLM友好的Markdown格式，支持OCR和语音转录，是RAG数据准备利器，日增250星。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161642990",
+      "source": "CSDN博客/GitHub Trending",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "Headroom：AI Agent上下文压缩层，节省60-95% Token",
+      "desc": "专注上下文压缩的新项目，可大幅减少Agent运行时的token消耗，登上GitHub Trending榜单，为长任务和大规模Agent部署降本。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161674372",
+      "source": "CSDN博客/GitHub Trending",
+      "pubDate": "2026-06-03"
+    }
+  ],
+  "trend": [
+    {
+      "name": "ECC (everything-claude-code)",
+      "stars": "200k+",
+      "type": "AI Agent Harness",
+      "desc": "面向Claude Code/Cursor的性能优化系统，63个代理、249个技能、79个遗留命令兼容，支持12种语言",
+      "tags": [
+        "agent",
+        "claude-code",
+        "performance"
+      ],
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "iconType": "github",
+      "icon": "🚀",
+      "pubDate": "2026-06-03"
+    }
+  ],
+  "world": [
+    {
+      "title": "英伟达发布Cosmos 3：全球首个全开源全模态物理AI世界模型",
+      "desc": "采用推理Transformer+生成Transformer混合架构，原生支持文本/图像/视频/环境音/动作五模态，世界生成精度与动作策略均领跑基准，成立Cosmos Coalition联盟。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3466a1fdc9b14665",
+      "source": "企鹅号",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "大晓机器人发布Kairos-HomeWorld：全球首个全屋三维可交互世界模型",
+      "desc": "商汤系大晓机器人联合港中大发布Kairos-HomeWorld，突破单房间限制，一键生成全屋三维场景，物体全交互，为具身AI提供高保真训练场。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1726a2678ee98752",
+      "source": "企鹅号",
+      "pubDate": "2026-06-08"
+    },
+    {
+      "title": "Google I/O 2026：Gemini Omni世界模型首次亮相",
+      "desc": "谷歌发布Gemini Omni世界模型，支持对话式视频编辑、数字分身与物理理解，从模型能力追赶转向AI生态壁垒构建。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/161359767",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-06"
+    }
+  ],
+  "design": [],
+  "video": [],
+  "rag": [],
+  "devtools": [],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}

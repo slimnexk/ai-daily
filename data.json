@@ -1,6 +1,6 @@
 {
-  "title": "AI日报 2026-06-08",
-  "desc": "",
+  "title": "英伟达Cosmos 3发布、Anthropic冲刺IPO、Claude Opus 4.8登顶",
+  "desc": "6月第一周AI圈重磅不断：英伟达GTC台北发布全模态物理AI模型Cosmos 3，Anthropic秘密递交IPO申请估值近万亿美元，Claude Opus 4.8以智能体能力登顶基准测试，谷歌豪掷300亿美元向SpaceX租赁算力。",
   "dates": {
     "2026-05-11": {
       "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
@@ -89,6 +89,10 @@
     "2026-06-08": {
       "title": "AI日报 2026-06-08",
       "desc": ""
+    },
+    "2026-06-09": {
+      "title": "英伟达Cosmos 3发布、Anthropic冲刺IPO、Claude Opus 4.8登顶",
+      "desc": "6月第一周AI圈重磅不断：英伟达GTC台北发布全模态物理AI模型Cosmos 3，Anthropic秘密递交IPO申请估值近万亿美元，Claude Opus 4.8以智能体能力登顶基准测试，谷歌豪掷300亿美元向SpaceX租赁算力。"
     }
   }
 }
