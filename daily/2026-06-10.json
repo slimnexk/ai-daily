@@ -1,0 +1,250 @@
+{
+  "title": "DeepSeek调用量全球登顶，Gemini 3.5实时翻译发布",
+  "desc": "DeepSeek-V4-Flash连续三周蝉联全球大模型调用量榜首，中国AI模型周调用增长27%。谷歌发布Gemini 3.5实时翻译模型，支持70+语言。Anthropic翻倍Claude Cowork使用额度。World Labs估值暴涨至50亿美元。",
+  "featured": [
+    {
+      "title": "DeepSeek-V4-Flash连续三周蝉联全球大模型调用量榜首",
+      "desc": "据OpenRouter数据，6月首周全球AI大模型总调用达36.1万亿Token，中国大模型周调用14.19万亿Token环比增长27.49%，DeepSeek稳居第一。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6446a2640cb81452",
+      "label": "LLM",
+      "icon": "🔥",
+      "color": "#FF6B35",
+      "pubDate": "2026-06-08"
+    },
+    {
+      "title": "谷歌推出Gemini 3.5实时翻译模型",
+      "desc": "6月9日谷歌发布最新实时语音到语音翻译模型，自动检测70+语言，保留说话者语调语速音高，即日起在谷歌各产品中逐步推出。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2296a28335e18652",
+      "label": "LLM",
+      "icon": "🌐",
+      "color": "#4285F4",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "李飞飞World Labs估值暴涨5倍至50亿美元",
+      "desc": "据彭博社，李飞飞创办的World Labs正以约50亿美元估值进行新一轮融资，规模最高5亿美元，一年多时间从10亿估值升至50亿。",
+      "url": "https://blog.csdn.net/amusi1994/article/details/157410254",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#9C27B0",
+      "pubDate": "2026-06-08"
+    },
+    {
+      "title": "Anthropic限时翻倍Claude Cowork使用额度",
+      "desc": "Anthropic将桌面端智能体工具Claude Cowork额度提高一倍，6月5日起生效持续至7月5日，面向所有付费计划用户开放。",
+      "url": "https://new.qq.com/rain/a/20260606A043SZ00",
+      "label": "Claude",
+      "icon": "🤖",
+      "color": "#D97706",
+      "pubDate": "2026-06-06"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "安阳辟谣为奔跑吧录制支付80万",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E9%98%B3%E8%BE%9F%E8%B0%A3%E4%B8%BA%E5%A5%94%E8%B7%91%E5%90%A7%E5%BD%95%E5%88%B6%E6%94%AF%E4%BB%9880%E4%B8%87",
+      "source": "微博",
+      "heat": "190万"
+    },
+    {
+      "title": "何超琼套现逾1.4亿美元",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E8%B6%85%E7%90%BC%E5%A5%97%E7%8E%B0%E9%80%BE1.4%E4%BA%BF%E7%BE%8E%E5%85%83",
+      "source": "微博",
+      "heat": "124万"
+    },
+    {
+      "title": "平壤体育馆专场文艺演出高清大图",
+      "url": "https://s.weibo.com/weibo?q=%E5%B9%B3%E5%A3%A4%E4%BD%93%E8%82%B2%E9%A6%86%E4%B8%93%E5%9C%BA%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE",
+      "source": "微博",
+      "heat": "103万"
+    },
+    {
+      "title": "白鹿演技",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E6%BC%94%E6%8A%80",
+      "source": "微博",
+      "heat": "102万"
+    },
+    {
+      "title": "客房现用过避孕套酒店赔4千又反悔",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%A2%E6%88%BF%E7%8E%B0%E7%94%A8%E8%BF%87%E9%81%BF%E5%AD%95%E5%A5%97%E9%85%92%E5%BA%97%E8%B5%944%E5%8D%83%E5%8F%88%E5%8F%8D%E6%82%94",
+      "source": "微博",
+      "heat": "89万"
+    },
+    {
+      "title": "哪有什么岁月静好，只是有人替我们负重前行",
+      "url": "https://www.douyin.com/video/7648615934382443810",
+      "source": "抖音",
+      "heat": "6785万播放"
+    },
+    {
+      "title": "高考数学考试结束考生面露愁容",
+      "url": "https://www.douyin.com/video/7648599264814636403",
+      "source": "抖音",
+      "heat": "6267万播放"
+    },
+    {
+      "title": "男生第一个出考场被围观懵了",
+      "url": "https://www.douyin.com/video/7648592308178700654",
+      "source": "抖音",
+      "heat": "3459万播放"
+    },
+    {
+      "title": "习近平访问朝鲜欢迎仪式现场",
+      "url": "https://www.douyin.com/video/7648918206903504180",
+      "source": "抖音",
+      "heat": "3059万播放"
+    },
+    {
+      "title": "你和兄弟打单挑时",
+      "url": "https://www.douyin.com/video/7648589218033863394",
+      "source": "抖音",
+      "heat": "2856万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "谷歌推出Gemini 3.5实时翻译模型，支持70+语言",
+      "desc": "谷歌发布最新实时语音到语音翻译音频模型，可自动检测70+语言，生成流畅翻译语音并保留说话者语调语速和音高。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2296a28335e18652",
+      "source": "企鹅号",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "美国B2B企业开始转向DeepSeek大模型",
+      "desc": "据Ramp报告，美国企业AI累计投入破1万亿美元，推理成本飙升，越来越多公司寻求低成本替代方案，开始转向DeepSeek。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a23da4a31152",
+      "source": "IT之家",
+      "pubDate": "2026-06-06"
+    },
+    {
+      "title": "DeepSeek V4做数学证明，500倍成本优势刷新纪录",
+      "desc": "普林斯顿大学研究团队用DeepSeek-V4-Flash构建Goedel-Architect智能体框架，在数学证明任务上实现500倍成本优势。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5306a23a3f906752",
+      "source": "企鹅号",
+      "pubDate": "2026-06-06"
+    }
+  ],
+  "github": [
+    {
+      "title": "ECC智能体Harness性能优化系统获超20万星",
+      "desc": "GitHub热榜项目ECC提供63个代理、249个技能和79个遗留命令兼容层，支持12种编程语言，每日增长约1500星。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161642990",
+      "source": "CSDN",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "VoxCPM2:20亿参数无tokenizer扩散语音合成架构",
+      "desc": "GitHub热榜项目，采用20亿参数无tokenizer扩散架构，支持30种语言和9种中文方言，输出48kHz录音室级音频并实现声音克隆。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161642990",
+      "source": "CSDN",
+      "pubDate": "2026-06-03"
+    }
+  ],
+  "trend": [
+    {
+      "name": "ECC (everything-claude-code)",
+      "stars": "200k+",
+      "type": "Agent优化",
+      "desc": "智能体Harness性能优化系统，提供63个代理、249个技能，支持12种编程语言，日增约1500星。",
+      "tags": [
+        "Agent",
+        "Claude",
+        "性能优化"
+      ],
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "iconType": "github",
+      "icon": "⚡",
+      "pubDate": "2026-06-03"
+    }
+  ],
+  "world": [
+    {
+      "title": "李飞飞World Labs估值暴涨5倍，正洽谈5亿美元新融资",
+      "desc": "据彭博社，World Labs以约50亿美元估值进行新一轮融资，规模最高5亿美元。此前累计融资2.3亿美元，估值10亿美元。",
+      "url": "https://blog.csdn.net/amusi1994/article/details/157410254",
+      "source": "CSDN",
+      "pubDate": "2026-06-08"
+    },
+    {
+      "title": "Google I/O 2026: Gemini Omni世界模型首次亮相",
+      "desc": "谷歌在I/O大会上发布Gemini Omni世界模型，支持对话式视频编辑、数字分身与物理理解，从模型追赶转向AI生态壁垒构建。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/161359767",
+      "source": "CSDN",
+      "pubDate": "2026-06-08"
+    },
+    {
+      "title": "ICRA 2026世界模型赛道：从生成场景到支撑决策",
+      "desc": "AGIBOT WORLD CHALLENGE@ICRA 2026冠亚军团队访谈揭示，世界模型正从生成逼真场景向支撑智能决策加速演进。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1346a1e6e6637152",
+      "source": "企鹅号",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "design": [],
+  "video": [
+    {
+      "title": "2026免排队AI视频创作平台实战分享",
+      "desc": "快手可灵AI和字节即梦AI成为技术审美流代表，麦斯创意等聚合Seedance 2.0、Veo、Nano Banana 2等模型主打商业实战提效。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1586a1cfde236052",
+      "source": "企鹅号",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "LibTV推出面向人类与AI Agent双入口的专业视频创作平台",
+      "desc": "LiblibAI推出LibTV平台，首创同时面向人类创作者与AI Agent的双入口设计，支持节点式工作流从剧本到成片全流程创作。",
+      "url": "https://ai-bot.cn/ai-video-generation-tools/",
+      "source": "AI工具集",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "rag": [
+    {
+      "title": "中科大开源Agent Context Compilation，30B追平Qwen3-235B",
+      "desc": "中科大提出Agent Context Compilation(ACC)长上下文训练新范式，将Agent多轮交互轨迹编译为高质量长上下文QA对，微调Qwen3-30B追平8倍参数模型。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8106a200b0284752",
+      "source": "企鹅号",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "2026 Agentic RAG 3.0核心升级点全解析",
+      "desc": "腾讯云专栏深度解析2026 Agentic RAG 3.0升级，通过1M上下文、Multimodal GraphRAG、Agentic Retrieval三驾马车重塑RAG技术。",
+      "url": "https://cloud.tencent.com/developer/article/2650548",
+      "source": "腾讯云",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "RAG已过时？2026年最该学的是AI Agent的上下文工程",
+      "desc": "OpenAI Agents SDK新能力重点转向长流程任务agent基础设施，RAG从主架构变为Agent上下文工程中的一个关键组件，上下文工程是RAG的上层抽象。",
+      "url": "https://blog.csdn.net/2601_95563714/article/details/160215065",
+      "source": "CSDN",
+      "pubDate": "2026-06-04"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "2026主流AI图像生成模型实力排行榜发布",
+      "desc": "GPT Image 2稳居综合第一，Nano Banana系列第二，Midjourney第三，构成全球AI绘图核心第一梯队；国内字节、阿里、快手深耕本土商用场景。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a26bab801552",
+      "source": "企鹅号",
+      "pubDate": "2026-06-08"
+    },
+    {
+      "title": "GPT-Image-2正式发布，OpenAI重新定义AI生图",
+      "desc": "OpenAI于2026年4月21日全量发布GPT-Image-2，文字渲染准确率大幅提升，从4月初LM Arena匿名泄露到社区集体震撼再到全量上线。",
+      "url": "https://blog.csdn.net/QQ729533020/article/details/160454148",
+      "source": "CSDN",
+      "pubDate": "2026-06-07"
+    },
+    {
+      "title": "Google I/O 2026发布Google Pics，基于Nano Banana 2模型",
+      "desc": "Google在I/O 2026发布全新AI图像创作与编辑工具Google Pics，基于Nano Banana 2模型，内置于Google Workspace生态。",
+      "url": "https://www.aihub.cn/tools/ai-image/",
+      "source": "AIHub",
+      "pubDate": "2026-06-03"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
