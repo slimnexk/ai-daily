@@ -1,11 +1,7 @@
 {
-  "title": "DeepSeek调用量全球登顶，Gemini 3.5实时翻译发布",
-  "desc": "DeepSeek-V4-Flash连续三周蝉联全球大模型调用量榜首，中国AI模型周调用增长27%。谷歌发布Gemini 3.5实时翻译模型，支持70+语言。Anthropic翻倍Claude Cowork使用额度。World Labs估值暴涨至50亿美元。",
+  "title": "Anthropic发布Fable 5与Mythos 5，OpenAI递交S-1冲刺IPO",
+  "desc": "6月10日Anthropic发布Fable 5及无防护版Mythos 5，OpenAI向SEC秘密递交S-1草案启动IPO进程。MiniMax发布M3大模型编程能力超GPT-5.5，北大EvoPhys-World世界模型登顶斯坦福评测。OpenClaw连续更新安全架构，微信推出官方ClawBot插件。",
   "dates": {
-    "2026-05-11": {
-      "title": "Claude学会做梦、进驻Office全家桶，DeepSeek融资500亿，高德世界模型夺冠",
-      "desc": "Anthropic开发者大会连放大招：Claude Dreaming模仿REM睡眠优化记忆，Outcomes自动评分+多智能体编排上线，Claude正式嵌入Excel/PPT/Word/Outlook开启公测。DeepSeek首轮融资500亿创中国AI纪录，V4.1将于6月推出。高德ABot世界模型以0.829分登顶AGIBOT挑战赛。"
-    },
     "2026-05-12": {
       "title": "DeepSeek 500亿融资疑云，Claude Orbit主动助手曝光，hermes-agent 14万星引爆Agent记忆赛道",
       "desc": "DeepSeek首轮500亿融资引发阿里腾讯博弈传闻，梁文锋自掏200亿托底。Claude隐藏功能Orbit泄露——主动AI助手即将发布。GitHub上hermes-agent凭Personal Memory机制斩获143k星，Skills生态正在取代MCP成Agent开发新标准。"
@@ -97,6 +93,10 @@
     "2026-06-10": {
       "title": "DeepSeek调用量全球登顶，Gemini 3.5实时翻译发布",
       "desc": "DeepSeek-V4-Flash连续三周蝉联全球大模型调用量榜首，中国AI模型周调用增长27%。谷歌发布Gemini 3.5实时翻译模型，支持70+语言。Anthropic翻倍Claude Cowork使用额度。World Labs估值暴涨至50亿美元。"
+    },
+    "2026-06-11": {
+      "title": "Anthropic发布Fable 5与Mythos 5，OpenAI递交S-1冲刺IPO",
+      "desc": "6月10日Anthropic发布Fable 5及无防护版Mythos 5，OpenAI向SEC秘密递交S-1草案启动IPO进程。MiniMax发布M3大模型编程能力超GPT-5.5，北大EvoPhys-World世界模型登顶斯坦福评测。OpenClaw连续更新安全架构，微信推出官方ClawBot插件。"
     }
   }
 }

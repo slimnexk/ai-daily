@@ -1,0 +1,279 @@
+{
+  "title": "Anthropic发布Fable 5与Mythos 5，OpenAI递交S-1冲刺IPO",
+  "desc": "6月10日Anthropic发布Fable 5及无防护版Mythos 5，OpenAI向SEC秘密递交S-1草案启动IPO进程。MiniMax发布M3大模型编程能力超GPT-5.5，北大EvoPhys-World世界模型登顶斯坦福评测。OpenClaw连续更新安全架构，微信推出官方ClawBot插件。",
+  "featured": [
+    {
+      "title": "Anthropic发布Fable 5与Mythos 5，禁用网络安全能力",
+      "desc": "6月10日Anthropic正式发布Mythos新版本Fable 5，明确禁止执行网络安全任务，同步推出无防护版Mythos 5通过Project Glasswing向约200家组织开放，正值Anthropic推进IPO之际。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6956a29361835052",
+      "label": "重磅发布",
+      "icon": "🚀",
+      "color": "#e74c3c",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "OpenAI向SEC秘密递交S-1草案，IPO大幕正式拉开",
+      "desc": "6月9日OpenAI官方宣布已向美国SEC秘密递交S-1注册草案，为未来上市预留通道，目前尚未确定具体上市时间表。此前Anthropic已于6月2日抢先递交IPO申请。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1056a27e19376452",
+      "label": "行业大事",
+      "icon": "💰",
+      "color": "#f39c12",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "MiniMax发布M3大模型，编程能力超越GPT-5.5",
+      "desc": "6月1日MiniMax发布新一代通用大模型M3，国内首个同时具备前沿编程、1M超长上下文、原生多模态三项核心能力的模型，SWE-Bench Pro成绩超GPT-5.5与Gemini 3.1 Pro。",
+      "url": "https://blog.csdn.net/BluerCat/article/details/161612154",
+      "label": "国产突破",
+      "icon": "🔥",
+      "color": "#e67e22",
+      "pubDate": "2026-06-01"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "鹅腿阿姨儿子说不吃滚出去",
+      "url": "https://s.weibo.com/weibo?q=%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E5%84%BF%E5%AD%90%E8%AF%B4%E4%B8%8D%E5%90%83%E6%BB%9A%E5%87%BA%E5%8E%BB",
+      "source": "微博",
+      "heat": "113万"
+    },
+    {
+      "title": "梅西赛后被冰岛球员围住了",
+      "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%B5%9B%E5%90%8E%E8%A2%AB%E5%86%B0%E5%B2%9B%E7%90%83%E5%91%98%E5%9B%B4%E4%BD%8F%E4%BA%86",
+      "source": "微博",
+      "heat": "85万"
+    },
+    {
+      "title": "2026高考收官日",
+      "url": "https://s.weibo.com/weibo?q=2026%E9%AB%98%E8%80%83%E6%94%B6%E5%AE%98%E6%97%A5",
+      "source": "微博",
+      "heat": "66万"
+    },
+    {
+      "title": "盛世天下女帝篇全员回宫",
+      "url": "https://s.weibo.com/weibo?q=%E7%9B%9B%E4%B8%96%E5%A4%A9%E4%B8%8B%E5%A5%B3%E5%B8%9D%E7%AF%87%E5%85%A8%E5%91%98%E5%9B%9E%E5%AE%AB",
+      "source": "微博",
+      "heat": "66万"
+    },
+    {
+      "title": "白鹿心态",
+      "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E5%BF%83%E6%80%81",
+      "source": "微博",
+      "heat": "66万"
+    },
+    {
+      "title": "饭店的暑假工，客人逼迫经理喝酒！",
+      "url": "https://www.douyin.com/video/7649036105488373839",
+      "source": "抖音",
+      "heat": "5703万播放"
+    },
+    {
+      "title": "现场视频！习近平抵达平壤开始对朝鲜进行国事访问",
+      "url": "https://www.douyin.com/video/7648953923025276195",
+      "source": "抖音",
+      "heat": "4231万播放"
+    },
+    {
+      "title": "哪有什么岁月静好，只是有人替我们负重前行",
+      "url": "https://www.douyin.com/video/7648615934382443810",
+      "source": "抖音",
+      "heat": "4046万播放"
+    },
+    {
+      "title": "高考生进考场前下巴意外脱臼民警现场复位",
+      "url": "https://www.douyin.com/video/7649212260488924422",
+      "source": "抖音",
+      "heat": "2927万播放"
+    },
+    {
+      "title": "习近平和金正恩共同种下象征中朝友谊的枞树",
+      "url": "https://www.douyin.com/video/7649323131932265728",
+      "source": "抖音",
+      "heat": "2030万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Anthropic发布Fable 5与Mythos 5双版本模型",
+      "desc": "Fable 5禁用网络安全能力，配备防护措施；Mythos 5无防护版本通过Glasswing计划向约200家组织开放，正值Anthropic推进IPO之际回应安全监管关切。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6956a29361835052",
+      "source": "企鹅号",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "MiniMax M3大模型发布：编程超GPT-5.5，1M超长上下文",
+      "desc": "MiniMax M3采用自研稀疏注意力架构MSA，100万上下文规模下单token计算量仅为上一代的1/20，SWE-Bench Pro超越GPT-5.5，同步推出AI编程产品MiniMax Code。",
+      "url": "https://blog.csdn.net/BluerCat/article/details/161612154",
+      "source": "CSDN",
+      "pubDate": "2026-06-01"
+    },
+    {
+      "title": "腾讯云DeepSeek-V4系列模型降价最高97.5%",
+      "desc": "腾讯云宣布智能体开发平台DeepSeek-V4系列模型6月3日起大幅降价，最高降幅97.5%，消息公布当日腾讯控股港股收涨10.46%，市值达4.39万亿港元。",
+      "url": "https://www.sohu.com/a/1031190723_121956424",
+      "source": "搜狐",
+      "pubDate": "2026-06-02"
+    }
+  ],
+  "github": [
+    {
+      "title": "微软发布Scout：基于OpenClaw的全自主AI Agent",
+      "desc": "微软Build 2026发布基于OpenClaw的Scout自主AI Agent，7×24小时在后台主动处理会议、邮件、文件等任务，重新定义AI Agent自主工作范式。",
+      "url": "https://cba58.cn/",
+      "source": "OpenClaw—AI研究",
+      "pubDate": "2026-06-10"
+    }
+  ],
+  "trend": [],
+  "world": [
+    {
+      "title": "北大EvoPhys-World世界模型登顶斯坦福WorldScore评测",
+      "desc": "北大EvoPhys团队推出以人为中心的5D世界模型EvoPhys-World，在斯坦福WorldScore公开评测「世界生成」赛道夺第一，原生训练全程在摩尔线程MTT S5000 GPU完成。",
+      "url": "http://icsmart.cn/",
+      "source": "芯智讯",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "中国两大模型登顶WorldArena世界模型榜前二",
+      "desc": "国内模型在世界模型评测中表现突出，两大中国模型包揽WorldArena榜单前两名，标志着国产方案在自动驾驶、具身智能世界模型领域从跟跑走向领跑。",
+      "url": "https://blog.csdn.net/BluerCat/article/details/161612154",
+      "source": "CSDN",
+      "pubDate": "2026-06-01"
+    }
+  ],
+  "design": [
+    {
+      "title": "Anthropic推出Claude Fable 5，面向公众开放\"神话级\"AI能力",
+      "desc": "Anthropic发布新一代大模型Claude Fable 5，6月9日面向全球用户开放，在软件工程、视觉处理等多项基准测试中创下新纪录，SWE-Bench Pro得分80.3%。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8196a29640a98052",
+      "source": "企鹅号",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "Google Stitch与Claude Code联动：10分钟批量生成设计稿",
+      "desc": "开发者用Claude Code分析产品文档后批量生成Google Stitch设计prompt，10分钟从5个页面扩展到11个，但发现Claude Code连接Stitch MCP后只能读取不能写入。",
+      "url": "https://blog.csdn.net/qq_42801126/article/details/159402201",
+      "source": "CSDN",
+      "pubDate": "2026-06-08"
+    }
+  ],
+  "video": [
+    {
+      "title": "Seedance 2.0正式上线WeShop AI，支持多模态输入与音画同步",
+      "desc": "Seedance 2.0正式上线WeShop AI平台，支持文本、图片、音频等多种输入方式，支持多镜头叙事和视觉连贯性，内置音频与唇形同步对齐功能。",
+      "url": "http://www.weshop.com/",
+      "source": "WeShop",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "Seedance 3.0曝光：生成速度提升3倍，原生物理规律理解",
+      "desc": "Seedance 3.0号称带来颠覆性升级，具备原生级物理规律理解、极速并行渲染矩阵，生成速度提升至原先3倍，保证长镜头角色一致性。",
+      "url": "http://www.capturecreatephoto.com/",
+      "source": "capturecreatephoto",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2026年RAG决策链实现数据实时接入的五大关键技术揭秘",
+      "desc": "解析2026年RAG决策链实时数据接入的关键技术，包括大模型训练迭代、高效数据获取与清洗、IoT与边缘计算融合等，提升决策精准度与效率。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0026a231aac74652",
+      "source": "企鹅号",
+      "pubDate": "2026-06-06"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "Flux AI中国官网上线，提供文本转图像及多种风格创作平台",
+      "desc": "Flux AI中国官网正式上线，提供文本转图像核心功能，支持多种艺术风格选择和参数调整，整合深度学习模型，适合产品设计、广告素材等场景。",
+      "url": "https://www.flux1.com.cn/",
+      "source": "Flux AI中国",
+      "pubDate": "2026-06-11"
+    }
+  ],
+  "industry": [
+    {
+      "title": "融资总额763.80亿元，Agentic AI与具身智能成核心主线丨2026Q1 AI产业观察报告",
+      "desc": "2026Q1中国AI行业一级市场融资事件577个，同比增长62.08%；已披露融资总额763.80亿元，同比增长144.36%。具身智能已披露融资465.12亿元，同比大增342.38%。",
+      "url": "https://new.qq.com/rain/a/20260604A02KCU00",
+      "source": "腾讯网",
+      "pubDate": "2026-06-04"
+    },
+    {
+      "title": "AI漫剧行业过山车：算力涨价、审核收紧、分账下滑三重压力叠加",
+      "desc": "2026年Q1全行业上线微短剧约12.8万部，其中AI微短剧12.2万部。但Q2以来算力涨价、审核收紧、分账下滑，低门槛红利正快速消退，行业分化加剧。",
+      "url": "https://www.iimedia.cn/c1088",
+      "source": "艾媒网",
+      "pubDate": "2026-06-10"
+    }
+  ],
+  "game": [
+    {
+      "title": "GDC 2026游戏业趋势报告：生成式AI、合作研发与手游混合变现",
+      "desc": "GDC发布行业趋势报告，游戏业内普遍支持生成式AI用于规划与日常事务，资深从业者支持度更高。业内人士强调AI应辅助而非取代研发流程。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6486a20532d81952",
+      "source": "企鹅号",
+      "pubDate": "2026-06-04"
+    },
+    {
+      "title": "面向游戏领域的生成式AI产品盘点：腾讯AI游戏全链路解决方案",
+      "desc": "腾讯推出AI游戏全链路解决方案，涵盖游戏艺术创作、3D环境生成、NPC角色生成、叙事生成等多类工具，支持AI资源生成与编辑器AI控制。",
+      "url": "https://download.csdn.net/blog/column/12422082/137229996",
+      "source": "CSDN专栏",
+      "pubDate": "2026-06-05"
+    }
+  ],
+  "drama": [
+    {
+      "title": "AI漫剧出海：一季度AI微短剧12.2万部，经典日漫IP改编成流量入口",
+      "desc": "中国网络视听协会统计，2026年Q1全行业上线微短剧约12.8万部，其中AI微短剧12.2万部。经典日漫IP改编的AI真人漫剧成为最有效的流量入口。",
+      "url": "http://www.juduanduan.com/",
+      "source": "剧短短",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "零成本！用AI打造你的第一部爆款短剧（2026保姆级教程）",
+      "desc": "教程详解从小说IP授权到AI改写剧本、生成分镜的全流程。核心改写逻辑：压缩冗余、强化冲突钩子、适配1-3分钟/集节奏，AI工具将长篇小说压缩为短剧剧本格式。",
+      "url": "https://blog.csdn.net/2301_78933554/article/details/161281880",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "6月第1周百度APP短剧&漫剧热度榜发布",
+      "desc": "新腕儿与鞭牛士联合发布6月首周漫剧与短剧热度榜，漫剧《状元被顶，爷爷们快出击》和短剧《神尊归位》分别排名第一，数据周期6月1日-7日。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7156a27875618352",
+      "source": "企鹅号",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "apps": [
+    {
+      "title": "美团发布AI浏览器Tabbit 1.0，基础功能永久免费",
+      "desc": "美团GN06团队发布AI原生浏览器Tabbit 1.0，内置DeepSeek、智谱GLM、Kimi等头部大模型，可自动执行跨软件跨网页任务，支持Windows/macOS，移动端已开启测试。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8626a29231a13052",
+      "source": "企鹅号",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "苹果WWDC26：iOS 27上线AI壁纸扩图功能，国行版已实测可用",
+      "desc": "苹果WWDC26发布iOS 27，国行版AI延展墙纸功能已上线，可调用云端模型智能扩图。AI修图新增空间重塑、扩展及Clean Up三项功能，修复了人脸补全失真问题。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4946a27cbfb91752",
+      "source": "企鹅号",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "荣耀MagicOS六月更新：YOYO排队码提醒、AI创作等新功能上线",
+      "desc": "荣耀MagicOS六月更新带来YOYO排队码提醒（实时跟踪排队状态）、YOYO AI创作焕新玩法、灵动胶囊赛事比分与驾车导航等功能。",
+      "url": "https://www.sohu.com/a/1032756968_122004016",
+      "source": "搜狐",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "谷歌2026年6月系统更新：Quick Share与AI搜索Ask Play上线",
+      "desc": "谷歌6月系统更新新增Quick Share联系人卡片查看、Play Protect安全校验增强，手机端搜索栏新增'Ask Play'按钮，进入全屏对话式AI搜索界面。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0326a27754b66552",
+      "source": "企鹅号",
+      "pubDate": "2026-06-09"
+    }
+  ]
+}
