@@ -1,11 +1,7 @@
 {
-  "title": "Anthropic发布Fable 5与Mythos 5，OpenAI递交S-1冲刺IPO",
-  "desc": "6月10日Anthropic发布Fable 5及无防护版Mythos 5，OpenAI向SEC秘密递交S-1草案启动IPO进程。MiniMax发布M3大模型编程能力超GPT-5.5，北大EvoPhys-World世界模型登顶斯坦福评测。OpenClaw连续更新安全架构，微信推出官方ClawBot插件。",
+  "title": "Claude Fable 5震撼发布，Anthropic史上最强模型公开亮相",
+  "desc": "Anthropic发布Claude Fable 5/Mythos 5双档旗舰模型，SWE-bench Pro达80.3%。MiniMax M3携百万上下文+原生多模态登场。世界模型赛道融资火热，VAST获近2亿美元，千诀科技完成数亿元A轮。",
   "dates": {
-    "2026-05-12": {
-      "title": "DeepSeek 500亿融资疑云，Claude Orbit主动助手曝光，hermes-agent 14万星引爆Agent记忆赛道",
-      "desc": "DeepSeek首轮500亿融资引发阿里腾讯博弈传闻，梁文锋自掏200亿托底。Claude隐藏功能Orbit泄露——主动AI助手即将发布。GitHub上hermes-agent凭Personal Memory机制斩获143k星，Skills生态正在取代MCP成Agent开发新标准。"
-    },
     "2026-05-13": {
       "title": "Claude Code上线Agent View统一调度多Agent，世界模型vs VLA路线激辩，Skills生态接管Agent开发",
       "desc": "Anthropic发布Claude Code Agent View，一个界面管理所有AI会话，告别终端分屏。IT之家深度辨析世界模型与VLA融合进化路线。GitHub上Skills生态正在取代MCP成为Agent开发新标准，hermes-agent 143k星领跑记忆Agent赛道。"
@@ -97,6 +93,10 @@
     "2026-06-11": {
       "title": "Anthropic发布Fable 5与Mythos 5，OpenAI递交S-1冲刺IPO",
       "desc": "6月10日Anthropic发布Fable 5及无防护版Mythos 5，OpenAI向SEC秘密递交S-1草案启动IPO进程。MiniMax发布M3大模型编程能力超GPT-5.5，北大EvoPhys-World世界模型登顶斯坦福评测。OpenClaw连续更新安全架构，微信推出官方ClawBot插件。"
+    },
+    "2026-06-12": {
+      "title": "Claude Fable 5震撼发布，Anthropic史上最强模型公开亮相",
+      "desc": "Anthropic发布Claude Fable 5/Mythos 5双档旗舰模型，SWE-bench Pro达80.3%。MiniMax M3携百万上下文+原生多模态登场。世界模型赛道融资火热，VAST获近2亿美元，千诀科技完成数亿元A轮。"
     }
   }
 }

@@ -1,0 +1,263 @@
+{
+  "title": "Claude Fable 5震撼发布，Anthropic史上最强模型公开亮相",
+  "desc": "Anthropic发布Claude Fable 5/Mythos 5双档旗舰模型，SWE-bench Pro达80.3%。MiniMax M3携百万上下文+原生多模态登场。世界模型赛道融资火热，VAST获近2亿美元，千诀科技完成数亿元A轮。",
+  "featured": [
+    {
+      "title": "Anthropic发布Claude Fable 5/Mythos 5双档旗舰",
+      "desc": "首个面向公众开放的Mythos级模型，SWE-bench Pro 80.3%，FrontierCode Diamond 29.3%，Humanity's Last Exam 59.0%，全面超越GPT-5.5和Gemini 3.1 Pro",
+      "url": "https://www.sohu.com/a/1034572313_122132398",
+      "label": "重磅发布",
+      "icon": "🚀",
+      "color": "#7C3AED",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "VAST完成近2亿美元融资，正式披露世界模型路线",
+      "desc": "完成A+/A++两轮融资，渶策资本、国寿长三角领投，距3月A轮仅2个月，资金将用于通用世界模型与AI 3D大模型迭代",
+      "url": "https://www.thecapital.com.cn/newsDetail/123224",
+      "label": "融资动态",
+      "icon": "💰",
+      "color": "#059669",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "清华系千诀科技完成数亿元A轮融资",
+      "desc": "专注具身智能决策与规划，核心团队来自清华类脑研究中心，采用大脑-小脑解耦设计，终端设备接入规模已达十万台量级",
+      "url": "https://new.qq.com/rain/a/20260610A02L6300",
+      "label": "具身智能",
+      "icon": "🤖",
+      "color": "#2563EB",
+      "pubDate": "2026-06-10"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "家长为防网贷让18岁孩子征信逾期",
+      "url": "https://s.weibo.com/weibo?q=家长为防网贷让18岁孩子征信逾期",
+      "source": "微博",
+      "heat": "120万"
+    },
+    {
+      "title": "榴莲仅退款买家父亲向商家道歉",
+      "url": "https://s.weibo.com/weibo?q=榴莲仅退款买家父亲向商家道歉",
+      "source": "微博",
+      "heat": "84万"
+    },
+    {
+      "title": "万千气象看河南",
+      "url": "https://s.weibo.com/weibo?q=万千气象看河南",
+      "source": "微博",
+      "heat": "67万"
+    },
+    {
+      "title": "和杨幂上淘宝闪购拼团更优惠",
+      "url": "https://s.weibo.com/weibo?q=和杨幂上淘宝闪购拼团更优惠",
+      "source": "微博",
+      "heat": "67万"
+    },
+    {
+      "title": "爱吃生菜的人天塌了",
+      "url": "https://s.weibo.com/weibo?q=爱吃生菜的人天塌了",
+      "source": "微博",
+      "heat": "65万"
+    },
+    {
+      "title": "饭店的暑假工，红酒洒了！",
+      "url": "https://www.douyin.com/search/饭店的暑假工红酒洒了",
+      "source": "抖音",
+      "heat": "4812万播放"
+    },
+    {
+      "title": "哪有什么岁月静好，只是有人替我们负重前行",
+      "url": "https://www.douyin.com/search/哪有什么岁月静好只是有人替我们负重前行",
+      "source": "抖音",
+      "heat": "4165万播放"
+    },
+    {
+      "title": "人大附中考生从容受访",
+      "url": "https://www.douyin.com/search/人大附中考生从容受访",
+      "source": "抖音",
+      "heat": "3930万播放"
+    },
+    {
+      "title": "孩子高考结束，记录这美好时刻",
+      "url": "https://www.douyin.com/search/孩子高考结束记录这美好时刻",
+      "source": "抖音",
+      "heat": "3474万播放"
+    },
+    {
+      "title": "当你见到帅哥 西游记 孙悟空",
+      "url": "https://www.douyin.com/search/当你见到帅哥西游记孙悟空",
+      "source": "抖音",
+      "heat": "3463万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Anthropic发布Claude Fable 5与Mythos 5双档模型",
+      "desc": "基于同一底层架构，Fable 5面向公众开放内置安全护栏，Mythos 5解除网络安全限制仅供受信机构。SWE-bench Pro 80.3%，任务越长越复杂表现越强",
+      "url": "https://www.sohu.com/a/1034572313_122132398",
+      "source": "搜狐",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "Claude Code v2.1.160/161发布：安全防御升级+CJK输入法修复",
+      "desc": "堵截AI自动改写配置的恶意命令通道，根治中日韩输入法错位顽疾，重构WSL剪贴板，长文本写入性能飙升",
+      "url": "https://blog.csdn.net/Rthan/article/details/161676245",
+      "source": "CSDN",
+      "pubDate": "2026-06-08"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub 6月AI Agent工具链持续火热：ECC 20万星领跑",
+      "desc": "ECC面向Claude Code/Cursor的性能优化系统日增1500+星；MarkItDown微软多格式文档转换14万星；Scrapling自适应网页抓取；Headroom上下文压缩节省60-95% token",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161674372",
+      "source": "CSDN",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "2026年6月GitHub最值得关注的10个AI开源项目",
+      "desc": "OpenClaw 37.6万星居首，Superpowers技能框架21.6万星，Hermes Agent多模态AI Agent 1.5万星，覆盖Agent、技能、多模态等方向",
+      "url": "https://juejin.cn/post/7646606448858365988",
+      "source": "稀土掘金",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "nanobot：4万星AI Agent项目，4个月冲上GitHub热门",
+      "desc": "港大HKUDS研究员发起，支持MCP/Dream记忆/WebUI工作台/目标持久化，v0.2.1新增CLI Apps+MCP扩展，迭代速度惊人",
+      "url": "https://www.cnblogs.com/itech/p/20356476",
+      "source": "博客园",
+      "pubDate": "2026-06-07"
+    }
+  ],
+  "trend": [
+    {
+      "name": "ECC (Everything Claude Code)",
+      "stars": "200K+",
+      "type": "AI Agent Harness",
+      "desc": "面向Claude Code/Cursor的性能优化系统，提供技能、本能和记忆持久化，日增1500+星",
+      "tags": [
+        "claude-code",
+        "agent",
+        "performance"
+      ],
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "iconType": "github",
+      "icon": "⚡",
+      "pubDate": "2026-06-10"
+    }
+  ],
+  "world": [
+    {
+      "title": "VAST完成近2亿美元融资，正式披露世界模型技术路线",
+      "desc": "完成A+/A++两轮融资，渶策资本、国寿长三角领投，距3月A轮仅2个月。资金用于通用世界模型与AI 3D大模型算法迭代、全球化布局",
+      "url": "https://www.thecapital.com.cn/newsDetail/123224",
+      "source": "融中财经",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "清华系千诀科技完成数亿元A轮，打造具身智能世界模型",
+      "desc": "核心团队来自清华类脑研究中心，专注预测式世界模型，大脑-小脑解耦设计可快速迁移至不同机器人平台，终端设备接入达十万台级",
+      "url": "https://new.qq.com/rain/a/20260610A02L6300",
+      "source": "腾讯网",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "李飞飞World Labs估值暴涨5倍，正洽谈新一轮5亿美元融资",
+      "desc": "World Labs以约50亿美元估值进行新一轮融资，从2024年10亿估值到50亿仅一年多，世界模型赛道资本热度空前",
+      "url": "https://blog.csdn.net/amusi1994/article/details/157410254",
+      "source": "CSDN",
+      "pubDate": "2026-06-10"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design连夜突袭，Figma市值瞬间蒸发",
+      "desc": "Anthropic Labs推出Claude Design，输入一句话即可生成可交互完整原型，引发设计行业震动，Adobe、Figma、Wix市值闪崩。",
+      "url": "http://www.0531sjj.cn/baiyin/a66a4b917d.html",
+      "source": "0531sjj",
+      "pubDate": "2026-06-07"
+    },
+    {
+      "title": "2026年AI原型设计工具横向评测：从需求到代码的完整链路对比",
+      "desc": "评测GemDesign、Figma AI、Framer、Uizard等AI原型工具，GemDesign支持文生界面和图生界面双模式，唯一提供MCP服务。",
+      "url": "https://blog.csdn.net/PMCoder/article/details/161457861",
+      "source": "CSDN",
+      "pubDate": "2026-06-07"
+    },
+    {
+      "title": "优设AI工具导航更新：Claude Fable 5发布、GPT-Image-2教程上线",
+      "desc": "优设AI工具导航更新，涵盖Claude Fable 5发布、GPT-Image-2保姆级教程、AI用于UI设计6大神器梳理、WWDC 26 AI总结等。",
+      "url": "https://ai.uisdc.com/",
+      "source": "优设",
+      "pubDate": "2026-06-11"
+    }
+  ],
+  "video": [
+    {
+      "title": "2026年AI视频生成突破30分钟8K影片，Happy Horse与Runway Gen-4引领多模态革命",
+      "desc": "AI视频生成从4秒片段跃升至30分钟8K+影片，Happy Horse 1.0实现音视频同步生成，Runway Gen-4突破跨场景角色一致性。",
+      "url": "https://aitrendshub.net/h-nd-3526.html",
+      "source": "AI Trends Hub",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "Kling 3.0与Seedance 2.0大模型视频生成质量对比",
+      "desc": "Kling 3.0和Seedance 2.0使用相同基础图像和提示信息对比，Seedance 2.0在运动精度、光照真实性和物理行为上表现更优。",
+      "url": "https://www.sina.cn/news/detail/5268744085442230.html",
+      "source": "新浪新闻",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "2026主流AI视频模型实测对比，创作效率差距一目了然",
+      "desc": "海内外头部厂商持续迭代视频生成模型，在高速出片、影视级画质、数字人、动作复刻、图文转视频等方向各打出专属优势。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1186a29086a42652",
+      "source": "企鹅号",
+      "pubDate": "2026-06-10"
+    }
+  ],
+  "rag": [
+    {
+      "title": "RAG 2026全面升级：从Naive RAG到Agentic RAG",
+      "desc": "RAG技术三代演进梳理：从简单检索+生成拼接，到模块化Advanced RAG，再到具备多跳推理、工具调用和自我纠错的Agentic RAG。",
+      "url": "https://blog.csdn.net/weixin_47547625/article/details/161535116",
+      "source": "CSDN",
+      "pubDate": "2026-06-02"
+    },
+    {
+      "title": "2026版RAG技术全解析：检索+生成双向协同",
+      "desc": "RAG核心逻辑是将检索模型与生成模型结合，打破大模型知识固定局限。2026年已成为大模型落地最核心技术之一。",
+      "url": "https://blog.csdn.net/youmaob/article/details/160594850",
+      "source": "CSDN",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "2026年RAG决策链如何实现数据实时接入？五大关键技术揭秘",
+      "desc": "RAG决策链通过大模型训练迭代、高效数据获取清洗、IoT与边缘计算融合等技术，实现数据实时接入与精准决策。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0026a231aac74652",
+      "source": "企鹅号",
+      "pubDate": "2026-06-06"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "2026主流AI图像生成模型实力排行榜",
+      "desc": "OpenAI GPT Image 2位列综合第一，文本逻辑理解与场景合理性断层领先；Midjourney V8审美标杆；FLUX开源灵活。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a26bab801552",
+      "source": "企鹅号",
+      "pubDate": "2026-06-08"
+    },
+    {
+      "title": "Seedance 2.0深度测评：复杂场景贼稳，连ASMR都会",
+      "desc": "Seedance 2.0多镜头一致性惊艳，复杂场景面部特征稳定，首尾帧风格过渡自然，音效精度惊人，视频延长精确到秒。",
+      "url": "https://wallstreetcn.com/articles/3765680",
+      "source": "华尔街见闻",
+      "pubDate": "2026-06-05"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
