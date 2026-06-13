@@ -1,0 +1,197 @@
+{
+  "title": "四强横评大模型对擂，Claude动态工作流重塑AI编程",
+  "desc": "DeepSeek-V4-Pro与GPT-5.5同台竞技，腾讯云发布四强横评；Anthropic推出Claude Code动态工作流，AI编程迈入多Agent并行时代；星源智10个月融资10亿攻坚世界模型；李飞飞亲自定义世界模型三功能标准。",
+  "featured": [
+    {
+      "title": "四强同台！DeepSeek-V4-Pro / GPT-5.5 / GLM-5.1 / MiniMax M2.7 横评",
+      "desc": "腾讯云发布四款顶级大模型深度横评，覆盖开源vs闭源、编程vs推理、大参数vs小激活等关键维度，国产多款跻身全球前十。",
+      "url": "https://cloud.tencent.com/developer/article/2660044",
+      "label": "大模型",
+      "icon": "🤖",
+      "color": "#6366f1",
+      "pubDate": "2026-06-13"
+    },
+    {
+      "title": "星源智成立10个月融资10亿，用世界模型重构具身智能",
+      "desc": "智源研究院孵化的具身大脑公司星源智完成Pre-A轮融资，累计融资10亿，投资方涵盖松禾资本、中车资本等国资与产业资本。",
+      "url": "https://www.sohu.com/a/1031710916_115035",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#10b981",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "李飞飞亲自定义世界模型：渲染模拟规划三功能缺一不可",
+      "desc": "斯坦福教授李飞飞团队首次对世界模型概念进行明确能力边界划分，直指行业将视频生成模型简单贴上世界模型标签的概念滥用乱象。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "label": "世界模型",
+      "icon": "🔬",
+      "color": "#8b5cf6",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "老外也疑惑中国为什么不参加世界杯",
+      "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E4%B9%9F%E7%96%91%E6%83%91%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E6%9D%AF",
+      "source": "微博",
+      "heat": "118万"
+    },
+    {
+      "title": "世界杯在中国的收视率爆了",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%B6%E8%A7%86%E7%8E%87%E7%88%86%E4%BA%86",
+      "source": "微博",
+      "heat": "87万"
+    },
+    {
+      "title": "为何长征二字总能戳中人心",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BD%95%E9%95%BF%E5%BE%81%E4%BA%8C%E5%AD%97%E6%80%BB%E8%83%BD%E6%88%B3%E4%B8%AD%E4%BA%BA%E5%BF%83",
+      "source": "微博",
+      "heat": "68万"
+    },
+    {
+      "title": "美团外卖赞助加纳队",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E8%B5%9E%E5%8A%A9%E5%8A%A0%E7%BA%B3%E9%98%9F",
+      "source": "微博",
+      "heat": "68万"
+    },
+    {
+      "title": "买连衣裙 看手肘",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%B0%E8%BF%9E%E8%A1%A3%E8%A3%99+%E7%9C%8B%E6%89%8B%E8%82%98",
+      "source": "微博",
+      "heat": "67万"
+    },
+    {
+      "title": "两学生午休时玩闹，手掌被502胶水粘住，牵手求助消防员",
+      "url": "https://www.douyin.com/video/7649983450618907938",
+      "source": "抖音",
+      "heat": "4977万播放"
+    },
+    {
+      "title": "饭店的暑假工，传菜传错菜！",
+      "url": "https://www.douyin.com/video/7650004222172527055",
+      "source": "抖音",
+      "heat": "4039万播放"
+    },
+    {
+      "title": "货车高速路上掉落铁架，司机徒手拖动80斤铁架至硬路肩化解险情",
+      "url": "https://www.douyin.com/video/7649319220748061988",
+      "source": "抖音",
+      "heat": "2814万播放"
+    },
+    {
+      "title": "又破防了 再缓两天",
+      "url": "https://www.douyin.com/video/7649713605461589349",
+      "source": "抖音",
+      "heat": "2282万播放"
+    },
+    {
+      "title": "饭店的暑假工，红酒洒了！",
+      "url": "https://www.douyin.com/video/7649404465284082368",
+      "source": "抖音",
+      "heat": "2236万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "6月主流大模型Coding能力深度对比：GPT-5.5领跑，Claude Opus 4.8加冕Agentic王座",
+      "desc": "6月榜单GPT-5.5稳居Coding指数榜首，Claude Opus 4.8加冕Agentic智能指数新王，Qwen3.7 Max、DeepSeek V4 Pro等国产跻身前十。",
+      "url": "https://blog.csdn.net/ab977a1081268482/article/details/161729504",
+      "source": "CSDN",
+      "pubDate": "2026-06-06"
+    },
+    {
+      "title": "Gemini 3.5 Pro将于六月推出，Gemini月活超9亿",
+      "desc": "谷歌母公司Alphabet预计Gemini 3.5 Pro六月发布，Gemini 5月月活超9亿，上年同期为4亿，用户规模翻倍增长。",
+      "url": "https://www.sohu.com/a/1031963666_223785",
+      "source": "搜狐",
+      "pubDate": "2026-06-04"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub 6月10日Trending：Superpowers 22.3万星领跑，AI编码技能成主流",
+      "desc": "Superpowers以22.3万星领跑，专为编码智能体设计的开发方法论；system-prompts 13.9万星整理Claude Code等AI工具系统提示词。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161879178",
+      "source": "CSDN",
+      "pubDate": "2026-06-11"
+    },
+    {
+      "title": "MemPalace记忆系统日增855星，本地AI记忆方案受追捧",
+      "desc": "MemPalace以54763星成高星项目，本地优先AI记忆系统，wing/room/drawer三层结构，29个MCP工具深度集成Claude Code。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161817955",
+      "source": "CSDN",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "Claude Code冲上GitHub Trending第一，AI编程工具生态全面爆发",
+      "desc": "GitHub Trending前10热门项目中7个与AI编程相关，Claude Code、Cursor插件库、ECC智能代理治理等集体霸榜。",
+      "url": "https://blog.csdn.net/zhoujianwen2008/article/details/161601129",
+      "source": "CSDN",
+      "pubDate": "2026-06-07"
+    }
+  ],
+  "trend": [
+    {
+      "name": "Superpowers",
+      "stars": "223k",
+      "type": "AI编码方法论",
+      "desc": "专为编码智能体设计的软件开发方法论，118+集成，通过可组合的技能框架确保AI遵循最佳工程实践，日增919星。",
+      "tags": [
+        "AI编码",
+        "Agent",
+        "Skills"
+      ],
+      "url": "https://github.com/superpowers",
+      "iconType": "star",
+      "icon": "⭐",
+      "pubDate": "2026-06-10"
+    }
+  ],
+  "world": [
+    {
+      "title": "星源智成立10个月融资10亿，用世界模型重构具身智能底层逻辑",
+      "desc": "智源研究院孵化的具身大脑公司星源智完成Pre-A轮，松禾资本、中车资本等投资，资金用于下一代具身大脑与世界模型研发。",
+      "url": "https://www.sohu.com/a/1031710916_115035",
+      "source": "搜狐",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "2026年世界模型最全综述：从开山之作到Sora与Genie 3",
+      "desc": "从OpenAI Sora到DeepMind Genie 3实时交互生成游戏世界，再到清华AgentSociety模拟上万个智能体，世界模型成为AGI核心基石。",
+      "url": "https://blog.csdn.net/weixin_46200189/article/details/161335538",
+      "source": "CSDN",
+      "pubDate": "2026-06-11"
+    }
+  ],
+  "design": [],
+  "video": [
+    {
+      "title": "字节跳动Seedance 2.0视频生成模型月营收已超10亿元",
+      "desc": "Seedance 2.0支持文本生成长达120秒4K视频，在人物动作连贯性、物理模拟和风格多样性方面均为行业顶尖，月营收突破10亿人民币。",
+      "url": "https://www.sohu.com/a/1032100345_114838",
+      "source": "搜狐",
+      "pubDate": "2026-06-04"
+    },
+    {
+      "title": "Runway推出Gen-4模型，实现AI视频连贯性突破",
+      "desc": "Runway发布Gen-4视频合成模型，可在不同场景中保持人物和物体的一致性，并允许从多个角度拍摄同一环境，解决跨镜头角色一致性问题。",
+      "url": "http://ai.zhiding.cn/2025/0401/3164871.shtml",
+      "source": "至顶网",
+      "pubDate": "2026-06-03"
+    },
+    {
+      "title": "可灵AI 3.0全模态引擎：15秒4K视频+原生音画同步",
+      "desc": "快手可灵3.0发布全模态原生引擎，整合理解、生成、编辑、优化四环节，支持15秒4K视频、智能分镜、原生音画同步及角色特征库保持一致性。",
+      "url": "https://www.111cn.net/new/561635.htm",
+      "source": "一聚教程网",
+      "pubDate": "2026-06-07"
+    }
+  ],
+  "rag": [],
+  "devtools": [],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}

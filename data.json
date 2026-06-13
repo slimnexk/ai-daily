@@ -1,11 +1,7 @@
 {
-  "title": "Claude Fable 5震撼发布，Anthropic史上最强模型公开亮相",
-  "desc": "Anthropic发布Claude Fable 5/Mythos 5双档旗舰模型，SWE-bench Pro达80.3%。MiniMax M3携百万上下文+原生多模态登场。世界模型赛道融资火热，VAST获近2亿美元，千诀科技完成数亿元A轮。",
+  "title": "四强横评大模型对擂，Claude动态工作流重塑AI编程",
+  "desc": "DeepSeek-V4-Pro与GPT-5.5同台竞技，腾讯云发布四强横评；Anthropic推出Claude Code动态工作流，AI编程迈入多Agent并行时代；星源智10个月融资10亿攻坚世界模型；李飞飞亲自定义世界模型三功能标准。",
   "dates": {
-    "2026-05-13": {
-      "title": "Claude Code上线Agent View统一调度多Agent，世界模型vs VLA路线激辩，Skills生态接管Agent开发",
-      "desc": "Anthropic发布Claude Code Agent View，一个界面管理所有AI会话，告别终端分屏。IT之家深度辨析世界模型与VLA融合进化路线。GitHub上Skills生态正在取代MCP成为Agent开发新标准，hermes-agent 143k星领跑记忆Agent赛道。"
-    },
     "2026-05-14": {
       "title": "谷歌Gemini Intelligence重塑安卓为AI系统，林俊旸20亿美元估值投身世界模型，Claude Code上线Agent View统一调度",
       "desc": "谷歌The Android Show发布Gemini Intelligence，将大模型深度植入安卓原生系统，推动手机从操作系统向智能系统升级。前阿里千问负责人林俊旸创业瞄准世界模型与具身大脑，首轮估值20亿美元。Anthropic为Claude Code推出Agent View研究预览版，一个界面管理所有AI会话。"
@@ -97,6 +93,10 @@
     "2026-06-12": {
       "title": "Claude Fable 5震撼发布，Anthropic史上最强模型公开亮相",
       "desc": "Anthropic发布Claude Fable 5/Mythos 5双档旗舰模型，SWE-bench Pro达80.3%。MiniMax M3携百万上下文+原生多模态登场。世界模型赛道融资火热，VAST获近2亿美元，千诀科技完成数亿元A轮。"
+    },
+    "2026-06-13": {
+      "title": "四强横评大模型对擂，Claude动态工作流重塑AI编程",
+      "desc": "DeepSeek-V4-Pro与GPT-5.5同台竞技，腾讯云发布四强横评；Anthropic推出Claude Code动态工作流，AI编程迈入多Agent并行时代；星源智10个月融资10亿攻坚世界模型；李飞飞亲自定义世界模型三功能标准。"
     }
   }
 }
