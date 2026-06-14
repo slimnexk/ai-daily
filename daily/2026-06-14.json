@@ -1,0 +1,311 @@
+{
+  "title": "GLM-5.2全量开放，Claude动态工作流重塑AI编程",
+  "desc": "智谱GLM-5.2正式全量开放，支持1M上下文；Anthropic推出Claude Code动态工作流，协调数百子Agent并行；李飞飞定义世界模型三功能标准；GitHub Skills生态取代MCP成为新范式。",
+  "featured": [
+    {
+      "title": "智谱GLM-5.2全量开放：1M上下文、MIT协议开源",
+      "desc": "6月13日智谱宣布GLM-5.2面向Coding Plan全量用户开放，支持真正可用1M上下文，下周API上线并开源MIT协议，称为智谱迄今最强开源Coding模型。",
+      "url": "https://new.qq.com/rain/a/20260613A05LUD00",
+      "label": "🔥 头条",
+      "icon": "star",
+      "color": "#FF6B35",
+      "pubDate": "2026-06-13"
+    },
+    {
+      "title": "Claude Code动态工作流：协调数百子Agent并行",
+      "desc": "Anthropic推出Dynamic Workflows，Claude Code可动态生成协调脚本、拆解子任务并行执行并验证结果，实测6天重构75万行代码，99.8%测试一次通过。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4696a2a6a9170652",
+      "label": "⚡ 重大更新",
+      "icon": "bolt",
+      "color": "#7C3AED",
+      "pubDate": "2026-06-11"
+    },
+    {
+      "title": "李飞飞定义世界模型标准：渲染+模拟+规划三功能缺一不可",
+      "desc": "斯坦福李飞飞团队首次明确定义World Model能力边界，将渲染、模拟、规划列为三大核心功能，直指行业概念滥用乱象，同步发布能力评测清单。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "label": "📐 学术定义",
+      "icon": "globe",
+      "color": "#059669",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "GitHub Skills生态崛起：取代MCP成为Agent开发新标准",
+      "desc": "Karpathy的karpathy-skills一周破10万星，Matt Pocock的skills达6万+，两大KOL同时押注Skills，AI工作流标准化快速收敛，ECC项目超20万星领跑。",
+      "url": "https://blog.csdn.net/Aaronfaty/article/details/160816109",
+      "label": "🏆 生态趋势",
+      "icon": "code",
+      "color": "#2563EB",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "中国不需要也不可能复制SpaceX",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "124万"
+    },
+    {
+      "title": "英格兰队遭盗窃只剩1个足球",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "87万"
+    },
+    {
+      "title": "考生家长勿轻信神秘通道",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "迪丽热巴德佑全球品牌代言人",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "Prada内外网的认领顺序",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "这游戏就这么玩的！#杜盛华 #朋友",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "5109万播放"
+    },
+    {
+      "title": "监控拍下惊险一幕：数据线阴燃起火",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "4789万播放"
+    },
+    {
+      "title": "货车高速路上掉落铁架 司机徒手拖动80斤铁架至硬路肩",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "4369万播放"
+    },
+    {
+      "title": "饭店的暑假工，讨要薪资！",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "3944万播放"
+    },
+    {
+      "title": "他是跑回来的！中途还摔了一跤",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "3154万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "智谱GLM-5.2全量开放：1M上下文+MIT开源",
+      "desc": "6月13日智谱宣布GLM-5.2面向Coding Plan全量用户开放，支持真正可用1M上下文，长程Coding保持领先，API下周上线，模型下周MIT协议开源。",
+      "url": "https://new.qq.com/rain/a/20260613A05LUD00",
+      "source": "腾讯网",
+      "pubDate": "2026-06-13"
+    },
+    {
+      "title": "蚂蚁技术研究院：扩散语言模型生成速度达传统4倍",
+      "desc": "蚂蚁李建国表示扩散模型或成LLM新方向，LLaDA 2.1生成速度约1000 token/s，对比百灵2.0约200 token/s，速度差4倍以上，可编辑性优势显著。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3216a2bda7824252",
+      "source": "企鹅号",
+      "pubDate": "2026-06-12"
+    },
+    {
+      "title": "Qwen3.7-Max发布：35小时智能体自主进化，国产模型Arena第一",
+      "desc": "阿里发布千问旗舰Qwen3.7-Max，Arena盲测超越Kimi-K2.6/DeepSeek-v4/GLM-5.1，可全自主完成35小时超长程Agent任务，推理速度提升10倍。",
+      "url": "https://blog.csdn.net/szqx2025/article/details/161250830",
+      "source": "CSDN",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "2026大模型三足鼎立：Claude增速255%，Gemini追至ChatGPT 65-70%",
+      "desc": "SimilarWeb数据显示Claude以255%环比增速成全球增长最快AI网站，Gemini非英语地区流量追至ChatGPT 65-70%，GPT-5.5 Instant免费开放。",
+      "url": "https://blog.csdn.net/Follow_24/article/details/161546769",
+      "source": "CSDN",
+      "pubDate": "2026-06-12"
+    }
+  ],
+  "github": [
+    {
+      "title": "ECC：AI Agent工作流系统，20万+星领跑GitHub",
+      "desc": "面向Claude Code/Cursor等AI编程环境的完整Agent工作流系统，覆盖skills/instincts/memory/security等模块，日增1500+星，总星超20万。",
+      "url": "https://blog.csdn.net/2502_93007403/article/details/161601582",
+      "source": "CSDN",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "nanobot：4.3万星的轻量Agent框架，一人能跑一群人能用",
+      "desc": "港大HKUDS研究员发起的开源Agent项目，围绕精简Agent Loop构建，消息进来LLM判断是否调工具，记忆技能按需加载，4个月冲到43.8K星。",
+      "url": "https://www.cnblogs.com/itech/p/20356476",
+      "source": "博客园",
+      "pubDate": "2026-06-07"
+    },
+    {
+      "title": "Headroom：AI Agent上下文压缩层，节省60-95% token",
+      "desc": "给AI Agent和LLM应用用的上下文压缩层，在内容送入模型前处理工具输出/日志/RAG片段，可节省60-95% token用量，支持CLI代理和SDK接入。",
+      "url": "https://blog.csdn.net/u014158743/article/details/161776707",
+      "source": "CSDN",
+      "pubDate": "2026-06-08"
+    }
+  ],
+  "trend": [
+    {
+      "name": "affaan-m/ECC",
+      "stars": "201K+",
+      "type": "Agent工作流",
+      "desc": "面向Claude Code/Cursor等的完整Agent工作流系统，skills+memory+security，日增1500星",
+      "tags": [
+        "Agent",
+        "Claude Code",
+        "Skills"
+      ],
+      "url": "https://github.com/affaan-m/ECC",
+      "iconType": "github",
+      "icon": "🔥",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "world": [
+    {
+      "title": "李飞飞定义世界模型：渲染+模拟+规划三功能缺一不可",
+      "desc": "斯坦福李飞飞团队首次明确World Model能力边界，三大核心功能不可分割，直指行业将视频生成/LLM贴WM标签的乱象，同步发布可评测能力清单。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "source": "CSDN",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "世界模型8年进展：四大核心瓶颈仍未突破",
+      "desc": "中科院联合MBZ/NTU/Oxford发布世界模型综述，从生成式/隐空间/RL/对象中心四范式梳理，指出科学建模、长程一致性、物理接地、泛化性四大瓶颈待破。",
+      "url": "https://blog.csdn.net/soaring_casia/article/details/159932517",
+      "source": "CSDN",
+      "pubDate": "2026-06-07"
+    }
+  ],
+  "design": [
+    {
+      "title": "Figma AI实战：设计到代码一键生成",
+      "desc": "Figma AI从First Draft到Dev Mode，支持文本生成UI、设计稿转代码，MCP服务器让开发智能体直接获取设计上下文生成生产就绪前端代码。",
+      "url": "https://blog.csdn.net/weixin_56622231/article/details/160161768",
+      "source": "CSDN",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "Adobe Illustrator 2026新增Sensei AI与Firefly集成",
+      "desc": "Ai 2026(v30.5)新增Adobe Sensei AI、Firefly集成、生成式扩展、图像描摹及生成式重新着色等功能，性能显著优化。",
+      "url": "http://www.32r.com/soft/38508.html",
+      "source": "3322软件站",
+      "pubDate": "2026-06-04"
+    }
+  ],
+  "video": [
+    {
+      "title": "可灵3(Kling 3)实测：2026年AI视频终极形态",
+      "desc": "快手发布可灵3，被称为对Sora2和Veo3的降维打击，在动态质量、语义响应和画面美学上实现全面领先。",
+      "url": "https://blog.csdn.net/weixin_54442559/article/details/158502580",
+      "source": "CSDN",
+      "pubDate": "2026-06-07"
+    }
+  ],
+  "rag": [
+    {
+      "title": "RAG已经过时了吗？2026年最该学的是AI Agent的上下文工程",
+      "desc": "RAG从主架构变为Agent上下文工程的关键组件。OpenAI Agents SDK新增configurable memory、MCP集成等长流程任务基础设施。",
+      "url": "https://blog.csdn.net/2601_95563714/article/details/160215065",
+      "source": "CSDN",
+      "pubDate": "2026-06-04"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "GPT Image 2上线：零基础玩转AI图像生成",
+      "desc": "GPT Image 2新一代图像生成模型，支持自然语言描述生成图像，15秒出图，面向电商、广告、设计等商业场景。",
+      "url": "https://blog.csdn.net/2601_96168718/article/details/161536185",
+      "source": "CSDN",
+      "pubDate": "2026-06-11"
+    }
+  ],
+  "industry": [
+    {
+      "title": "大模型扎堆IPO：智谱MiniMax冲刺A股，Anthropic抢先OpenAI递表",
+      "desc": "6月首周全球AI资本市场炸裂，智谱与MiniMax先后启动A股征程，Anthropic抢先向SEC提交IPO申请估值9650亿美元，OpenAI随后递交S-1保密草案。",
+      "url": "https://blog.csdn.net/A8ai1751295/article/details/161696094",
+      "source": "CSDN",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "英伟达GTC台北大会重磅发布：Vera Rubin芯片、RTX SPARK及Neotron 3 Ultra",
+      "desc": "黄仁勋发布三大产品：面向Agentic AI的Vera Rubin芯片、台积电3nm的RTX SPARK+N1X芯片、Neotron 3 Ultra开源模型，标志AI正式进入智能体时代。",
+      "url": "https://blog.csdn.net/2401_88022074/article/details/161631222",
+      "source": "CSDN",
+      "pubDate": "2026-06-09"
+    },
+    {
+      "title": "2026年AI行业趋势深度报告：全球AI市场规模预测超9000亿美元",
+      "desc": "整合IBM、NVIDIA、德勤等权威研究，2026年全球AI市场规模预测超9000亿美元，88%企业表示AI帮助增加年收入，Agentic AI投资比例可达75%。",
+      "url": "https://blog.csdn.net/zhanggongzichu/article/details/159159196",
+      "source": "CSDN",
+      "pubDate": "2026-06-11"
+    },
+    {
+      "title": "AI一周大事盘点：英伟达GTC全栈布局，微软自研大模型加速去OpenAI化",
+      "desc": "英伟达GTC Taipei 2026发布多款AI产品，微软发布自研大模型加速去OpenAI化，Anthropic冲刺IPO，OpenAI重启机器人业务，美国出台AI监管新政。",
+      "url": "https://blog.csdn.net/yuntongliangda/article/details/161769535",
+      "source": "CSDN",
+      "pubDate": "2026-06-12"
+    }
+  ],
+  "game": [
+    {
+      "title": "零成本用AI打造游戏Demo：2026保姆级教程",
+      "desc": "2026年个人开发者可用DeepSeek/GPT+Banana Nano+Cursor组成零成本游戏开发流程，从策划到部署全链路AI辅助，普通人也能跑通游戏Demo。",
+      "url": "https://blog.csdn.net/2301_78933554/article/details/161282089",
+      "source": "CSDN",
+      "pubDate": "2026-06-04"
+    }
+  ],
+  "drama": [
+    {
+      "title": "2026年AI漫剧工业化制作完整指南：从剧本到分镜全链路实战",
+      "desc": "AI漫剧核心优势：无需演员场地、成本极低、熟练团队一天可制作5-10集。五步工业化流程：剧本创作→分镜设计→图片素材→AI视频→后期剪辑。",
+      "url": "https://blog.csdn.net/weixin_44822948/article/details/160586077",
+      "source": "CSDN",
+      "pubDate": "2026-06-12"
+    }
+  ],
+  "apps": [
+    {
+      "title": "字节跳动发布Trae国内版：国内首个AI原生IDE，支持端到端应用生成",
+      "desc": "Trae国内版搭载doubao-1.5-pro模型，支持切换DeepSeek R1/V3，开发者输入自然语言即可自动生成包含前端页面和数据库连接的基础代码框架。",
+      "url": "https://blog.csdn.net/AI_Encyc/article/details/161787181",
+      "source": "CSDN",
+      "pubDate": "2026-06-08"
+    },
+    {
+      "title": "OpenAI更新ChatGPT记忆能力：让AI助手更好记住用户偏好",
+      "desc": "ChatGPT记忆系统更新，模型能更好记住用户偏好并在长期对话中保持上下文新鲜度，让AI助手逐步理解工作习惯、写作风格和技术栈，提升实用性。",
+      "url": "https://blog.csdn.net/qq_37699336/article/details/161706362",
+      "source": "CSDN",
+      "pubDate": "2026-06-12"
+    },
+    {
+      "title": "华为发布nova 16系列：搭载鸿蒙版WPS灵犀AI助手",
+      "desc": "华为nova 16系列搭载鸿蒙版WPS全新灵犀AI助手，集成于文档、PPT、表格及PDF中，支持现场续写、润色和快速生成内容，极大提升办公效率。",
+      "url": "http://pcedu.pconline.com.cn/softnews/",
+      "source": "太平洋电脑网",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "百度文心快码Comate AI IDE升级：首创设计稿一键转代码(F2C)能力",
+      "desc": "百度推出独立AI原生开发环境Comate AI IDE，首创Figma设计稿一键转代码能力，还原度与可维护性显著提升，节省80%重复劳动。百度每日新增代码中文心快码生成占比超43%。",
+      "url": "https://blog.csdn.net/AI_Encyc/article/details/161787181",
+      "source": "CSDN",
+      "pubDate": "2026-06-08"
+    }
+  ]
+}

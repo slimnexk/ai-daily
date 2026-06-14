@@ -1,11 +1,7 @@
 {
-  "title": "四强横评大模型对擂，Claude动态工作流重塑AI编程",
-  "desc": "DeepSeek-V4-Pro与GPT-5.5同台竞技，腾讯云发布四强横评；Anthropic推出Claude Code动态工作流，AI编程迈入多Agent并行时代；星源智10个月融资10亿攻坚世界模型；李飞飞亲自定义世界模型三功能标准。",
+  "title": "GLM-5.2全量开放，Claude动态工作流重塑AI编程",
+  "desc": "智谱GLM-5.2正式全量开放，支持1M上下文；Anthropic推出Claude Code动态工作流，协调数百子Agent并行；李飞飞定义世界模型三功能标准；GitHub Skills生态取代MCP成为新范式。",
   "dates": {
-    "2026-05-14": {
-      "title": "谷歌Gemini Intelligence重塑安卓为AI系统，林俊旸20亿美元估值投身世界模型，Claude Code上线Agent View统一调度",
-      "desc": "谷歌The Android Show发布Gemini Intelligence，将大模型深度植入安卓原生系统，推动手机从操作系统向智能系统升级。前阿里千问负责人林俊旸创业瞄准世界模型与具身大脑，首轮估值20亿美元。Anthropic为Claude Code推出Agent View研究预览版，一个界面管理所有AI会话。"
-    },
     "2026-05-15": {
       "title": "",
       "desc": ""
@@ -97,6 +93,10 @@
     "2026-06-13": {
       "title": "四强横评大模型对擂，Claude动态工作流重塑AI编程",
       "desc": "DeepSeek-V4-Pro与GPT-5.5同台竞技，腾讯云发布四强横评；Anthropic推出Claude Code动态工作流，AI编程迈入多Agent并行时代；星源智10个月融资10亿攻坚世界模型；李飞飞亲自定义世界模型三功能标准。"
+    },
+    "2026-06-14": {
+      "title": "GLM-5.2全量开放，Claude动态工作流重塑AI编程",
+      "desc": "智谱GLM-5.2正式全量开放，支持1M上下文；Anthropic推出Claude Code动态工作流，协调数百子Agent并行；李飞飞定义世界模型三功能标准；GitHub Skills生态取代MCP成为新范式。"
     }
   }
 }
