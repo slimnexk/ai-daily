@@ -1,11 +1,7 @@
 {
-  "title": "GLM-5.2全量开放，Claude动态工作流重塑AI编程",
-  "desc": "智谱GLM-5.2正式全量开放，支持1M上下文；Anthropic推出Claude Code动态工作流，协调数百子Agent并行；李飞飞定义世界模型三功能标准；GitHub Skills生态取代MCP成为新范式。",
+  "title": "Anthropic发布Mythos级双旗舰，AI巨头六月全面开战",
+  "desc": "6月9日Anthropic发布Claude Fable 5与Mythos 5双旗舰，百万Token上下文碾压同级；微软Build大会一口气推出7款自研MAI模型加速去OpenAI化；OpenAI推出Dreaming V3自动记忆系统；世界模型赛道持续升温，极佳视界月融25亿成百亿独角兽。",
   "dates": {
-    "2026-05-15": {
-      "title": "",
-      "desc": ""
-    },
     "2026-05-16": {
       "title": "Anthropic估值9000亿美元超越OpenAI，Google I/O下周开幕",
       "desc": "Anthropic敲定300亿美元融资，投后估值9000亿美元首超OpenAI的8520亿美元；5月大模型排行Kimi K2.6登顶，国产模型强势崛起；Google I/O 5月19日将发布Gemini 4.0；世界模型赛道融资密集。"
@@ -97,6 +93,10 @@
     "2026-06-14": {
       "title": "GLM-5.2全量开放，Claude动态工作流重塑AI编程",
       "desc": "智谱GLM-5.2正式全量开放，支持1M上下文；Anthropic推出Claude Code动态工作流，协调数百子Agent并行；李飞飞定义世界模型三功能标准；GitHub Skills生态取代MCP成为新范式。"
+    },
+    "2026-06-15": {
+      "title": "Anthropic发布Mythos级双旗舰，AI巨头六月全面开战",
+      "desc": "6月9日Anthropic发布Claude Fable 5与Mythos 5双旗舰，百万Token上下文碾压同级；微软Build大会一口气推出7款自研MAI模型加速去OpenAI化；OpenAI推出Dreaming V3自动记忆系统；世界模型赛道持续升温，极佳视界月融25亿成百亿独角兽。"
     }
   }
 }

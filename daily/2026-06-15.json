@@ -1,0 +1,202 @@
+{
+  "title": "Anthropic发布Mythos级双旗舰，AI巨头六月全面开战",
+  "desc": "6月9日Anthropic发布Claude Fable 5与Mythos 5双旗舰，百万Token上下文碾压同级；微软Build大会一口气推出7款自研MAI模型加速去OpenAI化；OpenAI推出Dreaming V3自动记忆系统；世界模型赛道持续升温，极佳视界月融25亿成百亿独角兽。",
+  "featured": [
+    {
+      "title": "Anthropic发布Claude Fable 5 / Mythos 5双旗舰",
+      "desc": "Anthropic首推Mythos级模型，Fable 5面向公众开放，SWE-bench达95%，百万Token上下文窗口，128K输出；Mythos 5限定开放，可生成新颖科学假说",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3816a28e3eb50952",
+      "label": "🔥头条",
+      "icon": "🚀",
+      "color": "#FF6B35",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "小县城取消中考选拔全员直升高中",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "256万"
+    },
+    {
+      "title": "爷爷爸爸离世2岁娃要还50万贷款吗",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "102万"
+    },
+    {
+      "title": "今天是世界无偿献血者日",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "80万"
+    },
+    {
+      "title": "猜猜巴西队王牌沉浸在什么歌里",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "72万"
+    },
+    {
+      "title": "人一旦在有地铁的城市待过",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "67万"
+    },
+    {
+      "title": "破晓将至 律己则安 终见黎明！",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "5143万播放"
+    },
+    {
+      "title": "饭店的暑假工，服务员还得刷盘子？",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "4378万播放"
+    },
+    {
+      "title": "联合国艾滋病规划署发布报告称全球艾滋病应对正进入危险时刻",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "3383万播放"
+    },
+    {
+      "title": "这游戏就这么玩的",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "3380万播放"
+    },
+    {
+      "title": "骑马噔那个噔 云南交警交通安全",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "3119万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Anthropic发布Claude Fable 5与Mythos 5，首个Mythos级双旗舰",
+      "desc": "6月9日Anthropic发布Mythos级双旗舰模型，Fable 5百万Token上下文、SWE-bench 95%达业界最高；Mythos 5限定开放，能生成科学假说、识别蛋白质靶点",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3816a28e3eb50952",
+      "source": "企鹅号",
+      "pubDate": "2026-06-10"
+    },
+    {
+      "title": "GPT-5.5领跑Coding指数，Claude Opus 4.8加冕Agentic王座",
+      "desc": "6月大模型Coding榜单出炉：GPT-5.5稳居Coding榜首，Claude Opus 4.8加冕Agentic智能指数新王，Qwen3.7 Max、DeepSeek V4 Pro等国产旗舰跻身全球前十",
+      "url": "https://blog.csdn.net/ab977a1081268482/article/details/161729504",
+      "source": "CSDN",
+      "pubDate": "2026-06-06"
+    }
+  ],
+  "github": [
+    {
+      "title": "Anthropic开源knowledge-work-plugins，Claude知识工作插件集合",
+      "desc": "Anthropic官方开源Claude知识工作插件集合，一周飙升至15K+ Star，提供LSP、工作流、外部集成等多类插件，开发者可一键安装",
+      "url": "https://cloud.tencent.com/developer/article/2676218",
+      "source": "腾讯云",
+      "pubDate": "2026-06-15"
+    },
+    {
+      "title": "ECC：Agent harness性能优化系统达19万Star",
+      "desc": "ECC项目为Claude Code、Codex、Cursor等AI编码代理提供性能优化层，GitHub Star达192K，日均新增2025星，Agent harness模式成为生态新趋势",
+      "url": "https://cloud.tencent.com/developer/article/2676218",
+      "source": "腾讯云",
+      "pubDate": "2026-06-15"
+    }
+  ],
+  "trend": [
+    {
+      "name": "andrej-karpathy-skills",
+      "stars": "149K+",
+      "type": "Markdown",
+      "desc": "Karpathy总结的Claude Code提示词规范文件，基于四大核心原则解决LLM编码常见陷阱，单日新增3K星",
+      "tags": [
+        "Claude Code",
+        "Skills",
+        "编码规范"
+      ],
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "iconType": "star",
+      "icon": "⭐",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "world": [],
+  "design": [
+    {
+      "title": "Figma股价波动背后:2026年AI生成UI工具的格局与走向",
+      "desc": "分析2026年AI生成UI工具格局，提及Stitch AI和Claude Design等产品，瞄准产品经理和全栈开发者，Figma面临AI原生设计工具挑战。",
+      "url": "https://cloud.tencent.com/developer/article/2658585",
+      "source": "腾讯云",
+      "pubDate": "2026-06-15"
+    },
+    {
+      "title": "2026年UI设计师工具推荐:从界面设计到AI原生代码生成全覆盖",
+      "desc": "UI设计师工具链结构性变革：AI驱动工具将草图到高保真原型周期压缩至数小时，部分工具可直接输出可编译原生代码，推荐14款主流工具。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/159798287",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-12"
+    },
+    {
+      "title": "Claude Design实战指南2026:从提示词到交互原型的完整工作流",
+      "desc": "Claude Design由Opus 4.7驱动，支持文字生成交互原型、演示文稿、落地页。已向Pro/Max/Team/Enterprise用户开放，入口claude.ai/design。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/161711655",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "video": [
+    {
+      "title": "可灵发布2.0版重磅升级,视频生成能力全面提升",
+      "desc": "快手可灵AI发布2.0版本，视频生成能力大幅提升。此前1.6和1.5已分别拿下图生视频榜一和文生视频榜二，迭代10个月升级20多次。",
+      "url": "https://cloud.tencent.com/developer/article/2652079",
+      "source": "腾讯云",
+      "pubDate": "2026-06-15"
+    },
+    {
+      "title": "超越Veo和Runway!可灵开源Kling-Omni:一个模型通吃视频生成、剪辑和多模态推理",
+      "desc": "快手开源Kling-Omni模型，将视频生成、编辑和智能推理整合到端到端通用框架，采用创新性多模态视觉语言(MVL)架构，打破碎片化处理模式。",
+      "url": "https://cloud.tencent.com/developer/article/2608531",
+      "source": "腾讯云",
+      "pubDate": "2026-06-15"
+    },
+    {
+      "title": "2026年可灵AI模型怎么选择?3个版本功能差异",
+      "desc": "可灵AI 3.0系列含图片3.0、视频3.0和视频3.0 Omni三版本，图片版升级VCOT2.0支持4K直出，视频版新增智能分镜，Omni版支持角色一致性。",
+      "url": "https://www.111cn.net/new/566248.htm",
+      "source": "一聚教程网",
+      "pubDate": "2026-06-09"
+    }
+  ],
+  "rag": [
+    {
+      "title": "狂揽22.2k star!AI智能体上下文压缩工具开源,Token成本直降95%准确率不变",
+      "desc": "开源上下文压缩工具获22.2k星，解决AI Agent上下文成本问题，Token成本直降95%同时保持准确率不变，适配Claude Code、Cursor等主流Agent框架。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6526a2ba08f99652",
+      "source": "企鹅号",
+      "pubDate": "2026-06-12"
+    },
+    {
+      "title": "0.2元/百万Token的万亿AI:DeepSeek-V4开源,开启超长上下文普惠时代",
+      "desc": "DeepSeek-V4开源，1M超长上下文为标配，V4-Flash缓存命中输入低至0.2元/百万Token，采用CSA/HCA混合注意力架构，计算量降至前代27%。",
+      "url": "https://cloud.tencent.com/developer/article/2659947",
+      "source": "腾讯云",
+      "pubDate": "2026-06-15"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "2026主流AI图像生成模型实力排行榜",
+      "desc": "全球AI绘图梯队格局定型：GPT Image 2稳居综合第一，Nano Banana系列第二，Midjourney第三，国产字节阿里快手模型深耕本土商用场景。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9476a26bab801552",
+      "source": "企鹅号",
+      "pubDate": "2026-06-08"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
