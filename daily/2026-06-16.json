@@ -1,0 +1,109 @@
+{
+  "title": "AI日报 2026-06-16",
+  "desc": "",
+  "featured": [],
+  "hotSearch": [
+    {
+      "title": "渝见小面老板说无法坦然接受道歉",
+      "url": "https://s.weibo.com/weibo?q=%E6%B8%9D%E8%A7%81%E5%B0%8F%E9%9D%A2%E8%80%81%E6%9D%BF%E8%AF%B4%E6%97%A0%E6%B3%95%E5%9D%A6%E7%84%B6%E6%8E%A5%E5%8F%97%E9%81%93%E6%AD%89",
+      "source": "微博",
+      "heat": "129万"
+    },
+    {
+      "title": "印度苦行僧坚持站立5年不坐不躺",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E8%8B%A6%E8%A1%8C%E5%83%A7%E5%9D%9A%E6%8C%81%E7%AB%99%E7%AB%8B5%E5%B9%B4%E4%B8%8D%E5%9D%90%E4%B8%8D%E8%BA%BA",
+      "source": "微博",
+      "heat": "89万"
+    },
+    {
+      "title": "我国成功发射一箭8星",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD8%E6%98%9F",
+      "source": "微博",
+      "heat": "87万"
+    },
+    {
+      "title": "2026理想Livis Day",
+      "url": "https://s.weibo.com/weibo?q=2026%E7%90%86%E6%83%B3Livis+Day",
+      "source": "微博",
+      "heat": "87万"
+    },
+    {
+      "title": "中国影视之夜 迪丽热巴",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E4%B9%8B%E5%A4%9C+%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4",
+      "source": "微博",
+      "heat": "87万"
+    },
+    {
+      "title": "妈妈：嘻嘻 你最好期末也这么考～",
+      "url": "https://www.douyin.com/video/7650851590979464633",
+      "source": "抖音",
+      "heat": "5713万播放"
+    },
+    {
+      "title": "鱼缸爆了！名贵鱼全军覆没",
+      "url": "https://www.douyin.com/video/7651139251274461050",
+      "source": "抖音",
+      "heat": "5228万播放"
+    },
+    {
+      "title": "邓超观战NBA总决赛G5",
+      "url": "https://www.douyin.com/video/7651074950735891775",
+      "source": "抖音",
+      "heat": "5197万播放"
+    },
+    {
+      "title": "美国再公布70多份UFO文件",
+      "url": "https://www.douyin.com/video/7651036431376207113",
+      "source": "抖音",
+      "heat": "3707万播放"
+    },
+    {
+      "title": "21岁女子在巴西蹦极未系安全绳坠亡",
+      "url": "https://www.douyin.com/video/7651112114131684654",
+      "source": "抖音",
+      "heat": "3648万播放"
+    }
+  ],
+  "llm": [],
+  "github": [],
+  "trend": [],
+  "world": [],
+  "design": [],
+  "video": [
+    {
+      "title": "2026年十大最佳AI视频生成器推荐：Runway Gen-4.5领跑",
+      "desc": "2026年AI视频生成器评测：Runway Gen-4.5高级创意控制$15/月、Sora叙事故事$20/月、Kling逼真人物$10/月、Google Veo 3电影级真实感。",
+      "url": "https://blog.csdn.net/xiangzhihong8/article/details/158314587",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-10"
+    }
+  ],
+  "rag": [],
+  "devtools": [
+    {
+      "title": "FLUX1.1专业版图像生成模型技术解析",
+      "desc": "FLUX1.1 Pro生成速度提升6倍，引入提示词上采样功能自动扩展简短提示词，图像质量和提示遵循度大幅提升，支持多种控制适配器。",
+      "url": "https://cloud.tencent.com/developer/article/2582823",
+      "source": "腾讯云",
+      "pubDate": "2026-06-16"
+    },
+    {
+      "title": "本地部署ComfyUI并添加Flux.1开源文生图模型远程制作AI图片",
+      "desc": "Flux.1免费开源，性能可比Midjourney V6，支持ComfyUI调用，基于流模型生成高质量图像，支持多种尺寸和比例多样性输出。",
+      "url": "https://cloud.tencent.com/developer/article/2588518",
+      "source": "腾讯云",
+      "pubDate": "2026-06-16"
+    },
+    {
+      "title": "FLUX.1系列工具：精准控制AI图像生成的新功能",
+      "desc": "FLUX.1新增Canny边缘检测、Depth深度图、Redux变体等控制适配器，适用dev和pro模型，实现精确结构和真实透视感的图像生成。",
+      "url": "https://cloud.tencent.com/developer/article/2621878",
+      "source": "腾讯云",
+      "pubDate": "2026-06-16"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}

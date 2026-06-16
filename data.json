@@ -1,11 +1,7 @@
 {
-  "title": "Anthropic发布Mythos级双旗舰，AI巨头六月全面开战",
-  "desc": "6月9日Anthropic发布Claude Fable 5与Mythos 5双旗舰，百万Token上下文碾压同级；微软Build大会一口气推出7款自研MAI模型加速去OpenAI化；OpenAI推出Dreaming V3自动记忆系统；世界模型赛道持续升温，极佳视界月融25亿成百亿独角兽。",
+  "title": "AI日报 2026-06-16",
+  "desc": "",
   "dates": {
-    "2026-05-16": {
-      "title": "Anthropic估值9000亿美元超越OpenAI，Google I/O下周开幕",
-      "desc": "Anthropic敲定300亿美元融资，投后估值9000亿美元首超OpenAI的8520亿美元；5月大模型排行Kimi K2.6登顶，国产模型强势崛起；Google I/O 5月19日将发布Gemini 4.0；世界模型赛道融资密集。"
-    },
     "2026-05-17": {
       "title": "米哈游3年豪掷1000亿做AI，Anthropic/OpenAI编程工具大战白热化",
       "desc": "米哈游创始人刘伟宣布3年最多投入1000亿做AI大模型；Anthropic十天三次重置Claude Code额度对抗OpenAI Codex免费迁移攻势；iOS 27开放第三方AI模型；Google I/O 5月19日发布Gemini 4.0。"
@@ -97,6 +93,10 @@
     "2026-06-15": {
       "title": "Anthropic发布Mythos级双旗舰，AI巨头六月全面开战",
       "desc": "6月9日Anthropic发布Claude Fable 5与Mythos 5双旗舰，百万Token上下文碾压同级；微软Build大会一口气推出7款自研MAI模型加速去OpenAI化；OpenAI推出Dreaming V3自动记忆系统；世界模型赛道持续升温，极佳视界月融25亿成百亿独角兽。"
+    },
+    "2026-06-16": {
+      "title": "AI日报 2026-06-16",
+      "desc": ""
     }
   }
 }
