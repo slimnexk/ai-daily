@@ -1,67 +1,7 @@
 {
-  "title": "AI日报 2026-06-16",
-  "desc": "",
+  "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
+  "desc": "美团开源LongCat-2.0万亿参数模型、腾讯混元Hy3正式发布、蚂蚁灵波发布LingBot-Depth 2.0，国产大模型集体发力。Anthropic两款旗舰模型Fable 5和Mythos 5出口管制解除恢复全球访问。高盛称世界模型将成为AI基建新引擎。",
   "dates": {
-    "2026-05-17": {
-      "title": "米哈游3年豪掷1000亿做AI，Anthropic/OpenAI编程工具大战白热化",
-      "desc": "米哈游创始人刘伟宣布3年最多投入1000亿做AI大模型；Anthropic十天三次重置Claude Code额度对抗OpenAI Codex免费迁移攻势；iOS 27开放第三方AI模型；Google I/O 5月19日发布Gemini 4.0。"
-    },
-    "2026-05-18": {
-      "title": "Anthropic CEO专访：Claude新功能几乎完全由AI自主开发，软件将步入免费时代",
-      "desc": "Anthropic CEO Dario Amodei最新专访透露Claude Co-work由Opus自主开发仅用一周半，ARR达440亿美元估值超9000亿；Google I/O 2026明日开幕，Gemini 4.0+Android XR眼镜+Aluminum OS三重磅待发；OpenAI与马耳他达成全球首个国家级AI免费协议；黄仁勋斯坦福演讲痛斥GPU核武比喻。"
-    },
-    "2026-05-19": {
-      "title": "Google I/O今日开幕：Gemini 3.2 Flash偷跑上线，百度AI收入首超一半，微软Copilot付费率仅3.3%遭前副总裁炮轰",
-      "desc": "Google I/O 2026今日开幕，Gemini 3.2 Flash大会前偷跑被开发者抓包，单次生成2200行代码；百度Q1财报AI业务收入136亿首次占比52%；微软前副总裁炮轰Copilot付费率仅3.3%。"
-    },
-    "2026-05-20": {
-      "title": "Google I/O 2026开幕：Gemini 3.5 Flash+Omni+Spark三连发，阿里千问Qwen3.7今正式发布，Claude Code默认切Opus 4.7",
-      "desc": "Google I/O 2026凌晨开幕，Gemini 3.5 Flash干翻上代Pro、Omni全能模型一句话改视频、Spark全天候AI代理登场；阿里云峰会今日发布Qwen3.7；Anthropic上调Claude Design额度翻倍，Code快速模式切Opus 4.7。"
-    },
-    "2026-05-21": {
-      "title": "Qwen3.7-Max登顶国产第一、DeepSeek组建Harness团队对标Claude Code、OpenClaw白皮书发布",
-      "desc": "阿里云峰会发布Qwen3.7-Max登顶Arena国产榜首+真武M890芯片+千问云上线；DeepSeek正式组建Harness团队做DeepSeek Code Harness对标Claude Code；OpenClaw类自主智能体白皮书5月20日发布。"
-    },
-    "2026-05-22": {
-      "title": "OpenAI最快今日提交IPO申请估值瞄准万亿、月之暗面赴港IPO估值200亿美元、智谱ZCube不加GPU算力多15%",
-      "desc": "OpenAI联合高盛摩根士丹利最快5月22日秘密提交IPO申请，目标估值1万亿美元；月之暗面启动VIE拆除赴港IPO，估值半年涨4倍至200亿美元；智谱发布ZCube网络架构，同等硬件推理吞吐提升15%。"
-    },
-    "2026-05-26": {
-      "title": "华为发布半导体韬定律剑指1.4nm、DeepSeek-V4-Flash登顶全球调用榜、宇树科技科创板IPO定档6月1日",
-      "desc": "华为在ISCAS 2026正式发布韬(τ)定律，以时间缩微替代几何缩微，预计2031年达1.4nm同等水平；DeepSeek-V4-Flash周调用3.43万亿Token登顶全球；宇树科技科创板IPO 6月1日上会，拟募资42亿。"
-    },
-    "2026-05-27": {
-      "title": "AI日报 2026-05-27",
-      "desc": ""
-    },
-    "2026-05-29": {
-      "title": "Claude Opus 4.8发布+Anthropic融资9650亿，天津智博会具身智能独立设馆",
-      "desc": "Anthropic凌晨同时发布Opus 4.8并完成650亿美元H轮融资，估值9650亿超越OpenAI；天津智博会开幕具身智能首次独立设馆，宇树GD01变形机甲390万起售；MiniMax ARR两月翻倍至3亿美元；DeepSeek首轮融资国家大基金领投估值450亿。"
-    },
-    "2026-06-02": {
-      "title": "Claude Opus 4.8发布：数百子智能体并行运作，AI迈向诚实时代",
-      "desc": "Anthropic推出Claude Opus 4.8，引入Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；DeepSeek V4-Pro API永久维持2.5折定价；51WORLD发布全球首款物理直觉世界模型51World Model。"
-    },
-    "2026-06-03": {
-      "title": "Claude Opus 4.8发布：数百子智能体并行，Anthropic估值9650亿超越OpenAI",
-      "desc": "Anthropic发布Claude Opus 4.8，Dynamic Workflows支持数百子智能体并行，Fast Mode速度提升2.5倍；Anthropic完成650亿美元H轮融资投后估值9650亿超越OpenAI；微信AI Agent原型已测通主界面右滑将变AI入口。"
-    },
-    "2026-06-04": {
-      "title": "AI日报 2026-06-04",
-      "desc": ""
-    },
-    "2026-06-05": {
-      "title": "英伟达发布Cosmos 3世界模型，Anthropic冲刺IPO",
-      "desc": "英伟达GTC台北发布全球首个全开源全模态物理AI模型Cosmos 3；Anthropic提交IPO申请估值近万亿美元；DeepSeek首轮融资500亿腾讯宁德时代入局；微软Build 2026发布7款自研MAI模型。"
-    },
-    "2026-06-06": {
-      "title": "微软发布自研推理模型，Anthropic呼吁暂停前沿AI，世界模型加速落地",
-      "desc": "Build 2026大会上微软一口气发布7款自研AI模型；Anthropic披露内部80%代码由Claude编写并呼吁放缓前沿AI；OpenAI升级ChatGPT记忆系统；51WORLD发布物理直觉世界模型；腾讯云DeepSeek-V4 API大幅降价。"
-    },
-    "2026-06-07": {
-      "title": "WWDC前瞻Siri重生、Anthropic冲刺IPO、Claude Code动态工作流、世界模型国产登顶",
-      "desc": "苹果WWDC 2026即将开幕，Siri将迎来15年来最大改版；Anthropic秘密提交IPO申请估值近万亿；Claude Code推出动态工作流，AI编程进入多Agent并行时代；WorldArena榜单中国团队连夺双冠，世界模型赛道竞争白热化。"
-    },
     "2026-06-08": {
       "title": "AI日报 2026-06-08",
       "desc": ""
@@ -97,6 +37,10 @@
     "2026-06-16": {
       "title": "AI日报 2026-06-16",
       "desc": ""
+    },
+    "2026-07-08": {
+      "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
+      "desc": "美团开源LongCat-2.0万亿参数模型、腾讯混元Hy3正式发布、蚂蚁灵波发布LingBot-Depth 2.0，国产大模型集体发力。Anthropic两款旗舰模型Fable 5和Mythos 5出口管制解除恢复全球访问。高盛称世界模型将成为AI基建新引擎。"
     }
   }
 }
