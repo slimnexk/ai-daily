@@ -1,0 +1,345 @@
+{
+  "title": "Gemini 3.5 Pro定档7月17日，Fable 5重上架遭降智争议",
+  "desc": "谷歌Gemini 3.5 Pro将于7月17日发布，支持200万Token上下文窗口和深度思考推理模式。Claude Fable 5重新上架但用户反馈频繁降智回退至Opus 4.8。Anthropic推出Claude Cowork移动端和网页端AI协作平台。OpenClaw以25.2万星标登顶GitHub历史第一。",
+  "featured": [
+    {
+      "title": "Gemini 3.5 Pro定档7月17日发布，支持200万Token上下文窗口",
+      "desc": "谷歌Gemini 3.5 Pro将于7月17日发布，支持200万Token上下文窗口，引入全新深度思考推理模式，前端视觉编程能力显著提升。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3246a4e252152965",
+      "label": "重磅",
+      "icon": "🚀",
+      "color": "#4285f4",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "Claude Fable 5重上架遭降智争议，严苛安全护栏致频繁回退",
+      "desc": "Anthropic重新上架Claude Fable 5，多名用户反馈模型降智且频繁回退至Opus 4.8，三重安全护栏引发行业讨论。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8106a48505174652",
+      "label": "热议",
+      "icon": "⚠️",
+      "color": "#d97706",
+      "pubDate": "2026-07-04"
+    },
+    {
+      "title": "Anthropic推出Claude Cowork移动端和网页端AI协作平台",
+      "desc": "7月7日Anthropic宣布Claude Cowork平台上线移动端和网页端，深度嵌入团队协作工作流，支持19个职场AI插件。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956a4e679158952",
+      "label": "新品",
+      "icon": "🤝",
+      "color": "#7c3aed",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "OpenClaw以25.2万星标登顶GitHub开源项目历史第一",
+      "desc": "OpenClaw超越Meta的React登顶GitHub星标历史第一，13000+社区技能插件，成为2026年最现象级AI Agent产品。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6476a4c9d3065152",
+      "label": "里程碑",
+      "icon": "🏆",
+      "color": "#059669",
+      "pubDate": "2026-07-07"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "法拉利高管称中国车企像在开发快消品",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E6%8B%89%E5%88%A9%E9%AB%98%E7%AE%A1%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%83%8F%E5%9C%A8%E5%BC%80%E5%8F%91%E5%BF%AB%E6%B6%88%E5%93%81",
+      "source": "微博",
+      "heat": "152万"
+    },
+    {
+      "title": "法国球员回应全阿根廷裁判组执法",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E7%90%83%E5%91%98%E5%9B%9E%E5%BA%94%E5%85%A8%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A3%81%E5%88%A4%E7%BB%84%E6%89%A7%E6%B3%95",
+      "source": "微博",
+      "heat": "90万"
+    },
+    {
+      "title": "科学应对台风指南",
+      "url": "https://s.weibo.com/weibo?q=%E7%A7%91%E5%AD%A6%E5%BA%94%E5%AF%B9%E5%8F%B0%E9%A3%8E%E6%8C%87%E5%8D%97",
+      "source": "微博",
+      "heat": "71万"
+    },
+    {
+      "title": "千万不要侧躺玩手机",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA",
+      "source": "微博",
+      "heat": "70万"
+    },
+    {
+      "title": "广西横州全力防范洪水蛇伤",
+      "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E5%85%A8%E5%8A%9B%E9%98%B2%E8%8C%83%E6%B4%AA%E6%B0%B4%E8%9B%87%E4%BC%A4",
+      "source": "微博",
+      "heat": "66万"
+    },
+    {
+      "title": "航拍湖北黄冈龙卷风受灾现场",
+      "url": "https://www.douyin.com/video/7659636441567284515",
+      "source": "抖音",
+      "heat": "99259038次播放"
+    },
+    {
+      "title": "高温天气百余头生猪中暑消防紧急喷水降温",
+      "url": "https://www.douyin.com/video/7659617211459325234",
+      "source": "抖音",
+      "heat": "84127162次播放"
+    },
+    {
+      "title": "湖北东部强对流天气11人死亡1人失联",
+      "url": "https://www.douyin.com/video/7659692696583408923",
+      "source": "抖音",
+      "heat": "60400559次播放"
+    },
+    {
+      "title": "暗夜之王猫头鹰 白天苟住晚上乱杀",
+      "url": "https://www.douyin.com/video/7659302898169400591",
+      "source": "抖音",
+      "heat": "31100142次播放"
+    },
+    {
+      "title": "救救二师兄吧",
+      "url": "https://www.douyin.com/video/7659308819683577124",
+      "source": "抖音",
+      "heat": "28947237次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Gemini 3.5 Pro定档7月17日发布，200万Token上下文+深度思考推理",
+      "desc": "谷歌Gemini 3.5 Pro将于7月17日发布，支持200万Token上下文窗口（前代100万翻倍），引入深度思考推理模式，前端与视觉生成能力显著提升。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3246a4e252152965",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "Anthropic提升Claude Platform API速率限制，最高分级提升5倍",
+      "desc": "Anthropic提高Claude Platform API速率限制并简化分级体系，不再将分级与API消费金额挂钩，Sonnet和Haiku最高分级提供5倍速率提升。",
+      "url": "https://llmposts.com/",
+      "source": "LLM大模型邮报",
+      "pubDate": "2026-07-07"
+    },
+    {
+      "title": "Anthropic推出Claude Sonnet 5，性能接近Opus 4.8定价更低",
+      "desc": "Anthropic推出Claude Sonnet 5面向全套餐用户开放，可自主运行长时间任务、调用浏览器和终端等工具，首发输入$2/M token、输出$10/M token。",
+      "url": "https://blog.csdn.net/ld326/article/details/162531418",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-04"
+    },
+    {
+      "title": "DeepSeek、智谱开始自研AI芯片，大模型终局不再只是模型",
+      "desc": "DeepSeek正在开发自己的AI推理芯片，智谱评估自研定制芯片可能性。OpenAI已公开首款与博通联合设计的定制推理芯片Jalapeño，年底部署。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2336a4df1ec95852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    }
+  ],
+  "github": [
+    {
+      "title": "OpenClaw登顶GitHub星标历史第一，AI Agent全民狂欢",
+      "desc": "OpenClaw以25.2万星标超越React登顶GitHub历史第一，13000+社区技能插件，4个月成为增长最快开源项目。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6476a4c9d3065152",
+      "source": "企鹅号",
+      "pubDate": "2026-07-07"
+    },
+    {
+      "title": "阿里巴巴开源Page Agent：纯文本DOM操作的网页AI代理",
+      "desc": "阿里巴巴开源Page Agent，通过纯文本DOM操作实现网页交互，无需浏览器扩展或Python环境，一个script标签即可集成AI代理能力。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3096a4a89ec47452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-06"
+    },
+    {
+      "title": "Hermes Agent崛起：自学习闭环+三层记忆架构，星标突破6万",
+      "desc": "Nous Research开发Hermes Agent凭借自学习闭环系统、三层记忆架构和多平台消息网关，成为本月增长最快AI项目，星标突破6万。",
+      "url": "https://blog.csdn.net/csdn122345/article/details/161265370",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-04"
+    }
+  ],
+  "trend": [
+    {
+      "name": "OpenClaw",
+      "stars": "252k+",
+      "type": "Agent Framework",
+      "desc": "本地优先开源AI Agent框架，超越React登顶GitHub星标历史第一，13000+社区技能插件。",
+      "tags": [
+        "Agent",
+        "开源",
+        "自动化"
+      ],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "github",
+      "icon": "🦞",
+      "pubDate": "2026-07-07"
+    }
+  ],
+  "world": [
+    {
+      "title": "李飞飞定义世界模型：渲染+模拟+规划三功能缺一不可",
+      "desc": "斯坦福李飞飞团队发布世界模型正式定义，将渲染、模拟、规划三大功能列为核心能力，直指行业概念滥用乱象。同步发布能力清单评测基准。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-04"
+    },
+    {
+      "title": "General Intuition获3.2亿美元A轮融资，估值23亿美元",
+      "desc": "General Intuition完成3.2亿美元A轮融资估值23亿美元，以海量游戏录像数据破局AI训练与具身智能落地，距种子轮仅三个月。",
+      "url": "https://new.qq.com/rain/a/20260703A06JR200",
+      "source": "腾讯网",
+      "pubDate": "2026-07-03"
+    },
+    {
+      "title": "阿里发布Happy Oyster开放世界模型，实时交互三维内容生成",
+      "desc": "阿里巴巴ATH事业群发布Happy Oyster开放世界模型产品，核心是实时可交互的三维内容生成，基于原生多模态架构，已开启早期体验申请。",
+      "url": "https://blog.csdn.net/weixin_40970718/article/details/160216587",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-05"
+    }
+  ],
+  "design": [],
+  "video": [
+    {
+      "title": "2026主流文生视频模型横评：Seedance2.0/Kling/Sora/Runway/Pika/Wan2.2综合实力实测",
+      "desc": "2026年文生视频进入工业化时代，横评Seedance2.0、Kling、Sora、Runway等模型，以画质、运动连贯、语义理解等维度打分对比。",
+      "url": "https://blog.csdn.net/quitezz/article/details/162092999",
+      "source": "CSDN",
+      "pubDate": "2026-07-04"
+    },
+    {
+      "title": "Seedance 2.0深度解析：从抽卡地狱到工业化视频创作的革命",
+      "desc": "字节Seedance2.0采用双分支扩散变换器架构实现音画原生同步，从抽卡式生成转向导演式创作，支持多模态输入和多镜头序列视频。",
+      "url": "https://blog.csdn.net/iFisher666/article/details/159114445",
+      "source": "CSDN",
+      "pubDate": "2026-07-04"
+    }
+  ],
+  "rag": [
+    {
+      "title": "阿里云百炼推出Agentic RAG服务，支持15个知识库联合检索与多模态问答",
+      "desc": "阿里云百炼知识库推出企业级Agentic RAG服务Knowledge Studio，支持多模态搜索、Agentic Search、多库混合检索问答。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3376a4c9b1a73352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-07"
+    },
+    {
+      "title": "GLM 5.2实战评测：百万Token上下文窗口代码生成全面解析",
+      "desc": "智谱GLM 5.2将上下文窗口扩展至100万Token，远超Claude Opus 4.8的200K，支持大型代码库一次性分析。",
+      "url": "https://blog.csdn.net/weixin_45888077/article/details/161961966",
+      "source": "CSDN",
+      "pubDate": "2026-07-05"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "Meta推出Muse Image全新AI图像生成模型，将嵌入Instagram和WhatsApp",
+      "desc": "Meta在首席AI官Alexandr Wang领导下推出Muse Image图像生成模型，嵌入社交应用，Muse Video即将上线。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1946a4dad8000852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    }
+  ],
+  "industry": [
+    {
+      "title": "WAIC 2026官宣：140场论坛+300款全球首发，展览面积首破10万平米",
+      "desc": "2026世界人工智能大会7月17-20日上海举办，十部委联合主办，工信部披露2025年我国AI核心产业规模超1.2万亿，人形机器人产量有望破10万台。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1566a4dffe894952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "AI行业进入\"算力主权\"竞速关键节点：Anthropic150亿美元数据中心、Meta下线Llama API",
+      "desc": "7月6日AI热点：巨头从卖Token转向押算力重资产。Anthropic披露150亿美元澳洲数据中心计划，Meta正式下线Llama API，美光93亿美元扩建HBM工厂。",
+      "url": "https://blog.csdn.net/haohaizi_liu/article/details/162634327",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-06"
+    },
+    {
+      "title": "联合国发布AI风险警告，全球AI投资进入新阶段",
+      "desc": "联合国独立AI科学专家组发布报告警示AI虚假信息、网络攻击等重大风险；全球资本市场重新评估AI投资方向，下半年关注点从\"谁模型更强\"转向\"谁真正赚钱\"。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9916a4b615e78652",
+      "source": "企鹅号",
+      "pubDate": "2026-07-06"
+    },
+    {
+      "title": "2026十大AI趋势发布：三条主线驱动范式变革",
+      "desc": "智源研究院指出2026年AI从\"预测下一个词\"跨越到\"预测世界下一个状态\"，三条主线驱动：认知范式升维、智能形态实体化、价值兑现双轨应用。",
+      "url": "https://blog.csdn.net/szqx2025/article/details/156826456",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-03"
+    }
+  ],
+  "game": [
+    {
+      "title": "AI游戏平台赛道观察：国内海外八大平台尝试重塑游戏开发工作流",
+      "desc": "AI正在把游戏开发从少数专业团队长周期生产推向更多人参与的高频原型验证。从2025年起，AI游戏平台方向升温，覆盖美术、代码、智能NPC、关卡生成等。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7186a4e2ca387352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "AI游戏创作平台SOON深度实测：一段视频即可生成完整游戏",
+      "desc": "SOON是全球首个AI驱动游戏资产全流程生成平台，支持\"视频生成游戏\"功能，上传视频直接生成游戏。由杭州极逸人工智能（恺英网络控股子公司）打造。",
+      "url": "https://blog.csdn.net/weixin_40774379/article/details/160404642",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-07"
+    },
+    {
+      "title": "用AI每天复刻一个微信小游戏：动态生成可解谜题算法挑战",
+      "desc": "开发者用AI+Phaser引擎复刻微信小游戏《一箭又一箭》，核心挑战在于动画表现和动态生成保证可解的谜题算法，9×12网格随机生成30-40条箭头需99%+覆盖率。",
+      "url": "https://blog.csdn.net/qq_33171970/article/details/161457343",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-05"
+    }
+  ],
+  "drama": [
+    {
+      "title": "AI漫剧AI短剧创作系统：内容创业者的全自动生产工厂",
+      "desc": "漫剧工厂系统支持AI短剧和AI漫剧双形态输出，全流程AI自动化：智能生成剧本分镜人设、自动生成角色场景视觉风格、多情感配音+自动字幕合成，一天可产出几十条内容。",
+      "url": "https://blog.csdn.net/ywyy6798/article/details/158730296",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-07"
+    },
+    {
+      "title": "海豹分镜：AI漫剧剧本转分镜工具，10x效率提升",
+      "desc": "海豹分镜深耕工业级Prompt协议，支持小说→剧本→分镜→制作统筹全链路。30+细分风格一键切换，集成Claude Opus、GPT-5.4、Gemini 3.1 Pro等顶级AI模型。",
+      "url": "https://www.hbfenjing.com/",
+      "source": "海豹分镜官网",
+      "pubDate": "2026-07-07"
+    },
+    {
+      "title": "AI短剧制作工作流入门实战：Gemini+Seedance2.0组合",
+      "desc": "实战教程：用Gemini生成25宫格高一致性分镜预设，基于Seedance2.0等视频生成模型制作动画，NanoBananaPro视角裂变实现人物场景一致性。",
+      "url": "https://blog.csdn.net/baltam1995/article/details/159043996",
+      "source": "CSDN博客",
+      "pubDate": "2026-06-30"
+    }
+  ],
+  "apps": [
+    {
+      "title": "文心一言App上线\"深度阅读\"与\"图表生成\"，企微推出AI智能体\"大员\"",
+      "desc": "百度文心一言新增深度阅读和图表生成能力；腾讯企业微信推出基于DeepSeek大模型的AI智能体\"大员\"，用户左滑即可唤起，这是腾讯首次在核心B端产品接入第三方大模型。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-05"
+    },
+    {
+      "title": "AI工具箱上线：纯HTML+CSS+JS零依赖，支持3:4图片转换、代码高亮截图等",
+      "desc": "腾讯云开发者社区发布AI工具箱，零依赖纯前端实现，配置化管理。收录6个工具：3:4图片转换器（小红书封面）、代码高亮截图、SVG转PNG等，持续更新。",
+      "url": "https://cloud.tencent.com/developer/article/2616895",
+      "source": "腾讯云",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "2026年AI圈爆火产品盘点：Gemini月活7.5亿、Claude Code原生代理式编程",
+      "desc": "Google Gemini月活7.5亿成全球最大AI服务；Claude Code原生集成Xcode26.3实现代理式编程；MiniCPM-o 4.5首款开源全双工多模态模型，AI产品方向：轻量化、代理化、生态协同。",
+      "url": "https://blog.csdn.net/2501_92406411/article/details/158391487",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-04"
+    },
+    {
+      "title": "微信AI助手\"小微\"灰度上线，豆包收费持续下跌",
+      "desc": "微信原生AI助手\"小微\"6月20日灰度上线，内嵌微信主界面，能操控原生功能调度小程序生态。腾讯元宝月活从1.11亿跌至1.03亿，独立App战略价值面临调整。",
+      "url": "https://new.qq.com/rain/a/20260705A0404N00",
+      "source": "腾讯网",
+      "pubDate": "2026-07-05"
+    }
+  ]
+}
