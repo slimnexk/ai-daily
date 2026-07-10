@@ -1,11 +1,7 @@
 {
-  "title": "Gemini 3.5 Pro定档7月17日，Fable 5重上架遭降智争议",
-  "desc": "谷歌Gemini 3.5 Pro将于7月17日发布，支持200万Token上下文窗口和深度思考推理模式。Claude Fable 5重新上架但用户反馈频繁降智回退至Opus 4.8。Anthropic推出Claude Cowork移动端和网页端AI协作平台。OpenClaw以25.2万星标登顶GitHub历史第一。",
+  "title": "7月AI大乱斗：GPT-5.6、Grok 4.5、Gemini 3.5 Pro密集登场",
+  "desc": "OpenAI GPT-5.6 Sol本周四发布，马斯克Grok 4.5抢先截胡以低价策略出击，谷歌Gemini 3.5 Pro锁定7月17日，DeepSeek V4正式版月中上线。Claude Opus 4.8以诚实性革命和动态工作流引发关注。世界模型赛道3个月吸金百亿，蚂蚁灵波开源LingBot-World2.0。",
   "dates": {
-    "2026-06-09": {
-      "title": "英伟达Cosmos 3发布、Anthropic冲刺IPO、Claude Opus 4.8登顶",
-      "desc": "6月第一周AI圈重磅不断：英伟达GTC台北发布全模态物理AI模型Cosmos 3，Anthropic秘密递交IPO申请估值近万亿美元，Claude Opus 4.8以智能体能力登顶基准测试，谷歌豪掷300亿美元向SpaceX租赁算力。"
-    },
     "2026-06-10": {
       "title": "DeepSeek调用量全球登顶，Gemini 3.5实时翻译发布",
       "desc": "DeepSeek-V4-Flash连续三周蝉联全球大模型调用量榜首，中国AI模型周调用增长27%。谷歌发布Gemini 3.5实时翻译模型，支持70+语言。Anthropic翻倍Claude Cowork使用额度。World Labs估值暴涨至50亿美元。"
@@ -41,6 +37,10 @@
     "2026-07-09": {
       "title": "Gemini 3.5 Pro定档7月17日，Fable 5重上架遭降智争议",
       "desc": "谷歌Gemini 3.5 Pro将于7月17日发布，支持200万Token上下文窗口和深度思考推理模式。Claude Fable 5重新上架但用户反馈频繁降智回退至Opus 4.8。Anthropic推出Claude Cowork移动端和网页端AI协作平台。OpenClaw以25.2万星标登顶GitHub历史第一。"
+    },
+    "2026-07-10": {
+      "title": "7月AI大乱斗：GPT-5.6、Grok 4.5、Gemini 3.5 Pro密集登场",
+      "desc": "OpenAI GPT-5.6 Sol本周四发布，马斯克Grok 4.5抢先截胡以低价策略出击，谷歌Gemini 3.5 Pro锁定7月17日，DeepSeek V4正式版月中上线。Claude Opus 4.8以诚实性革命和动态工作流引发关注。世界模型赛道3个月吸金百亿，蚂蚁灵波开源LingBot-World2.0。"
     }
   }
 }
