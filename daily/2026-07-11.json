@@ -1,0 +1,325 @@
+{
+  "title": "GPT-5.6全面开放·DeepSeek V4定档中旬·Claude Reflect上线·世界模型融资百亿",
+  "desc": "OpenAI正式开放GPT-5.6全系列模型(Sol/Terra/Luna),DeepSeek V4正式版定档7月中旬并引入峰谷定价,Anthropic推出Claude Reflect反思仪表盘和Claude Tag团队协作功能,世界模型赛道融资火爆——极佳视界3个月吸金35亿、千寻智能3个月45亿。",
+  "featured": [
+    {
+      "title": "GPT-5.6全系列正式开放:Sol/Terra/Luna三档齐发",
+      "desc": "OpenAI正式向公众推出GPT-5.6全系列,旗舰Sol编程跑分91.9%反超Claude Mythos 5,均衡Terra对标GPT-5.5,轻量Luna主打低延迟低成本,API定价分层明确。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6546a50c41b01152",
+      "label": "大模型",
+      "icon": "🤖",
+      "color": "#FF6B6B",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "Claude Reflect上线:4维度回顾你的AI使用习惯",
+      "desc": "Anthropic推出Reflect功能,可视化仪表板展示用户与Claude互动记录,4D框架(委托/描述/判断/勤勉)生成使用摘要和改进建议,支持1-12个月回溯。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5186a50c58129452",
+      "label": "Claude",
+      "icon": "🧠",
+      "color": "#8B5CF6",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "3个月狂吸百亿:世界模型打响2026生死卡位战",
+      "desc": "千寻智能3月内融资45亿,极佳视界3轮累计35亿成国内首个世界模型百亿独角兽,World Labs估值50亿美元,杨立昆AMI Labs种子轮超10亿美元。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7726a4f7ad607452",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#10B981",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "DeepSeek V4正式版定档7月中旬,引入峰谷定价",
+      "desc": "DeepSeek宣布V4正式版7月中旬上线,推理提速80%,首次引入峰谷定价机制高峰时段收费翻倍(9-12点/14-18点),平峰维持预览版价格不变。",
+      "url": "https://blog.csdn.net/2501_94005722/article/details/162453684",
+      "label": "大模型",
+      "icon": "⚡",
+      "color": "#3B82F6",
+      "pubDate": "2026-07-04"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "台风巴威位置",
+      "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BD%8D%E7%BD%AE",
+      "source": "微博",
+      "heat": "308万"
+    },
+    {
+      "title": "霸占业主8万车位女子当面道歉",
+      "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E5%8D%A0%E4%B8%9A%E4%B8%BB8%E4%B8%87%E8%BD%A6%E4%BD%8D%E5%A5%B3%E5%AD%90%E5%BD%93%E9%9D%A2%E9%81%93%E6%AD%89",
+      "source": "微博",
+      "heat": "107万"
+    },
+    {
+      "title": "全国夏粮获丰收",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%9B%BD%E5%A4%8F%E7%B2%AE%E8%8E%B7%E4%B8%B0%E6%94%B6",
+      "source": "微博",
+      "heat": "87万"
+    },
+    {
+      "title": "当我意识到西瓜也是瓜",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E6%84%8F%E8%AF%86%E5%88%B0%E8%A5%BF%E7%93%9C%E4%B9%9F%E6%98%AF%E7%93%9C",
+      "source": "微博",
+      "heat": "84万"
+    },
+    {
+      "title": "电影功夫女足首支长预告",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A6%96%E6%94%AF%E9%95%BF%E9%A2%84%E5%91%8A",
+      "source": "微博",
+      "heat": "81万"
+    },
+    {
+      "title": "广西贵港万余师生受困 中国安能出动动力舟桥紧急转移",
+      "url": "https://www.douyin.com/video/7660334734614056246",
+      "source": "抖音",
+      "heat": "9199万播放"
+    },
+    {
+      "title": "广西横州退水后六蓝水库 村民称十几户房子被夷为平地",
+      "url": "https://www.douyin.com/video/7660155370169519410",
+      "source": "抖音",
+      "heat": "4514万播放"
+    },
+    {
+      "title": "小狗暴风雨前主动盖玉米",
+      "url": "https://www.douyin.com/video/7660146574084836627",
+      "source": "抖音",
+      "heat": "4385万播放"
+    },
+    {
+      "title": "饭店暑假工 客人违章停车",
+      "url": "https://www.douyin.com/video/7660344692975231604",
+      "source": "抖音",
+      "heat": "4035万播放"
+    },
+    {
+      "title": "关晓彤暂别跟大家告别",
+      "url": "https://www.douyin.com/video/7651444083122915426",
+      "source": "抖音",
+      "heat": "3442万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "GPT-5.6全面开放:Sol/Terra/Luna三档齐发,定价砍半碾压Claude",
+      "desc": "7月9日OpenAI正式向公众开放GPT-5.6全系列,旗舰Sol编程91.9%超Claude Mythos 5,API输入5美元/百万Token约Fable 5一半,Ultra模式支持多智能体协同。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5676a505d0574652",
+      "source": "企鹅号",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "DeepSeek V4正式版定档7月中旬,推理提速80%引入峰谷定价",
+      "desc": "DeepSeek V4正式版官宣7月中旬上线,DSpark推理提速80%,引入峰谷定价高峰时段9-12/14-18点收费翻倍,平峰维持预览版定价。",
+      "url": "https://blog.csdn.net/2501_94005722/article/details/162453684",
+      "source": "CSDN",
+      "pubDate": "2026-07-04"
+    },
+    {
+      "title": "阶跃星辰将发布全球首款AI智能体手机,抢先OpenAI终端落地",
+      "desc": "7月9日阶跃星辰宣布将发布AI终端品牌、智能体系统及首款AI智能体手机,比OpenAI2027年计划更早落地,集成Step-GUI模型支持200+APP场景自主执行。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2976a4f061092252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "智谱完成314亿港元配售,GLM-5.2开源跻身第一梯队",
+      "desc": "智谱7月9日完成约314亿港元配售创港股科技企业募资新高,GLM-5.2百万上下文Code Arena全球可用模型第一,MIT协议开源适配国产算力。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3236a4f6b8c77052",
+      "source": "企鹅号",
+      "pubDate": "2026-07-09"
+    }
+  ],
+  "github": [
+    {
+      "title": "Hermes Agent:开源社区最具潜力的AI Agent框架",
+      "desc": "Hermes Agent继承OpenClaw优秀基因,在架构设计、记忆管理等方面表现突出,7月9日GitHub上线指南文档,被认为是目前开源社区最具潜力的Agent框架之一。",
+      "url": "https://github.com/jwangkun/hermes-agent-guide",
+      "source": "GitHub",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "ai_trending:LangGraph+CrewAI全自动AI日报生成流水线",
+      "desc": "基于LangGraph Agent协作框架,每天早8点自动抓取GitHub热门AI项目和多源新闻,生成结构化报告推送到GitHub,98次提交持续迭代。",
+      "url": "https://github.com/qwzhang01/ai_trending",
+      "source": "GitHub",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "GitHub Trending AI Agent仍是主线:知识图谱+代码智能爆发",
+      "desc": "本周GitHub趋势显示AI编程工具生态全面爆发,知识图谱和代码智能项目成最热赛道,OpenClaw、Dify、Cline等Agent框架持续霸榜Trending。",
+      "url": "https://cloud.tencent.com/developer/article/2676218",
+      "source": "腾讯云",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "trend": [
+    {
+      "name": "OpenClaw",
+      "stars": "28.6k",
+      "type": "AI Coding Agent / CLI",
+      "desc": "系统级自动化Agent引擎,让AI操作传统GUI软件实现跨应用协作,持续霸榜GitHub Trending,2026.4.15版本接入Opus 4.7和Gemini TTS。",
+      "tags": [
+        "agent",
+        "automation",
+        "coding"
+      ],
+      "url": "https://github.com/open-claw/openclaw",
+      "iconType": "github",
+      "icon": "🤖",
+      "pubDate": "2026-07-10"
+    }
+  ],
+  "world": [
+    {
+      "title": "3个月狂吸百亿:世界模型赛道千寻45亿、极佳视界35亿",
+      "desc": "千寻智能3月内四轮融资45亿,极佳视界三轮35亿成国内首个世界模型百亿独角兽,GigaWorld-1登顶WorldArena评测。海外World Labs估值50亿美元,AMI Labs种子轮超10亿美元。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7726a4f7ad607452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "2026年AI十大趋势:从Next Token Prediction到Next State Prediction",
+      "desc": "智源研究院报告指出范式从猜下一个词升级为预测下一个状态,世界模型成AGI共识方向,ICRA 2026展示世界模型从视觉逼真到决策可用的评价标准转型。",
+      "url": "https://blog.csdn.net/weixin_54114441/article/details/156869616",
+      "source": "CSDN",
+      "pubDate": "2026-07-09"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design实战指南2026:从提示词到交互原型的完整工作流",
+      "desc": "Anthropic推出的Claude Design以Opus 4.7为引擎,支持文字描述生成交互式原型、演示文稿和UI线框图,CSDN发布完整实战指南。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/161711655",
+      "source": "CSDN",
+      "pubDate": "2026-07-07"
+    }
+  ],
+  "video": [
+    {
+      "title": "可灵AI获30亿美元融资,投后估值180亿美元创全球纪录",
+      "desc": "7月2日快手旗下可灵AI获30亿美元融资,创全球多模态大模型公司单轮最大额融资纪录,投后估值180亿美元,已参与《太平年》《大卫王朝》影视创作。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1296a471e8165352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-03"
+    }
+  ],
+  "rag": [
+    {
+      "title": "阿里云百炼推出Agentic RAG服务,支持多库联合检索与多模态问答",
+      "desc": "7月7日阿里云百炼知识库推出企业级Agentic RAG服务(Knowledge Studio),提供多模态搜索回答、Agentic Search、多库混合检索问答等能力,支持15个知识库联合检索。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3376a4c9b1a73352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-07"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "FLUX.1系列工具:精准控制AI图像生成的新功能",
+      "desc": "Black Forest Labs推出FLUX.1工具系列,包含Fill(填充修复)、Canny(边缘检测)、Depth(深度透视)四项新控制功能,为文生图模型增添精准引导能力。",
+      "url": "https://cloud.tencent.com/developer/article/2621878",
+      "source": "腾讯云",
+      "pubDate": "2026-07-11"
+    },
+    {
+      "title": "Meta推出Muse Image全新AI图像生成模型,接入Instagram和WhatsApp",
+      "desc": "7月7日Meta推出Muse Image图像生成模型,由Meta Superintelligence Labs开发,代号为Mango,免费提供于Meta AI/Instagram Stories/WhatsApp,支持提示词编辑和二维码生成。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9006a4d911249952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    }
+  ],
+  "industry": [
+    {
+      "title": "德福科技定增募资28亿元用于AI铜箔项目",
+      "desc": "德福科技7月6日公告，拟定增募资不超过28亿元，用于5万吨人工智能高端电子电路AI铜箔项目和补充流动资金。",
+      "url": "https://www.stcn.com/quotes/index/sz301511.html",
+      "source": "证券时报网",
+      "pubDate": "2026-07-06"
+    },
+    {
+      "title": "努比亚官宣全球首款AI智能体手机7月17日亮相",
+      "desc": "努比亚宣布全球首款AI智能体手机将于7月17日亮相，基于安卓底层支持语音指令自动跨应用操作，实现一站式任务处理。",
+      "url": "http://www.hxnews.com/news/itkj/",
+      "source": "海峡网",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "我国AI手机电脑销量今年有望首超非AI产品",
+      "desc": "我国AI手机、AI电脑年出货量已破亿台，用户渗透加速，AI消费端普及速度超预期，大模型调用量全球领先。",
+      "url": "http://www.hxnews.com/news/itkj/",
+      "source": "海峡网",
+      "pubDate": "2026-07-07"
+    }
+  ],
+  "game": [
+    {
+      "title": "微信小游戏AI开发全流程实战指南发布",
+      "desc": "2026版微信小游戏AI开发指南覆盖市场调研、玩法设计、资产生产到部署全流程，推动AI辅助小游戏开发从概念走向实践。",
+      "url": "https://blog.csdn.net/weixin_43617604/article/details/159431529",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-09"
+    }
+  ],
+  "drama": [
+    {
+      "title": "央广网官宣AI漫剧厂牌「灵境剧场」，国家级平台入场",
+      "desc": "央广网重磅推出国内首个国家级AI漫剧专业平台「灵境剧场」，补齐主流媒体在AI视听新赛道的内容布局短板。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5466a4e2c5d13452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "实测腾讯视频WorkRally AI漫剧2.0，画质更有质感",
+      "desc": "腾讯视频WorkRally AI漫剧2.0升级发布，AI漫剧市场规模去年已达160多亿，2026年被称为AI漫剧工业化元年。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4886a50f40c77052",
+      "source": "企鹅号",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "九成微短剧由AI生成：微短剧尽头是AI？",
+      "desc": "山东网络视听大会展示AI短剧平台，从剧本创作到短剧生成全程一键操作，已深度集成主流AI视频生成模型。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8916a4f9a5177052",
+      "source": "企鹅号",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "国产5款AI漫剧制作工具实测：即梦、可灵等各有特色",
+      "desc": "从字节即梦AI到快手可灵AI，5款国产AI漫剧工具实测对比，即梦二次元画质天花板，可灵写实漫剧电影级表现。",
+      "url": "https://blog.csdn.net/kingsley99/article/details/161286830",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-06"
+    }
+  ],
+  "apps": [
+    {
+      "title": "OpenAI开放GPT-5.6系列，接入ChatGPT和Codex",
+      "desc": "OpenAI正式开放GPT-5.6系列（Sol/Terra/Luna三版本），同时推出ChatGPT Work升级为可跨应用执行任务的AI Agent。",
+      "url": "http://www.v5site.com/",
+      "source": "v5site",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "百度文心一言App上线深度阅读与图表生成能力",
+      "desc": "7月1日文心一言App新增深度阅读与图表生成功能，上传百页报告可秒级提取核心论点并生成结构化脑图和可视化图表。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-05"
+    },
+    {
+      "title": "腾讯企业微信推出AI智能体「大员」，基于DeepSeek构建",
+      "desc": "7月2日腾讯在企业微信推出AI智能体「大员」，基于DeepSeek大模型，左滑即可唤起，自动理解当前页面并响应请求。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-05"
+    },
+    {
+      "title": "苹果Home应用AI新功能上线：4K安全视频+自然语言搜索",
+      "desc": "苹果Home应用升级，HomeKit安全视频从1080p提升至4K，利用Apple Intelligence实现视频描述生成和自然语言搜索。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9176a4e53ee89452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    }
+  ]
+}
