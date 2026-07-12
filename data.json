@@ -1,11 +1,7 @@
 {
-  "title": "GPT-5.6全面开放·DeepSeek V4定档中旬·Claude Reflect上线·世界模型融资百亿",
-  "desc": "OpenAI正式开放GPT-5.6全系列模型(Sol/Terra/Luna),DeepSeek V4正式版定档7月中旬并引入峰谷定价,Anthropic推出Claude Reflect反思仪表盘和Claude Tag团队协作功能,世界模型赛道融资火爆——极佳视界3个月吸金35亿、千寻智能3个月45亿。",
+  "title": "GPT-5.6三档齐发，Fable 5全球解禁，世界模型赛道融资爆发",
+  "desc": "OpenAI正式推出GPT-5.6系列(Sol/Terra/Luna三档模型)；Anthropic Fable 5与Mythos 5出口管制解除恢复全球访问；Claude上线Reflect功能与内置浏览器；DeepSeek V4正式版定档7月中旬；阶跃星辰推出全球首款AI智能体手机；李飞飞World Labs估值暴涨5倍至50亿美元。",
   "dates": {
-    "2026-06-11": {
-      "title": "Anthropic发布Fable 5与Mythos 5，OpenAI递交S-1冲刺IPO",
-      "desc": "6月10日Anthropic发布Fable 5及无防护版Mythos 5，OpenAI向SEC秘密递交S-1草案启动IPO进程。MiniMax发布M3大模型编程能力超GPT-5.5，北大EvoPhys-World世界模型登顶斯坦福评测。OpenClaw连续更新安全架构，微信推出官方ClawBot插件。"
-    },
     "2026-06-12": {
       "title": "Claude Fable 5震撼发布，Anthropic史上最强模型公开亮相",
       "desc": "Anthropic发布Claude Fable 5/Mythos 5双档旗舰模型，SWE-bench Pro达80.3%。MiniMax M3携百万上下文+原生多模态登场。世界模型赛道融资火热，VAST获近2亿美元，千诀科技完成数亿元A轮。"
@@ -41,6 +37,10 @@
     "2026-07-11": {
       "title": "GPT-5.6全面开放·DeepSeek V4定档中旬·Claude Reflect上线·世界模型融资百亿",
       "desc": "OpenAI正式开放GPT-5.6全系列模型(Sol/Terra/Luna),DeepSeek V4正式版定档7月中旬并引入峰谷定价,Anthropic推出Claude Reflect反思仪表盘和Claude Tag团队协作功能,世界模型赛道融资火爆——极佳视界3个月吸金35亿、千寻智能3个月45亿。"
+    },
+    "2026-07-12": {
+      "title": "GPT-5.6三档齐发，Fable 5全球解禁，世界模型赛道融资爆发",
+      "desc": "OpenAI正式推出GPT-5.6系列(Sol/Terra/Luna三档模型)；Anthropic Fable 5与Mythos 5出口管制解除恢复全球访问；Claude上线Reflect功能与内置浏览器；DeepSeek V4正式版定档7月中旬；阶跃星辰推出全球首款AI智能体手机；李飞飞World Labs估值暴涨5倍至50亿美元。"
     }
   }
 }
