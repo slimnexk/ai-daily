@@ -1,11 +1,7 @@
 {
-  "title": "GPT-5.6三档齐发，Fable 5全球解禁，世界模型赛道融资爆发",
-  "desc": "OpenAI正式推出GPT-5.6系列(Sol/Terra/Luna三档模型)；Anthropic Fable 5与Mythos 5出口管制解除恢复全球访问；Claude上线Reflect功能与内置浏览器；DeepSeek V4正式版定档7月中旬；阶跃星辰推出全球首款AI智能体手机；李飞飞World Labs估值暴涨5倍至50亿美元。",
+  "title": "7月AI大乱斗：GPT-5.6、Gemini 3.5 Pro、DeepSeek V4密集登场",
+  "desc": "7月大模型进入史上最密集发布期，GPT-5.6 Sol、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正版齐上阵。Claude推出Reflect反思功能，OpenClaw上线移动端，世界模型赛道爆发。",
   "dates": {
-    "2026-06-12": {
-      "title": "Claude Fable 5震撼发布，Anthropic史上最强模型公开亮相",
-      "desc": "Anthropic发布Claude Fable 5/Mythos 5双档旗舰模型，SWE-bench Pro达80.3%。MiniMax M3携百万上下文+原生多模态登场。世界模型赛道融资火热，VAST获近2亿美元，千诀科技完成数亿元A轮。"
-    },
     "2026-06-13": {
       "title": "四强横评大模型对擂，Claude动态工作流重塑AI编程",
       "desc": "DeepSeek-V4-Pro与GPT-5.5同台竞技，腾讯云发布四强横评；Anthropic推出Claude Code动态工作流，AI编程迈入多Agent并行时代；星源智10个月融资10亿攻坚世界模型；李飞飞亲自定义世界模型三功能标准。"
@@ -41,6 +37,10 @@
     "2026-07-12": {
       "title": "GPT-5.6三档齐发，Fable 5全球解禁，世界模型赛道融资爆发",
       "desc": "OpenAI正式推出GPT-5.6系列(Sol/Terra/Luna三档模型)；Anthropic Fable 5与Mythos 5出口管制解除恢复全球访问；Claude上线Reflect功能与内置浏览器；DeepSeek V4正式版定档7月中旬；阶跃星辰推出全球首款AI智能体手机；李飞飞World Labs估值暴涨5倍至50亿美元。"
+    },
+    "2026-07-13": {
+      "title": "7月AI大乱斗：GPT-5.6、Gemini 3.5 Pro、DeepSeek V4密集登场",
+      "desc": "7月大模型进入史上最密集发布期，GPT-5.6 Sol、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正版齐上阵。Claude推出Reflect反思功能，OpenClaw上线移动端，世界模型赛道爆发。"
     }
   }
 }

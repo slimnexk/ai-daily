@@ -1,0 +1,360 @@
+{
+  "title": "7月AI大乱斗：GPT-5.6、Gemini 3.5 Pro、DeepSeek V4密集登场",
+  "desc": "7月大模型进入史上最密集发布期，GPT-5.6 Sol、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正版齐上阵。Claude推出Reflect反思功能，OpenClaw上线移动端，世界模型赛道爆发。",
+  "featured": [
+    {
+      "title": "GPT-5.6 Sol正式发布，1小时证明50年数学猜想",
+      "desc": "OpenAI旗舰模型GPT-5.6 Sol本周正式发布，具备150万Token上下文和多智能体协同能力。Sol Ultra版成功证明图论领域悬而未决50年的循环双覆盖猜想。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4926a4dfdee45852",
+      "label": "大模型",
+      "icon": "🔥",
+      "color": "#e74c3c",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "Gemini 3.5 Pro定档7月17日，全新底座从头训练",
+      "desc": "谷歌跳票后终定档，Gemini 3.5 Pro将于7月17日正式亮相，与DeepSeek V4正面硬刚。全新底座不再挤牙膏，拒绝渐进升级。",
+      "url": "https://www.111cn.net/new/611880.htm",
+      "label": "大模型",
+      "icon": "💎",
+      "color": "#3498db",
+      "pubDate": "2026-07-07"
+    },
+    {
+      "title": "Anthropic上线Claude Reflect反思功能",
+      "desc": "Anthropic为Claude新增Reflect内置仪表盘，可视化展示用户使用规律、话题偏好、高峰时段等数据，支持1-12个月时间跨度回顾，还可设置免打扰时段。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5186a50c58129452",
+      "label": "Claude",
+      "icon": "🧠",
+      "color": "#9b59b6",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "世界模型赛道爆发：李飞飞定义三功能标准",
+      "desc": "李飞飞团队发布世界模型正式定义，渲染、模拟、规划三功能缺一不可。WorldArena评测持续升温，极佳视界GigaWorld-1登顶，英伟达Cosmos平台押注物理AI。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#2ecc71",
+      "pubDate": "2026-07-10"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "6月新增新冠确诊7.9万例",
+      "url": "https://s.weibo.com/weibo?q=6%E6%9C%88%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A7.9%E4%B8%87%E4%BE%8B",
+      "source": "微博",
+      "heat": "203万"
+    },
+    {
+      "title": "世界排名前4球队均晋级世界杯4强",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E5%89%8D4%E7%90%83%E9%98%9F%E5%9D%87%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF4%E5%BC%BA",
+      "source": "微博",
+      "heat": "96万"
+    },
+    {
+      "title": "普通人该如何科学避险",
+      "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E9%81%BF%E9%99%A9",
+      "source": "微博",
+      "heat": "92万"
+    },
+    {
+      "title": "赛场总有意难平",
+      "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E5%9C%BA%E6%80%BB%E6%9C%89%E6%84%8F%E9%9A%BE%E5%B9%B3",
+      "source": "微博",
+      "heat": "91万"
+    },
+    {
+      "title": "听起来很贵其实很便宜的东西",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%BE%88%E8%B4%B5%E5%85%B6%E5%AE%9E%E5%BE%88%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%B8%9C%E8%A5%BF",
+      "source": "微博",
+      "heat": "91万"
+    },
+    {
+      "title": "两车相撞车辆侧翻武警官兵停车救人",
+      "url": "https://www.douyin.com/video/7661124623399947562",
+      "source": "抖音",
+      "heat": "205687611次播放"
+    },
+    {
+      "title": "带小猎豹自律的一天",
+      "url": "https://www.douyin.com/video/7661022906105010801",
+      "source": "抖音",
+      "heat": "104339177次播放"
+    },
+    {
+      "title": "饭店的暑假工换海鲜",
+      "url": "https://www.douyin.com/video/7660830582419031266",
+      "source": "抖音",
+      "heat": "62737379次播放"
+    },
+    {
+      "title": "台风巴威已进入24小时警戒线",
+      "url": "https://www.douyin.com/video/7660838374797856054",
+      "source": "抖音",
+      "heat": "55031979次播放"
+    },
+    {
+      "title": "潲水女人弃狗跑路柯基饿死在出租屋",
+      "url": "https://www.douyin.com/video/7661089187302559011",
+      "source": "抖音",
+      "heat": "29813147次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "7月AI大乱斗：GPT-5.6、Grok 4.5、Gemini 3.5 Pro密集登场",
+      "desc": "OpenAI旗舰GPT-5.6 Sol定于本周发布，xAI的Grok 4.5明日开放，Gemini 3.5 Pro7月17日上线，DeepSeek V4正版锁定7月中旬，多款顶级模型密集落地。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4926a4dfdee45852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "全球AI大模型最新排名：Gemini 3.1 Pro与GPT-5.4并列第一",
+      "desc": "Gemini 3.1 Pro Preview与GPT-5.4并列57分榜首，Claude Opus 4.6 53分，GLM-5全球第5中国第1，DeepSeek V3.2性价比之王。",
+      "url": "https://blog.csdn.net/wangjie919/article/details/159239250",
+      "source": "CSDN",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "GLM-5.2开源上线，智谱AI发布最新旗舰模型",
+      "desc": "6月17日智谱AI正式上线并开源GLM-5.2，在GLM-5基础上进一步提升推理与代码能力，跻身全球大模型Top5。",
+      "url": "https://blog.csdn.net/ZDQ58818/article/details/162273474",
+      "source": "CSDN",
+      "pubDate": "2026-07-10"
+    }
+  ],
+  "github": [
+    {
+      "title": "agency-agents：专业分工AI Agent角色库，Star突破9.4k",
+      "desc": "按部门组织AI Agent配置文件，每个Agent是独立.md文件，覆盖设计、工程、增长、产品等岗位，提供专业化分工协作方案。",
+      "url": "https://blog.csdn.net/mymessageone/article/details/158745513",
+      "source": "CSDN",
+      "pubDate": "2026-07-11"
+    },
+    {
+      "title": "HermesAgent：自进化个人智能体框架，Star超10万",
+      "desc": "NousResearch开源HermesAgent，内置自我进化闭环、三层记忆架构、自动技能生成和Nudge Engine，用得越久越强，支持14+消息平台。",
+      "url": "https://blog.csdn.net/m0_59235945/article/details/161777307",
+      "source": "CSDN",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "OmniRoute：AI Gateway统一接入多模型，Star达9.4k",
+      "desc": "统一AI Gateway，将Claude Code、Codex、Cursor等无缝接入多模型供应商，原生支持Fallback、Token压缩和MCP集成。",
+      "url": "https://cloud.tencent.com/developer/article/2702440",
+      "source": "腾讯云",
+      "pubDate": "2026-07-13"
+    }
+  ],
+  "trend": [
+    {
+      "name": "agency-agents",
+      "stars": "9.4k",
+      "type": "AI Agent框架",
+      "desc": "专业分工AI Agent角色库，每个Agent是独立.md配置文件，覆盖设计、工程、增长、产品等完整团队岗位分工。",
+      "tags": [
+        "Agent",
+        "多角色",
+        "Skills"
+      ],
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "iconType": "github",
+      "icon": "🤖",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "world": [
+    {
+      "title": "李飞飞正式定义世界模型：渲染模拟规划三功能缺一不可",
+      "desc": "李飞飞团队发布世界模型正式定义和可评测能力清单，直指行业将视频生成模型和LLM贴上世界模型标签的概念滥用乱象。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "source": "CSDN",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "AMI Labs冯雁ICML 2026演讲：世界模型不可或缺",
+      "desc": "AMI Labs联合创始人冯雁在ICML 2026首个特邀演讲中阐述AI迈向现实世界时世界模型的核心作用，杨立昆与谢赛宁联合创立AMI Labs获10.3亿美元融资。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7606a4f386628052",
+      "source": "企鹅号",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "南京大学发布世界模型评估立场论文",
+      "desc": "南京大学团队发布世界模型评估立场论文，为业界提供系统性评估框架，应对当前世界模型评测标准混乱的局面。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2186a5336aa32152",
+      "source": "企鹅号",
+      "pubDate": "2026-07-12"
+    }
+  ],
+  "design": [
+    {
+      "title": "Figma收购Bud团队，加速布局AI编程与智能体赛道",
+      "desc": "Figma收购智能体平台Bud团队，此前已推出Figma Make并与Codex、Claude Code集成，推出自家智能体功能，加速AI编程方向布局。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6356a50c59007952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "AI设计工具不是让Figma更好，是重新定义设计这件事",
+      "desc": "AI设计工具正在从工具辅助转向重新定义设计边界，Codex可自动生成设计稿代码，设计师需从工具使用者转向工具定义者。",
+      "url": "https://cloud.tencent.com/developer/article/2659607",
+      "source": "腾讯云",
+      "pubDate": "2026-07-13"
+    },
+    {
+      "title": "妙多将于2026年7月31日停止服务",
+      "desc": "国产设计工具妙多宣布将于7月31日停止服务，用户需在截止日期前导出设计文件，标志着国内Figma替代工具市场格局变化。",
+      "url": "http://www.miaoduo.com/",
+      "source": "妙多官网",
+      "pubDate": "2026-07-12"
+    }
+  ],
+  "video": [
+    {
+      "title": "可灵联合港中文发布ShotStream，实现实时流式多镜头长视频生成",
+      "desc": "快手可灵与港中文联合提出首个实时流式多镜头长视频生成框架ShotStream，单张H200实现16FPS推理，效率提升25倍，已被ECCV 2026接收。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
+      "source": "企鹅号",
+      "pubDate": "2026-07-12"
+    },
+    {
+      "title": "Seedance 2.5正式发布：30秒原生视频、50个参考素材、原生4K",
+      "desc": "字节跳动Seedance 2.5支持单段原生30秒视频直出、50个全模态参考素材联合输入、局部编辑和原生4K输出，预计7月初全面上线。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/162233112",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "7款2026年AI视频制作工具功能、局限与适用场景横评",
+      "desc": "横评覆盖可灵AI、即梦AI、海螺AI等7款工具，可灵基于Kling3.0支持4K输出，即梦基于Seedance2.0，各工具适用场景与局限性分析详尽。",
+      "url": "https://blog.csdn.net/m0_73190071/article/details/162006346",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "rag": [
+    {
+      "title": "阿里云百炼推出Agentic RAG服务，支持多库联合检索与多模态问答",
+      "desc": "阿里云百炼知识库推出企业级Agentic RAG服务(Knowledge Studio)，提供多模态搜索、Agentic Search、多库混合检索，支持15个知识库联合检索。",
+      "url": "https://new.qq.com/rain/a/20260707A0646100",
+      "source": "腾讯网",
+      "pubDate": "2026-07-07"
+    },
+    {
+      "title": "玩转RAG之百炼Agent RAG实践（阿里云上）",
+      "desc": "基于阿里云百炼平台的RAG示例项目，使用Spring AI Alibaba框架集成通义千问大模型，展示Agent RAG的完整架构和部署实践。",
+      "url": "https://blog.csdn.net/hadoop_/article/details/160238923",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "传统企业网盘遇上RAG技术，企业知识管理迎来新范式",
+      "desc": "佑桥AI知识库基于RAG技术推出精细化企业知识管理方案，解决传统网盘在知识组织、检索和传承方面的局限，引发行业关注。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4226a49270466652",
+      "source": "企鹅号",
+      "pubDate": "2026-07-04"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "FLUX.1 Kontext：文本驱动图像编辑模型解析",
+      "desc": "Black Forest Labs推出FLUX.1 Kontext图像编辑模型，支持通过文本提示精准编辑图像，保持角色特征与风格一致性，支持多轮迭代编辑。",
+      "url": "https://cloud.tencent.com/developer/article/2630544",
+      "source": "腾讯云",
+      "pubDate": "2026-07-13"
+    },
+    {
+      "title": "Flux Kontext专业AI图片生成平台上线",
+      "desc": "Flux Kontext专业AI图片生成平台正式上线，基于FLUX.1 Kontext模型提供文字到图像的高级生成能力，支持文本+图像双输入的上下文感知创作。",
+      "url": "https://flux1kontext.ai/",
+      "source": "Flux Kontext官方",
+      "pubDate": "2026-07-12"
+    },
+    {
+      "title": "FLUX.1 Kontext图像编辑技术深度解析",
+      "desc": "FLUX.1 Kontext通过文本指令实现精准图像编辑，支持局部修改、风格迁移和角色一致性保持，是当前同类最佳文本驱动图像编辑模型。",
+      "url": "https://cloud.tencent.com/developer/article/2672914",
+      "source": "腾讯云",
+      "pubDate": "2026-07-13"
+    }
+  ],
+  "industry": [
+    {
+      "title": "2026年7月AI全行业重磅资讯：监管、大模型、算力四大赛道变革",
+      "desc": "7月上旬AI行业迎来集中重磅事件：国内智能体合规监管落地，豆包/千问关闭C端自定义智能体；OpenAI新一代GPT发布；昇腾算力生态突破。",
+      "url": "https://blog.csdn.net/qq_41640675/article/details/162721806",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "WAIC 2026官宣：140场论坛+300款全球首发，展览面积首破10万平米",
+      "desc": "2026世界人工智能大会7月17日上海举办，十部委联合主办，工信部披露2025年AI核心产业规模超1.2万亿，大模型下载量全球第一。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1566a4dffe894952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "OpenAI面向公众开放GPT-5.6系列，推出GPT-Live语音模型",
+      "desc": "OpenAI正式面向公众开放GPT-5.6系列模型，并推出可边听边说的GPT-Live语音模型，实现实时语音交互能力。",
+      "url": "https://www.iresearch.cn/",
+      "source": "艾瑞网",
+      "pubDate": "2026-07-12"
+    },
+    {
+      "title": "五部门《人工智能拟人化互动服务管理暂行办法》7月15日正式施行",
+      "desc": "国家五部门联合发布的AI监管办法7月15日施行，豆包、通义千问同步关闭用户自建C端智能体功能，行业进入强合规时代。",
+      "url": "https://blog.csdn.net/qq_41640675/article/details/162721806",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-09"
+    }
+  ],
+  "game": [
+    {
+      "title": "2026版微信小游戏AI开发全流程实战指南",
+      "desc": "详细教程覆盖从市场调研、AI策划案生成、AIGC美术音频制作到代码部署的全流程，推荐Kimi/千问/混元助手辅助开发。",
+      "url": "https://blog.csdn.net/weixin_43617604/article/details/159431529",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "drama": [
+    {
+      "title": "AI漫剧爆发：从0到1全流程拆解，普通人也能批量造爆款",
+      "desc": "AI漫剧=短剧叙事+AI动画画面+竖屏剧集，1-7天完成、成本几百到几千元、1人操作。涵盖选题、剧本、角色设定、AI动效全流程。",
+      "url": "https://blog.csdn.net/2601_95910375/article/details/160630430",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-10"
+    }
+  ],
+  "apps": [
+    {
+      "title": "腾讯混元3大模型正式版发布，元宝接入免费Agent功能",
+      "desc": "7月6日腾讯发布混元Hy3正式版，强化Agent能力，幻觉率显著降低。元宝App同步上线免费智能体功能。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5246a535d1919152",
+      "source": "企鹅号",
+      "pubDate": "2026-07-12"
+    },
+    {
+      "title": "百度文心一言App上线深度阅读与图表生成能力",
+      "desc": "7月1日文心一言新增深度阅读和图表生成功能，上传百页报告可秒级提取核心论点生成脑图，自然语言直接生成可视化图表。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-05"
+    },
+    {
+      "title": "企业微信推出AI智能体大员，基于DeepSeek大模型构建",
+      "desc": "腾讯在企业微信推出基于DeepSeek大模型的AI智能体大员，左滑即可唤起，能智能识别当前页面自动理解请求。这是腾讯首次在B端接入第三方大模型。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5816a4a59d201452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-05"
+    },
+    {
+      "title": "苹果Siri AI与Apple Intelligence全面升级",
+      "desc": "WWDC26上苹果发布Siri最大重构版Siri AI，独立App界面、气泡式多轮对话、屏幕内容理解，首次将Gemini大模型引入Apple Intelligence底层。",
+      "url": "https://blog.csdn.net/ml5271169588/article/details/162720319",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-09"
+    }
+  ]
+}
