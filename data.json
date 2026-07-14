@@ -1,11 +1,7 @@
 {
-  "title": "7月AI大乱斗：GPT-5.6、Gemini 3.5 Pro、DeepSeek V4密集登场",
-  "desc": "7月大模型进入史上最密集发布期，GPT-5.6 Sol、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正版齐上阵。Claude推出Reflect反思功能，OpenClaw上线移动端，世界模型赛道爆发。",
+  "title": "GPT-5.6三档模型全面上线，Claude反思功能与内置浏览器齐发",
+  "desc": "本周AI领域重磅频出：OpenAI正式发布GPT-5.6系列（Sol/Terra/Luna三档模型），Anthropic推出Claude反思仪表板与桌面版内置浏览器，世界模型领域魔芯MoWorld跑出50FPS、蚂蚁灵波2.0开源，GitHub Caveman项目一周8.8万星。",
   "dates": {
-    "2026-06-13": {
-      "title": "四强横评大模型对擂，Claude动态工作流重塑AI编程",
-      "desc": "DeepSeek-V4-Pro与GPT-5.5同台竞技，腾讯云发布四强横评；Anthropic推出Claude Code动态工作流，AI编程迈入多Agent并行时代；星源智10个月融资10亿攻坚世界模型；李飞飞亲自定义世界模型三功能标准。"
-    },
     "2026-06-14": {
       "title": "GLM-5.2全量开放，Claude动态工作流重塑AI编程",
       "desc": "智谱GLM-5.2正式全量开放，支持1M上下文；Anthropic推出Claude Code动态工作流，协调数百子Agent并行；李飞飞定义世界模型三功能标准；GitHub Skills生态取代MCP成为新范式。"
@@ -41,6 +37,10 @@
     "2026-07-13": {
       "title": "7月AI大乱斗：GPT-5.6、Gemini 3.5 Pro、DeepSeek V4密集登场",
       "desc": "7月大模型进入史上最密集发布期，GPT-5.6 Sol、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正版齐上阵。Claude推出Reflect反思功能，OpenClaw上线移动端，世界模型赛道爆发。"
+    },
+    "2026-07-14": {
+      "title": "GPT-5.6三档模型全面上线，Claude反思功能与内置浏览器齐发",
+      "desc": "本周AI领域重磅频出：OpenAI正式发布GPT-5.6系列（Sol/Terra/Luna三档模型），Anthropic推出Claude反思仪表板与桌面版内置浏览器，世界模型领域魔芯MoWorld跑出50FPS、蚂蚁灵波2.0开源，GitHub Caveman项目一周8.8万星。"
     }
   }
 }
