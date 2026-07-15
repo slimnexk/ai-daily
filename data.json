@@ -1,11 +1,7 @@
 {
-  "title": "GPT-5.6三档模型全面上线，Claude反思功能与内置浏览器齐发",
-  "desc": "本周AI领域重磅频出：OpenAI正式发布GPT-5.6系列（Sol/Terra/Luna三档模型），Anthropic推出Claude反思仪表板与桌面版内置浏览器，世界模型领域魔芯MoWorld跑出50FPS、蚂蚁灵波2.0开源，GitHub Caveman项目一周8.8万星。",
+  "title": "WAIC 2026即将开幕 · 阶跃星辰发布AI手机 · 苹果起诉OpenAI · Claude Code内置浏览器",
+  "desc": "2026世界人工智能大会7月17日上海启幕，习近平将出席并发表讲话。阶跃星辰发布全球首款大模型原生智能体手机STEPX Neo。苹果正式起诉OpenAI窃取商业机密。Claude Code桌面版新增内置浏览器和Artifacts协作分享。",
   "dates": {
-    "2026-06-14": {
-      "title": "GLM-5.2全量开放，Claude动态工作流重塑AI编程",
-      "desc": "智谱GLM-5.2正式全量开放，支持1M上下文；Anthropic推出Claude Code动态工作流，协调数百子Agent并行；李飞飞定义世界模型三功能标准；GitHub Skills生态取代MCP成为新范式。"
-    },
     "2026-06-15": {
       "title": "Anthropic发布Mythos级双旗舰，AI巨头六月全面开战",
       "desc": "6月9日Anthropic发布Claude Fable 5与Mythos 5双旗舰，百万Token上下文碾压同级；微软Build大会一口气推出7款自研MAI模型加速去OpenAI化；OpenAI推出Dreaming V3自动记忆系统；世界模型赛道持续升温，极佳视界月融25亿成百亿独角兽。"
@@ -41,6 +37,10 @@
     "2026-07-14": {
       "title": "GPT-5.6三档模型全面上线，Claude反思功能与内置浏览器齐发",
       "desc": "本周AI领域重磅频出：OpenAI正式发布GPT-5.6系列（Sol/Terra/Luna三档模型），Anthropic推出Claude反思仪表板与桌面版内置浏览器，世界模型领域魔芯MoWorld跑出50FPS、蚂蚁灵波2.0开源，GitHub Caveman项目一周8.8万星。"
+    },
+    "2026-07-15": {
+      "title": "WAIC 2026即将开幕 · 阶跃星辰发布AI手机 · 苹果起诉OpenAI · Claude Code内置浏览器",
+      "desc": "2026世界人工智能大会7月17日上海启幕，习近平将出席并发表讲话。阶跃星辰发布全球首款大模型原生智能体手机STEPX Neo。苹果正式起诉OpenAI窃取商业机密。Claude Code桌面版新增内置浏览器和Artifacts协作分享。"
     }
   }
 }

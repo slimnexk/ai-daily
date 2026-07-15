@@ -1,0 +1,250 @@
+{
+  "title": "WAIC 2026即将开幕 · 阶跃星辰发布AI手机 · 苹果起诉OpenAI · Claude Code内置浏览器",
+  "desc": "2026世界人工智能大会7月17日上海启幕，习近平将出席并发表讲话。阶跃星辰发布全球首款大模型原生智能体手机STEPX Neo。苹果正式起诉OpenAI窃取商业机密。Claude Code桌面版新增内置浏览器和Artifacts协作分享。",
+  "featured": [
+    {
+      "title": "2026世界人工智能大会7月17日上海启幕",
+      "desc": "WAIC 2026将于7月17-20日在上海举办，习近平出席开幕式并发表讲话，1100+企业参展，300+前沿智能产品全球首发。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6126a558c8216452",
+      "label": "AI大会",
+      "icon": "🌐",
+      "color": "#4F46E5",
+      "pubDate": "2026-07-14"
+    },
+    {
+      "title": "阶跃星辰发布全球首款大模型原生智能体手机STEPX Neo",
+      "desc": "阶跃星辰推出AI终端品牌STEPX、智能体原生操作系统Step AOS及智能体手机STEPX Neo，获国家AI终端L3级认证。",
+      "url": "https://new.qq.com/rain/a/20260714A07SWS00",
+      "label": "AI终端",
+      "icon": "📱",
+      "color": "#10B981",
+      "pubDate": "2026-07-14"
+    },
+    {
+      "title": "苹果正式起诉OpenAI窃取商业机密",
+      "desc": "苹果指控OpenAI系统性招募400+前苹果员工窃取硬件设计机密，要求OpenAI重做未发布AI硬件产品。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4556a51582201852",
+      "label": "诉讼",
+      "icon": "⚖️",
+      "color": "#EF4444",
+      "pubDate": "2026-07-11"
+    },
+    {
+      "title": "Claude Code新增内置浏览器与Artifacts协作分享",
+      "desc": "桌面版Claude Code新增浏览器面板，7月14日Artifacts支持公开分享和多人协作编辑，可通过Slack Claude Tag直接创建。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5176a51802316152",
+      "label": "Claude",
+      "icon": "🤖",
+      "color": "#8B5CF6",
+      "pubDate": "2026-07-14"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "请愿逐出阿根廷人数已超500万",
+      "url": "https://s.weibo.com/weibo?q=%E8%AF%B7%E6%84%BF%E9%80%90%E5%87%BA%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B6%85500%E4%B8%87",
+      "source": "微博",
+      "heat": "118万"
+    },
+    {
+      "title": "AI杀死时尚行业",
+      "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A",
+      "source": "微博",
+      "heat": "84万"
+    },
+    {
+      "title": "青春主场踏歌而行",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E6%98%A5%E4%B8%BB%E5%9C%BA%E8%B8%8F%E6%AD%8C%E8%80%8C%E8%A1%8C",
+      "source": "微博",
+      "heat": "67万"
+    },
+    {
+      "title": "被长期主义的消费观震惊到了",
+      "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86",
+      "source": "微博",
+      "heat": "63万"
+    },
+    {
+      "title": "乐事回应薯片中被曝出现蓝色异物",
+      "url": "https://s.weibo.com/weibo?q=%E4%B9%90%E4%BA%8B%E5%9B%9E%E5%BA%94%E8%96%AF%E7%89%87%E4%B8%AD%E8%A2%AB%E6%9B%9D%E5%87%BA%E7%8E%B0%E8%93%9D%E8%89%B2%E5%BC%82%E7%89%A9",
+      "source": "微博",
+      "heat": "49万"
+    },
+    {
+      "title": "猪肉变牛肉！警方突袭制假窝点",
+      "url": "https://www.douyin.com/video/7661806477912427786",
+      "source": "抖音",
+      "heat": "88259945次播放"
+    },
+    {
+      "title": "饭店暑假工遇到洁癖客人",
+      "url": "https://www.douyin.com/video/7661565453063860450",
+      "source": "抖音",
+      "heat": "47089972次播放"
+    },
+    {
+      "title": "探访六蓝水库缺口处最近村庄",
+      "url": "https://www.douyin.com/video/7661464812068539654",
+      "source": "抖音",
+      "heat": "46903381次播放"
+    },
+    {
+      "title": "文明其精神 野蛮其体魄 你能坚持几秒",
+      "url": "https://www.douyin.com/video/7661578239274420602",
+      "source": "抖音",
+      "heat": "22755766次播放"
+    },
+    {
+      "title": "洪水被困 洗衣液瓶就能保命",
+      "url": "https://www.douyin.com/video/7661118088858930467",
+      "source": "抖音",
+      "heat": "21984954次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "阶跃星辰推出全球首个大模型原生AI终端品牌STEPX及Step AOS",
+      "desc": "阶跃星辰7月13日发布STEPX品牌、智能体原生操作系统Step AOS和端侧模型Step Edge，打通基座模型到硬件终端完整链路。",
+      "url": "https://new.qq.com/rain/a/20260713A0A98M00",
+      "source": "腾讯网",
+      "pubDate": "2026-07-13"
+    },
+    {
+      "title": "海外企业加速拥抱中国大模型，推理成本降幅30%-95%",
+      "desc": "Coinbase将GLM-5.2与Kimi设为默认模型，Lindy因API账单超全员工资切换DeepSeek，中国大模型Token占比从4.5%升至46%。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7776a51c65a29952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-11"
+    },
+    {
+      "title": "苹果起诉OpenAI窃取商业机密，要求重做AI硬件",
+      "desc": "苹果7月10日在加州起诉OpenAI及两名前员工，指控其系统性窃取苹果未发布产品的机密信息用于开发消费级AI硬件。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4036a51dad801952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "github": [
+    {
+      "title": "微软markitdown月增34K Star，成LLM预处理标配",
+      "desc": "markitdown将PDF/Word/PPT/音视频一键转Markdown，6月单月新增34,072 Star飙星榜第一，总星数超161K。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/162407133",
+      "source": "CSDN",
+      "pubDate": "2026-07-12"
+    },
+    {
+      "title": "obra/superpowers：AI编程Agent技能框架突破123K Star",
+      "desc": "Superpowers理念Process over Prompt，给AI套上软件工程纪律与护栏，进入Anthropic官方插件市场后爆发，GitHub Trending榜首。",
+      "url": "https://blog.csdn.net/Libra1313/article/details/158837328",
+      "source": "CSDN",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "huggingface/skills：HuggingFace官方AI技能仓库登上GitHub Trending",
+      "desc": "HuggingFace发布官方AI技能仓库，与pentagi、GitNexus、superpowers等AI Agent项目占据GitHub日榜半壁江山。",
+      "url": "https://blog.csdn.net/Libra1313/article/details/158837328",
+      "source": "CSDN",
+      "pubDate": "2026-07-09"
+    }
+  ],
+  "trend": [
+    {
+      "name": "microsoft/markitdown",
+      "stars": "161k",
+      "type": "Python",
+      "desc": "将PDF/Word/PPT/Excel/音视频一键转为Markdown，LLM预处理标配工具",
+      "tags": [
+        "AI",
+        "LLM",
+        "文档处理"
+      ],
+      "url": "https://github.com/microsoft/markitdown",
+      "iconType": "github",
+      "icon": "📄",
+      "pubDate": "2026-07-12"
+    }
+  ],
+  "world": [],
+  "design": [
+    {
+      "title": "AI视觉创作工具Claude Design来了！Anthropic的野心远不止AI作图",
+      "desc": "Anthropic上线Claude Design，Figma股价暴跌7%，Adobe跟跌。该工具基于Opus模型，可生成可编辑交互原型、网站界面和演示文档，从GUI向LUI转变。",
+      "url": "https://blog.csdn.net/llooyyuu/article/details/160284457",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-12"
+    },
+    {
+      "title": "Claude Code + Figma MCP：AI画原型完整教程，从PRD到设计稿只需5分钟",
+      "desc": "实测Claude Code配合Figma MCP将PRD文档直接生成Figma原型，对比Pencil MCP路线，AI辅助设计效率显著提升。",
+      "url": "https://blog.csdn.net/qq_42801126/article/details/158822756",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "video": [
+    {
+      "title": "快手可灵3.0模型上线：智能分镜与原生音画同步",
+      "desc": "可灵3.0基于All-in-One理念，覆盖从图像生成到视频编辑全链路，推出全球首创图生视频+主体参考技术，实现角色场景一致性。",
+      "url": "https://blog.csdn.net/AITOP100/article/details/157774396",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "可灵AI完成30亿美元融资，投后估值达180亿美元",
+      "desc": "快手旗下可灵AI完成全球视频大模型公司单轮最高融资纪录，投后估值约180亿美元，约为母公司快手估值的80%。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2016a4dfd6c40365",
+      "source": "企鹅号",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "从模型领先到商业破局，可灵AI解锁新质生产力全新路径",
+      "desc": "可灵AI已完成超30次迭代升级，推出1.5至3.0系列模型和全球首个统一多模态视频模型可灵O1，破解角色场景一致性难题。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_20969df875599852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-14"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2026LLM新趋势：长上下文技术深度解析",
+      "desc": "现代LLM长上下文实为组合技术：RAG检索筛选+压缩+Attention处理+KV Cache推理优化，长上下文能力≠真的看完所有token。",
+      "url": "https://blog.csdn.net/smartcat2010/article/details/160745154",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-08"
+    },
+    {
+      "title": "GPT-5.5迭代解析：百万上下文与Agent编程质变",
+      "desc": "GPT-5.5于2026年4月发布，三大核心升级：编程Agent能力质变、100万token上下文从理论可用到实质可用、模型自主检查修正输出。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/160547227",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-12"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "FLUX.1系列工具：精准控制AI图像生成的四项新功能",
+      "desc": "FLUX.1新增Fill(填充修复)、Canny(边缘检测)、Depth(深度透视)、Redux(变体适配器)四项功能，适用于FLUX.1 dev和pro模型。",
+      "url": "https://cloud.tencent.com/developer/article/2621878",
+      "source": "腾讯云",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "Midjourney v7风格控制终极指南：--sref参数与prompt结构法则",
+      "desc": "Midjourney v7引入--sref风格参考参数，支持图像哈希或URL作风格锚点，--stylize值与采样步长构成非线性响应曲线。",
+      "url": "https://blog.csdn.net/QuickProceed/article/details/161110780",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-10"
+    },
+    {
+      "title": "FLUX1.1图像生成模型的技术升级与调用",
+      "desc": "FLUX1.1 Pro相比FLUX.1 Pro生成速度提升6倍，图像质量和提示词遵循度显著改善，在独立基准测试中表现优异。",
+      "url": "https://cloud.tencent.com/developer/article/2665189",
+      "source": "腾讯云",
+      "pubDate": "2026-07-15"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
