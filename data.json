@@ -1,11 +1,7 @@
 {
-  "title": "WAIC 2026即将开幕 · 阶跃星辰发布AI手机 · 苹果起诉OpenAI · Claude Code内置浏览器",
-  "desc": "2026世界人工智能大会7月17日上海启幕，习近平将出席并发表讲话。阶跃星辰发布全球首款大模型原生智能体手机STEPX Neo。苹果正式起诉OpenAI窃取商业机密。Claude Code桌面版新增内置浏览器和Artifacts协作分享。",
+  "title": "7月大模型密集发布，世界模型赛道爆发，OpenClaw移动端上线",
+  "desc": "GPT-5.6、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正式版密集落地；阶跃星辰发布全球首款大模型原生智能体手机；Yann LeCun的AMI Labs获10.3亿美元种子轮；OpenClaw移动端应用正式上线。",
   "dates": {
-    "2026-06-15": {
-      "title": "Anthropic发布Mythos级双旗舰，AI巨头六月全面开战",
-      "desc": "6月9日Anthropic发布Claude Fable 5与Mythos 5双旗舰，百万Token上下文碾压同级；微软Build大会一口气推出7款自研MAI模型加速去OpenAI化；OpenAI推出Dreaming V3自动记忆系统；世界模型赛道持续升温，极佳视界月融25亿成百亿独角兽。"
-    },
     "2026-06-16": {
       "title": "AI日报 2026-06-16",
       "desc": ""
@@ -41,6 +37,10 @@
     "2026-07-15": {
       "title": "WAIC 2026即将开幕 · 阶跃星辰发布AI手机 · 苹果起诉OpenAI · Claude Code内置浏览器",
       "desc": "2026世界人工智能大会7月17日上海启幕，习近平将出席并发表讲话。阶跃星辰发布全球首款大模型原生智能体手机STEPX Neo。苹果正式起诉OpenAI窃取商业机密。Claude Code桌面版新增内置浏览器和Artifacts协作分享。"
+    },
+    "2026-07-16": {
+      "title": "7月大模型密集发布，世界模型赛道爆发，OpenClaw移动端上线",
+      "desc": "GPT-5.6、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正式版密集落地；阶跃星辰发布全球首款大模型原生智能体手机；Yann LeCun的AMI Labs获10.3亿美元种子轮；OpenClaw移动端应用正式上线。"
     }
   }
 }
