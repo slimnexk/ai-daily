@@ -1,0 +1,332 @@
+{
+  "title": "AI大模型周爆发：GPT-5.6开启自我进化，国产模型集体冲刺",
+  "desc": "OpenAI发布GPT-5.6系列，Sol模型自主训练Luna标志AI递归自我改进时代开启；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；WAIC 2026上海开幕，60台人形机器人首次上岗；Anthropic延长Claude 4 Opus访问并推出教师版。",
+  "featured": [
+    {
+      "title": "GPT-5.6系列全量开放：Sol自主训练Luna，AI递归自我改进飞轮启动",
+      "desc": "OpenAI正式推出GPT-5.6三档模型(Sol/Terra/Luna)，旗舰Sol可自主后训练Luna模型，全程无需人类干预，AI自我进化时代开启。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5306a51f0b873752",
+      "label": "LLM",
+      "icon": "🧠",
+      "color": "#6366f1",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "Kimi K3发布：2.8万亿参数全球最大开源模型",
+      "desc": "月之暗面7月17日凌晨发布Kimi K3，2.8万亿参数、100万token上下文，全球首个开源3万亿级模型，综合能力直逼Claude Fable 5和GPT-5.6。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4576a59cd2e82152",
+      "label": "LLM",
+      "icon": "🔥",
+      "color": "#ef4444",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "WAIC 2026上海开幕：300款首发产品，60台人形机器人上岗",
+      "desc": "2026世界人工智能大会在上海开幕，AI Agent与场景落地成为核心关键词，60台人形机器人首次在大型展会规模化商用部署。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7346a5a1bf521052",
+      "label": "大会",
+      "icon": "🤖",
+      "color": "#22c55e",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "Claude Code新增内置浏览器，Anthropic延长Opus访问权限",
+      "desc": "桌面版Claude Code新增应用内浏览器面板，可读取点击交互网页；Anthropic将Claude 4 Opus免费访问延期并重置使用限额。",
+      "url": "https://blog.csdn.net/dozenyaoyida/article/details/162781258",
+      "label": "Claude",
+      "icon": "⚡",
+      "color": "#f59e0b",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "清华录取通知书极简但有排面",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "117万"
+    },
+    {
+      "title": "王楚钦孙颖莎有被吓到",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "94万"
+    },
+    {
+      "title": "水利部解读防汛关键期热点问题",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "75万"
+    },
+    {
+      "title": "郑恺官宣DHC品牌新身份",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "74万"
+    },
+    {
+      "title": "王俊凯喝醉在厕所睡了两个半小时",
+      "url": "https://tophub.today/n/KqndgxeLl9",
+      "source": "微博",
+      "heat": "73万"
+    },
+    {
+      "title": "突发！重庆彭水乌江三桥附近发生山体垮塌 多栋民房受损有人员被埋",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "89317487次播放"
+    },
+    {
+      "title": "饭店的暑假工俩人坐包房",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "48285857次播放"
+    },
+    {
+      "title": "重庆彭水乌江三桥附近发生山体垮塌 央视新闻报道",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "45225699次播放"
+    },
+    {
+      "title": "沉浸式感受国家队跳台滑雪运动员训练现场",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "42108269次播放"
+    },
+    {
+      "title": "13块钱一份炒面四个人吃还得使使劲儿 河南钱真抗花",
+      "url": "https://tophub.today/n/DpQvNABoNE",
+      "source": "抖音",
+      "heat": "22972075次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "OpenAI发布GPT-5.6系列三档模型Sol/Terra/Luna",
+      "desc": "7月9日正式全量开放，Sol旗舰支持16智能体并联，Terra均衡版成本降50%，Luna最轻量；Sol自主完成Luna后训练，递归自我改进。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7346a507a3295652",
+      "source": "企鹅号",
+      "pubDate": "2026-07-09"
+    },
+    {
+      "title": "月之暗面发布Kimi K3：2.8万亿参数全球最大开源模型",
+      "desc": "7月17日凌晨发布，MoE架构，KDA混合线性注意力，100万token上下文，原生视觉理解，综合评测位列全球第三。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1756a598d8362852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "腾讯混元Hy3正式发布，上线一周调用量增长超68倍",
+      "desc": "295B总参数/21B激活参数MoE架构，256K上下文，OpenRouter周调用量排名第一，Agent能力突出，开源+低价策略加速生态。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3596a576d1b74852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "DeepSeek V4正式版上线：1M超长上下文，推理计算量仅为前代27%",
+      "desc": "V4-Pro接近顶级闭源水平，V4-Flash更经济高效，标配1M超长上下文窗口，重塑AI应用成本曲线。",
+      "url": "https://blog.csdn.net/WSYUNYAO/article/details/160473481",
+      "source": "CSDN",
+      "pubDate": "2026-07-16"
+    }
+  ],
+  "github": [
+    {
+      "title": "Hermes Agent约21.6万Stars：自进化AI Agent框架",
+      "desc": "Nous Research开发的自进化Agent框架，跨会话记忆+可复用Skill生成+持续优化，三层记忆架构和多平台消息网关，GitHub增长最快。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9736a5a0c9231852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "Superpowers：Claude Code工程流程框架，123K+ Stars",
+      "desc": "开源AI编程工作流框架，Process over Prompt理念，让Claude Code从代码生成器升级为专业级工程搭档，2026年初进入Anthropic官方插件市场后爆发。",
+      "url": "https://blog.csdn.net/sdoa0806/article/details/160132051",
+      "source": "CSDN",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "awesome-llm-apps：100+开源AI Agent与RAG应用合集",
+      "desc": "GitHub Trending热门项目，收录100+可直接运行的AI Agent、Skills和RAG应用，支持Claude/Gemini/GPT/DeepSeek/Llama等主流模型。",
+      "url": "https://ai.programnotes.cn/",
+      "source": "ProgramNotes",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "trend": [
+    {
+      "name": "Hermes Agent",
+      "stars": 216000,
+      "type": "Python",
+      "desc": "自进化AI Agent框架，跨会话记忆+Skill生成+持续优化闭环",
+      "tags": [
+        "Agent",
+        "Self-evolving",
+        "NousResearch"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "iconType": "🤖",
+      "icon": "hermes",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "world": [
+    {
+      "title": "为什么突然冒出这么多世界模型公司？Yann LeCun的AMI Labs创欧洲最大种子轮",
+      "desc": "AMI Labs完成10.3亿美元种子轮融资(估值35亿美元)，Yann LeCun押注世界模型方向；英伟达投资World Labs、AMI Labs、Decart、Odyssey等全部头部公司。",
+      "url": "https://new.qq.com/rain/a/20260715A05WK600",
+      "source": "腾讯网",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "Google Gemini Omni世界模型首次亮相：对话式视频编辑+数字分身+物理理解",
+      "desc": "Google I/O 2026发布Gemini Omni世界模型，支持对话式视频编辑、数字分身与物理理解，标志着Google从模型能力追赶转向AI生态壁垒构建。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/161359767",
+      "source": "CSDN",
+      "pubDate": "2026-07-16"
+    },
+    {
+      "title": "WorldArena 2.0 Challenge正式启动：检验世界模型从预测走向闭环学习",
+      "desc": "IROS 2026设置视频质量评测、在线RL环境、真实机器人WAM任务三大赛道，检验世界模型能否支撑真实平台上的任务规划与动作执行。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7216a57689446852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    }
+  ],
+  "design": [
+    {
+      "title": "AI视觉创作工具Claude Design来了!Anthropic的野心远不止AI作图",
+      "desc": "Anthropic上线Claude Design，由Opus 4.7驱动，多模态理解拉到新高度，听得懂、会追问、能落地、可复用，Figma股价暴跌近7%",
+      "url": "https://blog.csdn.net/llooyyuu/article/details/160284457",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-16"
+    }
+  ],
+  "video": [
+    {
+      "title": "Seedance 2.5正式发布:30秒、50个参考素材、原生4K",
+      "desc": "字节跳动Seedance 2.5实现三项全球第一:单条视频最长30秒、多参考联合输入50个素材、灵活局部视频编辑能力，预计7月初上线",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/162233112",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-15"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2026 Agentic RAG 3.0核心升级点全解析",
+      "desc": "通过1M上下文、Multimodal GraphRAG、Agentic Retrieval三驾马车重塑RAG技术，显著提升系统性能与准确性",
+      "url": "https://cloud.tencent.com/developer/article/2650548",
+      "source": "腾讯云",
+      "pubDate": "2026-07-18"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "Google Images迎来25岁生日:搜图同时可免费AI生图",
+      "desc": "Google Images新增AI生图功能，搜索词可直接转化为提示词驱动Nano Banana模型生成图像，无需离开搜索页面",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7706a575cf181452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "FLUX.2图像生成模型:特性、API调用与性能解析",
+      "desc": "FLUX.2是迄今最先进的图像生成模型，提供pro/flex/dev三种变体，pro版6秒生成图像，在质量、编辑能力和效率方面显著改进",
+      "url": "https://cloud.tencent.com/developer/article/2619078",
+      "source": "腾讯云",
+      "pubDate": "2026-07-18"
+    }
+  ],
+  "industry": [
+    {
+      "title": "2026世界人工智能大会观察：AI从技术追逐转向价值落地",
+      "desc": "2026WAIC在上海举行，浦江实验室发布书生·端砚科学发现平台，强脑科技发布全球首款脑控机器人训练平台，AI从技术探索转向产业应用落地。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8336a5b1ef259852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-18"
+    },
+    {
+      "title": "2026世界人工智能大会7月在沪举行：1100余家企业3000余项展品",
+      "desc": "WAIC2026于7月17-20日在上海举办，1100余家企业参展，3000余项展品亮相，超300款产品全球首发，聚焦AI产业发展新阶段与全球治理合作。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3376a5823db64865",
+      "source": "企鹅号",
+      "pubDate": "2026-07-16"
+    }
+  ],
+  "game": [
+    {
+      "title": "2026 AI游戏热度排行榜：白日梦无限世界登顶",
+      "desc": "AI原生手游白日梦：无限世界位列热度榜首，大模型实时生成海量动态副本，50+种分支结局，玩家可自由选择善恶分支和阵营站队。",
+      "url": "https://blog.csdn.net/SHDaydream/article/details/160632785",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-14"
+    },
+    {
+      "title": "PG Games AI引擎：内置大模型能力的游戏引擎",
+      "desc": "PG Games推出AI驱动游戏引擎，支持智能NPC系统（独立记忆人设情感）、程序化关卡生成（基于玩家行为实时生成）、AI剧情系统，开发效率提升10倍。",
+      "url": "http://www.jqrhyy.com/",
+      "source": "PG国际",
+      "pubDate": "2026-07-13"
+    }
+  ],
+  "drama": [
+    {
+      "title": "开源drama-workshop：AI一站式短剧漫剧生成平台",
+      "desc": "drama-workshop采用Script-to-Asset-to-Video工业化工作流，支持智能剧本解析、分镜自动生成、人物一致性保持、多风格图像生成和动态视频生成。",
+      "url": "https://blog.csdn.net/jl500120381/article/details/160034775",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-14"
+    },
+    {
+      "title": "2026AI短剧本地一键部署方案",
+      "desc": "AI短剧制作核心流程：剧本生成→角色场景一致性管理→分镜图片→图生视频→自动剪辑合成。开源项目接近一键水平，但视频生成模型对显卡要求高。",
+      "url": "https://blog.csdn.net/posstos/article/details/159510775",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-13"
+    },
+    {
+      "title": "2026年AI短剧全流程创作工具横评：从剧本到一键成片",
+      "desc": "2026年Q1AI短剧作品数量突破12万部，创作者面临分镜画不出来、角色形象跳变、制作周期长等痛点，横评多款工具的全流程一键成片能力。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2576a583ac488252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-16"
+    },
+    {
+      "title": "鹤写AI：一站式AI短剧漫剧创作平台，24种画风一键合成",
+      "desc": "鹤写AI支持24种短漫剧画风，一键设置集数、生成分镜图和分镜视频，最终一键合成完整视频，还支持image2.0生图模型和AI视频生成。",
+      "url": "https://www.hexieai.com/",
+      "source": "鹤写AI官网",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "apps": [
+    {
+      "title": "2026世界人工智能大会开幕：超300款AI产品全球首发",
+      "desc": "WAIC2026开幕，智谱GLM-5.2排名开源大模型第一，MiniMax发布多模态融合大模型M3登顶OpenRouter编码类模型，AI从聊天机器人升级为智能体。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5276a5ae18201452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-18"
+    },
+    {
+      "title": "阿里Qwen-Audio-3.0语音推理排名全球第一，超越OpenAI旗舰",
+      "desc": "阿里通义实验室发布Qwen-Audio-3.0-Realtime，在Artificial Analysis语音推理子项综合排名全球第一，超越OpenAI的GPT-Realtime-2。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8526a57924458452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "从智能眼镜、AI耳机到中医机器人：WAIC2026新产品首发",
+      "desc": "WAIC2026分设三大片区四大场馆，世博馆走应用之轴，张江会场是技术之芯，徐汇西岸定位于生活之岸，智能终端和AI应用直接摆进日常场景。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4056a5a71b797352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-18"
+    },
+    {
+      "title": "Agent跌跌撞撞进入世界：2026 Q2 AI趋势总结",
+      "desc": "2026年Q2，OpenClaw、Codex和Claude Cowork把AI从对话框拉出来，Agent开始能自己读文件跑代码做表格操作软件，从AI辅助升级为AI工程师。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2546a59b4dd05252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-17"
+    }
+  ]
+}

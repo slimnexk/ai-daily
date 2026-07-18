@@ -1,11 +1,7 @@
 {
-  "title": "7月大模型密集发布，世界模型赛道爆发，OpenClaw移动端上线",
-  "desc": "GPT-5.6、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正式版密集落地；阶跃星辰发布全球首款大模型原生智能体手机；Yann LeCun的AMI Labs获10.3亿美元种子轮；OpenClaw移动端应用正式上线。",
+  "title": "AI大模型周爆发：GPT-5.6开启自我进化，国产模型集体冲刺",
+  "desc": "OpenAI发布GPT-5.6系列，Sol模型自主训练Luna标志AI递归自我改进时代开启；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；WAIC 2026上海开幕，60台人形机器人首次上岗；Anthropic延长Claude 4 Opus访问并推出教师版。",
   "dates": {
-    "2026-06-16": {
-      "title": "AI日报 2026-06-16",
-      "desc": ""
-    },
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
       "desc": "美团开源LongCat-2.0万亿参数模型、腾讯混元Hy3正式发布、蚂蚁灵波发布LingBot-Depth 2.0，国产大模型集体发力。Anthropic两款旗舰模型Fable 5和Mythos 5出口管制解除恢复全球访问。高盛称世界模型将成为AI基建新引擎。"
@@ -41,6 +37,10 @@
     "2026-07-16": {
       "title": "7月大模型密集发布，世界模型赛道爆发，OpenClaw移动端上线",
       "desc": "GPT-5.6、Grok 4.5、Gemini 3.5 Pro、DeepSeek V4正式版密集落地；阶跃星辰发布全球首款大模型原生智能体手机；Yann LeCun的AMI Labs获10.3亿美元种子轮；OpenClaw移动端应用正式上线。"
+    },
+    "2026-07-18": {
+      "title": "AI大模型周爆发：GPT-5.6开启自我进化，国产模型集体冲刺",
+      "desc": "OpenAI发布GPT-5.6系列，Sol模型自主训练Luna标志AI递归自我改进时代开启；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；WAIC 2026上海开幕，60台人形机器人首次上岗；Anthropic延长Claude 4 Opus访问并推出教师版。"
     }
   }
 }
