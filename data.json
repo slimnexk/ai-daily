@@ -1,6 +1,6 @@
 {
-  "title": "AI大模型周爆发：GPT-5.6开启自我进化，国产模型集体冲刺",
-  "desc": "OpenAI发布GPT-5.6系列，Sol模型自主训练Luna标志AI递归自我改进时代开启；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；WAIC 2026上海开幕，60台人形机器人首次上岗；Anthropic延长Claude 4 Opus访问并推出教师版。",
+  "title": "DeepSeek V4预览版上线，Claude Sonnet 5发布，英伟达Cosmos 3开源",
+  "desc": "本周AI领域密集更新：DeepSeek V4预览版正式发布并已上线网页端/APP/API，Claude Sonnet 5登场逼近Opus 4.8性能，英伟达Cosmos 3全开源全模态世界模型将物理AI训练周期从数月缩短至数日，GitHub Trending被AI Agent项目全面占领。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -41,6 +41,10 @@
     "2026-07-18": {
       "title": "AI大模型周爆发：GPT-5.6开启自我进化，国产模型集体冲刺",
       "desc": "OpenAI发布GPT-5.6系列，Sol模型自主训练Luna标志AI递归自我改进时代开启；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；WAIC 2026上海开幕，60台人形机器人首次上岗；Anthropic延长Claude 4 Opus访问并推出教师版。"
+    },
+    "2026-07-19": {
+      "title": "DeepSeek V4预览版上线，Claude Sonnet 5发布，英伟达Cosmos 3开源",
+      "desc": "本周AI领域密集更新：DeepSeek V4预览版正式发布并已上线网页端/APP/API，Claude Sonnet 5登场逼近Opus 4.8性能，英伟达Cosmos 3全开源全模态世界模型将物理AI训练周期从数月缩短至数日，GitHub Trending被AI Agent项目全面占领。"
     }
   }
 }
