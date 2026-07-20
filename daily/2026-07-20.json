@@ -1,0 +1,263 @@
+{
+  "title": "7月AI大模型密集发布，世界模型元年开启",
+  "desc": "2026年7月进入大模型竞赛密集窗口期，GPT-5.6、Gemini 3.5 Pro、DeepSeek V4同台竞技。WAIC期间昆仑万维宣布2026为世界模型元年，李飞飞团队正式定义世界模型三大核心能力。",
+  "featured": [
+    {
+      "title": "昆仑万维WAIC论坛宣布2026为「世界模型元年」，Matrix-Game 3.5发布",
+      "desc": "7月19日WAIC期间，昆仑万维举办世界模型专场论坛，董事长方汉宣布2026为世界模型元年，发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型，AI核心命题从生成转向理解与交互。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7766a5cea1625552",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "blue",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "李飞飞亲自定义世界模型：渲染、模拟、规划三功能缺一不可",
+      "desc": "李飞飞团队首次对世界模型概念进行明确定义，将渲染、模拟、规划列为三大核心能力，直指行业将视频生成模型、LLM简单贴标签的概念滥用乱象，发布可评测的能力清单。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "label": "世界模型",
+      "icon": "📐",
+      "color": "purple",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "全球AI大模型最新排名：Gemini 3.1 Pro与GPT-5.4并列第一，GLM-5杀入前5",
+      "desc": "最新全球大模型智能排名出炉，Gemini 3.1 Pro Preview与GPT-5.4(xhigh)并列57分第一，中国GLM-5以50分位居第5，DeepSeek V3.2凭借价格+速度综合性价比成性价比之王。",
+      "url": "https://blog.csdn.net/wangjie919/article/details/159239250",
+      "label": "排行榜",
+      "icon": "🏆",
+      "color": "orange",
+      "pubDate": "2026-07-15"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "这一秒过火 短剧感",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB+%E7%9F%AD%E5%89%A7%E6%84%9F",
+      "source": "微博",
+      "heat": "126万"
+    },
+    {
+      "title": "顾客凌晨点塔斯汀外卖被贴封签辱骂",
+      "url": "https://s.weibo.com/weibo?q=%E9%A1%BE%E5%AE%A2%E5%87%8C%E6%99%A8%E7%82%B9%E5%A1%94%E6%96%AF%E6%B1%80%E5%A4%96%E5%8D%96%E8%A2%AB%E8%B4%B4%E5%B0%81%E7%AD%BE%E8%BE%B1%E9%AA%82",
+      "source": "微博",
+      "heat": "117万"
+    },
+    {
+      "title": "我国多领域硬核成果密集上新",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E5%A4%9A%E9%A2%86%E5%9F%9F%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E5%AF%86%E9%9B%86%E4%B8%8A%E6%96%B0",
+      "source": "微博",
+      "heat": "98万"
+    },
+    {
+      "title": "当我坐飞机忘记关导航时",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%9D%90%E9%A3%9E%E6%9C%BA%E5%BF%98%E8%AE%B0%E5%85%B3%E5%AF%BC%E8%88%AA%E6%97%B6",
+      "source": "微博",
+      "heat": "93万"
+    },
+    {
+      "title": "马龙许昕3比0林高远袁烜松",
+      "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%953%E6%AF%940%E6%9E%97%E9%AB%98%E8%BF%9C%E8%A2%81%E7%83%9C%E6%9D%BE",
+      "source": "微博",
+      "heat": "90万"
+    },
+    {
+      "title": "《穷兄极饿》#精神状态belike #禄宝 #刘大炮",
+      "url": "https://www.douyin.com/video/7662768493834269282",
+      "source": "抖音",
+      "heat": "37116286次播放"
+    },
+    {
+      "title": "饭店的暑假工，付款骗局！",
+      "url": "https://www.douyin.com/video/7663451814465268544",
+      "source": "抖音",
+      "heat": "34290032次播放"
+    },
+    {
+      "title": "67岁坚持老人锻炼身体 不给儿女添麻烦教程",
+      "url": "https://www.douyin.com/video/7663485756949679400",
+      "source": "抖音",
+      "heat": "27298708次播放"
+    },
+    {
+      "title": "饭店的暑假工，俩人坐包房！",
+      "url": "https://www.douyin.com/video/7662908513345845096",
+      "source": "抖音",
+      "heat": "20956721次播放"
+    },
+    {
+      "title": "一首写给哈尼的歌，11岁生日快乐！",
+      "url": "https://www.douyin.com/video/7661533680027831561",
+      "source": "抖音",
+      "heat": "18791619次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "2026国产大模型参数全曝光：MiniMax M2.5、GLM-5、Kimi K2.5、Qwen 3.5",
+      "desc": "国产大模型参数详细对比：GLM-5总参7440亿/活跃400亿，Kimi K2.5总参1万亿，MiniMax M2.5总参2300亿，Qwen 3.5总参3970亿，性价比全面碾压国际巨头。",
+      "url": "https://blog.csdn.net/2401_85390073/article/details/159049536",
+      "source": "CSDN",
+      "pubDate": "2026-07-14"
+    },
+    {
+      "title": "大模型API实测天梯榜：DeepSeek V4、GPT-5、Claude 4.6、Gemini 3谁值得接",
+      "desc": "DeepSeek V4预览版上线引爆HN社区，实测对比7个主流模型，涵盖编码、推理、Agent能力等多维度评测，为团队API选型提供参考。",
+      "url": "https://blog.csdn.net/ofoxcoding/article/details/160503829",
+      "source": "CSDN",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "谷歌Gemini 3.5 Pro定档7月17日，推倒重建硬刚DeepSeek V4",
+      "desc": "Gemini 3.5 Pro被曝7月17日正式上线，与DeepSeek V4发布窗口正面重合，谷歌选择推倒重建而非渐进式升级，正面硬刚国产大模型。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7866a59fc3397052",
+      "source": "企鹅号",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub开源项目周报：Superpowers 10万星领跑，AI Agent工具爆发式增长",
+      "desc": "本期GitHub热榜AI编程工具与Agent框架热度飙升，Superpowers超10万星、Everything Claude Code近10万星，Unsloth Studio、TradingAgents等多项目日增超百星。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/159379644",
+      "source": "CSDN",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "2026开源AI Agent框架横评：Hermes Agent / OpenClaw / AutoGPT / CrewAI",
+      "desc": "四大主流Agent框架深度对比：OpenClaw 30万星主打AI编程助手，Hermes Agent 6万星主打自进化智能体，AutoGPT 16万星主打通用自动化，CrewAI 4.5万星主打多Agent协作。",
+      "url": "https://cloud.tencent.com/developer/article/2655405",
+      "source": "腾讯云",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "2026年值得关注的GitHub 20大AI项目：不止OpenClaw",
+      "desc": "盘点2026年GitHub上最值得关注的20个AI开源项目，涵盖AI Agent、工作流编排、代码助手等方向，OpenClaw以24.8万星超越Linux成为GitHub最受欢迎项目。",
+      "url": "https://blog.csdn.net/weixin_32393347/article/details/159474811",
+      "source": "CSDN",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "trend": [
+    {
+      "name": "Superpowers",
+      "stars": "143k+",
+      "type": "Shell",
+      "desc": "AI coding agents结构化开发框架，强调测试驱动开发和代码质量审查，提供Hooks系统自定义Codex行为，支持多代理团队协作。",
+      "tags": [
+        "AI编程",
+        "Agent框架",
+        "Codex"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "iconType": "shell",
+      "icon": "⚡",
+      "pubDate": "2026-07-15"
+    }
+  ],
+  "world": [
+    {
+      "title": "昆仑万维WAIC论坛宣布2026为「世界模型元年」",
+      "desc": "WAIC期间昆仑万维举办专场论坛，发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型，董事长方汉宣布AI核心命题从生成转向理解与交互。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7766a5cea1625552",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "design": [
+    {
+      "title": "Anthropic发布Claude Design:用对话做设计,Figma股价应声下跌",
+      "desc": "Anthropic推出Claude Design,由Opus 4.7驱动,支持自然语言生成可编辑设计稿、原型图、PPT和海报,已向付费用户开放beta测试。",
+      "url": "https://cloud.tencent.com/developer/article/2661214",
+      "source": "腾讯云",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "Claude Design好用吗?实测AI生成UI效果优缺点与平替软件",
+      "desc": "实测Claude Design生成电商后台数据看板等UI界面,可实时渲染React/Tailwind代码,支持导出PDF和PowerPoint,已上线首周用户破百万。",
+      "url": "https://cloud.tencent.com/developer/article/2661295",
+      "source": "腾讯云",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "Claude Code + Figma:AI画原型完整教程,从PRD到设计稿只要5分钟",
+      "desc": "详细对比Claude Code与Figma三种协作方式:HTML原型导入、Copy as code、Figma MCP Server全自动双向同步,均免费可用。",
+      "url": "https://blog.csdn.net/qq_42801126/article/details/158822756",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-13"
+    }
+  ],
+  "video": [
+    {
+      "title": "Runway官网 - AI驱动的专业视频编辑软件",
+      "desc": "Runway提供AI视频生成、智能调色、慢镜头插帧等功能,支持文本到视频(T2V)和图像到视频(I2V),新增Runway Agent对话式创作助手。",
+      "url": "https://www.aigc.cn/sites/1899.html",
+      "source": "AIGC工具导航",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "即梦Seedance 2.0核心使用方法完全指南:多模态AI视频生成从入门到精通",
+      "desc": "字节跳动Seedance 2.0支持文本+图片+视频+音频四模态输入,生成4-15秒2K/60fps视频,首创双分支扩散变换器架构解决音画同步难题。",
+      "url": "https://blog.csdn.net/qq_73472828/article/details/160726102",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-18"
+    },
+    {
+      "title": "2026主流AI创作平台深度测评:一站式AI创作工具大盘点",
+      "desc": "深度测评可灵、即梦、通义万相、Pika、Runway等主流AI图片视频创作平台,分析各工具能力短板与适用场景,为创作者提供选型参考。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1456a55a19552552",
+      "source": "企鹅号",
+      "pubDate": "2026-07-14"
+    }
+  ],
+  "rag": [
+    {
+      "title": "RAG不死,只是进化!2026年上下文工程师必备指南",
+      "desc": "分析RAG从狂热走向冷静的演进,指出GraphRAG高开低走、AgenticRAG兴起,长上下文与RAG互补而非替代,2026年RAG将成为AI应用基础设施。",
+      "url": "https://blog.csdn.net/lvaolan168/article/details/157259551",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-13"
+    },
+    {
+      "title": "2025年RAG已死?2026年做Agentic和上下文工程?",
+      "desc": "RAG算法工程师复盘2025年RAG技术真实状态,从实际落地角度分析技术演进与踩坑经验,对2026年Agentic RAG和上下文工程趋势给出判断。",
+      "url": "https://blog.csdn.net/2401_85343303/article/details/156615684",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "阿里云百炼推出Agentic RAG服务,支持多库联合检索与多模态问答",
+      "desc": "阿里云百炼知识库推出企业级Agentic RAG服务(Knowledge Studio),提供多模态搜索回答、Agentic Search、多库混合检索问答等能力,支持15个知识库联合检索。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3376a4c9b1a73352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-10"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "Adobe Photoshop测试版推出AI图像生成功能",
+      "desc": "Adobe Photoshop最新测试版引入文本提示AI图像生成功能,生成速度显著提升,可在极短时间内生成多张高质量照片。",
+      "url": "https://www.toutiao.com/topic/7483343842750810164/",
+      "source": "今日头条",
+      "pubDate": "2026-07-11"
+    },
+    {
+      "title": "AI时代AI创作该怎么用工具?2026实用AI设计工具盘点",
+      "desc": "盘点2026年AI视觉绘图(Midjourney、Stable Diffusion、Adobe Firefly)和AI智能UI设计工具,UI领域AI已全程介入从需求拆解到代码导出。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4726a5701fe72252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "2026电商AI生图实战指南:四大工具平台评测",
+      "desc": "基于2026年3-5月独立实测,评测电商AI生图四大工具平台,据艾瑞咨询报告国内电商AI生图渗透率已达65%。",
+      "url": "https://cloud.tencent.com/developer/article/2674933",
+      "source": "腾讯云",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
