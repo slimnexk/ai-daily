@@ -1,6 +1,6 @@
 {
-  "title": "7月AI大模型密集发布，世界模型元年开启",
-  "desc": "2026年7月进入大模型竞赛密集窗口期，GPT-5.6、Gemini 3.5 Pro、DeepSeek V4同台竞技。WAIC期间昆仑万维宣布2026为世界模型元年，李飞飞团队正式定义世界模型三大核心能力。",
+  "title": "Kimi K3爆火暂停订阅，昆仑万维宣布世界模型元年，Claude Code动态工作流正式可用",
+  "desc": "月之暗面Kimi K3发布三天即因算力瓶颈暂停新用户订阅，DeepSeek V4推出峰谷计价；WAIC 2026上昆仑万维宣布2026为世界模型元年并发布Matrix-Game 3.5；Anthropic将Claude Code动态工作流正式开放给Pro用户；GitHub上Hermes Agent与Superpowers等AI Agent项目持续霸榜。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -49,6 +49,10 @@
     "2026-07-20": {
       "title": "7月AI大模型密集发布，世界模型元年开启",
       "desc": "2026年7月进入大模型竞赛密集窗口期，GPT-5.6、Gemini 3.5 Pro、DeepSeek V4同台竞技。WAIC期间昆仑万维宣布2026为世界模型元年，李飞飞团队正式定义世界模型三大核心能力。"
+    },
+    "2026-07-21": {
+      "title": "Kimi K3爆火暂停订阅，昆仑万维宣布世界模型元年，Claude Code动态工作流正式可用",
+      "desc": "月之暗面Kimi K3发布三天即因算力瓶颈暂停新用户订阅，DeepSeek V4推出峰谷计价；WAIC 2026上昆仑万维宣布2026为世界模型元年并发布Matrix-Game 3.5；Anthropic将Claude Code动态工作流正式开放给Pro用户；GitHub上Hermes Agent与Superpowers等AI Agent项目持续霸榜。"
     }
   }
 }

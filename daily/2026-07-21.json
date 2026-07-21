@@ -1,0 +1,309 @@
+{
+  "title": "Kimi K3爆火暂停订阅，昆仑万维宣布世界模型元年，Claude Code动态工作流正式可用",
+  "desc": "月之暗面Kimi K3发布三天即因算力瓶颈暂停新用户订阅，DeepSeek V4推出峰谷计价；WAIC 2026上昆仑万维宣布2026为世界模型元年并发布Matrix-Game 3.5；Anthropic将Claude Code动态工作流正式开放给Pro用户；GitHub上Hermes Agent与Superpowers等AI Agent项目持续霸榜。",
+  "featured": [
+    {
+      "title": "Kimi K3上线三天爆火，月之暗面紧急暂停新用户订阅",
+      "desc": "7月16日发布的Kimi K3（2.8万亿参数）在第三方评测中登顶，超越Anthropic和OpenAI旗舰模型。因请求量远超预估，7月19日深夜宣布暂停C端新用户订阅，全力扩容算力。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0886a5dd89d91852",
+      "label": "大模型",
+      "icon": "🔥",
+      "color": "#FF6B35",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "昆仑万维WAIC宣布2026为世界模型元年，发布Matrix-Game 3.5并开源",
+      "desc": "WAIC 2026上昆仑万维董事长方汉宣布2026为世界模型元年，发布Matrix-Game 3.5世界模型：5B参数、720p单卡20FPS实时生成、1分钟记忆能力，核心架构开源。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4496a5cf43968852",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#4ECDC4",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "Hermes Agent约21.6万Stars领跑GitHub，AI Agent生态持续爆发",
+      "desc": "Nous Research开发的Hermes Agent登上GitHub热门榜首，具备跨会话记忆和可复用Skill生成能力。Superpowers、Everything Claude Code等AI编程项目同样热度飙升。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9736a5a0c9231852",
+      "label": "GitHub",
+      "icon": "⭐",
+      "color": "#333333",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "谢贤去世",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96",
+      "source": "微博",
+      "heat": "673万"
+    },
+    {
+      "title": "阿根廷队无法接受输掉决赛的事实",
+      "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E8%BE%93%E6%8E%89%E5%86%B3%E8%B5%9B%E7%9A%84%E4%BA%8B%E5%AE%9E",
+      "source": "微博",
+      "heat": "370万"
+    },
+    {
+      "title": "我国区域外贸均衡发展成效显现",
+      "url": "https://s.weibo.com/weibo?q=%E6%88%91%E5%9B%BD%E5%8C%BA%E5%9F%9F%E5%A4%96%E8%B4%B8%E5%9D%87%E8%A1%A1%E5%8F%91%E5%B1%95%E6%88%90%E6%95%88%E6%98%BE%E7%8E%B0",
+      "source": "微博",
+      "heat": "309万"
+    },
+    {
+      "title": "预防HPV赢下人生健康赛场",
+      "url": "https://s.weibo.com/weibo?q=%E9%A2%84%E9%98%B2HPV%E8%B5%A2%E4%B8%8B%E4%BA%BA%E7%94%9F%E5%81%A5%E5%BA%B7%E8%B5%9B%E5%9C%BA",
+      "source": "微博",
+      "heat": "280万"
+    },
+    {
+      "title": "千万不要在网上买低价饮料",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E7%BD%91%E4%B8%8A%E4%B9%B0%E4%BD%8E%E4%BB%B7%E9%A5%AE%E6%96%99",
+      "source": "微博",
+      "heat": "261万"
+    },
+    {
+      "title": "老人骑三轮车停路边捡瓶子，因草帽掉落下车去追，意外躲过一劫",
+      "url": "https://www.douyin.com/video/7664196686922681643",
+      "source": "抖音",
+      "heat": "5212万播放"
+    },
+    {
+      "title": "惊险一幕！老人路边停车捡瓶子，帽子被吹飞，下车瞬间车祸发生",
+      "url": "https://www.douyin.com/video/7664154492149009707",
+      "source": "抖音",
+      "heat": "4780万播放"
+    },
+    {
+      "title": "饭店的暑假工，扫码点餐！",
+      "url": "https://www.douyin.com/video/7663770555540345826",
+      "source": "抖音",
+      "heat": "3747万播放"
+    },
+    {
+      "title": "国产智能仿生手亮相WAIC2026，仿真皮肤以假乱真",
+      "url": "https://www.douyin.com/video/7664177230582435126",
+      "source": "抖音",
+      "heat": "3354万播放"
+    },
+    {
+      "title": "心灵在2012年的一次播报，时隔14年落在了自己的身上",
+      "url": "https://www.douyin.com/video/7664120545167936809",
+      "source": "抖音",
+      "heat": "3167万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "Kimi K3发布三天爆火暂停订阅，国产大模型迎商业化拐点",
+      "desc": "月之暗面7月16日发布Kimi K3（2.8万亿参数、100万Token上下文），编程评测超GPT-5.6 Sol。因用户请求量远超预期，7月19日暂停C端新用户订阅。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0886a5dd89d91852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "DeepSeek V4满血版全量商用上线，首次引入峰谷计费机制",
+      "desc": "DeepSeek于7月15日全量商用上线V4满血版，分Flash与Pro两个版本，编程和智能体能力显著提升。Pro版启用峰谷计费，高峰时段API价格为平时2倍。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a5db7b036252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "OpenAI解除GPT-5.6 Sol使用限制，GPT-5.6系列三款模型齐发",
+      "desc": "7月8日OpenAI推出GPT-5.6系列（Sol/Terra/Luna三款子模型），性能全面刷新SOTA。7月13日因需求暴增临时取消Plus、Pro及Business用户的5小时使用限制。",
+      "url": "https://www.onlinedown.net/sort/619/",
+      "source": "华军软件园",
+      "pubDate": "2026-07-13"
+    },
+    {
+      "title": "谷歌NotebookLM更名Gemini Notebook，全面并入Gemini生态",
+      "desc": "谷歌7月17日将AI研究助手NotebookLM正式更名为Gemini Notebook，整合进Gemini应用生态，实现跨应用数据同步并新增第三方集成能力。",
+      "url": "https://blog.csdn.net/yuntongliangda/article/details/163021795",
+      "source": "CSDN",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "github": [
+    {
+      "title": "Hermes Agent：约21.6万Stars的自主进化AI Agent",
+      "desc": "Nous Research开发的Hermes Agent登顶GitHub热门，具备跨会话记忆、从复杂任务生成可复用Skill并在后续使用中持续优化的学习闭环能力。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9736a5a0c9231852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "Superpowers：AI编程Agent结构化开发框架超10万星",
+      "desc": "为AI coding agents设计的结构化开发框架，强调测试驱动开发和代码质量审查，日增640星，是GitHub Trending常客。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/159379644",
+      "source": "CSDN",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "Everything Claude Code近10万星，含28个子代理和116项技能",
+      "desc": "专为Claude Code打造的harness性能优化系统，日增超1500星，包含28个专业化子代理和116项技能，大幅提升Claude Code开发效率。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/159379644",
+      "source": "CSDN",
+      "pubDate": "2026-07-15"
+    }
+  ],
+  "trend": [
+    {
+      "name": "Hermes Agent",
+      "stars": "216k",
+      "type": "AI Agent",
+      "desc": "Nous Research开发的自主进化AI Agent框架，具备跨会话记忆和可复用Skill生成能力，GitHub约21.6万Stars。",
+      "tags": [
+        "AI Agent",
+        "Python",
+        "Self-evolving",
+        "Memory"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "iconType": "star",
+      "icon": "⭐",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "world": [
+    {
+      "title": "昆仑万维宣布2026为世界模型元年，Matrix-Game 3.5核心架构开源",
+      "desc": "WAIC 2026上昆仑万维发布Matrix-Game 3.5世界模型：5B参数、720p单卡20FPS实时生成、1分钟记忆、Patch级记忆注入，核心架构开源。CEO方汉提出三大产业预判。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4496a5cf43968852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "李飞飞团队首次定义世界模型：渲染、模拟、规划三功能缺一不可",
+      "desc": "2026年6月李飞飞团队发布世界模型正式定义，将渲染、模拟、规划列为不可或缺的核心能力，直指行业将视频生成模型简单贴标签的概念滥用乱象。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "source": "CSDN",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "design": [
+    {
+      "title": "2026设计师亲测：6款能自动生成UI界面的AI设计工具",
+      "desc": "实测Paico AI、Uizard AI、Framer AI等6款AI设计工具，评估其从文字描述生成高保真UI界面的能力，分析各工具在真实项目中的优劣。",
+      "url": "https://blog.csdn.net/ndsc_d/article/details/160379127",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-16"
+    },
+    {
+      "title": "Adobe Photoshop测试版推出AI图像生成功能",
+      "desc": "Adobe Photoshop最新测试版引入文本生成图像功能，支持参考图像扩展和背景增添，生成速度显著提升，可快速产出多张高质量照片。",
+      "url": "https://www.toutiao.com/topic/7483343842750810164/",
+      "source": "今日头条",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "video": [
+    {
+      "title": "7款2026年AI视频制作工具功能、局限与适用场景横评",
+      "desc": "横评可灵AI(Kling 3.0)、即梦AI(Seedance 2.0)、海螺AI等7款工具，涵盖4K输出、数字人、音画同步等能力，分析各工具适用场景与费用。",
+      "url": "https://blog.csdn.net/m0_73190071/article/details/162006346",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "rag": [],
+  "devtools": [
+    {
+      "title": "LiblibAI完成数亿元融资，加速构建AI内容创作生态",
+      "desc": "国内AI图像生成平台LiblibAI哩布哩布AI一年内完成三轮融资，总金额达数亿元，加速构建AI内容创作生态体系。",
+      "url": "https://www.toutiao.com/topic/7483343842750810164/",
+      "source": "今日头条/环球网",
+      "pubDate": "2026-07-11"
+    },
+    {
+      "title": "2026年AI图像生成新趋势：开源WebUI+弹性GPU成中小企业首选",
+      "desc": "AI图像生成技术走向产业落地，开源可定制WebUI工具搭配弹性GPU资源调度成为中小企业主流选择，支持商品主图批量生成等场景。",
+      "url": "https://blog.csdn.net/weixin_42573757/article/details/156706201",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-11"
+    }
+  ],
+  "industry": [
+    {
+      "title": "AI一周大事盘点(7月12日-19日):英伟达推Jetson Thor边缘AI,谷歌NotebookLM更名Gemini Notebook",
+      "desc": "英伟达发布新一代Jetson Thor边缘AI计算设备,联合日本企业推进物理AI产业落地。谷歌将NotebookLM更名为Gemini Notebook,全面并入Gemini生态。2026世界人工智能大会落地多项政策与技术成果。",
+      "url": "https://blog.csdn.net/yuntongliangda/article/details/163021795",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "2026世界人工智能大会开幕:展览面积首破10万平米,3000余项AI展品亮相",
+      "desc": "7月17日WAIC在上海开幕,1100余家企业参展,超300款产品全球首发,覆盖大模型、智能体、具身智能、AI眼镜、AI机器人、算力芯片全链条。国行苹果AI大模型已于7月8日完成备案。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5c264c37752",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "AI应用周度观察(7.13-7.19):字节联合努比亚发布首款AI智能体手机,腾讯混元Hy3登顶OpenRouter全球榜首",
+      "desc": "字节跳动联合中兴努比亚发布首款AI智能体手机,首批备货约10万台。腾讯混元Hy3上线一周调用量增长超68倍,登顶OpenRouter全球大模型调用量总榜第一。国行苹果智能大模型完成备案。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8206a5c94ef48052",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "2026世界人工智能大会:智能体带来新机遇,中国人形机器人全年产量有望突破10万台",
+      "desc": "WAIC第3天,星环科技发布GPU原生认知数据库面向AI Agent设计。PPIO发布智能模型网关触发多模型融合机制。今年中国人形机器人全年整机产量有望突破10万台。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8946a5d8d2f46252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "game": [
+    {
+      "title": "PG Games推出AI驱动游戏引擎:内置智能NPC、程序化关卡生成、AI剧情系统",
+      "desc": "PG Games为开发者提供内置大模型能力的游戏引擎,包含AI NPC系统(独立记忆与人设)、程序化关卡生成(根据玩家行为实时生成)、AI剧情系统,号称提升开发效率10倍。",
+      "url": "http://www.zjzebra.cn/",
+      "source": "PG国际",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "drama": [
+    {
+      "title": "拐点已至:红果短剧榜单显示AI漫剧实现对真人短剧流量超车",
+      "desc": "7月第二周红果短剧TOP10榜单中AI漫剧独占7部,前5仅一部真人作品。榜首《万妖图录传第八季》热度达8919万,累计播放量突破60亿。AI漫剧首次在合榜中实现对真人短剧的流量超越。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1716a5b31ed83952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-18"
+    },
+    {
+      "title": "2026年AI漫剧爆款推荐:Top10榜单出炉,玄幻长线漫剧领跑",
+      "desc": "2026年AI漫剧爆发式增长,多篇作品多季连载。百世轮回系统题材《陈默》系列、古风脑洞《护镖人》286集4季更新等作品成爆款,展示AI漫剧在长线连载和世界观构建上的优势。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3706a544f8752152",
+      "source": "企鹅号",
+      "pubDate": "2026-07-13"
+    },
+    {
+      "title": "2026金鹿・微短剧(漫剧)产业融创季将于7月21-23日在盐城举办",
+      "desc": "活动汇聚业内优质产业资源,推出金鹿计划作品征集、行业交流、优质新作发布等核心板块。行业领军人物及产业链从业者齐聚,搭建集成果展示、资源对接、项目落地于一体的专业平台。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2456a5dfdfe48852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "apps": [
+    {
+      "title": "2026年AI圈爆火产品盘点:10款最值得关注的AI工具",
+      "desc": "Google Gemini月活突破7.5亿成全球最大AI产品,Claude Code原生集成Xcode实现代理式编程,MiniCPM-o 4.5首款开源全双工多模态模型9B参数性能超GPT-4o,TRAE AI原生IDE注册用户突破600万。",
+      "url": "https://blog.csdn.net/2501_92406411/article/details/158391487",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "阿里Qwen-Audio-3.0语音推理排名全球第一,超越OpenAI旗舰",
+      "desc": "阿里通义实验室发布Qwen-Audio-3.0-Realtime,在第三方权威评测平台Artificial Analysis的Speech Reasoning子项中综合排名全球第一,超越OpenAI的GPT-Realtime-2,语音交互从对话进化到任务执行。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8526a57924458452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "Agent跌跌撞撞进入世界:2026 Q2 AI趋势总结",
+      "desc": "OpenClaw、Codex和Claude Cowork把AI从对话框拉出来,Agent开始能自己读文件、跑代码、操作软件。诞生于3月的OpenClaw标志着大众对Agent认知的转变,AI从对话工具进化为自主执行任务的智能体。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2546a59b4dd05252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-17"
+    }
+  ]
+}
