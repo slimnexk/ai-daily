@@ -1,0 +1,321 @@
+{
+  "title": "七月AI大乱斗：GPT-5.6发威、Grok 4.5突袭、Gemini新模型登场、世界模型元年启幕",
+  "desc": "2026年7月AI领域密集爆发：OpenAI发布GPT-5.6系列三模型，SpaceX AI联合Cursor推出Grok 4.5，谷歌连发三款Gemini轻量模型，昆仑万维宣布2026为世界模型元年并开源Matrix-Game 3.5，DeepSeek V4正式版即将上线，Claude Fable 5纳入订阅方案。",
+  "featured": [
+    {
+      "title": "谷歌连发三款Gemini轻量模型，旗舰Pro再延期",
+      "desc": "7月21日谷歌发布Gemini 3.6 Flash、Gemini 3.5 Flash-Lite及网络安全专用Gemini 3.5 Flash Cyber，但旗舰Gemini 3.5 Pro因代码生成能力不足继续推迟发布。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a5f935656652",
+      "label": "大模型",
+      "icon": "💎",
+      "color": "green",
+      "pubDate": "2026-07-21"
+    },
+    {
+      "title": "昆仑万维宣布2026为世界模型元年，Matrix-Game 3.5开源",
+      "desc": "WAIC 2026期间昆仑万维董事长方汉宣布2026为世界模型元年，发布Matrix-Game 3.5世界模型（5B参数、720p、单卡20FPS实时生成），核心架构开源，具备1分钟记忆能力。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4496a5cf43968852",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "orange",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "怡颗莓 致癌物",
+      "url": "https://s.weibo.com/weibo?q=%E6%80%A1%E9%A2%97%E8%8E%93+%E8%87%B4%E7%99%8C%E7%89%A9",
+      "source": "微博",
+      "heat": "197万"
+    },
+    {
+      "title": "FIFA更新男足世界排名",
+      "url": "https://s.weibo.com/weibo?q=FIFA%E6%9B%B4%E6%96%B0%E7%94%B7%E8%B6%B3%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D",
+      "source": "微博",
+      "heat": "97万"
+    },
+    {
+      "title": "一图读懂新一代通信网",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%96%B0%E4%B8%80%E4%BB%A3%E9%80%9A%E4%BF%A1%E7%BD%91",
+      "source": "微博",
+      "heat": "85万"
+    },
+    {
+      "title": "A股",
+      "url": "https://s.weibo.com/weibo?q=A%E8%82%A1",
+      "source": "微博",
+      "heat": "74万"
+    },
+    {
+      "title": "王玉雯在白鹿面前很少化妆",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%9C%A8%E7%99%BD%E9%B9%BF%E9%9D%A2%E5%89%8D%E5%BE%88%E5%B0%91%E5%8C%96%E5%A6%86",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "饭店的暑假工，爱心盒饭！",
+      "url": "https://www.douyin.com/video/7663772454062781632",
+      "source": "抖音",
+      "heat": "5804万播放"
+    },
+    {
+      "title": "平台邮寄礼品卡扫码领红包？假！谨防假冒平台诈骗套路",
+      "url": "https://www.douyin.com/video/7664223215954283826",
+      "source": "抖音",
+      "heat": "4147万播放"
+    },
+    {
+      "title": "男子因天太热钻冰箱纳凉不慎被卡",
+      "url": "https://www.douyin.com/video/7664510549853523251",
+      "source": "抖音",
+      "heat": "4059万播放"
+    },
+    {
+      "title": "平台邮寄礼品卡，扫码领红包？假！",
+      "url": "https://www.douyin.com/video/7664443055231094031",
+      "source": "抖音",
+      "heat": "3569万播放"
+    },
+    {
+      "title": "香港艺人谢贤去世",
+      "url": "https://www.douyin.com/video/7664517051226213672",
+      "source": "抖音",
+      "heat": "3310万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "谷歌发布三款Gemini轻量模型，旗舰3.5 Pro发布再延期",
+      "desc": "7月21日谷歌发布Gemini 3.6 Flash、3.5 Flash-Lite及网络安全专用3.5 Flash Cyber三款轻量模型。旗舰Gemini 3.5 Pro因代码生成能力未达预期继续推迟，称近期推出。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a5f935656652",
+      "source": "企鹅号",
+      "pubDate": "2026-07-21"
+    },
+    {
+      "title": "DeepSeek V4正式版即将上线，引入国内首个峰谷定价机制",
+      "desc": "DeepSeek V4正式版计划7月中旬上线，性能逼近Opus 4.8，引入国内首个API峰谷分时定价，高峰时段价格为平时2倍。7月24日旧接口永久下线，V4-Pro达1.6万亿参数100万上下文。",
+      "url": "https://blog.csdn.net/lck5602/article/details/163034257",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "github": [
+    {
+      "title": "last30days-skill：AI agent跨平台研究技能项目",
+      "desc": "GitHub热门项目last30days-skill，星标12924，AI agent skill可跨Reddit、X、YouTube、HN、Polymarket和网页研究任意主题并生成综合摘要，Python编写。",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending",
+      "pubDate": "2026-07-18"
+    },
+    {
+      "title": "SakanaAI/AI-Scientist-v2：自动化科学发现智能体",
+      "desc": "GitHub星标2948，今日新增143，Python编写。AI Scientist-v2通过Agentic Tree Search实现Workshop级自动化科学发现，可自主阅读论文、训练模型并部署ML代码。",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "source": "GitHub Trending",
+      "pubDate": "2026-07-18"
+    }
+  ],
+  "trend": [
+    {
+      "name": "last30days-skill",
+      "stars": "12924",
+      "type": "Python",
+      "desc": "AI agent skill，跨Reddit/X/YouTube/HN/Polymarket/Web研究任意主题并生成综合摘要",
+      "tags": [
+        "AI Agent",
+        "Skills",
+        "Research"
+      ],
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "iconType": "star",
+      "icon": "⭐",
+      "pubDate": "2026-07-18"
+    }
+  ],
+  "world": [
+    {
+      "title": "昆仑万维宣布2026为世界模型元年，Matrix-Game 3.5核心架构开源",
+      "desc": "WAIC 2026期间昆仑万维董事长方汉宣布2026为世界模型元年，发布Matrix-Game 3.5（5B参数、720p、单卡20FPS实时生成、1分钟记忆），核心架构开源，提出三大产业预判。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4496a5cf43968852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "design": [
+    {
+      "title": "2026年AI设计工具开始\"智能改稿\"，UI设计工作流正在变化",
+      "desc": "AI设计辅助正从生成效果图走向真正参与修改设计稿，覆盖间距对齐、风格修改、新页面扩展等UI设计核心环节，工作流迎来实质性变革。",
+      "url": "https://cloud.tencent.com/developer/article/2667373",
+      "source": "腾讯云",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "AI时代，AI创作该怎么用工具？2026实用AI设计工具盘点",
+      "desc": "将AI设计工具分为视觉绘图生成、灵感创意辅助、智能UI设计三大类，涵盖Midjourney、Stable Diffusion、Adobe Firefly等主流工具的全流程应用盘点。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4726a5701fe72252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "Claude Code + Figma：AI画原型完整教程，从PRD到设计稿只要5分钟",
+      "desc": "利用Claude Code根据PRD生成HTML原型，再通过Figma MCP一键导入Figma，实现从需求文档到设计稿的全AI流程，5分钟完成原型设计。",
+      "url": "https://blog.csdn.net/qq_42801126/article/details/158822756",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-16"
+    }
+  ],
+  "video": [
+    {
+      "title": "7款2026年AI视频制作工具功能、局限与适用场景横评",
+      "desc": "横评可灵AI（Kling 3.0）、即梦AI（Seedance 2.0）、海螺AI、HeyGen等7款工具，对比画质、生成时长、数字人能力及适用场景。",
+      "url": "https://blog.csdn.net/m0_73190071/article/details/162006346",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "rag": [
+    {
+      "title": "2025年RAG已死？2026年做Agentic和上下文工程？",
+      "desc": "RAG算法工程师深度复盘2025年技术演进：从狂热到冷静，开源框架大浪淘沙，技术创新放缓但基础设施趋稳。展望2026年Agentic RAG与上下文工程方向。",
+      "url": "https://blog.csdn.net/2401_85343303/article/details/156615684",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "AI Pulse · 2026年7月20日：OpenAI悄悄砍Codex上下文窗口十万token",
+      "desc": "OpenAI悄然缩减Codex上下文窗口十万token，依赖长代码工作流的开发者需调整方案；同期社区热议GPT-5.6安全护栏问题及AI辅助数学突破。",
+      "url": "https://ai-pulse-lab.com/",
+      "source": "AI Pulse",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "2026年7月AIGC行业前沿模型发布动态(7月13日-7月19日)",
+      "desc": "汇总7月中旬AIGC模型动态：阶跃Step Edge端侧模型、腾讯混元Hy3量化版、字节Seed模型升级支持1M上下文、InternLM发布Intern-S2-Preview-397B等。",
+      "url": "https://blog.csdn.net/weixin_31588979/article/details/163022949",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "industry": [
+    {
+      "title": "2026世界人工智能大会开幕：1100余家企业参展，300+产品全球首发",
+      "desc": "7月17日WAIC在上海开幕，展览面积首破10万平米，华为、百度、阿里等巨头参展，覆盖大模型、智能体、具身智能、AI眼镜、算力芯片全链条。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5c264c37752",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "AMD发布首款机架级AI系统Helios，挑战英伟达机架级地位",
+      "desc": "AMD发布Helios机架级AI系统，微软成为新客户，售价500-550万美元，直接挑战英伟达Vera Rubin。台积电追加1000亿美元投资亚利桑那强化AI芯片供应链。",
+      "url": "https://www.readaitime.com/",
+      "source": "读懂AI时代",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "Kimi K3模型发布引发全球AI热潮，估值超300亿美元",
+      "desc": "月之暗面Kimi K3模型发布后服务器承压暂停新用户订阅，外媒称性能接近GPT-5.6和Claude Fable 5，引发美股波动，估值超300亿美元。",
+      "url": "https://www.aitrend.us/",
+      "source": "AI趋势",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "国行苹果AI备案通过，iPhone 17 Pro页面显示\"为Apple智能预备好\"",
+      "desc": "网信中国公告显示苹果技术开发(上海)有限公司的\"Apple智能\"大模型已于7月8日备案，国行版苹果手机AI功能或将迎来上线。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5c264c37752",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "game": [
+    {
+      "title": "Unity《2026游戏开发报告》：62%开发者使用AI辅助编码，开发时长骤降77%",
+      "desc": "Unity报告显示62%开发者使用AI辅助编码，典型项目开发时长从91小时降至21小时。《和平精英》AI队友累计体验用户突破1.1亿，AI游戏融合已规模化落地。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3886a58ac2500952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-16"
+    },
+    {
+      "title": "研究称2028年Steam至少一半游戏都会使用AI",
+      "desc": "开发者分析2023-2026年Steam约53600款游戏，发现自2024年Steam推出AI内容披露功能后，承认使用AI生成内容的游戏比例持续上升，预计2027-2028年将达约50%。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8216a5a017832752",
+      "source": "企鹅号",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "2026 AI游戏热度排行榜：白日梦无限世界登顶，大模型实时生成动态副本",
+      "desc": "AI原生游戏排行出炉，榜首《白日梦:无限世界》采用大模型实时生成海量动态副本，单副本50+种分支结局，AI-NPC自适应反馈，标志AI原生游戏进入主流。",
+      "url": "https://blog.csdn.net/SHDaydream/article/details/160632785",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-14"
+    },
+    {
+      "title": "ChinaJoy 2026定档7月31日，主题\"与AI同游\"聚焦全链条AI技术生态",
+      "desc": "第23届ChinaJoy将于7月31日至8月3日在上海举办，主题为\"与AI同游\"，以海量游戏试玩内容和全链条AI技术生态为两大核心，展示全球数字娱乐产业最新成果。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5166a5612e715352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-14"
+    }
+  ],
+  "drama": [
+    {
+      "title": "拐点已至：红果短剧TOP10中AI漫剧独占7部，实现对真人短剧流量超车",
+      "desc": "2026年7月第二周红果短剧榜单打破格局，AI漫剧独占TOP10中7席，榜首《万妖图录传第八季》热度8919万，累计播放量突破60亿，AI漫剧首次全面超越真人短剧。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1716a5b31ed83952",
+      "source": "企鹅号",
+      "pubDate": "2026-07-18"
+    },
+    {
+      "title": "AI真人剧包揽短剧日榜TOP2，《苏忆穿书第一季》有效播放1.58亿登顶",
+      "desc": "短剧日榜有效播放总量10亿环比增26%，AI真人剧包揽前二，《苏忆穿书第一季》1.58亿登顶，《万妖图录传第九季》1.5亿位居第二，AI漫剧持续强势。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5896a5f386d96352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-21"
+    },
+    {
+      "title": "2026年AI漫剧制作工具五大主流平台实测报告发布",
+      "desc": "报告指出AI漫剧进入工业化元年，2025年市场规模突破200亿元，2026年预计增至243亿元，日均新作上线超600部，抖音端内漫剧播放量复合增速达24%。",
+      "url": "https://blog.csdn.net/2503_92990636/article/details/160365713",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "AniKuku：AI动态漫画制作与分镜生成器，六阶段全流程工作流",
+      "desc": "AniKuku提供从剧本分析到动画呈现的六阶段共享工作流，支持智能剧本解析、角色场景一致性、漫画分镜脚本、导演模式、动画组装和迭代创作。",
+      "url": "https://anikuku.com/",
+      "source": "AniKuku",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "apps": [
+    {
+      "title": "阿里发布企业级AI应用创作平台\"秒悟团队版\"，面向团队协作场景",
+      "desc": "7月18日WAIC期间阿里发布\"秒悟团队版\"(Meoo Team)，解决企业AI应用开发中资源采购、权限分配、资产归属问题，实现从个人工具到组织级生产力平台升级。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0476a5cbcfb19665",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "阿里Qwen-Audio-3.0语音推理排名全球第一，超越OpenAI旗舰",
+      "desc": "阿里通义实验室7月15日发布Qwen-Audio-3.0-Realtime，在Artificial Analysis语音推理评测中综合排名全球第一，超越OpenAI的GPT-Realtime-2，音交互从对话进化到任务执行。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8526a57924458452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "2026年AI圈爆火产品盘点：Gemini月活7.5亿、Claude Code集成Xcode 26.3",
+      "desc": "Google Gemini月活突破7.5亿成全球最大AI产品，Claude Code原生集成Xcode 26.3实现代理式编程，MiniCPM-o 4.5首款开源全双工多模态模型9B参数性能超GPT-4o。",
+      "url": "https://blog.csdn.net/2501_92406411/article/details/158391487",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-15"
+    },
+    {
+      "title": "2026年真正实用的10款AI神器：DeepSeek月活超2亿、ChatExcel颠覆表格处理",
+      "desc": "盘点实用AI工具，DeepSeek免费全能型助手月活超2亿，通义千问深度绑定阿里生态，豆包覆盖多场景月活超2亿，ChatExcel重新定义表格处理方式。",
+      "url": "https://blog.csdn.net/lgf228/article/details/157800617",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-20"
+    }
+  ]
+}
