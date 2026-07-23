@@ -1,6 +1,6 @@
 {
-  "title": "七月AI大乱斗：GPT-5.6发威、Grok 4.5突袭、Gemini新模型登场、世界模型元年启幕",
-  "desc": "2026年7月AI领域密集爆发：OpenAI发布GPT-5.6系列三模型，SpaceX AI联合Cursor推出Grok 4.5，谷歌连发三款Gemini轻量模型，昆仑万维宣布2026为世界模型元年并开源Matrix-Game 3.5，DeepSeek V4正式版即将上线，Claude Fable 5纳入订阅方案。",
+  "title": "Kimi K3引爆国产大模型竞赛，WAIC 2026具身智能成焦点",
+  "desc": "月之暗面发布2.8万亿参数Kimi K3创全球开源模型纪录，阿里Qwen3.8紧随其后。WAIC 2026上海开幕，穹彻智能、它石智航等展示世界模型驱动的具身智能突破。Claude上线Record a Skill录屏教学功能，GitHub AI编程基础设施项目持续霸榜。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -57,6 +57,10 @@
     "2026-07-22": {
       "title": "七月AI大乱斗：GPT-5.6发威、Grok 4.5突袭、Gemini新模型登场、世界模型元年启幕",
       "desc": "2026年7月AI领域密集爆发：OpenAI发布GPT-5.6系列三模型，SpaceX AI联合Cursor推出Grok 4.5，谷歌连发三款Gemini轻量模型，昆仑万维宣布2026为世界模型元年并开源Matrix-Game 3.5，DeepSeek V4正式版即将上线，Claude Fable 5纳入订阅方案。"
+    },
+    "2026-07-23": {
+      "title": "Kimi K3引爆国产大模型竞赛，WAIC 2026具身智能成焦点",
+      "desc": "月之暗面发布2.8万亿参数Kimi K3创全球开源模型纪录，阿里Qwen3.8紧随其后。WAIC 2026上海开幕，穹彻智能、它石智航等展示世界模型驱动的具身智能突破。Claude上线Record a Skill录屏教学功能，GitHub AI编程基础设施项目持续霸榜。"
     }
   }
 }

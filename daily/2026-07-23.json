@@ -1,0 +1,266 @@
+{
+  "title": "Kimi K3引爆国产大模型竞赛，WAIC 2026具身智能成焦点",
+  "desc": "月之暗面发布2.8万亿参数Kimi K3创全球开源模型纪录，阿里Qwen3.8紧随其后。WAIC 2026上海开幕，穹彻智能、它石智航等展示世界模型驱动的具身智能突破。Claude上线Record a Skill录屏教学功能，GitHub AI编程基础设施项目持续霸榜。",
+  "featured": [
+    {
+      "title": "月之暗面发布Kimi K3：2.8万亿参数全球最大开源模型",
+      "desc": "Kimi K3采用KDA混合线性注意力机制，原生支持视觉理解，100万token上下文，性能逼近Claude Fable 5与GPT-5.6，7月27日开放完整权重",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1756a598d8362852",
+      "label": "大模型",
+      "icon": "fire",
+      "color": "red",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "WAIC 2026：穹彻智能展示零遥操作世界模型具身大模型",
+      "desc": "穹彻智能在WAIC展示世界模型架构具身大模型，无需遥操作数据，机器人依靠世界模型自主决策，已完成47城市十万小时家庭数据预训练",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8796a5dffc073652",
+      "label": "世界模型",
+      "icon": "robot",
+      "color": "blue",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "Claude上线Record a Skill功能：边录屏边讲解即可创建技能",
+      "desc": "Anthropic为Claude带来录屏教学新功能，用户打开屏幕录制完成一遍任务并讲解，Claude即可自动整理出可重复调用的技能",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1416a605cc928552",
+      "label": "Claude",
+      "icon": "sparkles",
+      "color": "purple",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "GitHub Trending：code-review-graph单日升星1833登顶",
+      "desc": "本地优先代码智能图谱工具为MCP/CLI构建持久化代码库映射，减少大仓库审查token浪费，AI编程基础设施项目占据GitHub热榜",
+      "url": "https://new.qq.com/rain/a/20260721A05RB300",
+      "label": "GitHub",
+      "icon": "code",
+      "color": "green",
+      "pubDate": "2026-07-21"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "耐克将清退中国数千家在线经销商",
+      "url": "https://s.weibo.com/weibo?q=%E8%80%90%E5%85%8B%E5%B0%86%E6%B8%85%E9%80%80%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%8D%83%E5%AE%B6%E5%9C%A8%E7%BA%BF%E7%BB%8F%E9%94%80%E5%95%86",
+      "source": "微博",
+      "heat": "123万"
+    },
+    {
+      "title": "张伟丽化妆后自己都不认识了",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%8C%96%E5%A6%86%E5%90%8E%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%BA%86",
+      "source": "微博",
+      "heat": "87万"
+    },
+    {
+      "title": "6图看中国交通运输硬核成绩单",
+      "url": "https://s.weibo.com/weibo?q=6%E5%9B%BE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A%E8%BF%90%E8%BE%93%E7%A1%AC%E6%A0%B8%E6%88%90%E7%BB%A9%E5%8D%95",
+      "source": "微博",
+      "heat": "66万"
+    },
+    {
+      "title": "刘宇宁方发声明",
+      "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%96%B9%E5%8F%91%E5%A3%B0%E6%98%8E",
+      "source": "微博",
+      "heat": "65万"
+    },
+    {
+      "title": "AL 呼吸",
+      "url": "https://s.weibo.com/weibo?q=AL+%E5%91%BC%E5%90%B8",
+      "source": "微博",
+      "heat": "47万"
+    },
+    {
+      "title": "在境外针对中国公民实施绑架杀人犯罪的嫌疑人刘某文被遣返",
+      "url": "https://www.douyin.com/video/7664620659519081755",
+      "source": "抖音",
+      "heat": "177344773次播放"
+    },
+    {
+      "title": "饭店的暑假工，抹布臭了！",
+      "url": "https://www.douyin.com/video/7664462596204447348",
+      "source": "抖音",
+      "heat": "53124254次播放"
+    },
+    {
+      "title": "男子因天太热钻冰箱纳凉不慎被卡",
+      "url": "https://www.douyin.com/video/7664510549853523251",
+      "source": "抖音",
+      "heat": "47012389次播放"
+    },
+    {
+      "title": "输球后阿根廷首都发生球迷骚乱",
+      "url": "https://www.douyin.com/video/7664578764969381158",
+      "source": "抖音",
+      "heat": "32159997次播放"
+    },
+    {
+      "title": "国产智能仿生手亮相WAIC2026",
+      "url": "https://www.douyin.com/video/7664177230582435126",
+      "source": "抖音",
+      "heat": "29157537次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "阿里通义千问Qwen3.8-Max预览版发布：2.4万亿参数",
+      "desc": "阿里通义千问团队发布Qwen3.8-Max预览版，2.4万亿参数，称仅次于Fable 5，已在Token Plan、Qoder等平台开放体验，正式版发布后开源权重",
+      "url": "https://blog.csdn.net/2302_80237966/article/details/163034359",
+      "source": "CSDN",
+      "pubDate": "2026-07-20"
+    },
+    {
+      "title": "DeepSeek启动4800亿元估值第二轮融资并筹备IPO",
+      "desc": "DeepSeek被曝启动新一轮融资，目标估值超4800亿元，同时筹备IPO，国产大模型赛道融资潮持续升温",
+      "url": "https://blog.csdn.net/haohaizi_liu/article/details/162972061",
+      "source": "CSDN",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "全球大模型最新排名：Gemini 3.1 Pro与GPT-5.4并列第一，GLM-5杀入前五",
+      "desc": "Gemini 3.1 Pro Preview与GPT-5.4(xhigh)以57分并列第一，Claude Opus 4.6获53分，中国模型GLM-5以50分排名全球第五",
+      "url": "https://blog.csdn.net/wangjie919/article/details/159239250",
+      "source": "CSDN",
+      "pubDate": "2026-07-18"
+    }
+  ],
+  "github": [
+    {
+      "title": "code-review-graph：代码智能图谱工具登顶GitHub Trending",
+      "desc": "为MCP/CLI构建持久化代码库映射，让AI编码助手只读取变更相关文件，7月21日单日新增1833星，总星约23.2k",
+      "url": "https://new.qq.com/rain/a/20260721A05RB300",
+      "source": "腾讯网",
+      "pubDate": "2026-07-21"
+    },
+    {
+      "title": "OmniRoute：免费AI网关单日升星1107",
+      "desc": "一个端点接入268+提供商、500+模型，支持Claude Code/Codex/Cursor，自动故障转移与Token压缩，总星约21.8k",
+      "url": "https://new.qq.com/rain/a/20260721A05RB300",
+      "source": "腾讯网",
+      "pubDate": "2026-07-21"
+    },
+    {
+      "title": "OpenClaw：2026年最火开源AI Agent框架突破33万星",
+      "desc": "本地优先开源AI执行框架，支持50+通讯平台直接控制AI助手，从回答问题升级为执行任务的数字员工",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/159782643",
+      "source": "CSDN",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "trend": [
+    {
+      "name": "code-review-graph",
+      "stars": "23.2k",
+      "type": "repository",
+      "desc": "本地优先代码智能图谱工具，为MCP/CLI构建持久化代码库映射，让AI编码助手只读取变更相关文件",
+      "tags": [
+        "AI编程",
+        "代码审查",
+        "MCP"
+      ],
+      "url": "https://new.qq.com/rain/a/20260721A05RB300",
+      "iconType": "code",
+      "icon": "graph",
+      "pubDate": "2026-07-21"
+    }
+  ],
+  "world": [
+    {
+      "title": "穹彻智能展示零遥操作世界模型具身大模型",
+      "desc": "WAIC 2026上展示世界模型架构预训练模型，无需遥操作数据，机器人依靠世界模型自主决策，已完成47城市十万小时家庭数据预训练",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8796a5dffc073652",
+      "source": "企鹅号",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "它石智航发布具身原生基座大模型AWE 3.5，获WAIC SAIL之星奖",
+      "desc": "AWE 3.5(AI World Engine)率先实现具身模型预训练+后训练完整范式，荣获WAIC 2026 SAIL之星奖，为大会唯一获此荣誉的具身智能大模型",
+      "url": "http://znjchina.com/",
+      "source": "智能界",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "智元世界模型GE-2登顶World Arena赛道冠军",
+      "desc": "智元在WAIC 2026展示世界模型GE-2，实现从世界模拟到世界学习的升级，为机器人迭代提供闭环环境，登顶2026 World Arena世界模型赛道总分冠军",
+      "url": "https://blog.csdn.net/csdnnews/article/details/162977362",
+      "source": "CSDN",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design来了！Figma股价跌了，设计师却不一定要失业——Anthropic的野心远不止AI作图",
+      "desc": "Anthropic发布Claude Design，独立产品入口上线仅几小时Figma股价下跌近7%。这不是简单的AI新增功能，而是会话式设计画布，用自然语言生成可交互HTML原型",
+      "url": "https://cloud.tencent.com/developer/article/2656723",
+      "source": "腾讯云",
+      "pubDate": "2026-07-23"
+    },
+    {
+      "title": "Anthropic发布Claude Design：用对话做设计，Figma股价应声下跌",
+      "desc": "Claude Design是Anthropic Labs推出的真正意义上的AI设计工具，用自然语言描述需求即可生成可编辑设计稿、原型图、PPT和海报，支持企业视觉语言体系自动提炼",
+      "url": "https://cloud.tencent.com/developer/article/2661214",
+      "source": "腾讯云",
+      "pubDate": "2026-07-23"
+    },
+    {
+      "title": "Claude Design实战指南2026：从提示词到交互原型的完整工作流",
+      "desc": "截至2026年6月Claude Design已向Pro、Max、Team和Enterprise订阅用户开放，入口位于claude.ai/design，支持会话式设计画布、直接评论调整、导出HTML原型",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/161711655",
+      "source": "CSDN",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "video": [
+    {
+      "title": "工位摸鱼试了一圈即梦AI的视频功能，结论先放这",
+      "desc": "实测即梦AI文字生视频和图生视频一站式画布可直接塞进日常交付流，提示词在统一应用内完成，风格一致性大幅提升，十五秒素材切片三天工期压到半天",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0186a5edb0470752",
+      "source": "企鹅号",
+      "pubDate": "2026-07-21"
+    },
+    {
+      "title": "最新即梦AI视频生成大模型Seedance 2.0使用手册和免费使用入口",
+      "desc": "Seedance 2.0正式上线即梦，支持图像、视频、音频、文本四种模态输入，《黑神话》制作人冯骥称其为当前地表最强视频生成模型",
+      "url": "https://blog.csdn.net/mysusheng/article/details/158039757",
+      "source": "CSDN",
+      "pubDate": "2026-07-18"
+    }
+  ],
+  "rag": [
+    {
+      "title": "RAG已经过时了吗？2026年最该学的，其实是AI Agent的上下文工程",
+      "desc": "OpenAI 2026年4月发布Agents SDK新能力，行业重心从把外部知识塞进上下文转向管理状态、工具、记忆、执行环境和多代理协作的上下文工程，RAG变为Agent架构中的关键组件",
+      "url": "https://blog.csdn.net/2601_95563714/article/details/160215065",
+      "source": "CSDN",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "devtools": [],
+  "industry": [],
+  "game": [],
+  "drama": [
+    {
+      "title": "AI动态漫画制作与分镜生成器 AniKuku",
+      "desc": "AniKuku平台提供从剧本到动态漫画的全流程AI工作流，支持剧本转分镜、角色一致性动画、动态漫画制作等功能，可生成竖屏或宽屏动画故事。",
+      "url": "https://anikuku.com/",
+      "source": "AniKuku官网",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "AI漫剧短剧神器！用Coze智能体工作流一键生成25宫格分镜图",
+      "desc": "利用Coze智能体工作流一键生成9/16/25宫格分镜图，上传角色参考图固定人设，搭配即梦Seedance2.0视频模型可直接生成AI动漫短剧，解决人物和场景一致性难题。",
+      "url": "https://blog.csdn.net/ai929790/article/details/159316430",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-19"
+    }
+  ],
+  "apps": [
+    {
+      "title": "阿里Qwen-Audio-3.0语音推理排名全球第一，超越OpenAI旗舰",
+      "desc": "阿里通义实验室发布Qwen-Audio-3.0-Realtime模型，在Artificial Analysis语音推理评测中综合排名全球第一，超越OpenAI的GPT-Realtime-2，标志语音交互从对话进化到任务执行。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8526a57924458452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-15"
+    }
+  ]
+}
