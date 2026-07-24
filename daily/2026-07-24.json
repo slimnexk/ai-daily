@@ -1,0 +1,228 @@
+{
+  "title": "7月AI大模型密集发布：GPT-5.6、DeepSeek V4、Gemini 3.6 Flash同台竞技",
+  "desc": "7月全球AI竞赛进入密集发布窗口，OpenAI GPT-5.6 Sol旗舰发布、DeepSeek V4正式版灰度测试中、谷歌连发三款Gemini轻量模型。Claude上线录屏教学技能创建功能，昆仑万维WAIC宣布2026为世界模型元年。",
+  "featured": [
+    {
+      "title": "Claude上线Record a Skill录屏教学功能：边操作边讲解即可创建AI技能",
+      "desc": "Anthropic为Claude Cowork推出录制技能功能，用户打开屏幕录制亲自操作一遍任务并语音讲解，Claude自动生成可复用的结构化技能模板，支持表格整理、批量重命名、周报等场景。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1416a605cc928552",
+      "label": "Claude/Claw",
+      "icon": "🎬",
+      "color": "purple",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "谷歌发布三款Gemini新模型：3.6 Flash性能提升成本更低",
+      "desc": "谷歌7月21日正式发布Gemini 3.6 Flash、3.5 Flash-Lite及3.5 Flash Cyber(网络安全专用)三款模型，旗舰3.5 Pro发布时间仍未确定，继续延期。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1476a60341d34065",
+      "label": "大模型",
+      "icon": "✨",
+      "color": "blue",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "昆仑万维WAIC宣布2026为世界模型元年，Matrix-Game 3.5核心架构开源",
+      "desc": "昆仑万维在世界人工智能大会专场论坛宣布2026年为世界模型元年，发布Matrix-Game 3.5世界模型(5B参数、720p、单卡20FPS)，核心架构开源，同步升级Mureka v9.5与O3音乐模型。",
+      "url": "https://new.qq.com/rain/a/20260720A0563K00",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "green",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "滔搏暴力打折甩卖耐克库存",
+      "url": "https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98",
+      "source": "微博",
+      "heat": "135万"
+    },
+    {
+      "title": "荣耀更换logo",
+      "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E6%9B%B4%E6%8D%A2logo",
+      "source": "微博",
+      "heat": "102万"
+    },
+    {
+      "title": "开局之年看中国",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "男子对女同事开黄腔被打遭开除称不公",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%AF%B9%E5%A5%B3%E5%90%8C%E4%BA%8B%E5%BC%80%E9%BB%84%E8%85%94%E8%A2%AB%E6%89%93%E9%81%AD%E5%BC%80%E9%99%A4%E7%A7%B0%E4%B8%8D%E5%85%AC",
+      "source": "微博",
+      "heat": "64万"
+    },
+    {
+      "title": "大爷摸知了猴3小时赚近400元",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%88%B7%E6%91%B8%E7%9F%A5%E4%BA%86%E7%8C%B43%E5%B0%8F%E6%97%B6%E8%B5%9A%E8%BF%91400%E5%85%83",
+      "source": "微博",
+      "heat": "58万"
+    },
+    {
+      "title": "饭店的暑假工，午休开会！",
+      "url": "https://www.douyin.com/video/7664970295614795427",
+      "source": "抖音",
+      "heat": "43306768次播放"
+    },
+    {
+      "title": "幸亏当年精神过不然都配不上这首歌",
+      "url": "https://www.douyin.com/video/7664661375855129573",
+      "source": "抖音",
+      "heat": "26998665次播放"
+    },
+    {
+      "title": "来吧 今天当朋友圈发了.自己我都不认识了",
+      "url": "https://www.douyin.com/video/7664965261736296955",
+      "source": "抖音",
+      "heat": "22682899次播放"
+    },
+    {
+      "title": "《景色真好，我要给我妈埋这》",
+      "url": "https://www.douyin.com/video/7664933561703286134",
+      "source": "抖音",
+      "heat": "21726216次播放"
+    },
+    {
+      "title": "断舍离上篇，自己看着办～",
+      "url": "https://www.douyin.com/video/7664921178670140726",
+      "source": "抖音",
+      "heat": "19740205次播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "谷歌发布三款Gemini新模型，旗舰Pro版本发布时间仍未确定",
+      "desc": "7月21日谷歌正式发布Gemini 3.6 Flash(性能最强)、3.5 Flash-Lite及3.5 Flash Cyber(网络安全专用)三款低成本模型，旗舰3.5 Pro继续延期。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1476a60341d34065",
+      "source": "企鹅号",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "DeepSeek V4正式版灰度测试中，综合能力对标Opus 4.8",
+      "desc": "DeepSeek V4预览版4月24日上线，1.6万亿参数、1M上下文，代码与数学推理全面超越Claude Opus 4.6。正式版已开启小规模灰度测试，预计7月底发布，引入国内首个API峰谷定价。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9326a5f218006052",
+      "source": "企鹅号",
+      "pubDate": "2026-07-21"
+    },
+    {
+      "title": "智谱AI建成1吉瓦国产芯片数据中心，GLM-5.2开源模型达SOTA水平",
+      "desc": "智谱建成全国产芯片大型AI数据中心(1吉瓦规模)，GLM-5.2以51分位居Artificial Analysis榜单前三，与Anthropic、OpenAI并列，为开源模型最佳。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3056a5ee1a347552",
+      "source": "企鹅号",
+      "pubDate": "2026-07-21"
+    }
+  ],
+  "github": [
+    {
+      "title": "GitHub Trending: worldmonitor实时全球情报仪表盘周增5812星",
+      "desc": "koala73/worldmonitor是一个AI驱动的实时全球情报仪表盘，集成新闻聚合、地缘政治监控和基础设施追踪，本周新增5812星，总星71.5K。",
+      "url": "https://github.com/koala73/worldmonitor",
+      "source": "GitHub Trending",
+      "pubDate": "2026-07-24"
+    },
+    {
+      "title": "GitHub Trending: OmniRoute统一AI网关290+供应商周增6989星",
+      "desc": "diegosouzapw/OmniRoute是一个免费MIT AI网关，一个端点对接290+供应商(90+免费)、500+模型，支持Claude Code/Codex/Cursor，RTK压缩节省15-95% tokens，本周新增6989星。",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "source": "GitHub Trending",
+      "pubDate": "2026-07-24"
+    },
+    {
+      "title": "GitHub Trending: pi AI agent工具包周增4060星，总76.2K",
+      "desc": "earendil-works/pi提供统一LLM API、agent循环、TUI和编码agent CLI，TypeScript实现，本周新增4060星，总星76,270。",
+      "url": "https://github.com/earendil-works/pi",
+      "source": "GitHub Trending",
+      "pubDate": "2026-07-24"
+    }
+  ],
+  "trend": [
+    {
+      "name": "worldmonitor",
+      "stars": "71.5K",
+      "type": "TypeScript",
+      "desc": "AI驱动的实时全球情报仪表盘，集成新闻聚合、地缘政治监控和基础设施追踪",
+      "tags": [
+        "AI",
+        "dashboard",
+        "monitoring"
+      ],
+      "url": "https://github.com/koala73/worldmonitor",
+      "iconType": "trending",
+      "icon": "🔥",
+      "pubDate": "2026-07-24"
+    }
+  ],
+  "world": [
+    {
+      "title": "李飞飞亲自定义世界模型：渲染、模拟、规划三功能缺一不可",
+      "desc": "李飞飞团队发布世界模型能力边界定义，将渲染(Rendering)、模拟(Simulation)、规划(Planning)列为世界模型不可或缺的核心能力，直指行业概念乱象。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "source": "CSDN",
+      "pubDate": "2026-07-22"
+    }
+  ],
+  "design": [
+    {
+      "title": "Claude Design实战指南2026：从提示词到交互原型的完整工作流",
+      "desc": "截至2026年6月，Claude Design已向Pro、Max、Team和Enterprise订阅用户开放，入口位于claude.ai/design，支持会话式设计画布与自然语言生成可交互HTML原型。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/161711655",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-17"
+    },
+    {
+      "title": "AI视觉创作工具Claude Design来了！Anthropic的野心远不止AI作图",
+      "desc": "Anthropic上线Claude Design后，Figma股价暴跌近7%，Adobe同步跟跌。该工具不是简单AI画图，而是重塑设计行业游戏规则的新范式。",
+      "url": "https://blog.csdn.net/llooyyuu/article/details/160284457",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-16"
+    }
+  ],
+  "video": [
+    {
+      "title": "2026年十大最佳AI视频生成器推荐",
+      "desc": "2026年AI视频生成器盘点：Runway Gen-4.5适合高级创意控制($15/月)，OpenAI Sora擅长叙事故事($20/月)，Kling AI主打逼真人物($10/月)。",
+      "url": "https://blog.csdn.net/xiangzhihong8/article/details/158314587",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-14"
+    }
+  ],
+  "rag": [
+    {
+      "title": "GraphRAG实战指南：告别传统RAG痛点的大模型知识库搭建教程",
+      "desc": "基于Neo4j知识图谱和LangChain构建GraphRAG系统的完整实战教程，解决传统向量检索在复杂关联问题上的痛点，适合开发者快速上手。",
+      "url": "https://blog.csdn.net/qq_46094651/article/details/160925403",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-19"
+    },
+    {
+      "title": "Knota与传统RAG的六维对比：企业知识库两种技术路线如何选型",
+      "desc": "对比以向量检索为核心的传统RAG路线与以完整知识处理链路为特征的Knota路线，从六个维度分析企业知识库技术选型的关键考量。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0126a5f450654452",
+      "source": "企鹅号",
+      "pubDate": "2026-07-21"
+    },
+    {
+      "title": "2026年终极指南：RAG、微调与长上下文到底该选谁？",
+      "desc": "从知识更新成本、训练部署成本、幻觉控制等维度全面对比RAG、微调与长上下文三种方案，指出RAG在事实准确性上仍是冠军，长上下文成本最高。",
+      "url": "https://cloud.tencent.com/developer/article/2658674",
+      "source": "腾讯云",
+      "pubDate": "2026-07-24"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "GitHub项目FLUX.2开源了，支持10张图片同时参考的开源模型",
+      "desc": "黑森林实验室发布FLUX.2图像生成模型家族，支持同时参考10张图片并保持字符、产品和风格一致性，标志着AI图像生成从演示工具向生产力工具转型。",
+      "url": "https://cloud.tencent.com/developer/article/2646385",
+      "source": "腾讯云",
+      "pubDate": "2026-07-24"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
