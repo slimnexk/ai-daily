@@ -1,6 +1,6 @@
 {
-  "title": "7月AI大模型密集发布：GPT-5.6、DeepSeek V4、Gemini 3.6 Flash同台竞技",
-  "desc": "7月全球AI竞赛进入密集发布窗口，OpenAI GPT-5.6 Sol旗舰发布、DeepSeek V4正式版灰度测试中、谷歌连发三款Gemini轻量模型。Claude上线录屏教学技能创建功能，昆仑万维WAIC宣布2026为世界模型元年。",
+  "title": "AI日报 2026-07-27",
+  "desc": "",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -65,6 +65,10 @@
     "2026-07-24": {
       "title": "7月AI大模型密集发布：GPT-5.6、DeepSeek V4、Gemini 3.6 Flash同台竞技",
       "desc": "7月全球AI竞赛进入密集发布窗口，OpenAI GPT-5.6 Sol旗舰发布、DeepSeek V4正式版灰度测试中、谷歌连发三款Gemini轻量模型。Claude上线录屏教学技能创建功能，昆仑万维WAIC宣布2026为世界模型元年。"
+    },
+    "2026-07-27": {
+      "title": "AI日报 2026-07-27",
+      "desc": ""
     }
   }
 }

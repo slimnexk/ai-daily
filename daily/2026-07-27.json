@@ -1,0 +1,146 @@
+{
+  "title": "AI日报 2026-07-27",
+  "desc": "",
+  "featured": [],
+  "hotSearch": [
+    {
+      "title": "官方回应河南三支一扶成绩争议",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E6%88%90%E7%BB%A9%E4%BA%89%E8%AE%AE",
+      "source": "微博",
+      "heat": "112万"
+    },
+    {
+      "title": "有微信之前人是可以不用一直在线的",
+      "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E5%BE%AE%E4%BF%A1%E4%B9%8B%E5%89%8D%E4%BA%BA%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%BA%BF%E7%9A%84",
+      "source": "微博",
+      "heat": "97万"
+    },
+    {
+      "title": "上半年规上工业企业利润增长18.7%",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%A7%84%E4%B8%8A%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF18.7%25",
+      "source": "微博",
+      "heat": "95万"
+    },
+    {
+      "title": "和肖战开启拍拍防晒新体验",
+      "url": "https://s.weibo.com/weibo?q=%E5%92%8C%E8%82%96%E6%88%98%E5%BC%80%E5%90%AF%E6%8B%8D%E6%8B%8D%E9%98%B2%E6%99%92%E6%96%B0%E4%BD%93%E9%AA%8C",
+      "source": "微博",
+      "heat": "95万"
+    },
+    {
+      "title": "肠癌很多人发现就是中晚期",
+      "url": "https://s.weibo.com/weibo?q=%E8%82%A0%E7%99%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%91%E7%8E%B0%E5%B0%B1%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F",
+      "source": "微博",
+      "heat": "95万"
+    },
+    {
+      "title": "青春没有售价，从拉萨打出租车逛阿里大环线又回到拉萨",
+      "url": "https://www.douyin.com/video/7666773267206494912",
+      "source": "抖音",
+      "heat": "8114万播放"
+    },
+    {
+      "title": "饭店的暑假工，跳槽！",
+      "url": "https://www.douyin.com/video/7666421454028438242",
+      "source": "抖音",
+      "heat": "4520万播放"
+    },
+    {
+      "title": "欧巴～#欧巴清醒一点 #迪丽热巴",
+      "url": "https://www.douyin.com/video/7666497223925222287",
+      "source": "抖音",
+      "heat": "4000万播放"
+    },
+    {
+      "title": "甘肃渭源景区突发山洪，已有10人遇难23人受伤",
+      "url": "https://www.douyin.com/video/7666796181627981065",
+      "source": "抖音",
+      "heat": "3178万播放"
+    },
+    {
+      "title": "又让周向民装到了",
+      "url": "https://www.douyin.com/video/7666381560626679055",
+      "source": "抖音",
+      "heat": "2164万播放"
+    }
+  ],
+  "llm": [],
+  "github": [],
+  "trend": [],
+  "world": [],
+  "design": [
+    {
+      "title": "Claude Code + Figma:AI 画原型完整教程,从PRD到设计稿只要5分钟",
+      "desc": "实测用Claude Code结合Figma MCP,将PRD直接变成Figma原型,对比Pencil MCP出图效果,5分钟完成设计稿。",
+      "url": "https://blog.csdn.net/qq_42801126/article/details/158822756",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-23"
+    },
+    {
+      "title": "Claude Design实战指南2026:从提示词到交互原型的完整工作流",
+      "desc": "Claude Design以Opus 4.7为引擎,支持文字生成交互式原型、演示文稿、落地页和UI线框图,已向Pro/Max/Team/Enterprise用户开放。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/161711655",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "Anthropic发布Claude Design:用对话做设计,Figma股价应声下跌",
+      "desc": "Anthropic推出Claude Design,用自然语言描述需求即可生成可编辑设计稿、原型图、PPT和海报,发布当天Figma股价下跌。",
+      "url": "https://cloud.tencent.com/developer/article/2661214",
+      "source": "腾讯云",
+      "pubDate": "2026-07-27"
+    }
+  ],
+  "video": [
+    {
+      "title": "Seedance 2.5正式发布:30秒、50个参考素材、原生4K,国产视频模型再捅天花板",
+      "desc": "字节Seed团队发布Seedance 2.5,单条视频最长30秒、50个全模态素材联合输入,三项维度实现全球第一,预计7月初正式上线。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/162233112",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-24"
+    },
+    {
+      "title": "FLUX 3多模态AI模型登场:支持单次生成20秒多样化视频",
+      "desc": "Black Forest Labs发布FLUX 3,统一架构联合学习图像、视频和音频,单次生成最长20秒视频并附带原生音频,支持文生视频、图生视频等。",
+      "url": "https://new.qq.com/rain/a/20260724A08Y2C00",
+      "source": "腾讯网",
+      "pubDate": "2026-07-24"
+    },
+    {
+      "title": "Black Forest Labs发布Flux 3!初评超过Seedance 2.0,将开源",
+      "desc": "FLUX 3进化为多模态模型,把视频、音频、动作预测全塞进同一模型,采用Self-Flow自监督流匹配框架,将开源。",
+      "url": "https://new.qq.com/rain/a/20260724A04ELV00",
+      "source": "腾讯网",
+      "pubDate": "2026-07-24"
+    }
+  ],
+  "rag": [
+    {
+      "title": "Progress Agentic RAG Platform for AI Agents and LLMs",
+      "desc": "Progress推出企业级Agentic RAG解决方案,构建统一Agentic知识层,为所有AI用例提供共享知识基础设施。",
+      "url": "http://www.nuclia.com/",
+      "source": "Nuclia",
+      "pubDate": "2026-07-17"
+    }
+  ],
+  "devtools": [
+    {
+      "title": "Black Forest Labs推出机器人模型,进军物理AI领域",
+      "desc": "BFL正在测试首个可用于机器人的模型,Flux 3能从图像视频音频中学习并预测下一步动作,与奥迪等制造伙伴合作测试。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5976a6240ad15252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-24"
+    },
+    {
+      "title": "Nano Banana 2 vs Wan 2.7:2026年最值得关注的两个AI图片生成模型实测对比",
+      "desc": "Google Nano Banana 2(Gemini 3.1 Flash Image)对比阿里Wan 2.7,前者主打Pro级画质+Flash级速度,后者有Thinking Mode先理解再生成。",
+      "url": "https://blog.csdn.net/i_am_jerk/article/details/159969624",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-21"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}
