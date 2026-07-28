@@ -1,6 +1,6 @@
 {
-  "title": "AI日报 2026-07-27",
-  "desc": "",
+  "title": "Claude Opus 5重磅发布，中国大模型包揽全球调用量前五",
+  "desc": "Anthropic发布Claude Opus 5，性能逼近Fable 5但价格减半；OpenRouter数据显示中国大模型周调用量包揽全球前五，小米MiMo-V2.5登顶；昆仑万维在WAIC宣布2026为世界模型元年；GitHub Agent框架持续爆发，agency-agents单日增长2097星。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -69,6 +69,10 @@
     "2026-07-27": {
       "title": "AI日报 2026-07-27",
       "desc": ""
+    },
+    "2026-07-28": {
+      "title": "Claude Opus 5重磅发布，中国大模型包揽全球调用量前五",
+      "desc": "Anthropic发布Claude Opus 5，性能逼近Fable 5但价格减半；OpenRouter数据显示中国大模型周调用量包揽全球前五，小米MiMo-V2.5登顶；昆仑万维在WAIC宣布2026为世界模型元年；GitHub Agent框架持续爆发，agency-agents单日增长2097星。"
     }
   }
 }
