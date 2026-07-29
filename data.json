@@ -1,6 +1,6 @@
 {
-  "title": "Claude Opus 5重磅发布，中国大模型包揽全球调用量前五",
-  "desc": "Anthropic发布Claude Opus 5，性能逼近Fable 5但价格减半；OpenRouter数据显示中国大模型周调用量包揽全球前五，小米MiMo-V2.5登顶；昆仑万维在WAIC宣布2026为世界模型元年；GitHub Agent框架持续爆发，agency-agents单日增长2097星。",
+  "title": "7月大模型混战白热化：Claude 5代砍80%系统提示，世界模型元年开启",
+  "desc": "2026年7月AI圈硝烟弥漫：Anthropic发布Claude 5代上下文工程新法则，砍掉80%系统提示词；GPT-5.6、Grok 4.5、Gemini 3.5密集登场；李飞飞亲自定义世界模型三大核心功能；昆仑万维宣布2026为世界模型元年；GitHub上AI Agent项目全面爆发，Hermes Agent自进化能力引发关注。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -73,6 +73,10 @@
     "2026-07-28": {
       "title": "Claude Opus 5重磅发布，中国大模型包揽全球调用量前五",
       "desc": "Anthropic发布Claude Opus 5，性能逼近Fable 5但价格减半；OpenRouter数据显示中国大模型周调用量包揽全球前五，小米MiMo-V2.5登顶；昆仑万维在WAIC宣布2026为世界模型元年；GitHub Agent框架持续爆发，agency-agents单日增长2097星。"
+    },
+    "2026-07-29": {
+      "title": "7月大模型混战白热化：Claude 5代砍80%系统提示，世界模型元年开启",
+      "desc": "2026年7月AI圈硝烟弥漫：Anthropic发布Claude 5代上下文工程新法则，砍掉80%系统提示词；GPT-5.6、Grok 4.5、Gemini 3.5密集登场；李飞飞亲自定义世界模型三大核心功能；昆仑万维宣布2026为世界模型元年；GitHub上AI Agent项目全面爆发，Hermes Agent自进化能力引发关注。"
     }
   }
 }

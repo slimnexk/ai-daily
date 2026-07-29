@@ -1,0 +1,279 @@
+{
+  "title": "7月大模型混战白热化：Claude 5代砍80%系统提示，世界模型元年开启",
+  "desc": "2026年7月AI圈硝烟弥漫：Anthropic发布Claude 5代上下文工程新法则，砍掉80%系统提示词；GPT-5.6、Grok 4.5、Gemini 3.5密集登场；李飞飞亲自定义世界模型三大核心功能；昆仑万维宣布2026为世界模型元年；GitHub上AI Agent项目全面爆发，Hermes Agent自进化能力引发关注。",
+  "featured": [
+    {
+      "title": "Anthropic为Claude 5代砍掉80%系统提示，发布上下文工程新法则",
+      "desc": "Anthropic 7月24日发布技术指南，为Claude Code删除超80%系统提示词，不降编码评测分。Claude Opus 5和Fable 5第五代模型落地，提示词工程彻底变天。",
+      "url": "https://blog.csdn.net/JJJennie777/article/details/163232824",
+      "label": "Claude更新",
+      "icon": "🧠",
+      "color": "#FF6B35",
+      "pubDate": "2026-07-27"
+    },
+    {
+      "title": "李飞飞亲自定义世界模型：渲染、模拟、规划三功能缺一不可",
+      "desc": "斯坦福教授李飞飞团队首次对世界模型进行明确定义，将渲染、模拟、规划列为核心能力，直指行业将视频生成模型和大语言模型贴标签的概念滥用乱象。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "label": "世界模型",
+      "icon": "🌍",
+      "color": "#4ECDC4",
+      "pubDate": "2026-07-26"
+    },
+    {
+      "title": "全球大模型调用量前五均为中国产品，小米MiMo登顶",
+      "desc": "OpenRouter最新数据显示，上周全球大模型总调用量58万亿Token，中国大模型周调用量是美国14倍。小米MiMo-V2.5以10.5万亿Tokens登顶，环比增长12%。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8046a685a6590352",
+      "label": "行业趋势",
+      "icon": "📊",
+      "color": "#9B59B6",
+      "pubDate": "2026-07-28"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "习近平对侨务工作作出重要指示",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%B9%E4%BE%A8%E5%8A%A1%E5%B7%A5%E4%BD%9C%E4%BD%9C%E5%87%BA%E9%87%8D%E8%A6%81%E6%8C%87%E7%A4%BA&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7904704"
+    },
+    {
+      "title": "买大路灯护眼 孩子视力1年涨200度",
+      "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E5%A4%A7%E8%B7%AF%E7%81%AF%E6%8A%A4%E7%9C%BC+%E5%AD%A9%E5%AD%90%E8%A7%86%E5%8A%9B1%E5%B9%B4%E6%B6%A8200%E5%BA%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7713828"
+    },
+    {
+      "title": "多元夜游激发文旅活力",
+      "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%85%83%E5%A4%9C%E6%B8%B8%E6%BF%80%E5%8F%91%E6%96%87%E6%97%85%E6%B4%BB%E5%8A%9B&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7617911"
+    },
+    {
+      "title": "“全款买房”的人在变多",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%A8%E6%AC%BE%E4%B9%B0%E6%88%BF%E2%80%9D%E7%9A%84%E4%BA%BA%E5%9C%A8%E5%8F%98%E5%A4%9A&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7520446"
+    },
+    {
+      "title": "爷爷撬开焊死6年存钱箱助孙子上大学",
+      "url": "https://www.baidu.com/s?wd=%E7%88%B7%E7%88%B7%E6%92%AC%E5%BC%80%E7%84%8A%E6%AD%BB6%E5%B9%B4%E5%AD%98%E9%92%B1%E7%AE%B1%E5%A9%A9%E5%AD%99%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7424560"
+    },
+    {
+      "title": "预制菜以一种新形态重回年轻人餐桌",
+      "url": "https://www.baidu.com/s?wd=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BB%A5%E4%B8%80%E7%A7%8D%E6%96%B0%E5%BD%A2%E6%80%81%E9%87%8D%E5%9B%9E%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%A4%90%E6%A1%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7330653"
+    },
+    {
+      "title": "日本熊本城部分城墙受损坍塌",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%9F%8E%E9%83%A8%E5%88%86%E5%9F%8E%E5%A2%99%E5%8F%97%E6%8D%9F%E5%9D%8D%E5%A1%8C&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7238095"
+    },
+    {
+      "title": "台风后家中积水现15斤大鲶鱼",
+      "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E5%90%8E%E5%AE%B6%E4%B8%AD%E7%A7%AF%E6%B0%B4%E7%8E%B015%E6%96%A4%E5%A4%A7%E9%B2%B6%E9%B1%BC&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7141323"
+    },
+    {
+      "title": "重庆市政协原副主席段成刚被判无期",
+      "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B8%82%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%AE%B5%E6%88%90%E5%88%9A%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "7043992"
+    },
+    {
+      "title": "著名相声表演艺术家常佩业去世",
+      "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E7%9B%B8%E5%A3%B0%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%B8%B8%E4%BD%A9%E4%B8%9A%E5%8E%BB%E4%B8%96&sa=fyb_news&rsv_dl=fyb_news",
+      "source": "百度热搜",
+      "heat": "6949942"
+    }
+  ],
+  "llm": [
+    {
+      "title": "全球大模型调用量前五均为中国产品，小米MiMo-V2.5登顶",
+      "desc": "上周全球大模型总调用量58万亿Token，中国大模型周调用量是美国14倍。小米MiMo-V2.5以10.5万亿Tokens登顶，DeepSeek全系标配1M上下文，MIT完全开源。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8046a685a6590352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-28"
+    },
+    {
+      "title": "Gemini发布3款新轻量模型：3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyber",
+      "desc": "谷歌发布了三款轻量模型而非期待已久的Gemini 3.5 Pro，包括Gemini 3.6 Flash等，被用户认为有些敷衍，但仍丰富了Gemini生态产品线。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8116a62d74c56752",
+      "source": "企鹅号",
+      "pubDate": "2026-07-24"
+    }
+  ],
+  "github": [
+    {
+      "title": "2026开源AI Agent框架横评：Hermes Agent / OpenClaw / AutoGPT / CrewAI",
+      "desc": "四大框架对比：Hermes Agent(60K+)具备自进化能力，OpenClaw(300K+)深度IDE集成，AutoGPT(160K+)通用自动化，CrewAI(45K+)多Agent协作，各有最强项。",
+      "url": "https://cloud.tencent.com/developer/article/2655405",
+      "source": "腾讯云",
+      "pubDate": "2026-07-29"
+    }
+  ],
+  "trend": [
+    {
+      "name": "openclaw/openclaw",
+      "stars": "171K+",
+      "type": "AI Agent框架",
+      "desc": "全平台私人AI助手，跨系统跨终端适配，TypeScript开发，单日新增星标居榜首，2026年爆火的开源AI Agent框架。",
+      "tags": [
+        "AI Assistant",
+        "Agent",
+        "TypeScript"
+      ],
+      "url": "https://github.com/openclaw/openclaw",
+      "iconType": "star",
+      "icon": "🦞",
+      "pubDate": "2026-07-26"
+    }
+  ],
+  "world": [
+    {
+      "title": "昆仑万维宣布2026为世界模型元年，Matrix-Game 3.5实现单卡20FPS实时生成",
+      "desc": "WAIC 2026期间昆仑万维宣布世界模型元年，Matrix-Game 3.5实现720p单卡20FPS实时生成，具备1分钟记忆能力并开源核心架构；Mureka v9.5音乐模型同步升级。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6856a5d705e43152",
+      "source": "企鹅号",
+      "pubDate": "2026-07-20"
+    }
+  ],
+  "design": [
+    {
+      "title": "Anthropic发布Claude Design：用对话做设计，Figma股价应声下跌",
+      "desc": "Anthropic推出Claude Design，用自然语言生成可编辑设计稿、原型图、PPT和海报，基于Claude Opus 4.7驱动，引发Figma股价下跌。",
+      "url": "https://cloud.tencent.com/developer/article/2661214",
+      "source": "腾讯云",
+      "pubDate": "2026-07-29"
+    },
+    {
+      "title": "Claude Design实战指南2026：从提示词到交互原型的完整工作流",
+      "desc": "详细介绍Claude Design从文字描述生成交互式原型、演示文稿、落地页和UI线框图的完整工作流，面向非设计师用户，入口位于claude.ai/design。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/161711655",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-22"
+    },
+    {
+      "title": "Anthropic升级Claude语音：支持多模型与第三方应用集成",
+      "desc": "Anthropic更新Claude语音模式，允许用户在Opus、Sonnet和Haiku三种模型间选择，并实现自动切换，适用于长篇对话和产品市场调研头脑风暴。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2406a631ae876252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-24"
+    }
+  ],
+  "video": [
+    {
+      "title": "微软深夜炸场：Sora 2全员免费无限生成AI视频创作",
+      "desc": "微软必应视频创作者全面接入OpenAI最新Sora 2模型，向所有用户免费开放，实现一句话生成大片，颠覆AI视频生成领域。",
+      "url": "https://cloud.tencent.com/developer/article/2646883",
+      "source": "腾讯云",
+      "pubDate": "2026-07-29"
+    }
+  ],
+  "rag": [],
+  "devtools": [],
+  "industry": [
+    {
+      "title": "AI领域一周观察2026.07.20—07.26：Google Gemini 4进入预训练",
+      "desc": "Google两代模型并行推进，Gemini 3.5 Pro因编程能力未达标延期，Sundar Pichai确认Gemini 4已进入预训练阶段。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5886a67367985352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-27"
+    },
+    {
+      "title": "AI科技热点日报 2026年7月22日：AMD Zen 6发布、WAIC 2026人形机器人集中亮相",
+      "desc": "AMD发布Zen 6架构EPYC Venice处理器（2nm工艺），WAIC 2026展示具身智能最新进展，AI Agent互联标准全球推进，中国首批18家单位签约试点。",
+      "url": "https://blog.csdn.net/haohaizi_liu/article/details/163106220",
+      "source": "CSDN",
+      "pubDate": "2026-07-25"
+    },
+    {
+      "title": "欧盟《AI法案修订案》于2026年7月27日生效",
+      "desc": "欧盟AI法案修订案正式公布并生效，推迟高风险AI适用时间（独立型2027年12月、嵌入型2028年8月），扩大欧委会规则协调权。",
+      "url": "https://view.inews.qq.com/a/20260726A09QFU00?scene=qqsearch",
+      "source": "腾讯新闻",
+      "pubDate": "2026-07-26"
+    },
+    {
+      "title": "英伟达GB300实现美国制造，投资SSI 50亿美元",
+      "desc": "英伟达GB300先进AI芯片实现美国制造关键一步；投资OpenAI前首席科学家Ilya Sutskever创办的SSI 50亿美元，达成长期战略合作。",
+      "url": "http://icsmart.cn/",
+      "source": "芯智讯",
+      "pubDate": "2026-07-28"
+    }
+  ],
+  "game": [
+    {
+      "title": "米哈游创始人蔡浩宇创办的AI产品AnuNeko宣布永久关停",
+      "desc": "米哈游联合创始人蔡浩宇创办的新加坡AI企业Anuttacon旗下拟人陪伴AI产品AnuNeko确定永久关停，将于北京时间7月30日全面终止服务。",
+      "url": "http://d.gamekezhan.com/",
+      "source": "游戏客栈",
+      "pubDate": "2026-07-27"
+    },
+    {
+      "title": "25人团队剩3人，求助AI成功救活收入腰斩的手游",
+      "desc": "一个25人运营团队缩减至3人后引入AI工具，成功挽救收入腰斩的手游产品，展现AI在游戏运营降本增效中的实际应用价值。",
+      "url": "http://d.gamekezhan.com/",
+      "source": "游戏客栈",
+      "pubDate": "2026-07-27"
+    }
+  ],
+  "drama": [
+    {
+      "title": "2026年AI漫剧工业化制作完整指南：从剧本到分镜的全链路实战",
+      "desc": "AI漫剧工业化五步流程（剧本创作→分镜设计→图片素材→AI视频→后期剪辑），熟练团队一天可制作5-10集，核心原则为低场景、高复用、自动化。",
+      "url": "https://blog.csdn.net/weixin_44822948/article/details/160586077",
+      "source": "CSDN",
+      "pubDate": "2026-07-23"
+    },
+    {
+      "title": "触手AI：水母智能专业级AI漫短剧创作平台，作品入围戛纳电影节",
+      "desc": "水母智能推出触手AI平台，覆盖IP改编、剧本、分镜、视频生成全流程。其作品《摸金之天机入梦》《饿塔》入围第79届戛纳电影节。",
+      "url": "https://www.yjpoo.com/site/1051.html",
+      "source": "映技派",
+      "pubDate": "2026-07-27"
+    },
+    {
+      "title": "AI漫剧、AI动画制作教程：核心六步法与工具推荐",
+      "desc": "AI动漫制作六步法详解：剧本创作、角色场景设计、分镜生成、图生视频、配音配乐、后期合成，推荐即梦、Midjourney、可灵等2026年主流工具。",
+      "url": "https://blog.csdn.net/weixin_60830013/article/details/159384088",
+      "source": "CSDN",
+      "pubDate": "2026-07-25"
+    },
+    {
+      "title": "2026 AI短剧本地部署新手入门指南：从零打造自动短剧工厂",
+      "desc": "AI短剧本地部署完整教程，涵盖硬件配置要求（RTX 4060+）、软件安装、模型选择与部署流程，适合希望私有化搭建AI短剧生产线的团队。",
+      "url": "https://blog.csdn.net/plawuyue/article/details/159553449",
+      "source": "CSDN",
+      "pubDate": "2026-07-22"
+    }
+  ],
+  "apps": [
+    {
+      "title": "2026年AI圈爆火产品盘点：10款最值得关注的AI工具",
+      "desc": "Google Gemini月活7.5亿成全球最大AI服务，Claude Code原生集成Xcode 26.3实现代理式编程，MiniCPM-o 4.5首款开源全双工多模态模型9B参数超GPT-4o。",
+      "url": "https://blog.csdn.net/2501_92406411/article/details/158391487",
+      "source": "CSDN",
+      "pubDate": "2026-07-26"
+    },
+    {
+      "title": "Adobe Express 7月更新：AI助手新增设计布局修复功能",
+      "desc": "Adobe Express于2026年7月发布更新，AI助手可改善设计元素的布局、间距和对齐方式，提升设计效率。",
+      "url": "https://helpx.adobe.com/cn/express/web/create-and-edit-images/edit-images/chrome-extension.html",
+      "source": "Adobe",
+      "pubDate": "2026-07-24"
+    },
+    {
+      "title": "2026年办公AI助手盘点：5款主流工具场景实测",
+      "desc": "实测飞书aily等5款办公AI助手，覆盖会议纪要整理、方案撰写、跨部门信息汇总等场景，AI工具从对话式向主动化任务承接演进。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6036a6894e245552",
+      "source": "企鹅号",
+      "pubDate": "2026-07-28"
+    }
+  ]
+}
