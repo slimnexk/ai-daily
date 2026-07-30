@@ -1,6 +1,6 @@
 {
-  "title": "7月大模型混战白热化：Claude 5代砍80%系统提示，世界模型元年开启",
-  "desc": "2026年7月AI圈硝烟弥漫：Anthropic发布Claude 5代上下文工程新法则，砍掉80%系统提示词；GPT-5.6、Grok 4.5、Gemini 3.5密集登场；李飞飞亲自定义世界模型三大核心功能；昆仑万维宣布2026为世界模型元年；GitHub上AI Agent项目全面爆发，Hermes Agent自进化能力引发关注。",
+  "title": "DeepSeek V4正式版即将落地，Claude语音模式支持多模型切换",
+  "desc": "DeepSeek V4正式版实测曝光，性能逼近Opus 4.8水平；Anthropic升级Claude语音模式，支持Opus/Sonnet/Haiku多模型切换及第三方应用集成；国家具身智能中试基地发布首个合作世界模型；GitHub Trending上AI Agent项目持续霸榜。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -77,6 +77,10 @@
     "2026-07-29": {
       "title": "7月大模型混战白热化：Claude 5代砍80%系统提示，世界模型元年开启",
       "desc": "2026年7月AI圈硝烟弥漫：Anthropic发布Claude 5代上下文工程新法则，砍掉80%系统提示词；GPT-5.6、Grok 4.5、Gemini 3.5密集登场；李飞飞亲自定义世界模型三大核心功能；昆仑万维宣布2026为世界模型元年；GitHub上AI Agent项目全面爆发，Hermes Agent自进化能力引发关注。"
+    },
+    "2026-07-30": {
+      "title": "DeepSeek V4正式版即将落地，Claude语音模式支持多模型切换",
+      "desc": "DeepSeek V4正式版实测曝光，性能逼近Opus 4.8水平；Anthropic升级Claude语音模式，支持Opus/Sonnet/Haiku多模型切换及第三方应用集成；国家具身智能中试基地发布首个合作世界模型；GitHub Trending上AI Agent项目持续霸榜。"
     }
   }
 }
