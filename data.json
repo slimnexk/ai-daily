@@ -1,6 +1,6 @@
 {
-  "title": "DeepSeek V4正式版即将落地，Claude语音模式支持多模型切换",
-  "desc": "DeepSeek V4正式版实测曝光，性能逼近Opus 4.8水平；Anthropic升级Claude语音模式，支持Opus/Sonnet/Haiku多模型切换及第三方应用集成；国家具身智能中试基地发布首个合作世界模型；GitHub Trending上AI Agent项目持续霸榜。",
+  "title": "AI日报 2026-07-31",
+  "desc": "",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -81,6 +81,10 @@
     "2026-07-30": {
       "title": "DeepSeek V4正式版即将落地，Claude语音模式支持多模型切换",
       "desc": "DeepSeek V4正式版实测曝光，性能逼近Opus 4.8水平；Anthropic升级Claude语音模式，支持Opus/Sonnet/Haiku多模型切换及第三方应用集成；国家具身智能中试基地发布首个合作世界模型；GitHub Trending上AI Agent项目持续霸榜。"
+    },
+    "2026-07-31": {
+      "title": "AI日报 2026-07-31",
+      "desc": ""
     }
   }
 }
