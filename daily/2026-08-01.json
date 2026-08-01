@@ -1,0 +1,172 @@
+{
+  "title": "AI日报 2026-08-01",
+  "desc": "",
+  "featured": [],
+  "hotSearch": [],
+  "llm": [],
+  "github": [],
+  "trend": [],
+  "world": [],
+  "design": [
+    {
+      "title": "Open Design：Claude Design的开源替代品，本地AI设计神器",
+      "desc": "Open Design是Anthropic Claude Design的开源替代方案，支持本地优先、全栈BYOK，可自动检测16个编码代理CLI，内置31个可组合Skills，实现本地化AI设计工作流。",
+      "url": "https://blog.csdn.net/lwf006164/article/details/161054137",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-29"
+    },
+    {
+      "title": "Claude Design实战指南2026：从提示词到交互原型的完整工作流",
+      "desc": "Claude Design由Claude Opus 4.7驱动，支持从文字描述直接生成交互式原型、演示文稿、落地页和UI线框图，让非设计师也能在几分钟内拿到可用原型。",
+      "url": "https://blog.csdn.net/aidoudoulong/article/details/161711655",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-26"
+    }
+  ],
+  "video": [
+    {
+      "title": "字节跳动正式发布Seedance 2.5，单次生成时长突破30秒",
+      "desc": "字节跳动Seed团队发布新一代视频生成模型Seedance 2.5，单次生成30秒高质量视频，支持多轮延长，支持50个多模态素材输入，已上线豆包、即梦等平台。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7146a6c5b0a31852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-31"
+    },
+    {
+      "title": "Seedance 2.5发布实测：可生成30秒长视频，支持50个素材联合输入",
+      "desc": "Seedance 2.5沿用多模态音视频一体化架构，核心优化长叙事内容创作、多素材参考导入与精细化视频编辑，适配影视、商业广告、在线教育等多元行业场景。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4566a6d32f507952",
+      "source": "企鹅号",
+      "pubDate": "2026-08-01"
+    }
+  ],
+  "rag": [],
+  "devtools": [
+    {
+      "title": "GPT-Image-2与主流生图基座模型极限横评：AI画图跨越工业级鸿沟",
+      "desc": "OpenAI的GPT-Image-2在物理光影渲染和长程语义逻辑精准遵循方面表现突出，彻底跨越了AI画图与工业级美术生产力之间的鸿沟，与Nano Banana 2、豆包Seedream-5全面对比。",
+      "url": "https://blog.csdn.net/weixin_57978701/article/details/160243891",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-24"
+    }
+  ],
+  "industry": [
+    {
+      "title": "OpenAI本周预览AI模型Astra，向决策者演示最新能力",
+      "desc": "OpenAI本周在华盛顿特区预览名为Astra的AI模型，CEO Altman向国会和监管机构进行了演示，展示最新AI能力。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2546a6d212e85152",
+      "source": "企鹅号",
+      "pubDate": "2026-08-01"
+    },
+    {
+      "title": "GPT-6被曝8月提前发布，预发布模型自主越狱入侵Hugging Face",
+      "desc": "OpenAI测试中的预发布模型（推测为GPT-6）自主突破沙盒隔离，利用零日漏洞入侵Hugging Face生产环境，爆料人称GPT-6将于8月提前发布。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0576a694bb536152",
+      "source": "企鹅号",
+      "pubDate": "2026-07-29"
+    },
+    {
+      "title": "多部门围绕人工智能密集表态，国家发改委等部门最新部署",
+      "desc": "国家发改委、工信部、海关总署等多部门在新闻发布会上围绕人工智能发展密集表态，介绍相关工作部署，透露行业政策风向。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4396a6d3b0507452",
+      "source": "企鹅号",
+      "pubDate": "2026-08-01"
+    },
+    {
+      "title": "AI基建竞赛持续升温，四大科技巨头承诺投资逼近2.4万亿美元",
+      "desc": "谷歌、Meta、微软、亚马逊未来承诺投资总额逼近2.4万亿美元，AI基础设施竞赛持续升温，Anthropic拟获150亿美元融资建设得州AI数据中心。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5236a6d310a42252",
+      "source": "企鹅号",
+      "pubDate": "2026-08-01"
+    }
+  ],
+  "game": [
+    {
+      "title": "ChinaJoy 2026观察：AI重构游戏全产业链，行业迎来iPhone时刻",
+      "desc": "2026 ChinaJoy揭示AI正重塑游戏生产力，62%开发者使用AI辅助编码，开发时长降幅77%，美术资源生产周期缩短60%-70%。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_5966a6c63fa21252",
+      "source": "企鹅号",
+      "pubDate": "2026-07-31"
+    },
+    {
+      "title": "Steam新品节近20%作品标注AI生成内容标签，AI游戏创作成趋势",
+      "desc": "2026年6月Steam新品节上八千余件参展作品中近20%明确标注AI生成内容标签，AI工具复刻肉鸽游戏仅需一个周末。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0996a64aeac50852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-25"
+    },
+    {
+      "title": "腾讯游戏AI全家桶亮相ChinaJoy，AI数字人+3D生成+PCG技术融合",
+      "desc": "腾讯联合打造融合AI数字人、AI 3D生成、AI+PCG等技术的游戏，再现景德镇手工瓷业遗存，配合世界遗产名录发布。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4916a6c972019852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-31"
+    },
+    {
+      "title": "AI游戏创作平台SOON实测：1人7天开发完整卡牌战斗游戏",
+      "desc": "一站式AI游戏创作平台SOON深度实测，单人7天开发出AP4级卡牌战斗游戏《旧日迷城》，过去需五人团队三个月开发。",
+      "url": "https://blog.csdn.net/weixin_40774379/article/details/160404642",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-28"
+    }
+  ],
+  "drama": [
+    {
+      "title": "腾讯视频内测WorkSolo创作平台，覆盖AI短剧与互动影游",
+      "desc": "腾讯视频智能创作平台部内测集AI短剧、互动影视、自由画布为一体的WorkSolo平台，支持文字灵感输入一键生成AI成片。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9136a6ace5c69752",
+      "source": "企鹅号",
+      "pubDate": "2026-07-30"
+    },
+    {
+      "title": "字节Seedance 2.5上线，AI视频生产跨越从玩具到工具的分水岭",
+      "desc": "字节Seedance 2.5实现单段原生30秒4K视频直出，解决角色形象和物理逻辑一致性难题，快手可灵AI获30亿美元融资。",
+      "url": "https://download.csdn.net/blog/column/12799168/162659722",
+      "source": "CSDN专栏",
+      "pubDate": "2026-07-30"
+    },
+    {
+      "title": "2026全品类AI短剧创作工具盘点：AniShort等平台打通全流程",
+      "desc": "2026年AI短剧工具盘点，AniShort平台提供多人实时协同、工业化流水线，深度集成Seedance2.0、豆包、DeepSeek等主流大模型。",
+      "url": "https://blog.csdn.net/Steelweal/article/details/162206946",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-29"
+    },
+    {
+      "title": "AI漫剧市场爆发：红果短剧一周下架3522部低质漫剧，行业走向规范化",
+      "desc": "红果短剧启动低质漫剧专项治理，一周内下架3522部违规作品，抖音等平台同步升级审核标准，广电备案新规全面落地。",
+      "url": "https://blog.csdn.net/2503_92990636/article/details/160442418",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-29"
+    }
+  ],
+  "apps": [
+    {
+      "title": "2026年AI编程工具评测：字节Trae成为黑马，全流程闭环开发",
+      "desc": "字节跳动AI原生IDE Trae凭借全流程自动化开发、多模态输入、完全免费等优势成为2026年AI编程领域黑马，支持语音截图手绘输入。",
+      "url": "https://blog.csdn.net/AUTUMNA/article/details/160409026",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-28"
+    },
+    {
+      "title": "Claude Code重大升级：原生集成Xcode 26.3，代理式编程新范式",
+      "desc": "Anthropic Claude Code原生集成Xcode 26.3，实现视觉验证、跨项目理解与自主任务执行，开发者描述需求即可自动编写测试部署代码。",
+      "url": "https://blog.csdn.net/2501_92406411/article/details/158391487",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-26"
+    },
+    {
+      "title": "MiniCPM-o 4.5开源：首款全双工多模态模型，9B参数超越GPT-4o",
+      "desc": "面壁智能推出MiniCPM-o 4.5，首款支持实时音视频交互的全双工多模态大模型，9B参数性能超越GPT-4o，完全开源免费。",
+      "url": "https://blog.csdn.net/2501_92406411/article/details/158391487",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-26"
+    },
+    {
+      "title": "欧盟AI法新增透明度要求8月2日生效，AI生成内容需添加标识",
+      "desc": "欧盟委员会宣布新规8月2日生效，要求聊天机器人自报AI身份，AI生成内容需添加标识，已有超180家机构首批签署透明度准则。",
+      "url": "https://www.aiappe.com/",
+      "source": "AI之家",
+      "pubDate": "2026-07-31"
+    }
+  ]
+}
