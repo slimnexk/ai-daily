@@ -1,6 +1,6 @@
 {
-  "title": "AI日报 2026-08-02",
-  "desc": "",
+  "title": "DeepSeek V4-Flash公测惊艳全场，大模型参数竞赛重回2万亿时代",
+  "desc": "DeepSeek V4-Flash正式版API上线公测，Agent能力反超自家旗舰Pro；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；Anthropic发布Claude Opus 5，性能逼近Fable 5且成本减半；GitHub Skills生态崛起，Karpathy-skills破10万星。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -93,6 +93,10 @@
     "2026-08-02": {
       "title": "AI日报 2026-08-02",
       "desc": ""
+    },
+    "2026-08-03": {
+      "title": "DeepSeek V4-Flash公测惊艳全场，大模型参数竞赛重回2万亿时代",
+      "desc": "DeepSeek V4-Flash正式版API上线公测，Agent能力反超自家旗舰Pro；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；Anthropic发布Claude Opus 5，性能逼近Fable 5且成本减半；GitHub Skills生态崛起，Karpathy-skills破10万星。"
     }
   }
 }
