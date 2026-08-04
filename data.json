@@ -1,6 +1,6 @@
 {
-  "title": "DeepSeek V4-Flash公测惊艳全场，大模型参数竞赛重回2万亿时代",
-  "desc": "DeepSeek V4-Flash正式版API上线公测，Agent能力反超自家旗舰Pro；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；Anthropic发布Claude Opus 5，性能逼近Fable 5且成本减半；GitHub Skills生态崛起，Karpathy-skills破10万星。",
+  "title": "GPT-5.6自优化降本20%，Skills生态取代MCP成Agent新标准",
+  "desc": "OpenAI用GPT-5.6 Sol优化自身推理链路，端到端成本降低20%，同时Luna模型降价80%；GitHub上Skills生态正取代MCP成为AI Agent开发新标准，Karpathy-skills突破10万星；李飞飞团队首次正式定义世界模型三大核心功能；Anthropic持续升级Claude语音与托管智能体。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -97,6 +97,10 @@
     "2026-08-03": {
       "title": "DeepSeek V4-Flash公测惊艳全场，大模型参数竞赛重回2万亿时代",
       "desc": "DeepSeek V4-Flash正式版API上线公测，Agent能力反超自家旗舰Pro；月之暗面Kimi K3以2.8万亿参数成为全球最大开源模型；Anthropic发布Claude Opus 5，性能逼近Fable 5且成本减半；GitHub Skills生态崛起，Karpathy-skills破10万星。"
+    },
+    "2026-08-04": {
+      "title": "GPT-5.6自优化降本20%，Skills生态取代MCP成Agent新标准",
+      "desc": "OpenAI用GPT-5.6 Sol优化自身推理链路，端到端成本降低20%，同时Luna模型降价80%；GitHub上Skills生态正取代MCP成为AI Agent开发新标准，Karpathy-skills突破10万星；李飞飞团队首次正式定义世界模型三大核心功能；Anthropic持续升级Claude语音与托管智能体。"
     }
   }
 }

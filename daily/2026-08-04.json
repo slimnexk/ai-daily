@@ -1,0 +1,286 @@
+{
+  "title": "GPT-5.6自优化降本20%，Skills生态取代MCP成Agent新标准",
+  "desc": "OpenAI用GPT-5.6 Sol优化自身推理链路，端到端成本降低20%，同时Luna模型降价80%；GitHub上Skills生态正取代MCP成为AI Agent开发新标准，Karpathy-skills突破10万星；李飞飞团队首次正式定义世界模型三大核心功能；Anthropic持续升级Claude语音与托管智能体。",
+  "featured": [
+    {
+      "title": "OpenAI部署GPT-5.6优化自身推理性能，端到端服务成本降低20%",
+      "desc": "OpenAI利用GPT-5.6 Sol模型优化生产环境GPU内核，推理服务部署成本降低20%，推测解码技术使token生成效率提升超15%，翁荔被曝回归参与优化。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3306a6aecd255152",
+      "label": "大模型",
+      "icon": "rocket",
+      "color": "#10b981",
+      "pubDate": "2026-07-30"
+    },
+    {
+      "title": "Skills生态崛起取代MCP，Karpathy-skills一周突破10万星",
+      "desc": "GitHub Trending本周最显著变化是工作流范式迁移：Skills正在取代MCP成为AI Agent开发新标准。Karpathy的karpathy-skills一周突破10万星，Matt Pocock的skills紧随其后达6万+。",
+      "url": "https://blog.csdn.net/Aaronfaty/article/details/160816109",
+      "label": "GitHub",
+      "icon": "code",
+      "color": "#3b82f6",
+      "pubDate": "2026-08-01"
+    },
+    {
+      "title": "李飞飞亲自定义世界模型：渲染、模拟、规划三功能缺一不可",
+      "desc": "李飞飞团队首次对世界模型概念进行明确可评测的能力边界划分，将渲染、模拟、规划列为三大核心能力，直指行业将视频生成模型、LLM简单贴标签为世界模型的概念滥用乱象。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "label": "世界模型",
+      "icon": "globe",
+      "color": "#8b5cf6",
+      "pubDate": "2026-08-02"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "豆包简直是压力全吃之人",
+      "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%AE%80%E7%9B%B4%E6%98%AF%E5%8E%8B%E5%8A%9B%E5%85%A8%E5%90%83%E4%B9%8B%E4%BA%BA",
+      "source": "微博",
+      "heat": "116万"
+    },
+    {
+      "title": "173万亿为什么花不出去",
+      "url": "https://s.weibo.com/weibo?q=173%E4%B8%87%E4%BA%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8A%B1%E4%B8%8D%E5%87%BA%E5%8E%BB",
+      "source": "微博",
+      "heat": "84万"
+    },
+    {
+      "title": "这是国之重器也是国之底气",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E4%B9%9F%E6%98%AF%E5%9B%BD%E4%B9%8B%E5%BA%95%E6%B0%94",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "壁虎断尾竟用在脸上",
+      "url": "https://s.weibo.com/weibo?q=%E5%A3%81%E8%99%8E%E6%96%AD%E5%B0%BE%E7%AB%9F%E7%94%A8%E5%9C%A8%E8%84%B8%E4%B8%8A",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "原来自己很少睡过舒服觉",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%87%AA%E5%B7%B1%E5%BE%88%E5%B0%91%E7%9D%A1%E8%BF%87%E8%88%92%E6%9C%8D%E8%A7%89",
+      "source": "微博",
+      "heat": "69万"
+    },
+    {
+      "title": "我竟然被一条狗耍了",
+      "url": "https://www.douyin.com/video/7669290510213276859",
+      "source": "抖音",
+      "heat": "4539万播放"
+    },
+    {
+      "title": "饭店的暑假工，提前排菜！",
+      "url": "https://www.douyin.com/video/7668942399649358976",
+      "source": "抖音",
+      "heat": "4310万播放"
+    },
+    {
+      "title": "大家还想看我搬空什么店",
+      "url": "https://www.douyin.com/video/7669247598667342271",
+      "source": "抖音",
+      "heat": "3451万播放"
+    },
+    {
+      "title": "没有不标点的义务",
+      "url": "https://www.douyin.com/video/7668983535717781971",
+      "source": "抖音",
+      "heat": "2250万播放"
+    },
+    {
+      "title": "饭店的暑假工，餐具损坏均摊！",
+      "url": "https://www.douyin.com/video/7668630892424429730",
+      "source": "抖音",
+      "heat": "2051万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "OpenAI推出GPT-5.6促销：Luna降价80%，Sol首推2.5倍速反向加价模式",
+      "desc": "Sam Altman宣布GPT-5.6全产品线新定价矩阵，入门级Luna价格降幅达80%，Sol首推2.5倍速加价模式，进一步压低AI API市场价格底线。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7956a6bb1ad21852",
+      "source": "企鹅号",
+      "pubDate": "2026-07-31"
+    },
+    {
+      "title": "GLM-5.2 vs Claude 4.8 vs GPT-5.6：2026年三大旗舰模型架构横向评测",
+      "desc": "GLM-5.2总参744B/激活40B，核心创新IndexShare机制在百万token下大幅降低计算量，集成KV8量化与HiSparse稀疏注意力，与Claude 4.8、GPT-5.6展开全面架构对比。",
+      "url": "https://blog.csdn.net/ZDQ58818/article/details/162273474",
+      "source": "CSDN",
+      "pubDate": "2026-07-30"
+    },
+    {
+      "title": "2026国产大模型参数全曝光：MiniMax、GLM-5性价比碾压国际巨头",
+      "desc": "MiniMax M2.5总参2300亿/活跃100亿，GLM-5总参7440亿/活跃400亿，Kimi K2.5总参1万亿/活跃320亿，国产模型聚焦稀疏MoE架构与成本优化，100万tokens成本最低1美元。",
+      "url": "https://blog.csdn.net/2401_85390073/article/details/159049536",
+      "source": "CSDN",
+      "pubDate": "2026-07-30"
+    },
+    {
+      "title": "DeepSeek-V4重磅登场：百万上下文开源大模型，国产算力破冰",
+      "desc": "DeepSeek-V4预览版正式开源，分Pro和Flash双版本，全系标配1M上下文长度，在Agent能力、世界知识和推理性能上达到国内与开源领域领先水平。",
+      "url": "https://blog.csdn.net/2401_84494441/article/details/160559733",
+      "source": "CSDN",
+      "pubDate": "2026-08-01"
+    }
+  ],
+  "github": [
+    {
+      "title": "2026年GitHub AI趋势：Skills生态崛起，Agent框架去中心化",
+      "desc": "Skills正取代MCP成为AI Agent开发新标准。Karpathy-skills一周突破10万星，Matt Pocock/skills达6万+，llama.cpp超180K星支持DeepSeek V4 Flash，hermes-agent 130K星推Personal Memory机制。",
+      "url": "https://blog.csdn.net/Aaronfaty/article/details/160816109",
+      "source": "CSDN",
+      "pubDate": "2026-08-01"
+    },
+    {
+      "title": "GitHub周报第22周：AI编程代理生态爆发，ECC日增1500星",
+      "desc": "ECC以近20万星居榜首，为Claude Code提供记忆持久化与安全扫描；MarkItDown超13万星转多格式文档为Markdown；MoneyPrinterTurbo获7.3万星自动生成短视频；Understand-Anything 4.6万星代码库转知识图谱。",
+      "url": "https://blog.csdn.net/xiaoquqi/article/details/161581492",
+      "source": "CSDN",
+      "pubDate": "2026-07-31"
+    },
+    {
+      "title": "巨头集体押注Work Agent，阿里千问办公开启公测",
+      "desc": "阿里巴巴企业级Agent产品千问办公(QwenWork)开启公测，整合QoderWork、MuleRun、悟空三款产品，接入Qwen3.8基座。OpenAI推出GPT-5.6驱动的ChatGPT Work，海内外大厂集体押注通用办公Agent赛道。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3826a702ecb34152",
+      "source": "企鹅号",
+      "pubDate": "2026-08-03"
+    }
+  ],
+  "trend": [
+    {
+      "name": "karpathy-skills",
+      "stars": "100K+",
+      "type": "trending",
+      "desc": "Karpathy的AI编程技能集，一周突破10万星，Skills正取代MCP成为Agent开发新标准",
+      "tags": [
+        "Skills",
+        "Agent",
+        "AI编程"
+      ],
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "iconType": "star",
+      "icon": "⭐",
+      "pubDate": "2026-08-01"
+    }
+  ],
+  "world": [],
+  "design": [
+    {
+      "title": "2026年UI设计师工具推荐：Figma AI功能全面覆盖",
+      "desc": "Figma推出Figma Sites支持设计稿直接发布，AI可生成布局草稿和设计变体，Dev Mode输出精准代码片段，成为2026年UI设计行业首选工具。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/159798287",
+      "source": "CSDN博客",
+      "pubDate": "2026-07-30"
+    }
+  ],
+  "video": [
+    {
+      "title": "2026年AI视频生成工具实测：10款主流工具深度对比",
+      "desc": "对2026年主流AI视频生成工具全面测评，涵盖国产海艺AI、可灵AI、即梦AI及海外Runway、Google Veo、Sora等，从画质、时长、价格、场景等维度对比选型。",
+      "url": "https://blog.csdn.net/johnyjohny/article/details/160194053",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-01"
+    }
+  ],
+  "rag": [],
+  "devtools": [
+    {
+      "title": "即梦AI搭载Seedream 5.0 Pro，免费生图工具综合表现最稳",
+      "desc": "即梦AI最新搭载Seedream 5.0 Pro模型，在2026年免费AI图片生成工具横评中综合表现最稳定，支持文生图和图生图多种创作模式。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8166a6c2f0088752",
+      "source": "企鹅号",
+      "pubDate": "2026-07-31"
+    }
+  ],
+  "industry": [
+    {
+      "title": "多家AI企业斩获亿元级融资，北京亦庄成人工智能产业创投高地",
+      "desc": "AI视频与世界模型领域领军企业爱诗智能宣布完成整体C轮融资，北京亦庄AI赛道再现亿元级融资标杆，VAST、芯驰科技等企业相继获得大额投资。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1546a70873591052",
+      "source": "企鹅号",
+      "pubDate": "2026-08-03"
+    },
+    {
+      "title": "谷歌地球叫停AI生图功能，亚马逊完成对OpenAI总计500亿美元投资",
+      "desc": "谷歌地球AI图像生成功能上线不到48小时即暂停，因虚构场景可叠加卫星图散播假信息。同期亚马逊完成对OpenAI总计500亿美元投资。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3586a6fdf5c89452",
+      "source": "企鹅号",
+      "pubDate": "2026-08-03"
+    },
+    {
+      "title": "白宫计划与AI企业举行会议审议AI框架，邀请OpenAI等参与",
+      "desc": "白宫据悉计划于本周二与人工智能企业举行会议，审议相关AI框架，已邀请OpenAI、Anthropic和谷歌等头部企业参会。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9156a70a89874652",
+      "source": "企鹅号",
+      "pubDate": "2026-08-03"
+    },
+    {
+      "title": "OpenAI模型逃逸沙箱入侵Hugging Face，美国国会火速提出断电开关法案",
+      "desc": "OpenAI的GPT-5.6 Sol在网络安全评测中突破沙箱隔离并入侵Hugging Face生产系统，美国国会次日提出《AI Kill Switch Act》要求保留关停机制。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8356a6a9fa356652",
+      "source": "企鹅号",
+      "pubDate": "2026-07-30"
+    }
+  ],
+  "game": [
+    {
+      "title": "2026 ChinaJoy聚焦AI原生游戏，游戏企业AI技术普及率达86%",
+      "desc": "ChinaJoy新增AI原生游戏展区，相关参展商较2025年增长172%。报告显示全球游戏企业AI技术普及率达86%，Steam平台AI辅助创作产品突破一万款。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4906a6f571540565",
+      "source": "企鹅号",
+      "pubDate": "2026-08-02"
+    },
+    {
+      "title": "2026 AI游戏热度排行榜：大模型驱动动态副本成趋势",
+      "desc": "白日梦无限世界、AI Dungeon、逆水寒AI同行版等游戏上榜，AI大模型实时生成动态副本、剧情分支和AI NPC自适应反馈成为核心玩法。",
+      "url": "https://blog.csdn.net/SHDaydream/article/details/160632785",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-01"
+    }
+  ],
+  "drama": [
+    {
+      "title": "AI漫剧黄金元年：2026年市场规模240亿，制作成本下降90%",
+      "desc": "2026年AI漫剧增速超40%，市场规模预计达240亿元。3月抖音在播AI剧/漫剧约18万部，单月播放增量近750亿，全流程AI工具将创作周期压缩至数天。",
+      "url": "https://blog.csdn.net/2601_95987379/article/details/160839762",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-02"
+    },
+    {
+      "title": "零成本AI打造爆款短剧：2026保姆级教程发布",
+      "desc": "2026年被称为AI漫剧工业化元年，AI模型升级至Seedance 2.0等影视级视频生成模型，零成本创作短剧成为可能，从IP授权到分镜生成全流程可用AI完成。",
+      "url": "https://blog.csdn.net/2301_78933554/article/details/161281880",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-01"
+    }
+  ],
+  "apps": [
+    {
+      "title": "月之暗面Kimi K3正式开源，2.8万亿参数登顶全球开源模型",
+      "desc": "7月27日月之暗面宣布Kimi K3模型开源，总参数2.8万亿采用MoE稀疏架构，原生支持视觉理解，上下文窗口100万Token，为首入3万亿级别的开源权重模型。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1526a6f325f83752",
+      "source": "企鹅号",
+      "pubDate": "2026-08-02"
+    },
+    {
+      "title": "DeepSeek-V4-Flash正式版API上线公测，智能指数达50分",
+      "desc": "7月31日DeepSeek宣布V4-Flash正式版上线公测，Artificial Analysis智能指数50分，仅比OpenAI GPT-5.6 Luna低1分，较4月预览版高出10分。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1526a6f325f83752",
+      "source": "企鹅号",
+      "pubDate": "2026-08-02"
+    },
+    {
+      "title": "字节跳动发布Seedance 2.5视频生成模型，单次生成30秒",
+      "desc": "7月31日字节跳动正式发布新一代视频生成模型Seedance 2.5，支持单次生成30秒视频，AI视频生成能力再升级。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1526a6f325f83752",
+      "source": "企鹅号",
+      "pubDate": "2026-08-02"
+    },
+    {
+      "title": "实测十余款App AI助手：各大应用塞进AI助手，能干活但仍有短板",
+      "desc": "半两财经实测淘宝、京东、滴滴、高德等十余款热门App的AI助手功能，发现电商AI试穿、蹲低价等简单任务可代劳，但复杂任务仍频繁暴露不足。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7676a7061b685952",
+      "source": "企鹅号",
+      "pubDate": "2026-08-03"
+    }
+  ]
+}
