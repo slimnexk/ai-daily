@@ -1,0 +1,352 @@
+{
+  "title": "DeepSeek V4-Flash登顶全球调用量榜首，Anthropic首次确认自研AI芯片",
+  "desc": "DeepSeek V4-Flash正式版上线公测，周调用量登顶全球第一，成本仅为闭源模型的数十分之一。Anthropic首次公开确认组建内部芯片团队为Claude设计定制芯片。华为诺亚开源MindMemOS记忆操作层，三星证实子公司研发人形机器人及世界模型。",
+  "featured": [
+    {
+      "title": "DeepSeek V4-Flash正式版上线公测，周调用量登顶全球第一",
+      "desc": "DeepSeek于7月31日上线V4-Flash正式版API公测，Agent能力大幅增强，智能指数50分逼近GPT-5.6 Luna。OpenRouter平台周调用量7.22万亿Token排名全球第一，成本仅为闭源模型的1/90。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8636a70a1e209452",
+      "label": "大模型",
+      "icon": "bolt",
+      "color": "blue",
+      "pubDate": "2026-08-03"
+    },
+    {
+      "title": "Anthropic首次公开确认组建芯片团队，为Claude设计自研AI芯片",
+      "desc": "8月5日，Anthropic首次公开确认正在组建内部硅芯片团队，为Claude模型设计定制芯片，采用硬件与模型协同设计策略，芯片工程师年薪32-48.5万美元，将采取多芯片策略。",
+      "url": "https://new.qq.com/rain/a/20260805A0EXT000",
+      "label": "Claude",
+      "icon": "cpu",
+      "color": "purple",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "华为诺亚方舟实验室开源MindMemOS，AI Agent记忆可迁移自演进",
+      "desc": "8月3日，华为诺亚方舟实验室正式开源MindMemOS——面向AI Agent的可迁移、自演进记忆操作层，解决每换一个Agent就像换新员工的痛点，记忆与Skill一起进化。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8816a72da2633552",
+      "label": "开源",
+      "icon": "brain",
+      "color": "green",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "三星电子人形机器人布局曝光：世界模型与执行器同步开发中",
+      "desc": "三星电子证实子公司Rainbow Robotics正独立研发人形机器人，同步开发世界模型，利用视频数据学习物理定律，使机器人能在行动前预演模拟结果。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7906a72eb0032252",
+      "label": "世界模型",
+      "icon": "robot",
+      "color": "orange",
+      "pubDate": "2026-08-05"
+    }
+  ],
+  "hotSearch": [
+    {
+      "title": "中传 取消艺考",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BC%A0+%E5%8F%96%E6%B6%88%E8%89%BA%E8%80%83",
+      "source": "微博",
+      "heat": "305万"
+    },
+    {
+      "title": "官方通报赛格商场坠亡事件",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6",
+      "source": "微博",
+      "heat": "288万"
+    },
+    {
+      "title": "火遍全球的Chinamaxxing是什么",
+      "url": "https://s.weibo.com/weibo?q=%E7%81%AB%E9%81%8D%E5%85%A8%E7%90%83%E7%9A%84Chinamaxxing%E6%98%AF%E4%BB%80%E4%B9%88",
+      "source": "微博",
+      "heat": "148万"
+    },
+    {
+      "title": "河南试行周五半天加周末加年假模式",
+      "url": "https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E8%AF%95%E8%A1%8C%E5%91%A8%E4%BA%94%E5%8D%8A%E5%A4%A9%E5%8A%A0%E5%91%A8%E6%9C%AB%E5%8A%A0%E5%B9%B4%E5%81%87%E6%A8%A1%E5%BC%8F",
+      "source": "微博",
+      "heat": "109万"
+    },
+    {
+      "title": "韩国宣布国家灾难状态",
+      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81",
+      "source": "微博",
+      "heat": "68万"
+    },
+    {
+      "title": "带张伟丽姐自律一天",
+      "url": "https://www.douyin.com/video/7670059588993772134",
+      "source": "抖音",
+      "heat": "6614万播放"
+    },
+    {
+      "title": "皮草和羽绒服干起来了，聚酯纤维拉偏架！",
+      "url": "https://www.douyin.com/video/7669383760266483828",
+      "source": "抖音",
+      "heat": "4135万播放"
+    },
+    {
+      "title": "揪心一幕！男子骑车时发生碰撞被卡，消防紧急救援",
+      "url": "https://www.douyin.com/video/7670118090302180662",
+      "source": "抖音",
+      "heat": "3893万播放"
+    },
+    {
+      "title": "整治网络娱乐团播乱象，中央网信办处置1840余个违规账号",
+      "url": "https://www.douyin.com/video/7669803846448729359",
+      "source": "抖音",
+      "heat": "3465万播放"
+    },
+    {
+      "title": "男生吃到好吃的必须录入系统",
+      "url": "https://www.douyin.com/video/7669761814834143359",
+      "source": "抖音",
+      "heat": "2569万播放"
+    }
+  ],
+  "llm": [
+    {
+      "title": "DeepSeek V4-Flash正式版上线公测，性能逼近GPT-5.6成本仅1/90",
+      "desc": "7月31日DeepSeek上线V4-Flash正式版API公测，Agent能力大幅升级，Terminal Bench 2.1达82.7分，智能指数50分逼近GPT-5.6 Luna的51分，调用成本约Claude Opus 4.8的1/90。",
+      "url": "https://new.qq.com/rain/a/20260731A06YRI00",
+      "source": "腾讯网",
+      "pubDate": "2026-07-31"
+    },
+    {
+      "title": "DeepSeek V4-Flash登顶OpenRouter全球周调用量榜首",
+      "desc": "OpenRouter数据显示7月27日-8月2日DeepSeek-V4-Flash以7.22万亿Token周调用量排名全球第一，中国大模型周调用量连续14周超过美国。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8636a70a1e209452",
+      "source": "企鹅号",
+      "pubDate": "2026-08-03"
+    },
+    {
+      "title": "GLM-5.2开源模型评测：7530亿参数混合专家架构，MIT协议",
+      "desc": "GLM-5.2是Z.ai发布的7530亿参数混合专家大模型，MIT协议授权，支持百万token上下文。开源模型在成本优势上持续凸显。",
+      "url": "https://www.jdon.com/tag/49140/59",
+      "source": "极道",
+      "pubDate": "2026-08-04"
+    },
+    {
+      "title": "2026年大模型API实测天梯榜：Claude Opus 4.6居首，DeepSeek v4紧随",
+      "desc": "实测评测显示Claude Opus 4.6综合得分92.1居首，GPT-5为91.4，DeepSeek v4预览版89.8分，编码能力93分与Claude基本持平，预览版即达此水平。",
+      "url": "https://blog.csdn.net/ofoxcoding/article/details/160503829",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-02"
+    }
+  ],
+  "github": [
+    {
+      "title": "华为诺亚开源MindMemOS：AI Agent可迁移自演进记忆操作层",
+      "desc": "8月3日华为诺亚方舟实验室开源MindMemOS，面向AI Agent的可迁移记忆操作层，直击Agent换会话即遗忘痛点，支持记忆在多个Agent间迁移和自演进。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8816a72da2633552",
+      "source": "企鹅号",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "GitHub趋势周报：Skills生态崛起，Karpathy-skills一周破10万星",
+      "desc": "Skills正取代MCP成为AI Agent开发新标准。Karpathy的karpathy-skills一周突破10万星，mattpocock/skills达6万+，llama.cpp保持180K+ Stars，hermes-agent达130K。",
+      "url": "https://blog.csdn.net/Aaronfaty/article/details/160816109",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-01"
+    },
+    {
+      "title": "字节跳动DeerFlow 2.0开源超级智能体框架，登顶GitHub Trending",
+      "desc": "字节跳动2026年2月开源DeerFlow 2.0，基于LangGraph 1.0重构，将子代理、记忆系统、Docker沙箱整合为统一SuperAgent Harness，上线即登顶GitHub Trending。",
+      "url": "https://blog.csdn.net/xyghehehehe/article/details/159473673",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-03"
+    }
+  ],
+  "trend": [
+    {
+      "name": "karpathy-skills",
+      "stars": "100K+",
+      "type": "AI Skills",
+      "desc": "Karpathy发起的AI Agent Skills项目，一周突破10万星，Skills正取代MCP成为Agent开发新标准",
+      "tags": [
+        "AI Agent",
+        "Skills",
+        "MCP替代"
+      ],
+      "url": "https://github.com/karpathy/karpathy-skills",
+      "iconType": "star",
+      "icon": "star",
+      "pubDate": "2026-08-01"
+    }
+  ],
+  "world": [
+    {
+      "title": "三星电子人形机器人布局曝光：世界模型与执行器同步开发",
+      "desc": "三星证实子公司Rainbow Robotics独立研发人形机器人，同步开发世界模型，利用视频数据学习物理定律使机器人能预演行动结果，并拟建立数据工厂。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7906a72eb0032252",
+      "source": "企鹅号",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "李飞飞亲自定义世界模型：渲染、模拟、规划三功能缺一不可",
+      "desc": "李飞飞团队首次对世界模型进行明确能力边界划分，将渲染、模拟、规划列为三大核心能力，直指行业将视频生成模型和LLM简单贴标签的概念滥用乱象。",
+      "url": "https://blog.csdn.net/aimanghe/article/details/161696653",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-03"
+    },
+    {
+      "title": "清华大学发布世界模型最全综述：从开山之作到Sora与Genie 3",
+      "desc": "清华大学FIB-Lab在ACM Computing Surveys 2026发表世界模型综述论文，系统梳理从David Ha开山之作到Sora、Genie 3的技术演进路线。",
+      "url": "https://blog.csdn.net/weixin_46200189/article/details/161335538",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-02"
+    }
+  ],
+  "design": [
+    {
+      "title": "2026年UI设计师工具推荐:从界面设计到AI原生代码生成全覆盖",
+      "desc": "2025-2026年UI设计工具领域三大趋势：AI生成能力全面渗透、设计到代码打通、云端协同深化。Figma AI已内置文生布局、批量生成设计变体等功能，Figma Sites支持设计稿直接发布为可访问页面。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/159798287",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-04"
+    },
+    {
+      "title": "AI原型设计工具推荐:2026年最值得使用的8款工具深度对比",
+      "desc": "对比Figma AI、Galileo AI、Visily、UXbot等8款AI原型设计工具。UXbot成为国内唯一支持一句指令生成完整多页面应用并同步导出Web端与原生移动端代码的工具，覆盖范围居同类产品之首。",
+      "url": "https://blog.csdn.net/weixin_41291988/article/details/159802506",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-03"
+    },
+    {
+      "title": "视觉AI从「会生成」走向「能创作」,RabbitVis探索AI应用新范式",
+      "desc": "兔展智能基于UniWorld-Design视觉AI大模型推出RabbitVis，推动视觉AI从单纯图片生成走向可编辑、可交付的完整创作流程，标志着AI设计工具从生成能力向创作工作流演进。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_8346a7322ac95352",
+      "source": "企鹅号",
+      "pubDate": "2026-08-05"
+    }
+  ],
+  "video": [
+    {
+      "title": "全球首个千亿级MoE视频模型开源!Sand.ai发布MAGI-2 Preview",
+      "desc": "北京AI视频生成创企Sand.ai发布并开源全球首个千亿级MoE视频生成模型MAGI-2 Preview。同期字节跳动推出Seedance 2.5将单次生成时长从15秒拉长至30秒，MiniMax发布首款开源多模态生成模型H3。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0556a7311cc26752",
+      "source": "企鹅号",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "从「会生成」到「会创作」,AI视频竞争加速进入下一阶段",
+      "desc": "美图旗下RoboNeo新版本上线专业级3D导演台，推出全链路AI短片生产工作流。创作者可在三维空间中搭建场景、调整人物站位和镜头语言，解决AI短片镜头不可控、修改成本高、一致性难保证等痛点。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_2076a707cb662152",
+      "source": "企鹅号",
+      "pubDate": "2026-08-03"
+    },
+    {
+      "title": "7款2026年AI视频制作工具功能、局限与适用场景横评",
+      "desc": "横评即梦AI(Seedance 2.0驱动)、剪映、必剪等7款AI视频制作工具。即梦AI支持文/图生视频、智能画布、数字人对口型等功能，适合5-15秒短视频封面和片头快速产出。",
+      "url": "https://blog.csdn.net/m0_73190071/article/details/162006346",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-03"
+    }
+  ],
+  "rag": [],
+  "devtools": [
+    {
+      "title": "微软MAI-Image-2.5来了:文生图进入三足鼎立时代",
+      "desc": "微软MAI-Image-2.5在Arena文生图排行榜冲上全球前三，文字渲染准确率达97%。一年前微软还需依靠OpenAI的DALL·E，如今已自研杀进第一梯队，文生图领域形成三足鼎立格局。",
+      "url": "https://cloud.tencent.com/developer/article/2684389",
+      "source": "腾讯云",
+      "pubDate": "2026-08-06"
+    },
+    {
+      "title": "2026年AI文生图工具技术选型:8款平台功能对比与部署方案盘点",
+      "desc": "按部署方式将AI文生图工具分三类：本地部署(Stable Diffusion、Flux)、海外在线(Midjourney、DALL-E 3)、国内平台(通义万相、海艺AI、腾讯混元生图、豆包)，全面对比功能与适用场景。",
+      "url": "https://blog.csdn.net/ai251224/article/details/159793047",
+      "source": "CSDN博客",
+      "pubDate": "2026-08-02"
+    },
+    {
+      "title": "欧盟AI新规8月2日生效!AI商品图须嵌水印,违规最高罚全球营收3%",
+      "desc": "欧盟《人工智能法案》第50条正式实施，AI生成商品图、视频、文案须嵌入数字水印或元数据标记，聊天机器人须明示AI身份。存量素材整改缓冲至12月2日，违规最高罚1500万欧元或全球营收3%。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_9086a72a54309852",
+      "source": "企鹅号",
+      "pubDate": "2026-08-05"
+    }
+  ],
+  "industry": [
+    {
+      "title": "AI2026：从风险投资到产业资本的转折年",
+      "desc": "AI产业从探索期进入成长期，产业资本替代风投主导，AI Agent商用普及，全球规模冲至2.7万亿美元，中国核心产业破2.2万亿元。",
+      "url": "https://blog.csdn.net/2501_92697833/article/details/157612086",
+      "source": "CSDN",
+      "pubDate": "2026-08-04"
+    },
+    {
+      "title": "2026年AI的变化与发展及传统行业红利捕捉路径",
+      "desc": "2026年AI告别概念化，深度渗透制造、农业、医疗、零售等传统行业，工信部推出AI赋能中小微企业专项行动，中小企业迎机遇。",
+      "url": "https://blog.csdn.net/m0_64363449/article/details/157970892",
+      "source": "CSDN",
+      "pubDate": "2026-08-01"
+    },
+    {
+      "title": "Meta上调2026年资本开支至1300亿美元，AI基础设施需求持续扩张",
+      "desc": "Meta上调2026年资本开支指引至1300亿美元，谷歌为Anthropic打造超1500亿美元芯片融资计划，美国拟禁中国数据中心关键组件。",
+      "url": "https://www.readaitime.com/",
+      "source": "读懂AI时代",
+      "pubDate": "2026-08-04"
+    },
+    {
+      "title": "首部L3/L4自动驾驶强制性国标GB 44721—2026正式发布",
+      "desc": "首部L3/L4自动驾驶强制性国标正式发布，宇树科技科创板IPO启动询价，AMD二季度营收创纪录115亿美元，数据中心收入同比增107%。",
+      "url": "http://www.iresearch.cn/",
+      "source": "艾瑞网",
+      "pubDate": "2026-08-05"
+    }
+  ],
+  "game": [
+    {
+      "title": "AI游戏前沿：2026年沉浸式AI叙事的设计密码",
+      "desc": "百度秒哒V3.0一句话生成小游戏，腾讯代号Craft自然语言生成2D/3D游戏原型，TapTap推出零门槛AI游戏创作，制作门槛全面崩塌。",
+      "url": "https://cloud.tencent.com/developer/article/2716964",
+      "source": "腾讯云",
+      "pubDate": "2026-08-06"
+    }
+  ],
+  "drama": [
+    {
+      "title": "触手AI：水母智能推出专业级AI漫短剧创作平台",
+      "desc": "无限自由画布+大白话指令生成素材，覆盖改剧本、画分镜、视频生成全流程，出品作品入围第79届戛纳电影节。",
+      "url": "https://www.yjpoo.com/site/1051.html",
+      "source": "映技派",
+      "pubDate": "2026-07-27"
+    },
+    {
+      "title": "AI漫剧市场爆发：2026年人人都能拥有自己的故事",
+      "desc": "AI生成技术、智能分镜、自动配音、一键渲染成熟，文字一键成漫、想法一键成片成为现实，创作壁垒被彻底打破。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6756a69b93125352",
+      "source": "企鹅号",
+      "pubDate": "2026-07-29"
+    }
+  ],
+  "apps": [
+    {
+      "title": "阿里发布Qwen3.8大模型：2.4万亿参数，1M上下文",
+      "desc": "阿里巴巴发布新一代基座大模型Qwen3.8-Max，总参数2.4万亿、激活95B、1M上下文、支持视觉理解，千问办公同步上桌。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1256a72f9f675352",
+      "source": "企鹅号",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "荣耀MagicOS 10八月版发布：七大AI功能升级",
+      "desc": "YOYO记忆支持长视频智能解析，三指下滑自动提取关键信息生成结构化摘要，覆盖抖音、B站、小红书等平台。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6626a72da2361552",
+      "source": "企鹅号",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "Liquid AI发布LFM2.5-2.6B端侧小模型，智能手机可本地运行",
+      "desc": "仅26亿参数的开源智能体模型，支持规划、调用、多步骤处理工作流，34T Token预训练，适合设备端本地部署。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7036a72d48975252",
+      "source": "企鹅号",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "2026中国数字产业生态大会：AI成为底层基座，产业价值加速重构",
+      "desc": "大模型效率提升推动全球重新审视技术路径，具身智能在制造业服务业探索应用，AI Agent从对话工具转向生产力主体。",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3436a73c3d995152",
+      "source": "企鹅号",
+      "pubDate": "2026-08-06"
+    }
+  ]
+}
