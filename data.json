@@ -1,6 +1,6 @@
 {
-  "title": "DeepSeek V4-Flash登顶全球调用量榜首，Anthropic首次确认自研AI芯片",
-  "desc": "DeepSeek V4-Flash正式版上线公测，周调用量登顶全球第一，成本仅为闭源模型的数十分之一。Anthropic首次公开确认组建内部芯片团队为Claude设计定制芯片。华为诺亚开源MindMemOS记忆操作层，三星证实子公司研发人形机器人及世界模型。",
+  "title": "DeepSeek宣布大幅上调API定价，Claude Opus 4.8发布主攻Agent能力",
+  "desc": "今日AI圈两大焦点：DeepSeek官宣即将大幅上调全部API服务定价，低价时代或迎拐点；Anthropic发布Claude Opus 4.8，编程与Agent能力再创新高。此外，李飞飞团队正式定义世界模型三大核心能力，魔芯科技发布MoWorld-3D世界模型基座。",
   "dates": {
     "2026-07-08": {
       "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
@@ -109,6 +109,10 @@
     "2026-08-06": {
       "title": "DeepSeek V4-Flash登顶全球调用量榜首，Anthropic首次确认自研AI芯片",
       "desc": "DeepSeek V4-Flash正式版上线公测，周调用量登顶全球第一，成本仅为闭源模型的数十分之一。Anthropic首次公开确认组建内部芯片团队为Claude设计定制芯片。华为诺亚开源MindMemOS记忆操作层，三星证实子公司研发人形机器人及世界模型。"
+    },
+    "2026-08-07": {
+      "title": "DeepSeek宣布大幅上调API定价，Claude Opus 4.8发布主攻Agent能力",
+      "desc": "今日AI圈两大焦点：DeepSeek官宣即将大幅上调全部API服务定价，低价时代或迎拐点；Anthropic发布Claude Opus 4.8，编程与Agent能力再创新高。此外，李飞飞团队正式定义世界模型三大核心能力，魔芯科技发布MoWorld-3D世界模型基座。"
     }
   }
 }
