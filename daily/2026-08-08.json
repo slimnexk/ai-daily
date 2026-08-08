@@ -1,0 +1,117 @@
+{
+  "title": "AI日报 2026-08-08",
+  "desc": "",
+  "featured": [],
+  "hotSearch": [
+    {
+      "title": "曝念相思停拍 男女主不和",
+      "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E5%BF%B5%E7%9B%B8%E6%80%9D%E5%81%9C%E6%8B%8D+%E7%94%B7%E5%A5%B3%E4%B8%BB%E4%B8%8D%E5%92%8C",
+      "source": "微博",
+      "heat": "299万"
+    },
+    {
+      "title": "泸溪河牙冠事件消费者已致歉",
+      "url": "https://s.weibo.com/weibo?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89",
+      "source": "微博",
+      "heat": "109万"
+    },
+    {
+      "title": "前7个月货物贸易进出口超30万亿元",
+      "url": "https://s.weibo.com/weibo?q=%E5%89%8D7%E4%B8%AA%E6%9C%88%E8%B4%A7%E7%89%A9%E8%B4%B8%E6%98%93%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%B6%8530%E4%B8%87%E4%BA%BF%E5%85%83",
+      "source": "微博",
+      "heat": "98万"
+    },
+    {
+      "title": "ai漫剧男主唯一塌房方式被找到了",
+      "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%94%AF%E4%B8%80%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86",
+      "source": "微博",
+      "heat": "98万"
+    },
+    {
+      "title": "现在的小学生已经是庞然大物了",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%BA%9E%E7%84%B6%E5%A4%A7%E7%89%A9%E4%BA%86",
+      "source": "微博",
+      "heat": "93万"
+    },
+    {
+      "title": "男子狂奔救下6岁男童",
+      "url": "https://www.douyin.com/video/7670770077456764179",
+      "source": "抖音",
+      "heat": "6057万播放"
+    },
+    {
+      "title": "从拉萨打出租车回重庆",
+      "url": "https://www.douyin.com/video/7670847048488588532",
+      "source": "抖音",
+      "heat": "5388万播放"
+    },
+    {
+      "title": "李亚鹏感恩信任不要放弃",
+      "url": "https://www.douyin.com/video/7670525396560374675",
+      "source": "抖音",
+      "heat": "4572万播放"
+    },
+    {
+      "title": "皮草和羽绒服干起来了",
+      "url": "https://www.douyin.com/video/7669383760266483828",
+      "source": "抖音",
+      "heat": "3706万播放"
+    },
+    {
+      "title": "央视起底午夜网络直播乱象",
+      "url": "https://www.douyin.com/video/7670561744833547535",
+      "source": "抖音",
+      "heat": "3511万播放"
+    }
+  ],
+  "llm": [],
+  "github": [],
+  "trend": [],
+  "world": [],
+  "design": [
+    {
+      "title": "Anthropic发布Claude Design：用对话做设计，Figma股价应声下跌",
+      "desc": "Anthropic推出Claude Design，由Opus 4.7驱动，支持自然语言生成可编辑设计稿、原型图、PPT和海报，内置品牌系统自动读取企业设计规范，消息一出Figma股价当天下跌。",
+      "url": "https://cloud.tencent.com/developer/article/2661214",
+      "source": "腾讯云",
+      "pubDate": "2026-08-08"
+    }
+  ],
+  "video": [
+    {
+      "title": "Seedance 2.0内测全解析：2026最新AI视频生成神器",
+      "desc": "字节跳动Seed团队打造的新一代多模态AI视频生成模型Seedance 2.0内测启动，支持文/图/视/音多模态输入，实现角色一致性、摄像机运动、音频驱动等高级功能，接入即梦AI等平台。",
+      "url": "https://blog.csdn.net/w708955424/article/details/158619362",
+      "source": "CSDN",
+      "pubDate": "2026-08-05"
+    },
+    {
+      "title": "可灵发布2.0版重磅升级，视频生成能力全面提升",
+      "desc": "可灵2.0定位\"大师版\"，在语义响应、动态质量、画面美学三大维度全面优化，采用更高效Transformer结构，精准理解复杂Prompt中的语义、动作、场景细节，生成效果大幅提升。",
+      "url": "https://cloud.tencent.com/developer/article/2652079",
+      "source": "腾讯云",
+      "pubDate": "2026-08-08"
+    },
+    {
+      "title": "Seedance 2.0提示词集合站：200+高质量视频生成提示词开源",
+      "desc": "开源社区整理了200+条高质量Seedance 2.0提示词，支持多语言，持续从X/Twitter顶级创作者处收录更新，为AI视频创作者提供丰富的提示词参考库。",
+      "url": "https://github.com/ruanyf/weekly/issues/9010",
+      "source": "GitHub",
+      "pubDate": "2026-08-07"
+    }
+  ],
+  "rag": [],
+  "devtools": [
+    {
+      "title": "2026主流AI图像生成模型实力排行榜",
+      "desc": "2026年AI图像生成行业进入成熟分层竞争，GPT Image 2稳居综合第一、Nano Banana系列第二、Midjourney第三，三款模型构成全球AI绘图核心第一梯队。",
+      "url": "https://blog.csdn.net/weixin_39682269/article/details/161806452",
+      "source": "CSDN",
+      "pubDate": "2026-08-05"
+    }
+  ],
+  "industry": [],
+  "game": [],
+  "drama": [],
+  "apps": []
+}

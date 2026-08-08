@@ -1,11 +1,7 @@
 {
-  "title": "DeepSeek宣布大幅上调API定价，Claude Opus 4.8发布主攻Agent能力",
-  "desc": "今日AI圈两大焦点：DeepSeek官宣即将大幅上调全部API服务定价，低价时代或迎拐点；Anthropic发布Claude Opus 4.8，编程与Agent能力再创新高。此外，李飞飞团队正式定义世界模型三大核心能力，魔芯科技发布MoWorld-3D世界模型基座。",
+  "title": "AI日报 2026-08-08",
+  "desc": "",
   "dates": {
-    "2026-07-08": {
-      "title": "国产万亿参数模型争相开源，Claude Fable 5全球解禁",
-      "desc": "美团开源LongCat-2.0万亿参数模型、腾讯混元Hy3正式发布、蚂蚁灵波发布LingBot-Depth 2.0，国产大模型集体发力。Anthropic两款旗舰模型Fable 5和Mythos 5出口管制解除恢复全球访问。高盛称世界模型将成为AI基建新引擎。"
-    },
     "2026-07-09": {
       "title": "Gemini 3.5 Pro定档7月17日，Fable 5重上架遭降智争议",
       "desc": "谷歌Gemini 3.5 Pro将于7月17日发布，支持200万Token上下文窗口和深度思考推理模式。Claude Fable 5重新上架但用户反馈频繁降智回退至Opus 4.8。Anthropic推出Claude Cowork移动端和网页端AI协作平台。OpenClaw以25.2万星标登顶GitHub历史第一。"
@@ -113,6 +109,10 @@
     "2026-08-07": {
       "title": "DeepSeek宣布大幅上调API定价，Claude Opus 4.8发布主攻Agent能力",
       "desc": "今日AI圈两大焦点：DeepSeek官宣即将大幅上调全部API服务定价，低价时代或迎拐点；Anthropic发布Claude Opus 4.8，编程与Agent能力再创新高。此外，李飞飞团队正式定义世界模型三大核心能力，魔芯科技发布MoWorld-3D世界模型基座。"
+    },
+    "2026-08-08": {
+      "title": "AI日报 2026-08-08",
+      "desc": ""
     }
   }
 }
